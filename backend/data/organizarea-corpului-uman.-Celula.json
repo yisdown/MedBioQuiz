@@ -1,0 +1,1321 @@
+[
+  {
+    "id": 1,
+    "question": "Despre tegument se pot afirma următoarele:",
+    "options": [
+      "este format din piele, păr, unghi, glande endocrine",
+      "acoperă și protejează corpul",
+      "prezintă cartilaje, păr, unghi",
+      "conține receptor",
+      "prezintă glande sudoripare"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 2,
+    "question": "Principalele tipuri de țesuturi sunt:",
+    "options": [
+      "țesutul conjunctiv",
+      "țesutul epitelial",
+      "țesutul nervos",
+      "țesutul cartilaginos",
+      "sângele"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 3,
+    "question": "În structura stomacului se întâlnesc următoarele tipuri de țesuturi:",
+    "options": [
+      "epitelial",
+      "muscular striat",
+      "nervos",
+      "conjunctiv",
+      "epidermal"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 4,
+    "question": "Integrarea activității întregului organism este realizată de:",
+    "options": [
+      "sistemul osos",
+      "sistemul circulator",
+      "sistemul imunitar",
+      "sistemul nervos",
+      "sistemul digestiv"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 5,
+    "question": "Care dintre enunțurile următoare sunt corecte?",
+    "options": [
+      "sistemul digestiv este alcătuit din mai multe organe cu funcții complementare",
+      "un organ este compus din două sau trei tipuri diferite de țesuturi",
+      "în cadrul catabolismului se consumă de obicei energie",
+      "conductibilitatea este caracteristică doar celulelor nervoase",
+      "în procesele de creștere a organismului este implicată reproducerea asexuată"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 6,
+    "question": "Selectați afirmațiile corecte referitoare la celulă:",
+    "options": [
+      "celula procariotă prezintă nucleu și organite",
+      "citoplasma celulei eucariote are consistență de gel",
+      "componentele principale ale celulei sunt membrana celulară și nucleul",
+      "toate celulele corpului uman conțin nucleu",
+      "celulele eucariote se divid mitotic"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 7,
+    "question": "Despre celula musculară se pot afirma următoarele:",
+    "options": [
+      "este o celulă procariotă",
+      "la nivelul inimii, prezintă mai mulți nuclei poziționați central",
+      "se contractă sub acțiunea unui stimul",
+      "prezintă metabolism propriu",
+      "cea striată scheletică, prezintă miofibrile alcătuite din sarcomere"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 8,
+    "question": "Dezechilibrul mediului intern poate să apară în următoarele condiții:",
+    "options": [
+      "aport optim de substanțe organice",
+      "boală",
+      "căldură excesivă",
+      "aport scăzut de oxigen",
+      "durere"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 9,
+    "question": "Membrele superioare sunt în poziție anatomică dacă sunt:",
+    "options": [
+      "în abducție",
+      "în adducție",
+      "pe lângă corp",
+      "cu policele spre exterior",
+      "cu palmele în pronaiție"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 10,
+    "question": "Care dintre următoarele structuri sunt situate în partea posterioară a corpului aflat în poziție anatomică?",
+    "options": [
+      "sternul",
+      "scapula",
+      "coatele",
+      "fața dorsală a mâinii",
+      "patela (rotula)"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 11,
+    "question": "Inima se găsește:",
+    "options": [
+      "în raport anterior cu sternul",
+      "în raport inferior cu diafragmul",
+      "superior față de diafragm",
+      "medial față de plămâni",
+      "posterior de coloana vertebrală, într-un plan coronal"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 12,
+    "question": "Plămânii sunt:",
+    "options": [
+      "situații profund față de coaste",
+      "în raport medial cu inima",
+      "localizații superior față de diafragm",
+      "înveliți de foia parietală a pleurei",
+      "plasați în cavitatea pleurală a mediastinului"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 13,
+    "question": "Selectați asocierile corecte:",
+    "options": [
+      "sistem digestiv - transport de substanțe în organism",
+      "sistem respirator - îndepărtarea unor produși de degradare rezultați din metabolism",
+      "catabolism - consum de energie",
+      "reproducere sexuală - diviziunea unei celule",
+      "conductibilitate - propagarea unei unde de depolarizare de-a lungul unui neuron"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 14,
+    "question": "Despre funcțiile organismului sunt adevărate următoarele afirmații:",
+    "options": [
+      "mișcarea, rezultată din contracția celulelor musculare, poate fi voluntară sau involuntară",
+      "excreția reprezintă procesul de eliminare a moleculelor absorbite digestiv",
+      "reproducere sexuală asigură dezvoltarea unui nou individ",
+      "sistemul urinar cuprinde rinichii, vezica urinară și căile urinare asociate",
+      "excitabilitatea reprezintă capacitatea organismului de a răspunde la stimuli interni sau externi"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 15,
+    "question": "Următoarele afirmații sunt adevărate:",
+    "options": [
+      "lipsa de oxigen afectează homeostazia mediului intern",
+      "receptorii detectează orice deviere de la valoarea normală a unui parametru al mediului intern al organismului",
+      "insulina se eliberează din pancreas în caz de hipoglicemie",
+      "planul parasagital împarte corpul în două părți simetrice, dreaptă și stângă",
+      "în poziție anatomică, policele este orientat medial"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 16,
+    "question": "Despre principalele tipuri de țesuturi sunt adevărate următoarele enunțuri:",
+    "options": [
+      "cel epitelial intră în alcătuirea unui organ abdominal situat în cavitatea peritoneală",
+      "cel conjunctiv intră în alcătuirea scheletului",
+      "cel muscular este de un singur tip",
+      "cel nervos intră în alcătuirea unor organe de simț",
+      "cel endocrin intră și în alcătuirea hipofizei"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 17,
+    "question": "Despre sistemele de organe se poate afirma că:",
+    "options": [
+      "sistemul circulator este format doar din inimă și vase sanguine",
+      "sistemul imunitar cuprinde limfocite, cu rol în apărarea organismului",
+      "sistemul urinar se găsește în pelvis",
+      "sistemul digestiv absoarbe toți componenții din hrana ingerată",
+      "cuprind organe cu aceeași funcție"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 18,
+    "question": "Despre cavitatea abdominală sunt adevărate următoarele afirmații:",
+    "options": [
+      "este delimitată superior de diafragmă",
+      "în regiunea ombilicală se găsesc anesteținulului subțire",
+      "în hipocondrul stâng se găsește ficatul",
+      "conține toate segmentele intestinului subțire și gros",
+      "cuprinde și organe retroperitoneale"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 19,
+    "question": "Membrele superioare:",
+    "options": [
+      "sunt pereche și controlate",
+      "prezintă fermură, localizat proximal față de tăbie",
+      "prezintă carpienele situate proximal față de falange",
+      "prezintă ulna situată medial față de radius",
+      "cuprind sternul, situat anterior față de inimă"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 20,
+    "question": "Despre cavitățile principale ale corpului sunt adevărate următoarele afirmații:",
+    "options": [
+      "cavitatea dorsală a corpului conține toate componentele sistemului nervos central",
+      "cavitatea anterioară a corpului este divizată de un mușchi neted, diafragma",
+      "în subdiviziunea abdomino-pelviană, median, se găsesc regiunile: epigastrică, ombilicală și hipogastrică",
+      "subdiviziunea pelviană include și regiunile iliacă stângă, iliaca dreaptă și epigastrică",
+      "subdiviziunea abdominală cuprinde 2 flancuri pereche"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 21,
+    "question": "Despre planurile corpului sunt adevărate următoarele afirmații:",
+    "options": [
+      "planul coronal împarte corpul într-o regiune superioară și una inferioară",
+      "planul parasagital este paralel cu planul mediosagital",
+      "planul orizontal împarte corpul în 2 părți: cranială și caudală",
+      "un plan sagital este vertical și împarte întotdeauna corpul în 2 părți egale, dreaptă și stângă",
+      "cele 3 planuri importante ale corpului, sagital, frontal și coronal sunt perpendiculare unul pe celălalt"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 22,
+    "question": "Despre homeostazie sunt adevărate următoarele afirmații:",
+    "options": [
+      "pentru menținerea ei, în hiperglicemie crește secreția de glucagon",
+      "fiziologic, se menține și în cazul variațiilor din mediul extern al organismului",
+      "este menținută prin sisteme de autoreglare, realizate și cu ajutorul hormonilor",
+      "pentru menținerea ei, crește secreția de insulină în caz de hipoglicemie",
+      "este menținută prin feedback negativ, ce presupune creșterea permanentă a unui parametru al mediului intern al organismului"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 23,
+    "question": "Pentru organismul uman, alegeți enunțurile corecte privind planurile și raporturile anatomice:",
+    "options": [
+      "planul medio-sagital divide corpul în două jumătăți egale, stângă și dreaptă",
+      "femurul se articulează proximal cu tibiș cu rotula",
+      "planul sagital împarte corpul într-o parte anterioară și una posterioară",
+      "regiunea lombară a coloanei vertebrale este situată caudal față de regiunea toracală",
+      "planul orizontal împarte corpul într-o parte superioară și una inferioară"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 24,
+    "question": "Care dintre afirmațiile cu privire la celulă nu sunt corecte?",
+    "options": [
+      "reprezintă un nivel de organizare funcțională",
+      "reprezintă unitatea fundamentală a organismelor vii",
+      "reprezintă un nivel de organizare inferior moleculei",
+      "reprezintă cel mai simplu nivel de organizare structurală",
+      "reprezintă nivelul final de organizare structurală"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 25,
+    "question": "Selectați enunțurile incorecte privind țesutul:",
+    "options": [
+      "reprezintă un grup de celule care îndeplinesc aceeași funcție",
+      "nu este inferior organului",
+      "sunt patru tipuri principale în organism",
+      "fiecare țesut îndeplinește anumite roluri în organism",
+      "reprezintă un grup de celule cu structură diferită"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 26,
+    "question": "Selectați afirmațiile incorecte:",
+    "options": [
+      "coastele sunt situate în profunzime față de plămâni",
+      "planul parasagital divide corpul în două părți inegale (anterioară și posterioară)",
+      "mediastinul conține inima, timpul, esofagul, plămânii, traheea, bronhiile, precum și vase sanguine și limfatiere",
+      "lichidul seros dintre membranele seroase permite organelor să alunece cu ușurință pe pereții cavităților corpului",
+      "termenul medial se referă la o direcție apropiată de linia medială a corpului"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 27,
+    "question": "Care dintre afirmațiile cu privire la reproducere sunt corecte?",
+    "options": [
+      "poate fi asexuată atunci când se obțin două celule diferite, necesare creșterii sau reparației țesuturilor",
+      "este sexuată atunci când implică producerea de spermatozoizi și ovule și contopirea acestora",
+      "poate fi asexuată și sexuată",
+      "este o caracteristică importantă a homeostaziei",
+      "reprezintă capacitatea organismului de a procura"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 28,
+    "question": "Selectați afirmațiile corecte privind valoarea de referință a unui mecanism de feed-back:",
+    "options": [
+      "reprezintă valoarea normală a unui factor variabil",
+      "în caz de modificare, devierea ei este detectată de un effector",
+      "reprezintă punctul față de care se îndepărtează sistemul prin feed-back negativ",
+      "este o expresie a menținerii relativ constante a parametrilor mediului intern",
+      "poate fi menținută și prin intervenția sistemului endocrin"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 29,
+    "question": "În poziție anatomică, nasul este poziționat:",
+    "options": [
+      "cranial și anterior",
+      "cefalic și dorsal",
+      "caudal și anterior",
+      "cefalic și anterior/ ventral",
+      "lateral față de ochi"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 30,
+    "question": "În poziție anatomică, vezica biliară și splina sunt poziționate:",
+    "options": [
+      "ipsilateral",
+      "contralateral",
+      "în hipocondrul drept",
+      "în epigastru",
+      "contralateral, în flancuri"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 31,
+    "question": "În poziție anatomică, următoarele afirmații privind raporturile anatomice sunt corecte:",
+    "options": [
+      "antebrațul este situat distal față de braț",
+      "colonul ascendent și cel descendent sunt situate ipsilateral",
+      "trunchiul pulmonar este situat caudal de arcul aortic",
+      "palma stângă este în pronație, ipsilateral cu splina",
+      "antebrațul este situat proximal de articulația cotului"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 32,
+    "question": "Pentru organismul uman, alegeți afirmațiile corecte privind planurile anatomice:",
+    "options": [
+      "planul mediosagital trece prin coloana vertebrală, stern și inimă",
+      "în plan frontal, ficatul este inferior față de plămânul drept și diafragmă",
+      "un plan parasagital divide corpul în două jumătăți inegale, anterioară și posterioară",
+      "planul frontal împarte corpul în 2 jumătăți egale",
+      "planul orizontal este perpendicular pe planul sagital"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 33,
+    "question": "Într-o secțiune prin planul mediosagital, se disting:",
+    "options": [
+      "două cavități, cea posterioară și abdomino-pelviană",
+      "o singură cavitate, cea toracică, situată superior de diafragmă",
+      "două cavități principale, anterioară și posterioară",
+      "trei cavități, posterioară, toracică și abdomino-pelviană",
+      "patru cavități: posterioară, anterioară, ventrală și toracică"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 34,
+    "question": "Cavitatea toracică cuprinde:",
+    "options": [
+      "două cavități pleurale, dreaptă și stângă, și o cavitate peritoneală",
+      "cavitatea pericardică, medial de cavitățile pleurale",
+      "cavitatea craniană și canalul rhidian",
+      "epigastru și hipogastru",
+      "două cavități pleurale și o cavitate pericardică"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 35,
+    "question": "Față de regiunea ombilicală:",
+    "options": [
+      "hipocondrul drept este situat cranial, lateral, dreapta",
+      "hipogastrul se găsește caudal",
+      "epigastrul este anterior",
+      "regiunile inghinale (iliace) sunt dispuse caudal și lateral",
+      "flancul stâng este situat medial"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 36,
+    "question": "Cavitatea abdomino-pelviană:",
+    "options": [
+      "aparține cavității ventrale",
+      "conține organele interne abdominale și pelviene",
+      "are două membrane seroase, pleura și pericardul",
+      "este separată de cavitatea posterioară prin diafragmă",
+      "conține stomacul și splina"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 37,
+    "question": "Selectați afirmațiile corecte privind membranele seroase:",
+    "options": [
+      "sunt reprezentate de pleure, pericard și peritoneu",
+      "sunt formate din două foje între care se găsește o cantitate mare de lichid seros",
+      "acoperă total sau parțial organe din regiunea toracică și abdomino-pelviană",
+      "una dintre ele, peritoneul, acoperă organele retroperitoneale doar pe fața lor anterioară",
+      "foja parietală acoperă diferite organe interne"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 38,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "cavitatea pericardică se află între inimă și mediastin",
+      "foja viscerală a pleurei tapetaeză cavitatea în care se află inima",
+      "pericardul visceral se numește epicard",
+      "lichidul seros secretat de membranele seroase este produs de celulele sanguine din aceste membrane",
+      "lichidul seros permite organelor să alunece cu ușurință între ele, fără frecare"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 39,
+    "question": "Dintre subdiviziunile anatomiei nu face parte:",
+    "options": [
+      "anatomia dezvoltării",
+      "anatomia macroscopică",
+      "histologia",
+      "anatomia microscopică",
+      "citologia"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 40,
+    "question": "Selectați afirmațiile corecte privind celula:",
+    "options": [
+      "este cel mai simplu nivel de organizare",
+      "este nivelul imediat superior atomului",
+      "conține și structuri subcelulare, precum ribozomii sau lizozomii",
+      "este unitatea fundamentală a organismelor vii",
+      "cele cu structură și funcție similare formează țesuturi"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 41,
+    "question": "Față de flancul drept:",
+    "options": [
+      "flancul stâng este controlator",
+      "hipocondrul drept este caudal",
+      "regiunea ombilicală este plasată lateral",
+      "regiunea inghinală stângă (iliacă) este plasată cranial",
+      "hipogastrul este plasat caudal și medial"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 42,
+    "question": "Care dintre următoarele afirmații referitoare la homeostazie sunt adevărate?",
+    "options": [
+      "reprezintă procesul de oprire a unei hemoragii",
+      "reprezintă capacitatea organismului de a menține în limite normale parametrii mediului înconjurător",
+      "reprezintă capacitatea organismului de a menține în limite normale parametrii mediului intern",
+      "constă în distrugerea hematiilor sub acțiunea unei soluții hipotone",
+      "poate fi perturbată în condiții de hipoxie"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 43,
+    "question": "Următori termeni direcționali sunt corecti, cu excepția:",
+    "options": [
+      "medial - de aceeași parte a corpului",
+      "lateral - de partea opusă a corpului",
+      "distal - la distanță față de locul de atașare a unui membru de trunchi",
+      "superficial - spre suprafața corpului",
+      "caudal - spre partea superioară a unei structuri"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 44,
+    "question": "Planul mediosagital:",
+    "options": [
+      "divide corpul în două jumătăți egale: superioară și inferioară",
+      "este un plan vertical, similar planului coronal",
+      "permite realizarea unor secțiuni transversale/paralele cu planul",
+      "împarte corpul în două jumătăți egale: stângă și dreaptă",
+      "separă corpul în două părți inegale"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 45,
+    "question": "Care dintre afirmațiile următoare referitoare la cavitățile organismului sunt corecte:",
+    "options": [
+      "cavitatea peritoneală conține organele interne toracice, abdominale și pelviene",
+      "cavitatea toracică prezintă o regiune centrală, cavitatea pleurală, și două cavități laterale, pericardice",
+      "cavitatea posterioară a corpului este delimitată de pereți osași și adăpostește sistemul nervos central",
+      "la nivelul cavității rahidiene se găsește măduva spinării înconjurată de meningele spinali",
+      "mediastinul este situat în centrul cavității toracice"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 46,
+    "question": "Cavitatea abdomino-pelviană este subîmpărțită în următoarele regiuni:",
+    "options": [
+      "epigastrică - situată în centrul abdomenului",
+      "ombilicală - situată inferior de regiunea epigastrică",
+      "hipogastrică - situată superior față de regiunea ombilicală",
+      "inghinale - dispuse lateral față de regiunea hipogastrică",
+      "flancurile - situate inferior față de hipocondrul și superior față de regiunea iliacă"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 47,
+    "question": "La nivelul mediastinului întâlnim:",
+    "options": [
+      "cavitatea pericardică",
+      "cavitățile pleurale",
+      "trachea",
+      "timusul",
+      "esofagul"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 48,
+    "question": "Următoarele afirmații privind seroasele sunt corecte:",
+    "options": [
+      "au două foițe: parietală și viscerală",
+      "foița viscerală tapetează la interior pereții unei cavități",
+      "foița parietală înveliște un viscer",
+      "sunt reprezentate de pleură, endocard și peritoneu",
+      "conțin, în spațiul dintre cele două foițe, o cantitate redusă de lichid seros cu rol de lubrifiere"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 49,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "unitatea fundamentală a organismelor vii este țesutul",
+      "în cazul poziției anatomice, policele este orientat spre exterior, iar palmele sunt orientate spre posterior",
+      "trachea este situată anterior față de esofag",
+      "cavitatea pelviană conține și vezica urinară",
+      "lichidul seros permite glisarea celor două foițe ale membranelor seroase fără frecare"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 50,
+    "question": "Care dintre următoarele afirmaţii privind funcţia de reproducere sunt adevărate?",
+    "options": [
+      "este una dintre funcţiile importante",
+      "se realizează exclusiv pe cale sexuală",
+      "pe cale sexuală, se contopesc un spermatozoid cu un ovul pentru a forma un ovul fecundat",
+      "poate fi sexuală sau asexuală",
+      "reprezintă capacitatea organismului de a procrea"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 51,
+    "question": "Despre planurile corpului uman sunt adevărate afirmaţiile următoare:",
+    "options": [
+      "planul sagital este vertical şi împarte corpul într-o parte dreaptă şi una stângă",
+      "planul sagital poartă numele şi de plan coronal",
+      "planul frontal împarte corpul într-o parte ventrală şi una dorsală",
+      "planul mediosagital divide corpul în două părţi inegale",
+      "planul orizontal împarte corpul într-o parte superioară şi una inferioară"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 52,
+    "question": "Următoarele afirmaţii referitoare la cavitatea toracică sunt adevărate:",
+    "options": [
+      "este delimitată de coaste şi muşchi intercostali",
+      "face parte din cavitatea posterioară a corpului",
+      "conţine o cavitate pleurală stângă şi una dreaptă",
+      "adăposteşte plămânii, localizaţi în mediastin",
+      "conţine cavitatea pericardică, situată medial faţă de cavităţile pleurale"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 53,
+    "question": "Afirmaţiile corecte despre cavitatea abdomino-pelviană sunt:",
+    "options": [
+      "este mai des întâlnită sub denumirea de cavitate pelviană",
+      "este separată de cavitatea toracică printr-un muşchi numit diafragmă",
+      "subdiviziunea abdominală conţine două glande digestive mari",
+      "subdiviziunea pelviană conţine vezica urinară şi intestinele",
+      "subdiviziunea abdominală conţine organe precum stomacul, splina şi ficatul"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 54,
+    "question": "Selectaţi afirmaţiile corecte despre tegument:",
+    "options": [
+      "este format din piele, păr, unghi, glande endocrine",
+      "acoperă şi protejează corpul",
+      "este format din cartilaje, păr, unghi",
+      "realizează protecţia corpului şi integrează activităţile organismului",
+      "este format din piele, păr, unghi, glande sudoripare"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 55,
+    "question": "În organizarea structurală a corpului uman sunt cuprinse:",
+    "options": [
+      "moleculele, la cel mai simplu nivel",
+      "atomi de O, C, N şi Na",
+      "moleculele ca apă, clorură de sodiu",
+      "organe compuse dintr-un singur ţesut",
+      "sisteme de organe cu aceeaşi funcţie"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 56,
+    "question": "Selectaţi afirmaţiile corecte:",
+    "options": [
+      "homeostazia menţine parametrii mediului extern în limite normale",
+      "excreţia reprezintă procesul de eliminare a produşilor de sinteză",
+      "metabolismul prezintă două subcategorii: catabolismul şi anabolismul",
+      "mişcarea voluntară este rezultatul contracţiei muşchilor scheletici",
+      "conductibilitatea este proprietatea unor celule de a propaga potenţiale de acţiune sub formă de undă de depolarizare"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 57,
+    "question": "Sistemele de autoreglare ale organismului cuprind:",
+    "options": [
+      "feed-back-ul pozitiv, care determină devierea de la valoarea de referinţă până la obţinerea răspunsului dorit",
+      "valoarea de referinţă, care reprezintă valoarea normală a unui factor variabil",
+      "feed-back-ul negativ, care intervine în mod excepţional pentru menţinerea homeostaziei",
+      "receptorul, care detectează devierile de la valoarea de referință",
+      "efectorii, care pot readuce organismul la starea de echilibru"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 58,
+    "question": "Alegeți afirmațiile corecte cu privire la diviziunile suplimentare ale cavității abdomino-pelviene:",
+    "options": [
+      "regiunea ombilicală se află în centrul abdomenului",
+      "regiunea hipogastrică se află superior față de regiunea ombilicală",
+      "regiunea epigastrică este situată între hipocondrul drept și stâng",
+      "lateral de regiunea ombilicală se află flancurile stâng și drept",
+      "lateral de regiunea hipogastrică se află regiunile iliace"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 59,
+    "question": "Despre sisteme se pot afirma următoarele:",
+    "options": [
+      "endocrin - coordonează și integrează mecanic activitățile organismului",
+      "nervos - integrează informațiile primite prin stimuli și coordonează funcțiile organismului",
+      "circulator - transportă celule și substanțe în tot corpul",
+      "imunitar - interacționează cu agenți străini",
+      "respirator - colectează dioxidul de carbon și elimină oxigenul"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 60,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "esofagul este situat anterior de trahe",
+      "colonul ascendent și colonul descendent sunt situate ipsilateral",
+      "tibia se află distal față de femur",
+      "humerusul este localizat proximal de ulnă",
+      "inima este situată posterior față de stern"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 61,
+    "question": "Membrana plasmatică:",
+    "options": [
+      "are în structura sa glicolipide și glicoproteine, de obicei pe fața internă",
+      "conține colesterol cu rol în stabilizarea lipidelor și creșterea fluidității membranare",
+      "prezintă fosfolipide ce conțin acizi grași în porțiunea hidrofobă",
+      "poate fuziona cu veziculele aparatului Golgi datorită colesterolului",
+      "permite ieșirea apei din celulă dacă aceasta este situată într-un mediu hipoton"
+    ],
+    "answers": [2]
+  },
+  {
+    "id": 62,
+    "question": "Următoarele afirmații cu privire la celulă sunt adevărate:",
+    "options": [
+      "glicolipidele și glicoproteinele atașate la interiorul membranei pot juca rol de receptori pentru unii hormoni",
+      "proteinele membranare periferice pot acționa ca enzime",
+      "proteinele transmembranare permit trecerea anumitor molecule dintr-o zonă cu concentrație mare într-una cu concentrație mică prin difuziune facilitată",
+      "la nivelul ribozomilor acizii grași sunt combinați chimic pentru a forma proteine",
+      "lizozomii conțin enzime pentru digestia extracelulară"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 63,
+    "question": "Care dintre afirmațiile următoare sunt adevărate?",
+    "options": [
+      "corpusculii cu rol în sinteza proteinelor celulare sunt formați din materiale conținute în nucleol",
+      "la nivelul membranei neuronale, ionii de sodiu sunt transportați prin difuziune facilitată în afara celulei",
+      "proteinele periferice membranare pot avea rol în remodelarea celulară",
+      "prin fagocitoză, celula preia în interiorul ei substanțe chimice dizolvate în apă",
+      "membrana plasmatică este alcătuită din două straturi duble de fosfolipide"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 64,
+    "question": "Care dintre afirmațiile următoare sunt incorecte?",
+    "options": [
+      "nucleolul este un corpuscul dens delimitat de membrană subțire, învelișul nuclear, și alcătuit din proteine și ARN",
+      "sinteza neurotransmitătorilor de către celulele nervoase se face prin exocitoză",
+      "reabsorbția apei la nivelul tubilor renali se face printr-un mecanism pasiv",
+      "la nivelul membranei celulare capătul polarizat al fosfolipidelor este hidrofil",
+      "globulele albe îndepărtează microbii din circulația sanguină prin pinocitoză"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 65,
+    "question": "Care dintre afirmațiile următoare nu sunt corecte?",
+    "options": [
+      "limfocitele au un nucleu lobat",
+      "mitocondria are rol în respirația celulară",
+      "centrozoamul este o structură membranoasă compusă din doi centrioli în formă de tijă",
+      "prin difuziune facilitată glucoza intră în hematii",
+      "secreția de mucus se realizează prin difuziune"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 66,
+    "question": "Despre membrana plasmatică sunt corecte următoarele afirmații:",
+    "options": [
+      "este cunoscută și sub numele de membrană celulară",
+      "în principal, este alcătuită din proteine și glucide",
+      "lipidele sale, majoritar fosfolipide, formează o structură bistratificată",
+      "prin dispoziția proteinelor, prezintă o structură de tip mozaic fluid",
+      "glucidele de la nivelul acesteia par să plutească printre lipide"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 67,
+    "question": "Lizozomii:",
+    "options": [
+      "conțin vezicule cu neurotransmitătorii",
+      "degradează particule nutritive",
+      "fac parte dintre structurile citoplasmatice",
+      "conțin enzime pentru digestia intranucleară",
+      "sunt derivați din sacii aparatului Golgi"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 68,
+    "question": "Următoarele afirmații sunt incorecte:",
+    "options": [
+      "membrana celulară este permeabilă pentru toate tipurile de molecule și ioni",
+      "citoscheletul conține rețele de fibre și filamente glucidice",
+      "mitocondria este generatoare de energie",
+      "la nivelul membranei celulare capătul polarizat al fosfolipidelor este hidrofil"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 69,
+    "question": "Fosfolipidele:",
+    "options": [
+      "sunt componente ale membranei plasmatice",
+      "au un capăt polarizat, ce conține fosfor, și unul nepolarizat, alcătuit din lanțuri de acizi grași",
+      "prin capătul polarizat respinge apa",
+      "oferă membranei plasmatice o structură de tip sandwich",
+      "permit membranei plasmatice să-și mărească suprafața atunci când veziculele aparatului Golgi fuzionează cu ea"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 70,
+    "question": "Selectați afirmațiile corecte privind proteinele transmembraneare:",
+    "options": [
+      "participă la remodelarea celulei",
+      "servesc drept canale pentru transportul membranar",
+      "sunt transportori ai moleculelor organice",
+      "participă la difuziunea facilitată și la transportul activ al moleculelor și ionilor",
+      "au exclusiv rol de enzime"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 71,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "difuziunea reprezintă mișcarea moleculelor dintr-o zonă cu o concentrație mare într-una cu concentrație mică",
+      "moleculele de oxigen trec prin osmoză din alveolele pulmonare în globulele roșii",
+      "osmoza reprezintă difuziunea moleculelor de apă printr-o membrană permeabilă",
+      "soluția cu o concentrație mare de solvit se numește hipertonă",
+      "difuziunea facilitată depinde de numărul proteinelor transportoare"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 72,
+    "question": "Despre nucleul celulei se pot afirma următoarele:",
+    "options": [
+      "se găsește în toate celulele sanguine",
+      "este compus în principal din histone și acid dezoxiribonucleic",
+      "histone împreună cu ADN-ul formează nucleoli",
+      "are ADN organizat în cromozomi",
+      "la nivelul cromozomilor, genele reprezintă segmentele funcționale"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 73,
+    "question": "Reticulul endoplasmatic:",
+    "options": [
+      "reprezintă un ansamblu de membrane ce se extind intracitoplasmatic",
+      "este alcătuit din mai mulți saci turiții",
+      "poate prezenta atașat structuri ce sintetizează proteine",
+      "depozitează calciu la nivelul reticulului endoplasmatic neted",
+      "sintetizează lipide la nivelul reticulului endoplasmatic rugos"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 74,
+    "question": "Citoscheletul:",
+    "options": [
+      "este o rețea de fibre, filamente și molecule neconectate între ele",
+      "servește drept structură de suport a celulei",
+      "principalele componente ale acestuia sunt microtubuli, microfilamentele și filamentele intermediare",
+      "toate componentele acestuia sunt alcătuite din subunități lipidice",
+      "are o extensie numită flagel"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 75,
+    "question": "Alegeți afirmațiile corecte:",
+    "options": [
+      "unele celule umane au extensii numite flageli și cilii",
+      "spermatozoidul este o celulă flagelată",
+      "flagelii sunt mult mai numeroși decât cilii",
+      "cilii sunt prezenți la nivelul tractului respirator",
+      "cilii sunt mai scurți decât flagelii"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 76,
+    "question": "Osmoză:",
+    "options": [
+      "constituie difuziunea apei prin canalele proteice",
+      "are loc în timpul reabsorbției apei din tubii renali proximali",
+      "se produce pentru reabsorbția sărurilor minerale din tubii renali",
+      "permite ieșirea apei dacă celula este introdusă în mediu hipoton, ducând la liza celulei",
+      "nu se produce dacă soluția salină pericelulară are concentrația de 0,1 %"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 77,
+    "question": "Transportul activ:",
+    "options": [
+      "se face fără consum de ATP",
+      "se produce împotriva gradientului de concentrație",
+      "are o rată a transportului limitată de numărul de molecule de colesterol",
+      "necesită desfacerea legăturilor fosfat macrorganice din molecule încărcate energetic",
+      "participă la secreția de mucus"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 78,
+    "question": "Selectați asocierile corecte:",
+    "options": [
+      "cromozomi - nucleozomi",
+      "cromozomi - gene, segmente funcționale",
+      "nucleoli - ADN",
+      "cromatina - ADN",
+      "nucleozomi - ribozomi"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 79,
+    "question": "Despre reticulul endoplasmatic sunt adevărate afirmațiile:",
+    "options": [
+      "reticulul endoplasmatic rugos - este sediul sintezei lipidice",
+      "reticulul endoplasmatic neted - sintetizează fosfolipide",
+      "reticulul endoplasmatic - este format din saci și canale extinse intracitoplasmatic",
+      "este un organit localizat într-o substanță semilichidă",
+      "asamblăază intranuclear unitățile ribozomale"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 80,
+    "question": "Aparatul Golgi:",
+    "options": [
+      "este format din saci turiții, curbați la capete",
+      "eliberează spre nucleu molecule împachetate",
+      "participă la respirația celulară",
+      "procesează și împachetează proteine pentru secreție",
+      "degradează particule nutritive"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 81,
+    "question": "Următoarele afirmații sunt adevărate:",
+    "options": [
+      "cilii sunt prezenți la nivelul celulelor care căptușesc căile aeriene superioare",
+      "flagelul asigură mișcarea tuturor celulelor sexuale prin tractul genital",
+      "veziculele pot conține substanțe transportate în celulă",
+      "enzimele digestiei intracelulare degradează particulele nutritive în produși finali",
+      "pinocitoza este endocitoza unor picături de lichid"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 82,
+    "question": "Selectați asocierile corecte:",
+    "options": [
+      "transport conform gradientului de concentrație - cu consum de ATP - lipidele",
+      "osmoză - membrană semipermeabilă - pentru solventul din soluția apoasă",
+      "difuziune facilitată - glucoză - membrana hematiei",
+      "fagocitoză - microbii din circulație - celulele roșii",
+      "exocitoză - butoni terminali - neurotransmițători"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 83,
+    "question": "Celulele umane:",
+    "options": [
+      "au nucleu - cea mai mare componentă celulară",
+      "se divid prin mitoză pentru creștere și reparare",
+      "conțin filamentele intermediare ce asigură deplasarea intercelulară a particulelor",
+      "formează apă din oxigenul inspirat, prin respirația celulară",
+      "conțin proteine periferice cu rol enzimatic"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 84,
+    "question": "Selectați afirmațiile corecte despre organitele celulare:",
+    "options": [
+      "în reticulul endoplasmatic are loc și sinteza membranelor",
+      "în reticulul endoplasmatic neted se poate depozita calciul",
+      "flagelii permit mișcarea anumitor celule",
+      "microtubuli sunt tije fine situate în citoplasmă",
+      "nuclecul este un corpuscul dens fără membrană"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 85,
+    "question": "Despre fiziologia organitelor celulare sunt adevărate afirmațiile:",
+    "options": [
+      "centrozoimi sunt structuri non-membranoase compuse din 2 centrioli",
+      "cromatina conține informația genetică pentru sinteza proteică",
+      "veziculele citoplasmatice conțin substanțe transportate în celulă",
+      "lizozomii, prin enzimele pe care le conțin, participă la digestia intracelulară",
+      "mitocondria are rol în respirația celulară"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 86,
+    "question": "Despre nucleul celulei sunt adevărate următoarele afirmații:",
+    "options": [
+      "intră în structura tuturor celulelor eucariote",
+      "este înconjurat de o membrană formată dintr-un dublu strat fosfolipidic",
+      "la nivelul membranei există pori prin care comunică cu citoplasma",
+      "este situat la periferia celulei pentru celulele adipoase",
+      "este unic pentru celulele musculare netede"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 87,
+    "question": "Despre structura componentelor de bază ale celulelor umane se pot afirma următoarele:",
+    "options": [
+      "citoplasma are consistența unui gel ce conține și vacuole",
+      "organitele sunt 'mici organe' în care se desfășoară diverse funcții celulare",
+      "reticulul endoplasmatic rugos este o rețea de membrane interconectate",
+      "membrana celulară conține și proteine globulare",
+      "aparatul Golgi este alcătuit din mai mulți saci turtii"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 88,
+    "question": "Selectați afirmațiile adevărate despre osmoză:",
+    "options": [
+      "se produce dacă celulele umane sunt introduse într-o soluție hipertonă, cu concentrație de 0,30 %",
+      "nu are loc dacă o celulă umană este suspendată într-o soluţie izotonă",
+      "are loc întotdeauna pentru recarborţia apei la nivelul tubilor renali",
+      "determină zăbărirea hematică suspendate în mediu hipoton",
+      "duce la hemoliza hematică suspendate în mediu hipoton"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 89,
+    "question": "Selectaţi afirmaţiile corecte despre exocitoză:",
+    "options": [
+      "este utilizată pentru eliberarea neurotransmitătorilor în fanta sinaptică",
+      "este implicată în secreţia de mucus",
+      "se realizează prin fuzionarea unei vezicule citoplasmatice cu membrana celulară şi eliberarea conţinutului ei în celulă",
+      "implică aducerea de particule solide din exterior în citoplasma celulei",
+      "este utilizată pentru secreţia de hormoni de către celulele exocrine"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 90,
+    "question": "Despre componentele de bază ale celulei sunt adevărate următoarele afirmaţii:",
+    "options": [
+      "membrana plasmatică are fosfolipide al căror capăt polarizat este alcătuit din lanţuri de acizi graşi",
+      "proteinele transmembranare din structura membranei celulare pot fi transportaţi pentru moleculele organice",
+      "în reticulul endoplasmatic neted are loc şi sinteza proteinelor",
+      "citoscheletul este alcătuit din subunităţi lipidice",
+      "intră întotdeauna în componenţa celulelor procariote"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 91,
+    "question": "Selectaţi afirmaţiile corecte referitoare la organitele celulare:",
+    "options": [
+      "aparatul Golgi împachetează proteine şi lipide în vezicule",
+      "centrozoamii facilitează distribuţia cromozomilor spre celulele făcute în timpul reproducerii celulare",
+      "nucleoli conţin proteine şi ARN",
+      "cilii permit propulsia fluidelor pe suprafeţele celulare",
+      "cromatina conţine informaţia genetică pentru sinteza proteică"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 92,
+    "question": "Următoarele afirmaţii privind organitele celulare sunt corecte:",
+    "options": [
+      "în aparatul Golgi, proteinele şi lipidele celulare sunt procesate şi împachetate în vezicule înainte de a fi transportate spre destinaţia lor finală",
+      "cilii şi flagelii sunt formaţiuni asemănătoare firelor de păr",
+      "nucleoli este un corpuscul dens, fără membrană, alcătuit din proteine şi ADN",
+      "lizozomii sunt saci membranoşi cu partiţie interioară care conţin enzime pentru digestia intracelulară",
+      "mitocondriile sintetizează ATP"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 93,
+    "question": "Următoarele afirmaţii privind celulele eucariote sunt corecte:",
+    "options": [
+      "au nucleu",
+      "au organite celulare",
+      "nu se divid prin procesul de mitoză",
+      "includ bacteriiile",
+      "sunt prezente la oameni şi animale"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 94,
+    "question": "Alegeţi afirmaţiile corecte privind caracterele morfologice ale membranei plasmatice:",
+    "options": [
+      "delimitează celula",
+      "are o structură de mozaic fluid",
+      "este formată din fosfolipide, al căror capăt polarizat este hidrofob",
+      "proteinele transmembranare pot servi drept canale de transport",
+      "conţine şi proteine globulare ce par să plutească printre lipide"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 95,
+    "question": "Mecanismele de transport prin membrană:",
+    "options": [
+      "se pot realiza pasiv în direcţia gradientului de concentraţie",
+      "includ unele procese pasive cum este osmoză",
+      "pot necesita proteine transportoare",
+      "includ endocitoza pentru eliberarea neurotransmitătorilor la nivelul terminaţiilor celulelor nervoase",
+      "include exocitoză prin care globalele albe îndepărtează microbii din circulaţia sanguină"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 96,
+    "question": "Alegeţi afirmaţiile incorecte privind osmoză:",
+    "options": [
+      "reprezintă difuziunea apei printr-o membrană semipermeabilă, dintr-o regiune cu o concentraţie mică de solvit într-una cu o concentraţie mare de solvit",
+      "reprezintă deplasarea apei din citoplasmă, prin membrana celulară, în direcţia concentraţiei mai mici de sare",
+      "determină zbârcirea unei celule umane introduse într-o soluţie cu o concentraţie de 0,3 %",
+      "duce la umflarea unei celule umane introduse într-o soluţie cu o concentraţie de 5 %",
+      "nu modifică dimensiunile unei celule umane introduse într-o soluţie cu o concentraţie de 1 %"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 97,
+    "question": "Ribozomii au rol în:",
+    "options": [
+      "digestia intracelulară",
+      "oxidoreducere",
+      "hidroliza proteinelor",
+      "polaritatea celulară",
+      "sinteza proteinelor"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 98,
+    "question": "Lizozomii conţin:",
+    "options": [
+      "incluziuni celulare",
+      "citoplasmă fundamentală",
+      "enzime pentru digestia intracelulară",
+      "enzime care degradează particulele nutritive pătrunse în celulă",
+      "enzime pentru sinteza proteinelor"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 99,
+    "question": "Transportul prin membrana celulară:",
+    "options": [
+      "se poate realiza activ cu proteine transportoare",
+      "cel activ asigură deplasarea moleculelor şi a ionilor în sensul gradientelor de concentraţie, dintr-o regiune cu o concentraţie mare spre o regiune cu concentraţie mică",
+      "include şi transportul prin vezicule: difuziunea şi osmoză",
+      "asigură şi transferul de glucoză în hematii, cu ajutorul proteinelor transportoare",
+      "include forme particulare de exocitoză: fagocitoză şi pinocitoză"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 100,
+    "question": "Selectaţi afirmaţiile corecte privind lizozomii:",
+    "options": [
+      "sunt organite celulare comune, localizate în apropierea nucleului celular",
+      "sunt grupuri de saci membranoşi turiţii",
+      "au rol în sinteza de proteine şi colagen",
+      "sunt prezenţi în celulele fagocitare",
+      "sunt prezenţi şi în neuron şi în fibra musculară striată"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 101,
+    "question": "Selectaţi afirmaţiile corecte privind ribozomii:",
+    "options": [
+      "sunt corpusculi în care se sintetizează proteine",
+      "pot fi liberi sau ataşaţi reticulului endoplasmatic, formând reticulul endoplasmatic neted",
+      "sunt prezenţi în celulele tubulare renale",
+      "sunt corpusculi în care aminoacizii sunt combinaţi chimic pentru a forma proteine",
+      "au rol şi în depozitarea calciului"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 102,
+    "question": "Alegeţi afirmaţiile incorecte privind celulele procariote:",
+    "options": [
+      "sunt celule anucleate",
+      "au organite celulare comune în citoplasmă",
+      "se divid prin procesul de mitoză",
+      "includ bacteriile",
+      "sunt prezente la plante, oameni şi animale"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 103,
+    "question": "Selectaţi afirmaţiile corecte privind componentele de bază ale celulei:",
+    "options": [
+      "sunt citoplasma, membrana plasmatică şi nucleul",
+      "membrana celulară separă celula de mediul extern",
+      "citoplasma este o substanţă lichidă, fundamentală pentru celulă",
+      "cromatina este formată din fibre compuse din proteine şi molecule de ADN",
+      "membrana plasmatică are o structură de mozaic fluid"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 104,
+    "question": "Alegeți afirmațiile corecte privind caracterele funcționale ale membranei plasmatice:",
+    "options": [
+      "contribuie la remodelarea celulei din timpul contracțiilor celulare, prin proteinele periferice atașate suprafeței sale",
+      "are rol în facilitarea acțiunii moleculelor de semnalizare asupra celulei, prin glicolipidele și glicoproteinele localizate la exterior, ce servesc ca receptor",
+      "este alcătuită în principal din proteine și lipide",
+      "conține colesterol ce fluidifică lipidele din membrană",
+      "este alcătuită din cantități mari de colesterol"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 105,
+    "question": "Alegeți afirmațiile corecte privind transportul activ de substanțe prin membrana plasmatică:",
+    "options": [
+      "asigură transportul ionilor de sodiu în afara neuronului",
+      "rata transportului activ este limitată de numărul proteinelor transportoare",
+      "asigură ieșirea ionilor de potasiu la nivelul neuronilor",
+      "pompa de sodiu și potasiu transportă câte doi ioni de sodiu în afara celulei și introduce câte trei ioni de potasiu",
+      "se realizează împotriva gradientului de concentrație"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 106,
+    "question": "Selectați afirmațiile corecte privind nucleul:",
+    "options": [
+      "lipsește în eritrocite",
+      "este compus în principal din histone și ADN",
+      "conține circa 50.000 de gene, pentru celulele umane",
+      "are o membrană cu patru straturi fosfolipidice",
+      "conține nucleoli în care se vor sintetiza subunitățile ribozomale"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 107,
+    "question": "Selectați afirmațiile corecte referitoare la membrana celulară:",
+    "options": [
+      "are o structură lipoproteică",
+      "principalele lipide membranare sunt reprezentate de fosfolipide",
+      "în dublul strat lipidic sunt încorporate proteine globulare",
+      "prezintă canale formate din proteine transmembranare ce proemină pe ambele fețe ale membranei",
+      "are structura unui mozaic rigid"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 108,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "soluțiile hipertone determină creșterea volumului celular",
+      "o celulă imersată într-o soluție de sare cu concentrația de aproximativ 1 % poate liza",
+      "soluțiile izotone nu determină modificări ale volumului celular",
+      "o celulă introdusă într-o soluție hipertonă își reduce volumul",
+      "o soluție de sare de concentrație 5 % determină zbârcirea celulelor"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 109,
+    "question": "Selectați afirmațiile corecte referitoare la transportul vezicular:",
+    "options": [
+      "include endotoziza și exocitoziza",
+      "intervine în eliberarea neurotransmitătorilor la nivelul fantei sinaptice",
+      "poate participa la apărarea antibacteriană a organismului",
+      "sub formă de pinocitoză este utilizat pentru înglobarea de material solid",
+      "prin endotoziză participă la eliberarea de hormoni din celulele endocrine"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 110,
+    "question": "Despre componentele nucleare sunt corecte afirmaţiile, cu excepţia:",
+    "options": [
+      "nucleolii sunt formaţi din proteine şi ARN",
+      "histonele şi ADN-ul formează cromozomi",
+      "genele reprezintă segmentele funcţionale ale cromozomilor",
+      "nucleolii intervin în producerea subunităţilor lizozomale",
+      "cromozomii sunt formaţi din nucleozomi ce se înfăşoară între ei"
+    ],
+    "answers": [3]
+  }
+]

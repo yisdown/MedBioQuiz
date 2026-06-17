@@ -1,0 +1,1201 @@
+[
+  {
+    "id": 1,
+    "question": "Următoarele afirmații sunt corecte:",
+    "options": [
+      "urechea conține organul Corti localizat în cavitatea timpanică",
+      "mucoasa olfactivă este stimulată de soluții chimice",
+      "urechea conține, la nivelul aparatului vestibular, receptori stimulați de deflexiune",
+      "mugurele gustativ este stimulat de vibrații",
+      "ochiul prezintă celule cu conuri și bastonașe"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 2,
+    "question": "Selectați enunțurile corecte:",
+    "options": [
+      "receptorii reacționează la acțiunea stimulilor",
+      "toate simțurile dispun de receptori foarte specializați",
+      "receptorii care detectează poziția sunt localizați la nivelul suprafeței corpului",
+      "sistemul nervos asigură interpretarea conștientă a modificărilor de mediu percepute de organele de simț",
+      "receptorii transmit informația către SNC prin neuronii motori"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 3,
+    "question": "Afirmațiile următoare sunt corecte:",
+    "options": [
+      "primul neuron al căii auditive este localizat în organul Corti",
+      "irisul controlează cantitatea de lumină ce trece prin cristalin",
+      "celulele olfactive specializate sunt localizate în mucoasa porțiunii superioare a cavității nazale",
+      "discurile Merkel se află în toate straturile pielii și detectează stimulii tactili",
+      "canalele semicirculare sunt dispuse la 120 de grade unul față de celălalt și sunt conectate cu utricula"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 4,
+    "question": "Selectați afirmațiile corecte privind structura ochiului:",
+    "options": [
+      "pupila este un orificiu situat la nivelul irisului",
+      "albul ochilor este reprezentat de porțiunea vizibilă a coroidei",
+      "irisul și pupila sunt porțiuni structurale ale stratului intern al globului ocular",
+      "cristalinul este un disc transparent, biconcav, alcătuit dintr-un material proteic fibros",
+      "cornea este importantă pentru focalizarea luminii pe retină"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 5,
+    "question": "Celulele cu conuri:",
+    "options": [
+      "au o acuratețe maximă când este lumină suficientă",
+      "sunt localizate în stratul extern al retinei",
+      "lipsesc în fovea centrală",
+      "permit diferențierea culorilor",
+      "conțin un pigment a cărui modificare generează impulsuri nervoase la nivelul neuronilor bipolari"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 6,
+    "question": "Selectați afirmațiile corecte privind nervul optic:",
+    "options": [
+      "este format din axonii neuronilor bipolari din retină",
+      "părăsește globul ocular prin discul optic (pata oarbă)",
+      "prin încrucișarea fibrelor mediale formează chiasma optică",
+      "este un nerv senzorial cu origine aparentă la nivelul diencefalului",
+      "este format din dendritele neuronilor multipolari din retină"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 7,
+    "question": "Neuronii bipolari din retină realizează conexiuni cu:",
+    "options": [
+      "celulele fotoreceptoare din stratul extern al retinei",
+      "doar cu celulele cu bastonașe din fovea centrală",
+      "neuronii multipolari din retină",
+      "neuronii multipolari, ai căror axoni formează nervul optic",
+      "celulele cu conuri și bastonașe din stratul intern al retinei"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 8,
+    "question": "Mușchii irisului prezintă următoarele caracteristici:",
+    "options": [
+      "sunt formați din fibre musculare netede dispuse într-un singur strat",
+      "sunt formați și din fibre cu dispoziție circulară care se contractă producând micșorarea pupilei",
+      "conțin fibre dilatatoare ce se contractă la lumina puternică",
+      "conțin fibre circulare care se relaxează la întuneric",
+      "produc micșorarea pupilei prin contracția fibrelor circulare, ca răspuns la stimularea nervului oculomotor (III)"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 9,
+    "question": "Următoarele afirmații despre urechea medie sunt false:",
+    "options": [
+      "este separată de urechea externă prin membrana timpanului",
+      "conține perilimfă",
+      "conține, spre urechea internă, fereastra ovală și fereastra rotundă",
+      "la nivelul peretelui superior prezintă deschiderea trompei lui Eustachio",
+      "lanțul celor trei oscioare se situează între membrana timpanului și fereastra rotundă"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 10,
+    "question": "Următoarele afirmații despre urechea medie sunt adevărate:",
+    "options": [
+      "reprezintă o cavitate pneumatică săpată în stânca etmoidului",
+      "este separată prin membrana timpanică de labirintul osos",
+      "este o cavitate interpusă între conductul auditiv intern și labirintul osos",
+      "conține un lanț de oscioare cu rol în transmiterea vibrațiilor timpanului ce va induce modificarea presiunii perilimfei",
+      "conține aer cu presiune variabilă sub acțiunea vibrației timpanului"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 11,
+    "question": "Următoarele afirmații despre cristalin sunt adevărate:",
+    "options": [
+      "refractă lumina",
+      "are o structură proteică, dispusă în straturi concentrice",
+      "are forma unui disc biconcav ferm, ancorat de corpii ciliari",
+      "împarte globul ocular în două compartimente",
+      "este important pentru focalizarea imaginii pe retină"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 12,
+    "question": "Care dintre următoarele afirmații sunt adevărate?",
+    "options": [
+      "stratul extern al retinei este pigmentat și conține melanină",
+      "coroidea secretă umoarea apoasă",
+      "helicotrema reprezintă comunicarea dintre scala tympani și scala vestibuli",
+      "retina detectează lumina și formează imaginile ce vor fi transmise encefalului",
+      "cristalinul participă la absorbția luminii"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 13,
+    "question": "Care afirmații le considerați adevărate?",
+    "options": [
+      "endolimfa se găsește în ductul cohlear",
+      "percepția tridimensională are drept cauză suprapunerea câmpurilor vizuale ale celor doi ochi",
+      "umoarea vitroasă menține presiunea intraoculară",
+      "discurile Merkel sunt localizate în piele",
+      "tractul olfactiv se termină în bulbul olfactiv"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 14,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "compartimentul anterior al ochiului refractă lumina prin intermediul umorii vitroase",
+      "umoarea apoasă umple compartimentul anterior, contribuind la menținerea formei ochiului",
+      "astigmatismul se corectează prin utilizarea lentilelor torice",
+      "membrana vestibulară separă perilimfa de endolimfă",
+      "fereastra ovală este bombată de perilimfa din scala tympani"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 15,
+    "question": "Selectați afirmațiile corecte referitoare la calea optică:",
+    "options": [
+      "nervul optic conduce impulsuri nervoase provenind de la un singur ochi",
+      "tractul optic conține fibre nervoase provenind de la ambii ochi",
+      "fibrele laterale ale nervului optic se încrucișează formând chiasma optică",
+      "aria de proiecție este situată la nivelul cortexului lobului frontal",
+      "cortexul occipital primește informații de la ambii ochi"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 16,
+    "question": "Selectați afirmațiile corecte referitoare la pupilă:",
+    "options": [
+      "este un orificiu situat la nivelul stratului mijlociu al globului ocular",
+      "prezintă un diametru variabil sub acțiunea sistemului nervos autonom",
+      "diametrul său variază prin contracția unor fibre musculare netede",
+      "permite comunicarea între compartimentul anterior și compartimentul posterior al globului ocular",
+      "conține umoare apoasă"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 17,
+    "question": "Selectați afirmațiile corecte referitoare la neuronii retinei:",
+    "options": [
+      "celulele cu conuri și bastonașe sunt situate în stratul neuronilor receptori ai retinei",
+      "neuronii multipolari realizează conexiunea dintre neuronii bipolari și neuronii receptori",
+      "axonii neuronilor bipolari formează nervul optic",
+      "atât nervul cât și tractul optic conțin axoni ai aceluiași tip de neuron de la nivelul retinei",
+      "celulele cu conuri sunt mai numeroase decât celulele cu bastonașe"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 18,
+    "question": "Selectați afirmațiile corecte referitoare la fiziologia vederii:",
+    "options": [
+      "celulele cu conuri sunt responsabile de vederea crepusculară",
+      "celulele cu conuri sunt mai numeroase la nivelul foveei centrale",
+      "vederea diurnă și cromatică este asigurată de celulele cu conuri",
+      "funcționarea neuronilor receptori ai retinei utilizează pigmenți vizuali derivați din vitamina A",
+      "diferențierea culorilor și a intensității luminoase se datorează diferitelor tipuri de opsine"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 19,
+    "question": "Selectați afirmațiile corecte referitoare la fluidele urechii interne:",
+    "options": [
+      "în interiorul cohleei se găsește perilimfă",
+      "fluidul conținut în ductul cohlear are o compoziție asemănătoare lichidului cefalorahidian",
+      "endolimfa se găsește și la nivelul utriculei și saculei",
+      "modificările presiunii endolimfei determină mișcările membranei timpanice",
+      "labirintul osos conține perilimfă"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 20,
+    "question": "Selectați afirmațiile corecte referitoare la ureche:",
+    "options": [
+      "scala tympani și ductul cohlear comunică între ele prin helicotremă",
+      "trompa lui Eustachio leagă urechea medie de faringe",
+      "scărița are raport cu fereastra rotundă",
+      "vibrațiile ciocănelului la nivelul ferestrei ovale antrenează modificări ale presiunii endolimfei",
+      "urechea medie conține un lanț articulat de oscioare: ciocan, nicovală și scăriță"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 21,
+    "question": "Urechea medie comunică cu urechea internă prin:",
+    "options": [
+      "fereastra ovală",
+      "timpan",
+      "fereastra rotundă",
+      "trompa lui Eustachio",
+      "conductul auditiv extern"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 22,
+    "question": "Ductul cohlear este delimitat de:",
+    "options": [
+      "membrana bazilară",
+      "membrana tectoria",
+      "membrana timpanică",
+      "membrana vestibulară",
+      "membrana celulară"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 23,
+    "question": "Mecanoreceptorii sunt prezenți la nivelul:",
+    "options": [
+      "ochiului",
+      "cohleei",
+      "tegumentului",
+      "mucoasei olfactive",
+      "mugurilor gustativi"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 24,
+    "question": "La realizarea echilibrului dinamic participă:",
+    "options": [
+      "receptorii situați la nivelul ampulelor canalelor semicirculare",
+      "celule senzoriale ciliate din macule",
+      "fibre motorii aparținând perechii a VIII-a de nervi cranieni",
+      "ramura vestibulară a nervului acustico-vestibular",
+      "ductul cohlear"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 25,
+    "question": "Selectați relațiile corecte dintre gusturile primare și localizarea preferențială a perceperii lor:",
+    "options": [
+      "acru - regiunea posterioară a limbii",
+      "sărat - vârful și regiunile posterio-laterale ale limbii",
+      "amar - porțiunile antero-laterale ale limbii",
+      "dulce - vârful limbii",
+      "umami - în vecinătatea faringelui"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 26,
+    "question": "Neuronii căii gustative sunt situați:",
+    "options": [
+      "la nivelul ganglionului senzorial de pe traiectul nervilor facial și glosofaringian",
+      "într-un nucleu senzorial din bulbul olfactiv",
+      "la nivelul talamusului",
+      "în medulla oblongata",
+      "în papilele gustative de la nivelul mucoasei linguale"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 27,
+    "question": "Selectați afirmațiile corecte referitoare la calea olfactivă:",
+    "options": [
+      "nervul olfactiv este format din axonii neuronilor din bulbul olfactiv",
+      "fibrele nervilor olfactivi străbat lama cioruită a osului sfenoid",
+      "celulele receptoare olfactive prezintă cilii la nivelul dendritelor",
+      "transmite informații care vor fi interpretate și la nivelul lobului temporal al emisferelor cerebrale",
+      "nervul olfactiv are originea aparentă la nivelul emisferelor cerebelare"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 28,
+    "question": "Mucoasa olfactivă:",
+    "options": [
+      "este situată în regiunea superioară a cavității nazale",
+      "conține neuroni bipolari",
+      "nu prezintă glande",
+      "conține celule de susținere",
+      "permite detectarea de mirosuri diferite provocate de peste 4000 de substanțe chimice odorante"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 29,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "receptorii pentru miros sunt răspândiți în întreaga mucoasă nazală",
+      "organismul uman poate detecta peste 2000 de mirosuri diferite, provocate de peste 400 de substanțe chimice odorante",
+      "celulele olfactive sunt neuroni bipolari",
+      "între celulele olfactive se găsesc celule de susținere",
+      "celulele olfactive sunt prevăzute la polul apical cu cilii"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 30,
+    "question": "Selectați afirmațiile adevărate cu privire la rodopsină:",
+    "options": [
+      "prezintă o parte proteică diferită la celulele cu conuri și cele cu bastonașe",
+      "își schimbă forma când energia luminoasă stimulează receptorii vizuali",
+      "conține un derivat de vitamina A prezent în toți fotoreceptorii",
+      "este prezentă în celulele cu conuri și bastonașe din discul optic",
+      "modificările ei generează impulsuri nervoase ce se transmit neuronilor bipolari"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 31,
+    "question": "Următoarele afirmații sunt corecte:",
+    "options": [
+      "canalele semicirculare sunt perpendiculare unul pe celălalt",
+      "corpusculii Pacini se găsesc în profunzimea pielii",
+      "terminațiile nervoase libere se găsesc în toate straturile pielii",
+      "în articulații există receptori pentru presiune",
+      "corpusculii Pacini recepționează doar vibrațiile puternice de la nivelul pielii"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 32,
+    "question": "Care dintre următoarele afirmații sunt adevărate?",
+    "options": [
+      "irisul mărginește anterior camera posterioară a globului ocular",
+      "sclera conține și sinusuri venoase",
+      "ligamentul suspensor se găsește posterior de iris",
+      "ligamentul suspensor este organul activ al acomodării alături de mușchii ciliari",
+      "atât stratul intern cât și cel mijlociu al peretelui globului ocular absorb lumina"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 33,
+    "question": "Despre retină sunt adevărate următoarele afirmații:",
+    "options": [
+      "conține celule cu bastonașe care permit observarea detaliilor obiectelor",
+      "prezintă fovea centrală în care se găsesc celule cu conuri",
+      "prezintă în axul longitudinal central al globului ocular, macula lutea",
+      "la nivelul ei, proiecția imaginii unui obiect este inversată",
+      "prin celulele cu conuri asigură analiza imaginii crepusculare și colorate"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 34,
+    "question": "Selectați afirmațiile false:",
+    "options": [
+      "celulele receptoare din ampule prezintă cilii și sunt stimulate de deplasarea endolimfei din canalele semicirculare",
+      "peste celulele receptoare din macule se află o membrană ce conține otoliți",
+      "există 3 canale semicirculare: anterior, lateral și posterior",
+      "postura poate fi ajustată în urma impulsurilor cu punct de plecare din macule",
+      "utricula comunică direct cu ductul cohlear"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 35,
+    "question": "Despre fiziologia vederii sunt adevărate următoarele afirmații:",
+    "options": [
+      "raza de lumină străbate în ordine: cristalinul, corneea, umoarea apoasă și cea vitroasă, care sunt medii refractante",
+      "rodopsina își modifică forma sub acțiunea luminii",
+      "cristalinul devine mai concav când privim un obiect situat aproape",
+      "celulele cu bastonașe se găsesc în număr mare la periferia retinei",
+      "în strabism apar două imagini în loc de una singură"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 36,
+    "question": "Despre urechea internă sunt adevărate următoarele afirmații:",
+    "options": [
+      "organul Corti conține celule ciliate și dendritele neuronilor ai căror axoni formează ramura cohleară a nervului VIII",
+      "helicotrema se găsește în vârful melcului",
+      "în helicotremă se găsește perilimfa",
+      "trompa lui Eustachio asigură legătura cu faringele",
+      "ductul cohlear conține endolimfa"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 37,
+    "question": "Urechea are următoarele caracteristici morfologice:",
+    "options": [
+      "în urechea medie se găsește un lanț articulat de 3 oscioare: ciocanul, scărița și nicovala",
+      "peretele medial al urechii externe e reprezentat de timpan",
+      "urechea internă conține doar melcul, numit și cohlee, ce conține perilimfa",
+      "fereastra ovală se găsește superior de fereastra rotundă",
+      "vibrațiile timpanului se transmit lanțului de 3 oscioare"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 38,
+    "question": "Despre celulele gustative sunt adevărate următoarele afirmații:",
+    "options": [
+      "la polul bazal primesc fibre nervoase senzoriale ale nervilor VI, VII și IX",
+      "între celulele gustative se găsesc celule de susținere",
+      "la polul apical prezintă microvilozități",
+      "se găsesc în epitelul limbii"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 39,
+    "question": "Alegeți afirmațiile corecte despre receptori:",
+    "options": [
+      "sunt structuri specializate care fac posibil răspunsul organelor de simț la diferiții stimuli",
+      "cei ce detectează stimuli mecanici sunt mecanoreceptorii",
+      "chemoreceptorii, împreună cu fotoreceptorii, detectează stimuli chimici",
+      "proprioceptorii sunt localizați la nivelul mușchilor netezi",
+      "simțurile sunt independente de sistemul nervos"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 40,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "ochiul este inervat de capătul anterior al nervului optic",
+      "fibrele mediale ale nervului optic se încrucișează la nivelul chiasmei optice",
+      "fibrele laterale ale nervului optic trec de partea opusă",
+      "fibrele tractului optic se proiectează în cortexul vizual din lobii parietali",
+      "fiecare lob occipital primește imagini de la ambii ochi, asigurând vederea în spațiu"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 41,
+    "question": "Despre globul ocular sunt adevărate următoarele informații:",
+    "options": [
+      "stratul intern al peretelui globului ocular conține aparatul ciliar",
+      "stratul extern al peretelui globului ocular cuprinde corneea și sclerotica",
+      "stratul mijlociu al peretelui globului ocular nu este vascularizat",
+      "retina conține receptorii pentru vedere",
+      "stratul intern al peretelui globului ocular este reprezentat de coroidă"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 42,
+    "question": "Referitor la spațiile ochiului se pot afirma următoarele:",
+    "options": [
+      "compartimentul anterior este cuprins între corneea și retină",
+      "camera anterioară se află între iris și cornee",
+      "camera posterioară se află între iris și cristalin",
+      "compartimentul anterior conține umoarea vitroasă",
+      "compartimentul posterior se întinde de la cristalin la retină"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 43,
+    "question": "Alegeți afirmațiile corecte despre cristalin:",
+    "options": [
+      "se găsește în fața irisului",
+      "este ancorat de mușchii ciliari prin intermediul ligamentului suspensor",
+      "mușchii ciliari modifică forma cristalinului pentru a focaliza imaginile pe retină",
+      "este scăldat anterior de umoarea apoasă secretată de corpii ciliari",
+      "este important în acomodare"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 44,
+    "question": "Structurile ochiului au următoarele funcții:",
+    "options": [
+      "corneea reflectă lumina",
+      "sclera asigură atașarea mușchilor extrinseci",
+      "coroida secretă umoarea apoasă",
+      "umoarea apoasă menține presiunea intraoculară",
+      "umoarea vitroasă umple compartimentul anterior"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 45,
+    "question": "Retina:",
+    "options": [
+      "este atașată de coroidă și menținută în poziție de umoarea vitroasă",
+      "în stratul extern conține melanină",
+      "prezintă neuroni multipolari ale căror dendrite formează nervul optic",
+      "în stratul intern prezintă celule cu conuri și bastonașe",
+      "receptorii se află în vecinătatea sclerei"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 46,
+    "question": "Despre celulele cu conuri sunt adevărate următoarele:",
+    "options": [
+      "sunt concentrate la nivelul foveei centrale",
+      "sunt responsabile de vederea crepusculară",
+      "sunt concentrate la periferia retinei",
+      "predomină la nivelul petei oarbe",
+      "sunt răspunzătoare de vederea diurnă, perceperea detaliilor și a culorilor"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 47,
+    "question": "Selectați afirmațiile corecte referitoare la ureche:",
+    "options": [
+      "recepționează undele sonore din mediul înconjurător și le transmite neuronilor din urechea internă",
+      "în urechea internă undele sonore sunt transformate în impulsuri nervoase",
+      "inițiază transmiterea informației auditive spre lobul occipital",
+      "este organul auzului, prin toate cele 3 componente, și un organ al echilibrului, prin urechea internă",
+      "ariile auditive majore se află în cortexul lobilor parietali"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 48,
+    "question": "Despre urechea medie sunt corecte afirmațiile:",
+    "options": [
+      "conține ciocanul, nicovala și scărița, lanț de oscioare ce preiau vibrațiile timpanului",
+      "capătul proximal al nicovalei este conectat cu fereastra ovală",
+      "prezintă orificiul trompei lui Eustachio care asigură legătura cu orofaringele",
+      "vibrația oscioarelor transformă stimulul acustic în impuls nervos",
+      "conține aer a cărui presiune variază"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 49,
+    "question": "Despre fiziologia auzului sunt adevărate următoarele:",
+    "options": [
+      "implică acțiuni mecanice ce transformă undele sonore în impulsuri mecanice",
+      "vibrația timpanului este transmisă celor trei oscioare din urechea medie",
+      "scărița transmite stimulul acustic endolimfei din canalul cohlear",
+      "vibrațiile perilimfei sunt transmise organului lui Scarpa din interiorul cohleei",
+      "vibrațiile se întorc prin rampa timpanică la fereastra rotundă care bombează"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 50,
+    "question": "Alegeți afirmațiile corecte despre mugurii gustativi:",
+    "options": [
+      "sunt receptori localizați pe suprafața ventrală a limbii",
+      "asigură preluarea celor 5 gusturi primare: dulce, acru, amar, sărat și umami",
+      "cei care conțin receptori pentru dulce și sărat sunt prezenți la nivelul vârfului limbii",
+      "cei cu receptori pentru umami preiau informații din vecinătatea laringelui",
+      "cei din partea anterioară a limbii conțin celule receptoare sensibile la molecule cu gust amar"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 51,
+    "question": "Despre formarea senzației de gust putem afirma:",
+    "options": [
+      "moleculele pătrund în porii gustativi ai papilelor și stimulează celulele specializate din mugurii gustativi",
+      "celulele generează și transmit impulsuri de-a lungul fibrelor nervoase ale nervului facial sau hipoglos",
+      "impulsurile nervoase gustative sunt transmise și de neuroni ce ajung la talamus",
+      "stimulii gustativi sunt interpretați în lobul temporal",
+      "neuronii din talamus transportă impulsurile nervoase gustative către lobul parietal"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 52,
+    "question": "Alegeți afirmațiile corecte despre miros:",
+    "options": [
+      "numit și simț olfactiv, el este analizat la nivelul lobului occipital",
+      "celulele olfactive specializate sunt localizate în mucoasa porțiunii superioare a cavității nazale",
+      "stimulii olfactivi sunt interpretați în cortexul olfactiv din lobii parietali",
+      "impulsurile olfactive se propagă de-a lungul nervului olfactiv",
+      "stimulii olfactivi sunt interpretați în cortexul olfactiv din lobii frontali și temporali"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 53,
+    "question": "Despre simțul tactil și simțurile înrudite putem afirma următoarele:",
+    "options": [
+      "utilizează receptori aflați în piele, mușchi, articulații și viscere",
+      "terminațiile nervoase libere din piele detectează durerea",
+      "discurile Merkel detectează vibrațiile ușoare",
+      "corpusculii Pacini recepționează presiunile și vibrațiile puternice de la nivelul pielii",
+      "impulsurile sunt proiectate la nivelul lobului parietal"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 54,
+    "question": "Selectați enunțurile corecte:",
+    "options": [
+      "membrana timpanică este localizată la nivelul capătului distal al canalului auditiv extern",
+      "capătul proximal al scăriței este conectat cu fereastra ovală",
+      "trompa lui Eustachio permite comunicarea urechii medii cu orofaringele",
+      "urechea internă conține cohleea, canalele semicirculare și vestibulul",
+      "interpretarea sunetelor se realizează în lobii parietali ai emisferelor cerebrale"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 55,
+    "question": "Care sunt enunțurile adevărate?",
+    "options": [
+      "porțiunile antero-laterale ale limbii sunt sensibile la gustul sărat",
+      "receptorii pentru umami sunt localizați în vecinătatea faringelui",
+      "la baza mugurilor gustativi se găsesc papilele linguale",
+      "la vârful celulelor gustative se află microvilozități",
+      "impulsurile nervoase gustative trec prin bulbul rahidian"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 56,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "trompa lui Eustachio leagă faringele de urechea internă",
+      "membrana timpanică se află la capătul distal al canalului auditiv extern",
+      "impulsurile pentru gust sunt transmise prin ramuri ale nervului vag și ale nervului facial",
+      "interpretarea stimulilor gustativi se face în lobul parietal",
+      "receptorii pentru umami sunt localizați în vecinătatea faringelui"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 57,
+    "question": "Selectați enunțurile false!",
+    "options": [
+      "celulele olfactive sunt localizate în mucoasa porțiunii inferioare a cavității nazale",
+      "nervul olfactiv pătrunde în cutia craniană prin lama ciuruită a osului sfenoid",
+      "celulele olfactive sunt prevăzute cu cili",
+      "între celulele olfactive se află celule de susținere",
+      "bulbii olfactivi se află pe fața inferioară a emisferelor cerebrale"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 58,
+    "question": "Selectați enunțurile corecte:",
+    "options": [
+      "terminațiile nervoase libere detectează durerea",
+      "corpusculii Meissner detectează stimulii tactili",
+      "corpusculii Pacini recepționează presiunile și vibrațiile ușoare de la nivelul pielii",
+      "viscerele dispun de terminații nervoase libere",
+      "articulațiile dispun de receptori pentru presiune și vibrații"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 59,
+    "question": "Următoarele enunțuri sunt false:",
+    "options": [
+      "labirintul osos circumscrie labirintul membranos",
+      "între labirintul osos și cel membranos se află un lichid asemănător lichidului interstițial",
+      "utricula și sacula comunică una cu cealaltă printr-un canal subțire",
+      "la locul de joncțiune cu utricula, canalele semicirculare prezintă ampule: anterioară, posterioară și medială",
+      "cohleea conține ductul cohlear"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 60,
+    "question": "Următoarele enunțuri sunt corecte:",
+    "options": [
+      "ampula conține celule senzoriale neciliate",
+      "utricula și sacula sunt implicate în menținerea echilibrului dinamic",
+      "macula conține otoliți",
+      "fibrele nervoase dispuse în jurul celulelor ciliate ale maculei transmit impulsul nervos către encefal prin nervul VII",
+      "utricula și sacula sunt implicate în menținerea echilibrului static"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 61,
+    "question": "Următoarele enunțuri privind localizarea receptorilor tactili sunt false:",
+    "options": [
+      "corpusculii Pacini sunt localizați profund în piele",
+      "corpusculii Meissner sunt localizați superficial față de corpusculii Pacini",
+      "corpusculii Meissner sunt situați profund în piele",
+      "terminațiile nervoase libere sunt localizate în vecinătatea discurilor Merkel",
+      "corpusculii Pacini sunt situați superficial față de discurile Merkel"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 62,
+    "question": "Următoarele enunțuri sunt corecte:",
+    "options": [
+      "ciocanul, nicovala și scărița vibrează secvențial",
+      "la vârful cohleei este localizată helicotrema",
+      "prin mișcările membranei vestibulare, asupra celulelor ciliate se declanșează impulsul nervos auditiv",
+      "excedentul presional din cohlee este eliminat prin fereastra rotundă",
+      "membrana bazilară se află între canalul cohlear și scala vestibuli"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 63,
+    "question": "Despre ochi sunt adevărate următoarele:",
+    "options": [
+      "sclerotica conține țesut fibros",
+      "coroidea este slab vascularizată",
+      "camera anterioară se află între iris și cristalin",
+      "umoarea vitroasă conține o substanță apoasă",
+      "mușchiul constrictor al irisului este inervat de ramuri aparținând sistemului nervos simpatic"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 64,
+    "question": "Despre ochi putem spune că:",
+    "options": [
+      "cristalinul reprezintă un disc biconcav transparent",
+      "ligamentul suspensor ancorează cristalinul de iris",
+      "corpul ciliar conține mușchiul ciliar",
+      "stratul intern al retinei conține melanină",
+      "celulele cu conuri și bastonașe se conectează direct cu neuronii multipolari"
+    ],
+    "answers": [2]
+  },
+  {
+    "id": 65,
+    "question": "Despre ochi sunt adevărate afirmațiile:",
+    "options": [
+      "sinusul venos scleral se află în vecinătatea corneei",
+      "fovea centrală circumscrie macula lutea",
+      "ligamentul suspensor se dispune între cristalin și corpul ciliar",
+      "nervul optic părăsește ochiul, în timp ce artera retiniană intră în globul ocular",
+      "compartimentul anterior al globului ocular este cuprins între cornee și iris"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 66,
+    "question": "Selectați asocierile corecte referitoare la receptori:",
+    "options": [
+      "discurile Merkel - porțiunea inferioară a pielii",
+      "receptorii vestibulari pentru echilibrul dinamic - ampulele canalelor semicirculare",
+      "celulele cu conuri - fovea centrală",
+      "receptorii gustativi - fața dorsală a limbii",
+      "receptorii olfactivi - mucoasa nazală"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 67,
+    "question": "Camera posterioară a globului ocular:",
+    "options": [
+      "este delimitată anterior de fața posterioară a cristalinului",
+      "conține umoare vitroasă",
+      "este delimitată posterior de ligamentul suspensor și fața anterioară a cristalinului",
+      "conține umoare apoasă",
+      "se întinde de la cristalin la retină"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 68,
+    "question": "Camera anterioară a globului ocular:",
+    "options": [
+      "este delimitată anterior de fața anterioară a corneei",
+      "conține umoare apoasă",
+      "este situată între cristalin și iris",
+      "conține un mediu refractar pentru razele luminoase",
+      "se învecinează în zona unghiului dintre iris și cornee cu sinusul venos scleral"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 69,
+    "question": "Cristalinul:",
+    "options": [
+      "este un disc transparent planconvex",
+      "este alcătuit predominant dintr-un material fosfolipidic dispus în straturi concentrice",
+      "delimitează anterior compartimentul posterior al globului ocular",
+      "este un mediu refractar pentru razele luminoase",
+      "se prinde de iris prin ligamentul suspensor"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 70,
+    "question": "Corpul ciliar:",
+    "options": [
+      "se continuă posterior cu irisul",
+      "secretă umoarea vitroasă",
+      "conține mușchiul a cărui activitate asigură acomodarea",
+      "ancorează cristalinul prin ligamentul suspensor",
+      "face parte din stratul intern al globului ocular"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 71,
+    "question": "Despre structurile accesorii ale ochiului sunt adevărate următoarele afirmații:",
+    "options": [
+      "pleoapele protejează porțiunea anterioară a ochiului",
+      "sprâncenele și genele asigură protecția împotriva corpurilor străine",
+      "corpul ciliar asigură secreția umorii apoase",
+      "aparatul lacrimal conține glandele care asigură păstrarea umedă a globului ocular",
+      "pleoapele sunt căptușite pe partea internă de o conjunctivă care se răsfrânge și acoperă în totalitate globul ocular"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 72,
+    "question": "Următoarele afirmații despre analizatorul vizual sunt adevărate:",
+    "options": [
+      "opsina este derivată din vitamina A",
+      "la privirea unui obiect îndepărtat cristalinul se aplatizează prin contracția mușchiului ciliar",
+      "hipermetropia și presbitismul se corectează cu lentile convexe",
+      "pupila se micșorează, când se privește un obiect apropiat, prin acțiunea acetilcolinei",
+      "axonii neuronilor multipolari din straturile externe ale retinei formează nervul optic"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 73,
+    "question": "Următoarele afirmații despre analizatorul vizual sunt false:",
+    "options": [
+      "compartimentul anterior al globului ocular conține doar umoare apoasă",
+      "presbitismul se corectează cu lentile torice",
+      "densitatea receptorilor vizuali de la nivelul discului optic este mică",
+      "dilatarea pupilei se face prin intermediul noradrenalinei",
+      "pupila se dilată când obiectul privit este aproape de ochi"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 74,
+    "question": "Următoarele afirmații despre analizatorul auditiv sunt adevărate:",
+    "options": [
+      "vibrația timpanului este transmisă direct endolimfei prin intermediul oscioarelor din urechea medie",
+      "fereastra rotundă se află pe peretele medial al urechii medii",
+      "la nivelul helicotremei scala tympani comunică cu ductul cohlear",
+      "timbrul sunetului variază în funcție de amplitudinea undei sonore",
+      "fereastra ovală este situată superior de cea rotundă"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 75,
+    "question": "Organul lui Corti:",
+    "options": [
+      "este situat în scala tympani",
+      "conține dendrite ce sunt stimulate direct de mișcările membranei tectoria",
+      "conține și celule ciliate ce vin în contact cu endolimfa",
+      "conține axonii neuronilor ce formează ramura cohleară a nervului cranian VIII",
+      "aparține cohleei localizate inferior de canalele semicirculare"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 76,
+    "question": "Următoarele afirmații despre structurile care participă la perceperea echilibrului sunt adevărate:",
+    "options": [
+      "macula din interiorul utriculei conține otoliți formați din carbonat de sodiu",
+      "la locul de joncțiune cu sacula, fiecare canal semicircular prezintă o ampulă",
+      "maculele intervin în menținerea posturii corpului",
+      "celulele ciliate din ampule sunt stimulate de mișcarea perilimfei din canalele semicirculare",
+      "sacula se continuă în partea inferioară cu ductul cohlear"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 77,
+    "question": "Despre receptorii vestibulari se pot afirma următoarele:",
+    "options": [
+      "receptorii se găsesc în canalul semicircular posterior care se unește cu cel lateral",
+      "receptorii din canalele semicirculare participă la menținerea echilibrului dinamic",
+      "labirintul membranos conține un lichid asemănător cu cel cefalorahidian",
+      "receptorii din macule detectează mișcările mai puțin ample",
+      "ampulele membranoase sunt: anterioară, posterioară și inferioară"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 78,
+    "question": "Despre organele de simț se poate afirma că:",
+    "options": [
+      "labirintul osos este umplut cu un lichid asemănător cu cel interstițial",
+      "corpusculii Pacini detectează vibrațiile ușoare",
+      "celulele gustative prezintă la polul apical microvilozități",
+      "nucleii celulelor olfactive sunt situați la același nivel cu cei ai celulelor de susținere",
+      "vasele de sânge ale cristalinului asigură nutriția acestuia"
+    ],
+    "answers": [2]
+  },
+  {
+    "id": 79,
+    "question": "Care dintre următoarele afirmații cu privire la organele de simț nu sunt corecte?",
+    "options": [
+      "tractul olfactiv se termină în cortexul olfactiv",
+      "discomatopsia reprezintă incapacitatea de a distinge două puncte apropiate, în anumite părți ale câmpului vizual",
+      "neuronii bipolari din retină participă și la formarea nervului optic",
+      "coroidea este bine vascularizată",
+      "gustul amar este detectat de partea posterioară a limbii"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 80,
+    "question": "Alegeți variantele corecte:",
+    "options": [
+      "receptorii gustativi sunt exteroceptorii localizați în regiunea superioară a cavității nazale",
+      "receptorii auditivi sunt proprioceptorii din organul lui Corti",
+      "receptorii olfactivi sunt stimulați de soluții chimice",
+      "receptorii vestibulari sunt stimulați de vibrații",
+      "receptorii vizuali sunt exteroceptorii stimulați de lumină"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 81,
+    "question": "Culoarea ochilor e conferită de:",
+    "options": [
+      "partea vizibilă a sclerei",
+      "pigmenții din iris",
+      "corpul ciliar",
+      "celulele cu conuri",
+      "melanină"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 82,
+    "question": "Nervul optic este format din:",
+    "options": [
+      "corpul neuronilor receptori",
+      "axonii neuronilor bipolari",
+      "prelungirile celulelor cu conuri",
+      "axonii neuronilor multipolari din retină",
+      "axonii neuronilor unipolari din retină"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 83,
+    "question": "La refracția luminii participă următoarele structuri:",
+    "options": [
+      "irisul - care reglează cantitatea de lumină ce intră în ochi",
+      "cornea - care este structura anterioară a tunicii fibroase",
+      "umoarea apoasă - secretată de corpul ciliar și umple compartimentul anterior al globului ocular",
+      "umoarea vitroasă - care umple camera posterioară a globului ocular",
+      "cristalinul care asigură acomodarea"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 84,
+    "question": "Selectați variantele corecte:",
+    "options": [
+      "celulele cu conuri realizează vederea în lumina crepusculară",
+      "celulele cu bastonașe se găsesc în număr mare la periferia retinei",
+      "celulele cu conuri sunt concentrate la nivelul discului optic",
+      "detaliile și culorile sunt percepute de celulele cu conuri",
+      "foveea centrală detectează mișcarea și vederea crepusculară"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 85,
+    "question": "În cazul persoanelor diagnosticate cu astigmatism:",
+    "options": [
+      "acestea nu pot deosebi culoarea verde de cea roșie",
+      "au o curbură neregulată a corneei sau a cristalinului",
+      "pentru corecție se folosesc lentile biconcave",
+      "tulburarea este mai frecventă la bărbați",
+      "corectarea se face cu lentile torice"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 86,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "trompa lui Eustachio leagă faringele de urechea internă",
+      "membrana timpanică se află la capătul distal al canalului auditiv extern",
+      "nervul auditiv se formează din dendritele neuronilor din organul lui Corti",
+      "perilimfa se găsește în cohlee",
+      "interpretarea sunetului are loc în lobii temporali ai emisferelor cerebrale"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 87,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "celulele cu conuri realizează vederea în lumina crepusculară",
+      "celulele cu bastonașe se găsesc în număr mare la periferia retinei",
+      "celulele cu conuri sunt concentrate la nivelul discului optic",
+      "detaliile și culorile sunt percepute de celulele cu conuri",
+      "foveea centrală detectează mișcarea și vederea crepusculară"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 88,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "organele de simț pot dispune de proprioceptori ce detectează poziția corpului",
+      "mugurii gustativi sunt localizați pe partea ventrală a limbii",
+      "deflexiunea poate fi un stimul pentru aparatul vestibular",
+      "receptorii specifici pentru aparatul vestibular sunt celulele ciliate din maculă și ampulă",
+      "stimulii pentru simțul gustativ sunt reprezentați de soluții chimice"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 89,
+    "question": "Globul ocular prezintă:",
+    "options": [
+      "sclera, ce menține forma sa și are rol de protecție",
+      "retina, stratul cel mai extern al său la nivelul căruia se formează imaginile",
+      "cristalinul, a cărui elasticitate asigură diminuarea diametrului pupilar",
+      "retina, ce conține aproximativ 120 de milioane de celule cu bastonașe",
+      "irisul, ce controlează cantitatea de lumină ce trece prin pupilă"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 90,
+    "question": "Discromatopsia este:",
+    "options": [
+      "tulburare de vedere în care imaginea se formează în spatele retinei",
+      "tulburare de vedere în care imaginea se formează în fața retinei",
+      "tulburare de vedere determinată genetic, în care nu se deosebește culoarea verde de cea roșie",
+      "tulburare de vedere care se corectează prin lentile torice",
+      "tulburare de vedere care nu se corectează cu ajutorul ochelarilor"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 91,
+    "question": "Urechea internă conține:",
+    "options": [
+      "canalele semicirculare cu receptori vestibulari",
+      "cohleea care este conectată cu componenta de menținere a echilibrului din nervul VIII",
+      "vestibulul osos care conține endolimfa",
+      "scărița care se sprijină pe membrana ferestrei ovale",
+      "utricula și sacula, structuri membranoase localizate în vestibulul osos"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 92,
+    "question": "Despre simțul gustativ se poate spune că:",
+    "options": [
+      "este detectat de mugurii gustativi ai limbii",
+      "diferențiază 5 gusturi primare",
+      "gustul umami este dat de glutamat",
+      "gustul dulce și cel amar sunt detectate la nivelul vârfului limbii",
+      "căile de conducere sunt reprezentate de nervii cranieni VI și IX"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 93,
+    "question": "Simțul olfactiv:",
+    "options": [
+      "necesită contactul dintre receptori și moleculele substanțelor ce urmează a fi detectate",
+      "este asigurat de celulele olfactive ce sunt localizate în mucoasa porțiunii inferioare a cavității nazale",
+      "este procesat la nivelul lobilor frontal și temporal",
+      "este condus prin nervul II",
+      "este condus prin nervul olfactiv"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 94,
+    "question": "Echilibrul:",
+    "options": [
+      "implică utricula, sacula și ampulele canalelor semicirculare",
+      "dinamic este detectat de celulele ciliate din macule",
+      "dinamic este detectat de celulele ciliate din ampule",
+      "static se mai numește și postură",
+      "derivă din activitatea urechii interne"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 95,
+    "question": "Structurile accesorii ale globului ocular sunt:",
+    "options": [
+      "ligamentul suspensor care ancorează cristalinul de corpul ciliar",
+      "sprâncenele și genele care conferă protecție împotriva corpurilor străini",
+      "aparatul lacrimal care prin glandele lacrimale secretă lacrimile ce mențin umed globul ocular",
+      "corneea care participă la refracția luminii",
+      "pleoapele care sunt căptușite de conjunctiva ce se răsfrânge și acoperă parțial globul ocular"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 96,
+    "question": "Despre fiziologia vederii se pot afirma următoarele:",
+    "options": [
+      "bastonașele și conurile detectează mișcarea din mediul înconjurător",
+      "cantitatea de energie luminoasă care intră în globul ocular este reglată de modificările diametrului pupilar",
+      "focalizarea razelor luminoase este asigurată prin procesul de acomodare",
+      "celulele cu conuri sunt mai numeroase decât celulele cu bastonașe",
+      "retina se extinde anterior până la porțiunea anterioară a corpului ciliar"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 97,
+    "question": "Următoarele afirmații referitoare la anatomia urechii sunt adevărate:",
+    "options": [
+      "labirintul osos, aflat în interiorul osului temporal, este format din vestibul, canale semicirculare și cohlee",
+      "ciocanul, nicovala și scărița sunt oscioarele care fac legătura dintre canalul auditiv extern și fereastra rotundă",
+      "pavilionul urechii participă la conducerea vibrațiilor sonore",
+      "urechea medie conține endolimfa",
+      "receptorii vestibulari sunt în contact cu membrana tectoria"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 98,
+    "question": "Următoarele afirmații sunt corecte:",
+    "options": [
+      "terminațiile nervoase libere detectează durerea",
+      "organismul uman poate detecta peste 8000 de mirosuri diferite",
+      "receptorii localizați în mușchi scheletici, oase, articulații sunt proprioceptori",
+      "mugurii gustativi sunt dispuși pe papile, mici protuberanțe prezente și în vecinătatea faringelui",
+      "mișcarea oscioarelor urechii medii este determinată de vibrația perilimfei"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 99,
+    "question": "Selectați asocierile corecte referitoare la tulburările de vedere:",
+    "options": [
+      "miopie - imagine formată posterior de retină",
+      "hipermetropie - ochi prea scurt",
+      "miopie - cristalin prea plat pentru a permite vederea de aproape",
+      "astigmatism - curbură neregulată a retinei",
+      "discromatopsia - determinată genetic, mai ales la bărbați"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 100,
+    "question": "Următoarele afirmații sunt adevărate:",
+    "options": [
+      "un neuron al căii gustative se află în bulbul rahidian",
+      "cristalinul separă camera anterioară de cea posterioară a globului ocular",
+      "celulele olfactive sunt neuroni bipolari",
+      "pe peretele extern al urechii medii se află fereastra rotundă",
+      "scala tympani este separată de scala vestibuli prin membrana timpanică"
+    ],
+    "answers": [0, 2]
+  }
+]

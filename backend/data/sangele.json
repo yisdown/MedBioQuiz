@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "question": "Care dintre următoarele afirmații cu privire la hemoglobină le considerați adevărate?",
+    "options": [
+      "este un pigment de culoare roșie prezent în plasma sanguină",
+      "dioxidul de carbon se leagă puternic de molecula de hemoglobină",
+      "realizează cu oxigenul o combinație stabilă oxihemoglobina",
+      "conține fier care se combină rapid cu monoxidul de carbon",
+      "este alcătuită din două lanțuri polipeptidice alfa și două beta"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 2,
+    "question": "Care dintre afirmațiile cu privire la distrugerea globulelor roșii sunt adevărate?",
+    "options": [
+      "globulele roșii îmbătrânite și deteriorate sunt distruse de macrofage în splină, ficat și măduva osoasă",
+      "fierul eliberat din hemoglobină este adus în măduva osoasă pentru noi sinteze de hemoglobină",
+      "biliverdina este transportată de la splină la ficat",
+      "bacteriile florei intestinale convertesc o parte din bilirubină în urobilinogen",
+      "bilirubina determină culoarea materiilor fecale"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 3,
+    "question": "Selectați asociațiile corecte:",
+    "options": [
+      "anticorpi de grup sanguin anti-A și anti-B - anticorpi prezenți în ser",
+      "macrofage - celule fagocitare",
+      "trombocite - rol în hemostază și coagulare",
+      "celulele Kupffer - fagocitoza globulelor albe îmbătrânite",
+      "limfocitele T - maturare în ganglionii limfatici"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 4,
+    "question": "Eritrocitele:",
+    "options": [
+      "sunt elemente figurate anucleate, ca și leucocitele",
+      "se formează în măduva roșie și în ganglionii limfatici",
+      "conțin oxihemoglobină și carbaminohemoglobină",
+      "conțin pe suprafață antigene A, B și Rh",
+      "sunt prezente în limfă"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 5,
+    "question": "Limfocitele:",
+    "options": [
+      "sunt agranulocite",
+      "reprezintă aproximativ 30 % din totalul leucocitelor",
+      "au rol în hemostază și coagulare",
+      "sunt celule cheie în reacțiile complexe ale sistemului imun",
+      "au rol în sinteza de anticorpi prin fagocitoză"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 6,
+    "question": "Plăcuțele sanguine prezintă următoarele proprietăți funcționale:",
+    "options": [
+      "formează agregate plachetare",
+      "au rol și în coagularea sângelui",
+      "aderă de fibrele de colagen și formează o masă care umple leziunea din peretele vascular",
+      "sunt lipsite de nucleu",
+      "numărul lor este de aproximativ 300.000/mm³ de sânge"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 7,
+    "question": "Grupa sanguină AB:",
+    "options": [
+      "conține anticorpi anti-A și anti-B pe suprafața hematiilor",
+      "conține anticorpi A și B în ser",
+      "nu conține anticorpi de grup sanguin în ser",
+      "poate dona sânge tuturor grupelor sanguine",
+      "poate primi sânge de la toate grupele sanguine"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 8,
+    "question": "Ce trăsături caracteristice au antigenele A și B?",
+    "options": [
+      "sunt prezente pe suprafața eritrocitelor",
+      "sunt prezente și la persoane de grup 0",
+      "sunt anticorpi de grup sanguin",
+      "sunt prezente la persoane de grup AB pe suprafața hematiilor",
+      "sunt anticorpi prezenți pe suprafața hematiilor la persoanele de grup sanguin AB"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 9,
+    "question": "Ce trăsături caracteristice au anticorpii de grup sanguin?",
+    "options": [
+      "sunt anticorpi prezenți în plasmă",
+      "sunt prezenți în serul persoanelor de grup AB",
+      "nu trebuie să vină în contact cu antigenele de același tip",
+      "sunt prezenți pe suprafața hematiilor",
+      "sunt prezenți în serul persoanelor de grup O"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 10,
+    "question": "Persoanele cu grup sanguin B și Rh negativ:",
+    "options": [
+      "pot dona sânge la toate grupele sanguine",
+      "pot dona sânge la persoane de grup B și Rh pozitiv",
+      "pot dona sânge la persoane de grup B și Rh negativ",
+      "pot dona sânge la persoane de grup AB indiferent de Rh",
+      "pot primi sânge de la persoane de grup O și Rh pozitiv"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 11,
+    "question": "Care dintre următoarele afirmații sunt valabile pentru persoanele de grup AB și Rh pozitiv?",
+    "options": [
+      "prezintă pe suprafața hematiilor anticorpii A și B",
+      "prezintă în ser antigenul Rh",
+      "conțin în ser antigenele A și B",
+      "pot primi sânge de la persoane AB și Rh negativ",
+      "pot primi sânge de la persoane O și Rh negativ"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 12,
+    "question": "Caracteristicile plasmei sanguine sunt:",
+    "options": [
+      "conține produși de degradare rezultați din metabolismul celular",
+      "conține substanțe anorganice, reprezentate de proteine și lipide",
+      "conține neutrofile cu rol în coagulare",
+      "îndeplinește rol și în transportul gazelor respiratorii",
+      "conține albumine, globuline și fibrinogen"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 13,
+    "question": "Sângele:",
+    "options": [
+      "este un tip de țesut conjunctiv",
+      "conține o parte lichidă: plasma (45 % din sânge)",
+      "conține elemente figurate",
+      "conține trombocite și eritrocite cu rol în coagulare",
+      "reprezintă 8 % din greutatea corporală"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 14,
+    "question": "Plasma sanguină conține:",
+    "options": [
+      "substanțe anorganice: glucoză, acizi grași, colesterol",
+      "proteine cu rol în coagularea sângelui",
+      "anticorpi cu rol în imunitate",
+      "anioni: Na⁺, K⁺, Ca²⁺, Mg²⁺",
+      "fibrinogen: 7 % din totalul proteinelor plasmatice"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 15,
+    "question": "Antigenul Rh:",
+    "options": [
+      "este un antigen prezent în serul persoanelor Rh pozitiv",
+      "este un anticorp prezent în serul persoanelor Rh pozitiv",
+      "este un antigen prezent pe suprafața eritrocitelor la persoanele Rh negativ",
+      "este un antigen prezent pe suprafața eritrocitelor la persoanele Rh pozitiv",
+      "este important în afecțiunea cunoscută sub numele de eritroblastoza fetală"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 16,
+    "question": "Care dintre afirmațiile privind funcțiile sângelui sunt adevărate?",
+    "options": [
+      "participă la apărarea organismului prin intermediul leucocitelor",
+      "transportă gazele respiratorii",
+      "participă la reglarea reflexă și umorală a organismului",
+      "transportă cataboliții la organele de excreție",
+      "are rol în hemostază și coagulare"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 17,
+    "question": "Care dintre afirmațiile privind rolurile albuminelor sunt corecte?",
+    "options": [
+      "favorizează trecerea apei din interstiții în sânge",
+      "transportă hormonii spre celulele țintă",
+      "sunt proteine plasmatice, alături de globuline și fibrinogen",
+      "participă la menținerea echilibrului acido-bazic al organismului",
+      "participă la menținerea vâscozității sângelui"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 18,
+    "question": "Despre coagulare sunt adevărate următoarele afirmații:",
+    "options": [
+      "factorul plachetar este eliberat doar de plachetele sanguine",
+      "tromboplastina este o glicoproteină care activează o proteină globulară numită trombină",
+      "în lipsa calciului procesul de coagulare nu are loc",
+      "factorii tisulari de la nivelul vaselor lezate reacționează cu factorul VII al coagulării și cu calciul și determină activarea factorului VII",
+      "fibrina este o proteină globulară, solubilă"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 19,
+    "question": "Despre eritroblastoza fetală se pot afirma următoarele:",
+    "options": [
+      "poate să apară la fătul Rh negativ al unei mame Rh pozitiv, dacă mama este la a doua sarcină",
+      "duce la distrugerea hematiilor fătului Rh negativ, proces numit hemoliză",
+      "poate fi prevenită administrându-i mamei Rh pozitiv anticorpi anti-Rh, imediat după nașterea primului copil Rh negativ",
+      "administrarea de RhoGAM mamelor Rh negativ cu făt Rh pozitiv la nașterea primului copil previne apariția bolii hemolitice a nou-născutului la cel de al doilea copil",
+      "boala hemolitică a nou-născutului apare și la primul copil, când mama este Rh negativ și fătul este Rh pozitiv"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 20,
+    "question": "Eritrocitele au următoarele particularități funcționale:",
+    "options": [
+      "transportă oxigenul și dioxidul de carbon de la plămâni la țesuturi",
+      "conțin în citoplasmă un pigment numit hemoglobină, de aceea se numesc și corpusculi roșii",
+      "transportă carbaminohemoglobina, forma de transport a CO₂ în hematii",
+      "pot prezenta pe suprafața lor antigenele A, B și Rh",
+      "transportă cea mai mare parte a oxigenului destinat țesuturilor"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 21,
+    "question": "Despre leucocite sunt adevărate următoarele afirmații:",
+    "options": [
+      "neutrofilele au în citoplasmă granulații citoplasmatice de culoare albastră-violacee și nucleul în formă de S",
+      "bazofilele au granulații citoplasmatice albastre și au rol și în reacțiile inflamatorii",
+      "limfocitele reprezintă aproximativ 30 % din totalul leucocitelor și au nucleul bilobat",
+      "eozinofilele au granulații citoplasmatice roșii și nucleul cu 3-5 lobi",
+      "monocitele au nucleul reniform și se transformă în macrofage în țesuturi, care au capacitatea de a fagocita microorganisme"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 22,
+    "question": "Selectați afirmațiile corecte despre eritrocite:",
+    "options": [
+      "sunt prezente, la femeie, în număr de 4,8 milioane pe milimetru cub de sânge și au formă de disc biconvex, flexibil",
+      "se zăbăresc atunci când sunt suspendate într-un mediu hipoton",
+      "trec prin pereții capilarelor sanguine ale măduvei hematogene",
+      "sunt produse în număr crescut de celulele renale în caz de hipoxie",
+      "numărul lor depășește 5,4 milioane pe milimetru cub de sânge în cazul unui bărbat care trăiește la altitudine mare"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 23,
+    "question": "Care dintre afirmațiile cu privire la trombocite sunt corecte?",
+    "options": [
+      "creșterea numărului lor determină apariția hematomelor",
+      "se formează din megacariocitele derivate din hemocitoblaste",
+      "scăderea numărului lor duce la apariția tulburărilor de coagulare",
+      "formează, după câteva minute de la leziune, o masă care umple leziunea din peretele vascular",
+      "reprezintă componenta celulară a hemostazei"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 24,
+    "question": "Următoarele procese fac parte din coagulare:",
+    "options": [
+      "transformarea fibrinogenului solubil în fibrină insolubilă",
+      "activarea protrombinei pe cale intrinsecă sau extrinsecă",
+      "aderarea plachetelor la fibrele de colagen din peretele vascular lezat",
+      "agregarea plachetară la nivelul zonei lezate a vasului de sânge",
+      "activarea tromboplastinei plachetare pe calea extrinsecă"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 25,
+    "question": "Care dintre următoarele afirmații sunt adevărate?",
+    "options": [
+      "persoanele cu grup de sânge B și Rh negativ nu prezintă pe suprafața hematiilor antigene A și nici pe cel Rh, dar au la acest nivel anticorpi anti-A",
+      "grupa 0 este cea mai frecventă grupă din populație",
+      "neutrofilele pot fi crescute în infecții bacteriene",
+      "hematiile pot hemoliza și apoi agrega dacă se greșește grupa sanguină în cazul unei transfuzii",
+      "monocitele pot fi crescute în infecții fungice"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 26,
+    "question": "Selectați afirmațiile corecte privind proteinele plasmatice:",
+    "options": [
+      "fibrinogenul este implicat în coagularea sângelui",
+      "transportorii unor hormoni aparțin gama globulinelor",
+      "gama globulinele pot participa la răspunsul imun",
+      "aproximativ 7 % din proteinele plasmatice sunt reprezentate de alfa și beta globuline",
+      "vâscozitatea sângelui depinde de cantitatea de albumine din plasmă"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 27,
+    "question": "O persoană de grupă sanguină AB:",
+    "options": [
+      "prezintă pe suprafața membranei plasmatice a hematiilor antigene A și B",
+      "conține în plasmă anticorpi anti-A și anti-B",
+      "poate dona sânge unei persoane cu grupa sanguină 0",
+      "nu conține în plasmă anticorpi anti-A și anti-B",
+      "nu poate primi sânge de la o persoană cu grupa sanguină 0"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 28,
+    "question": "Care dintre următoarele tipuri de leucocite prezintă granulații?",
+    "options": [
+      "limfocite",
+      "eozinofile",
+      "neutrofile",
+      "monocite",
+      "bazofile"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 29,
+    "question": "Care dintre următoarele tipuri de granulocite participă la reacții alergice?",
+    "options": [
+      "limfocite",
+      "eozinofile",
+      "neutrofile",
+      "monocite",
+      "bazofile"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 30,
+    "question": "Care dintre următoarele tipuri de leucocite au rol fagocitar?",
+    "options": [
+      "limfocite",
+      "eozinofile",
+      "neutrofile",
+      "monocite",
+      "osteoclastele"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 31,
+    "question": "În cursul hematopoeizei, plachetele sanguine:",
+    "options": [
+      "provin din diviziunea și maturarea macrofagelor",
+      "se formează din megacariocite",
+      "sunt sintetizate la nivelul ganglionilor limfatici din hemocitoblaste",
+      "se formează în măduva roșie osoasă sub acțiunea eritropoietinei",
+      "se desprind direct din citoplasma hemocitoblastilor și sunt eliberate în circulație"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 32,
+    "question": "Selectați afirmațiile corecte referitoare la agranulocite:",
+    "options": [
+      "limfocitele conțin un nucleu mare, violet, reniform, care ocupă aproape toată celula",
+      "limfocitele B reprezintă precursorii plasmacitelor, celule producătoare de gama globuline",
+      "monocitele sunt tipul cel mai numeros de leucocite",
+      "monocitele pot traversa peretele vaselor de sânge prin diapedeză, devenind macrofage",
+      "maturarea limfocitelor T se realizează în timus, sub acțiunea timozinei"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 33,
+    "question": "La calea extrinsecă a coagulării participă:",
+    "options": [
+      "factorii VIII, IX, X, XI și XII ai coagulării",
+      "factorii plachetari",
+      "tromboplastina tisulară",
+      "factorul VII al coagulării",
+      "ionii de Ca²⁺"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 34,
+    "question": "Referitor la antigenul Rh se poate afirma că:",
+    "options": [
+      "este o gamaglobulină prezentă în plasmă",
+      "este prezent pe membrana eritrocitelor unei mici părți din populație",
+      "lipsește de pe membrana hematiilor unei persoane Rh⁺",
+      "în timpul nașterii, poate pătrunde în circulația unei mame Rh⁻ cu un copil Rh⁺",
+      "poate declanșa sinteza de anticorpi anti-Rh la o mamă Rh⁻ cu un copil Rh⁺"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 35,
+    "question": "La calea comună a coagulării participă:",
+    "options": [
+      "unele proteine plachetare: fibrinogenul",
+      "factorul de coagulare VII",
+      "Ca²⁺",
+      "fibrină solubilă",
+      "protrombina, o enzimă inactivă"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 36,
+    "question": "Selectați afirmațiile corecte referitoare la rolurile hematiilor:",
+    "options": [
+      "permit transportul oxigenului legat de mioglobină",
+      "au formă de disc biconcav",
+      "transportă o cantitate mică de dioxid de carbon combinat cu hemoglobina",
+      "sunt cele mai numeroase elemente figurate sanguine",
+      "intervin în transportul sanguin al gazelor respiratorii"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 37,
+    "question": "Hemoliza:",
+    "options": [
+      "presupune distrugerea splenică eritrocitelor tinere, după aproximativ 12 zile de viață",
+      "se poate produce sub acțiunea unei soluții saline hipotone",
+      "conduce la degradarea hemoglobinei cu formare de urobilinogen la nivelul splinei",
+      "prin degradarea hemului provenit din hemoglobină, conduce la formarea de pigment verziu (biliverdină)",
+      "se poate desfășura în splină, ficat și rinichi sub acțiunea macrofagelor"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 38,
+    "question": "La calea intrinsecă a coagulării participă:",
+    "options": [
+      "factorii plachetari",
+      "tromboplastina tisulară",
+      "fibrină insolubilă",
+      "Ca²⁺",
+      "factorul VII al coagulării"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 39,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "proteinele plasmatice traversează cu ușurință pereții capilarelor sanguine",
+      "plasma sanguină conține o cantitate redusă de apă",
+      "cheagul de sânge conține filamente de fibrină și elemente figurate sanguine",
+      "macrofagele participă la fagocitarea și la prezentarea antigenelor",
+      "pe parcursul formării eritrocitelor mature, din celulele tinere se pierd nucleul și organitele celulare"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 40,
+    "question": "Serul sanguin:",
+    "options": [
+      "conține cantități crescute de fibrinogen",
+      "are o compoziție identică cu plasma sanguină",
+      "se formează în urma hemolizei",
+      "nu conține proteine plasmatice implicate în coagulare",
+      "este rezultatul procesului de homeostazie"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 41,
+    "question": "Sângele conține:",
+    "options": [
+      "apă - 99 %",
+      "anioni - 1 %",
+      "fibrinogen - 7 %",
+      "elemente figurate - 45 %",
+      "gamaglobuline - 40 % din totalul proteinelor plasmatice"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 42,
+    "question": "Albuminele:",
+    "options": [
+      "reprezintă 7 % din compoziția plasmei",
+      "contribuie la vâscozitatea sângelui",
+      "mențin pH-ul sângelui între 7,25-7,35",
+      "transportă acizi grași",
+      "sunt sintetizate de plasmocite și participă la apărarea organismului"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 43,
+    "question": "Care dintre afirmațiile următoare cu privire la eritrocite sunt adevărate?",
+    "options": [
+      "au marginile mai subțiri decât zona centrală",
+      "se zăbăresc dacă sunt introduse într-o soluție hipotonă",
+      "producția lor este reglată de renină, un hormon produs de rinichi în condițiile unui aport scăzut de oxigen",
+      "reprezintă aproximativ 47 % din sânge la bărbat, procent care poartă numele de hematocrit",
+      "au un diametru de 7,8 μm"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 44,
+    "question": "Hemoglobina se caracterizează prin:",
+    "options": [
+      "are în structura sa 4 grupări hem",
+      "are 2 lanțuri alfa și 2 lanțuri beta, ce totalizează împreună aproximativ 150 de aminoacizi",
+      "se leagă puternic de oxigen formând oxihemoglobina",
+      "transportă cea mai mare parte a dioxidului de carbon din sânge",
+      "poate transporta pe fiecare lanț polipeptidic până la 4 molecule de oxigen"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 45,
+    "question": "Care dintre afirmațiile următoare cu privire la hemoglobină nu sunt corecte?",
+    "options": [
+      "lanțurile polipeptidice se pot degrada în biliverdină",
+      "fiecare grupare hem poate lega slab un atom de oxigen",
+      "dioxidul de carbon se poate transporta în plasmă sub formă de carbaminohemoglobină",
+      "bilirubina este transportată de la splină la ficat prin vena splenică și vena portă",
+      "este o proteină plasmatică formată din 4 lanțuri polipeptidice"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 46,
+    "question": "O persoană cu grupa de sânge 0, Rh pozitiv poate dona sânge la o persoană cu grupa:",
+    "options": [
+      "0, indiferent de Rh",
+      "B, Rh pozitiv",
+      "AB, Rh negativ",
+      "AB, indiferent de Rh",
+      "A, Rh pozitiv"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 47,
+    "question": "O persoană cu grupa de sânge B, Rh negativ nu poate primi sânge de la o persoană cu grupa:",
+    "options": [
+      "0, Rh negativ",
+      "B, Rh pozitiv",
+      "AB, Rh negativ",
+      "0, Rh pozitiv",
+      "AB, Rh pozitiv"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 48,
+    "question": "Eozinofilele:",
+    "options": [
+      "reprezintă aproximativ 1 % din totalul elementelor figurate ale sângelui",
+      "au nucleu bilobat",
+      "prezintă în citoplasmă granulații care au nativ culoarea roșie strălucitoare",
+      "sunt crescute numeric în infecții fungice",
+      "sunt crescute numeric în infecții bacteriene"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 49,
+    "question": "Monocitele:",
+    "options": [
+      "au un nucleu reniform și granulații violete în colorația Wright",
+      "reprezintă 6-8 % din totalul elementelor figurate ale sângelui",
+      "se transformă în țesuturi în celule care, după fagocitoza unor microorganisme, prezintă antigenele acestora limfocitelor",
+      "pot crește numeric în tuberculoză",
+      "pot fi atipice în mononucleoză infecțioasă"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 50,
+    "question": "Trombocitele:",
+    "options": [
+      "aderă la fibrele de colagen din peretele vascular lezat",
+      "declanșează calea extrinsecă a coagulării",
+      "reprezintă componenta vasculară a hemostazei",
+      "se pot forma la adult în diafiza osului compact din megacariocite",
+      "pot duce la sângerări dacă numărul lor este prea mare"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 51,
+    "question": "Despre hemoglobină se pot afirma următoarele:",
+    "options": [
+      "este un pigment roșu, format din 4 lanțuri polipeptidice, 2 alfa și 2 beta",
+      "fiecare lanț polipeptidic este atașat unei grupări hem ce conține un Fe",
+      "oxigenul se fixează puternic de fierul hemului pentru a forma oxihemoglobina",
+      "monoxidul de carbon se combină rapid și mai puternic decât oxigenul cu Fe hemoglobinei",
+      "hemul se degradează în biliverdină, care se va transforma în bilirubină"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 52,
+    "question": "Despre grupele sanguine sunt adevărate afirmațiile:",
+    "options": [
+      "anticorpul anti-A este prezent pe membrana hematiilor de grup B",
+      "grupa A prezintă anticorpi anti-B plasmatici",
+      "sistemul Rh este important atât în cazul unei sarcini în care mama are Rh negativ și fătul are Rh pozitiv, cât și în transfuzii",
+      "antigenele A și B sunt molecule proteice prezente în plasmă",
+      "grupa B, Rh negativ poate dona sânge grupei AB, Rh pozitiv"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 53,
+    "question": "Selectați asocierile corecte referitoare la proteinele plasmatice:",
+    "options": [
+      "albuminele - menținerea presiunii osmotice a sângelui",
+      "gamaglobulinele - anticorpi implicați în stimularea apariției de antigene",
+      "globuline alfa și beta - transport de hormoni, vitamine și alte substanțe",
+      "fibrinogen - proteină produsă de ficat implicată în coagulare",
+      "hemoglobina - fixarea gazelor respiratorii"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 54,
+    "question": "Despre hematii sunt adevărate afirmațiile:",
+    "options": [
+      "prezintă o organizare internă redusă, fără nucleu, dar cu organite",
+      "sunt saci plini cu hemoglobină, prin care fixează oxigenul pe care îl transportă la țesuturi",
+      "au formă generală de disc biconcav, flexibil cu diametrul de 7,8 μm",
+      "conțin fier, ceea ce duce la sedimentarea rapidă prin centrifugare",
+      "volumul procentual de hematii din volumul de sânge reprezintă hematocritul, care are valoare mai mare la femeie decât la bărbat"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 55,
+    "question": "Rolul sângelui este de a:",
+    "options": [
+      "transporta hormonii în tot organismul",
+      "proteja organismul de boli prin acțiunea unor celule sanguine",
+      "transporta gazele respiratorii dizolvate plasmatic sau fixate pe hemoglobina leucocitară",
+      "transporta produșii de metabolism spre organele de excreție",
+      "transporta nutrienți și produși de metabolism"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 56,
+    "question": "Despre sistemul Rh sunt corecte afirmațiile:",
+    "options": [
+      "transfuziile de sânge de la persoane Rh pozitiv la persoane Rh negativ nu prezintă riscuri",
+      "după o transfuzie cu sânge Rh pozitiv la o persoană Rh negativ apar în plasmă anticorpi anti-Rh",
+      "anticorpii anti-Rh sunt prezenți în plasmă la 10-15 % din populație",
+      "la persoanele Rh negativ pot fi prezenți în plasmă anticorpi anti-A sau anti-B",
+      "eritroblastoza fetală poate să apară la al doilea făt Rh pozitiv, cu mamă Rh negativ"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 57,
+    "question": "Degradarea hemului implică:",
+    "options": [
+      "transformarea hemului în biliverdină",
+      "convertirea biliverdinei în bilirubină",
+      "transformarea bilirubinei în biliverdină",
+      "convertirea unei părți de bilirubină în urobilinogen",
+      "eliminarea urobilinogenului doar prin materiile fecale"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 58,
+    "question": "Plasma conține:",
+    "options": [
+      "82 % apă",
+      "7 % proteine cu rol în coagulare",
+      "1 % ioni, dintre care Na și Cl în cantitățile cele mai mari",
+      "produși de degradare ai metabolismului celular",
+      "nutrienți, hormoni și gaze dizolvate"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 59,
+    "question": "Activarea protrombinei pe cale extrinsecă presupune:",
+    "options": [
+      "formarea tromboplastinei plachetare",
+      "activarea factorului VII prin acțiunea factorilor tisulari și a ionilor de calciu",
+      "intervenția factorului plachetar sintetizat de trombocite sau de celulele endoteliale",
+      "formarea activatorului protrombinei sub acțiunea tromboplastinei tisulare, a ionilor de calciu și a altor factori",
+      "activarea fibrinogenului de către trombină"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 60,
+    "question": "Adaptarea la scăderea oxigenării tisulare implică:",
+    "options": [
+      "secreția de eritropoetină de către celulele hepatice",
+      "traversarea peretelui capilarelor măduvei osoase de către hematiile mature",
+      "secreția de eritropoetină de către celulele renale",
+      "stimularea producției de celule roșii în măduva spinării",
+      "formarea de globule roșii din celule stem"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 61,
+    "question": "Despre tipurile de granulocite se pot afirma următoarele:",
+    "options": [
+      "fiecare dintre ele reprezintă aproximativ 1 % din numărul total de leucocite",
+      "toate tipurile intervin în inflamații",
+      "prezintă granulații ce se colorează în albastru în cazul eozinofilelor",
+      "două dintre ele, eozinofilele și bazofilele, au rol în reacțiile alergice",
+      "creșterea numărului de eozinofile este prezentă în infestații parazitare"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 62,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "bărbații au 4,8 milioane de hematii/mililitru de sânge",
+      "plasarea hematiilor în soluții cu concentrații mai mici decât cea normală, soluții hipotone, duce la hemoliză, cu eliberarea hemoglobinei",
+      "femeile au un hematocrit de 47 %",
+      "eritrocitele sunt produse în măduva roșie osoasă din hemocitoblaste (celule stem)",
+      "eritropoieza este controlată de eritropoetină"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 63,
+    "question": "Plachetele:",
+    "options": [
+      "sunt în număr de 15000-30000/mm³ de sânge",
+      "se formează din megacariocite, derivate din hemocitoblaste",
+      "reprezintă fragmente de citoplasmă înconjurate de membrană",
+      "intervin în hemostază și coagulare",
+      "activează calea intrinsecă și extrinsecă a coagulării"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 64,
+    "question": "În compoziția sângelui intră:",
+    "options": [
+      "fibrinogen și albumine, proteine sintetizate în ficat",
+      "limfocite, cea mai mare parte din elementele figurate",
+      "plasmă, 55 % și elemente figurate, 45 %",
+      "92 % apă și anionii Na, K, Ca, Mg",
+      "lipide, glucoză și aminoacizi"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 65,
+    "question": "Despre distrugerea globulelor roșii sunt adevărate afirmațiile:",
+    "options": [
+      "sunt distruse și fagocitate de macrofage în splină, ficat, măduva osoasă",
+      "se produce după aproximativ 120 zile de viață a hematiei",
+      "lanțurile polipeptidice rezultate sunt desfăcute și eliberează aminoacizi",
+      "fierul eliberat este refolosit pentru noi sinteze de hemoglobină",
+      "hemul se transformă succesiv în bilirubină, biliverdină, urobilinogen"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 66,
+    "question": "Neutrofilele (leucocitele polimorfonucleare):",
+    "options": [
+      "asigură fagocitoza la locul infecției",
+      "intervin în reacțiile alergice",
+      "prezintă granule ce se colorează cu coloranți neutri în albastru-violaceu",
+      "au un nucleu cu 2-5 lobi",
+      "reprezintă 30 % dintre leucocite"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 67,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "apărarea organismului este asigurată și de elemente figurate ale sângelui",
+      "anticorpii anti-A participă la apărarea organismului",
+      "răspunsul imun se realizează și prin gamaglobuline",
+      "antigenul Rh are importanță doar în transfuzii",
+      "anticorpii anti-Rh se găsesc întotdeauna în plasma persoanelor Rh pozitiv"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 68,
+    "question": "În calea comună a coagulării intervin următoarele componente:",
+    "options": [
+      "tromboplastina - derivată din plachete, în prezența Ca²⁺ și a unor factori de coagulare",
+      "protrombina - proteină globulară",
+      "factorul plachetar - eliberat de plachete și celulele endoteliale din vasele de sânge",
+      "trombina - activată în prezența Ca²⁺",
+      "factorul VII al coagulării - activat de factorii tisulari la nivel vascular"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 69,
+    "question": "Leucocitele pot fi:",
+    "options": [
+      "agranulocite - monocitele, neutrofilele și macrofagele",
+      "granulocite - eozinofilele, neutrofilele și bazofilele",
+      "agranulocite - limfocitele și monocitele",
+      "prezente în mediul tisular, după ce traversează pereții capilarelor prin diapedeză",
+      "scăzute numeric în anemie"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 70,
+    "question": "Hemostaza:",
+    "options": [
+      "este inițiată de formarea tromboplastinei",
+      "implică aderarea plachetelor de fibrele de colagen din peretele vascular",
+      "determină formarea agregatelor plachetare la nivelul leziunii vasului",
+      "este o reacție ce se produce după coagulare",
+      "controlează pierderile de sânge la locul leziunii prin formarea agregatului plachetar"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 71,
+    "question": "Fibrinogenul:",
+    "options": [
+      "este o proteină prezentă în plasma sanguină",
+      "este un fosfolipid sintetizat de ficat",
+      "reprezintă aproximativ 7 % din substanțele organice din plasmă",
+      "participă la procesul de coagulare, transformându-se în fibrină solubilă",
+      "este o proteină plasmatică care transportă acizi grași și hormoni"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 72,
+    "question": "Selectați afirmațiile corecte referitoare la grupele sanguine:",
+    "options": [
+      "antigenul Rh este prezent în plasma persoanelor Rh⁺",
+      "anticorpii anti-A și anti-B sunt prezenți în serul persoanelor de grup AB",
+      "factorul Rh, similar grupelor sanguine din sistemul AB0, este important în cazul transfuziilor sanguine",
+      "grupa sanguină 0 și Rh⁺ poate dona sânge tuturor grupelor sanguine, indiferent de Rh",
+      "o persoană de grup sanguin B și Rh⁺ poate dona sânge unei persoane de grup AB și Rh⁺"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 73,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "macrofagele au ca funcție principală fagocitoza",
+      "limfocitele T se maturează în timus",
+      "macrofagele ajung în țesuturi prin diapedeză și se transformă în monocite",
+      "hematiile pot conține pe suprafața membranei anticorpii anti-Rh, anti-A și anti-B",
+      "plachetele sanguine intervin în formarea agregatelor plachetare, dar nu și în coagularea sângelui"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 74,
+    "question": "Despre eozinofile se pot afirma următoarele:",
+    "options": [
+      "numărul lor scade în reacții alergice",
+      "au un nucleu care prezintă 2-5 lobi",
+      "reprezintă aproximativ 30 % din numărul total de leucocite",
+      "numărul lor crește în parazitoze",
+      "participă la inflamație, similar bazofilelor"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 75,
+    "question": "Serul sanguin:",
+    "options": [
+      "reprezintă fluidul care rămâne după consumarea proteinelor de coagulare din plasmă pe parcursul procesului de coagulare",
+      "are o compoziție identică cu plasma sanguină",
+      "conține gamaglobuline cu rol de anticorpi",
+      "poate fi folosit pentru studii imunologice",
+      "are în compoziția sa proteine sintetizate de plasmocite"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 76,
+    "question": "Plasma conține următoarele substanțe anorganice:",
+    "options": [
+      "bicarbonat",
+      "aminoacizi",
+      "Ca²⁺ și fibrinogen",
+      "ioni Na⁺",
+      "sulfați"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 77,
+    "question": "Sângele poate transporta următoarele substanțe chimice:",
+    "options": [
+      "compuși azotați de degradare",
+      "gaze respiratorii",
+      "hormoni steroidieni și non-steroidieni",
+      "elemente figurate",
+      "eritropoietină"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 78,
+    "question": "Bilirubina rezultată din metabolizarea hemoglobinei:",
+    "options": [
+      "se formează în ficat și circulă spre splină prin vena portă",
+      "este un pigment verziu rezultat din descompunerea grupării hem",
+      "este excretată de ficat în bilă",
+      "este transformată în urobilinogen de bacteriile prezente în căile urinare",
+      "este reabsorbită din urină și este excretată de intestinul gros, fiind responsabilă de culoarea caracteristică a materiilor fecale"
+    ],
+    "answers": [2]
+  },
+  {
+    "id": 79,
+    "question": "Macrofagele:",
+    "options": [
+      "previn răspunsul imun prin fagocitoza microorganismelor",
+      "sunt celule cu nucleu foarte mare, care rezultă prin fragmentarea megacariocitelor",
+      "la nivelul nodulilor limfatici, prezintă limfocitelor antigenele conținute de microorganismele fagocitate",
+      "se formează în țesuturi prin diferențierea unor agranulocite",
+      "sunt cele mai mici elemente figurate sanguine"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 80,
+    "question": "Selectați enunțurile corecte referitoare la funcțiile elementelor figurate sanguine:",
+    "options": [
+      "plachetele sanguine nu sunt celule",
+      "hematiile transportă gaze respiratorii",
+      "limfocitele au un rol posibil în reacțiile alergice, distrugând celulele străine prin fagocitoză",
+      "limfocitele T și B sunt celule cheie ale sistemului imun",
+      "neutrofilele se adună rapid la locul unei infecții"
+    ],
+    "answers": [1, 3, 4]
+  }
+]

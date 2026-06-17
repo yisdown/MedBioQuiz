@@ -1,0 +1,1201 @@
+[
+  {
+    "id": 1,
+    "question": "Rinichii îndeplinesc următoarele funcții:",
+    "options": [
+      "contribuie la reglarea presiunii sanguine",
+      "reglează concentrația cationilor plasmatici (sodiu, potasiu, bicarbonat)",
+      "controlează concentrația produșilor de degradare din sânge",
+      "contribuie la menținerea pH-ului plasmatic",
+      "reglează volumul plasmatic"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 2,
+    "question": "Zona medulară a rinichiului conține:",
+    "options": [
+      "piramidele renale",
+      "glomerulii renali",
+      "arteriolele aferente și eferente",
+      "ansele Henle",
+      "capilare peritubulare"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 3,
+    "question": "Selectați afirmațiile corecte privind filtrarea glomerulară:",
+    "options": [
+      "compoziția filtratului glomerular este identică cu cea a plasmei sanguine",
+      "rata de filtrare glomerulară este de aproximativ 125 ml/oră la bărbați",
+      "are loc datorită permeabilității crescute a capilarelor glomerulare comparativ cu alte capilare ale organismului",
+      "presiunea sanguină din capilarele glomerulare este mai mică decât în alte capilare",
+      "este favorizată de diferența de calibru dintre arteriola aferentă și cea eferentă"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 4,
+    "question": "Selectați afirmațiile corecte privind reabsorbția la nivelul tubului contort proximal:",
+    "options": [
+      "microvilozitățile prezente în pereți cresc suprafața de reabsorbție",
+      "glucoza este reabsorbită pasiv",
+      "ionii de sodiu se reabsorb activ",
+      "reabsorbția ionilor de clor este stimulată de gradientul electric creat de reabsorbția ionilor de sodiu",
+      "apa se reabsoarbe datorită gradientului osmotic creat de concentrarea clorurii de sodiu în capilarele glomerulare"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 5,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "în ramura descendentă a ansei Henle se reabsorb ionii de sodiu și de clor",
+      "ureea este reabsorbită la nivelul tubului colector și odată acumulată în interstițiu creează gradientul osmotic necesar reabsorbției apei",
+      "ramura ascendentă a ansei Henle este impermeabilă pentru apă",
+      "la nivelul tubului colector se produce diluarea urinei",
+      "secreția tubulară se desfășoară pe toată lungimea nefronului"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 6,
+    "question": "Selectați afirmațiile adevărate privind secreția tubulară:",
+    "options": [
+      "constă din transportul compușilor chimici din filtratul glomerular în capilarele peritubulare",
+      "este un proces pasiv",
+      "se realizează pentru penicilină, acid uric, creatinină, amoniac și ioni de hidrogen",
+      "se realizează din capilarele peritubulare în lumenul tubului contort proximal",
+      "schimbă concentrația ionilor pentru a menține homeostazia sângelui"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 7,
+    "question": "La scăderea debitului filtrării glomerulare:",
+    "options": [
+      "scade numărul ionilor de Na⁺ și Cl⁻ ajunși în tubii contorții proximali",
+      "scade cantitatea de urină",
+      "crește secreția de apă",
+      "crește secreția de eritropoietină",
+      "crește eliberarea de PTH"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 8,
+    "question": "Ureea:",
+    "options": [
+      "trece din capilarul glomerular în capsula glomerulară",
+      "se reabsoarbe prin osmoză",
+      "se reabsoarbe activ, prin difuziune",
+      "trece din lumenul porțiunii terminale a tubului colector în interstițiul peritubular",
+      "trece înapoi din interstițiul peritubular în ansa Henle"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 9,
+    "question": "Selectați afirmațiile false privind ADH-ul:",
+    "options": [
+      "este secretat de către lobul posterior al glandei hipofize",
+      "în caz de hipersecreție, scade diureza",
+      "în caz de hiposecreție, are loc o producere excesivă de urină",
+      "crește presiunea arterială",
+      "este secretat de către nucleii paraventriculari și supraoptic ai hipofizei"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 10,
+    "question": "Rețeaua de capilare peritubulare:",
+    "options": [
+      "se găsește în jurul rinichiului",
+      "primește sângele din arteriolele eferente",
+      "se găsește numai în cortexul renal",
+      "se găsește și în jurul tubilor contorți proximali și distali",
+      "permite reabsorbția și secreția"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 11,
+    "question": "Selectați afirmațiile corecte referitoare la structura rinichiului:",
+    "options": [
+      "la nivelul hilului, pelvisul renal are raport posterior cu vena renală",
+      "prin unirea calicelor mari se formează calicele mici",
+      "capsula renală înconjoară rinichiul",
+      "fiecare nefron este alcătuit din capsula renală și sistemul tubular",
+      "piramidele renale sunt situate la nivelul regiunii medulare"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 12,
+    "question": "Următoarele afirmații privind vascularizația rinichiului sunt corecte:",
+    "options": [
+      "artera și vena renală părăsesc rinichiul la nivelul hilului",
+      "capilarele glomerulare sunt încadrate între două arteriole",
+      "capilarele peritubulare permit procese de reabsorbție și de secreție",
+      "arteriola aferentă are un diametru mai mare decât cea eferentă",
+      "capilarele glomerulare sunt drenate în venele renale"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 13,
+    "question": "Filtrarea glomerulară:",
+    "options": [
+      "are loc la nivelul capsulei Bowman",
+      "permite formarea filtratului glomerular, un fluid lipsit de proteine și de celule sanguine",
+      "se derulează cu o rată mai mare la femei decât la bărbați",
+      "la bărbați se formează cu o rată de 125 ml/oră",
+      "permite filtrarea prin glomerul a unui volum de 7,5 l/min la femei"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 14,
+    "question": "Selectați afirmațiile corecte referitoare la reabsorbția tubulară:",
+    "options": [
+      "se desfășoară prin procese active sau passive",
+      "necesită întotdeauna hidroliza ATP-ului",
+      "utilizează mecanisme active în cazul unor monozaharide și al aminoacizilor",
+      "este activă în cazul ionilor Na⁺ și Cl⁻, dar pasivă pentru apă",
+      "pentru ionii de sodiu, este stimulată la nivelul tubului contort distal de către un hormon mineralocorticoid"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 15,
+    "question": "Care dintre componentele sistemului tubular al nefronului sunt permeabile pentru apă?",
+    "options": [
+      "tubul contort proximal",
+      "tubul contort distal, în prezența aldosteronului",
+      "ramura descendentă a ansei Henle",
+      "capsula glomerulară",
+      "ramura ascendentă a ansei Henle"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 16,
+    "question": "La formarea urinei participă următoarele procese principale:",
+    "options": [
+      "filtrarea",
+      "secreția tubulară",
+      "reabsorbția tubulară",
+      "absorbția tubulară",
+      "secreția glomerulară"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 17,
+    "question": "Mecanismul în contracurent are loc la nivelul:",
+    "options": [
+      "tubului contort proximal",
+      "tubului contort distal",
+      "capsulei Bowman",
+      "ansei Henle",
+      "tubului colector"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 18,
+    "question": "La nivelul tubilor distali sunt secrete următoarele substanțe:",
+    "options": [
+      "acidul uric",
+      "amoniac",
+      "glucoza",
+      "ionii Na⁺",
+      "apa"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 19,
+    "question": "Următoarele molecule se reabsorb pasiv la nivelul tubului contort proximal:",
+    "options": [
+      "apa - prin difuziune facilitată",
+      "ionii Cl⁻ - prin difuziune simplă",
+      "glucoza - prin difuziune facilitată",
+      "apa - prin gradient osmotic",
+      "ionii de clor - în gradient electric"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 20,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "medulara internă este hipotonă",
+      "ADH-ul deschide porii celulelor tubulare de la nivelul tubului colector",
+      "concentrația NaCl crește dinspre corticală spre medulă",
+      "sub acțiunea aldosteronului, secreția tubulară permite eliminarea ionilor Na⁺ din organism",
+      "energia necesară transportului transmembranar activ implicat în reabsorbția și secreția tubulară provine din ATP"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 21,
+    "question": "Reabsorbția tubulară poate fi influențată de următorii factori umorali:",
+    "options": [
+      "un hormon secretat de hipofiza posterioară",
+      "hormonul antidiuretic",
+      "un hormon produs de regiunea corticală a glandei suprarenale",
+      "aldosteronul",
+      "sistemul renină-angiotensină"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 22,
+    "question": "Ramura ascendentă a ansei Henle are următoarele caractere funcționale:",
+    "options": [
+      "permite secreția pasivă a ionilor de sodiu și clor",
+      "nu permite reabsorbția tubulară a apei",
+      "este implicată în reabsorbția activă a ionilor de sodiu și clor",
+      "intervine în mecanismul în contracurent",
+      "poate fi înconjurată de o rețea de capilare"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 23,
+    "question": "În condiții fiziologice, în urină putem întâlni:",
+    "options": [
+      "urobilinogen - rezultat din metabolismul hemoglobinei",
+      "uree - formată în ciclul Krebs",
+      "corpi cetonici - obținuți prin anabolism lipidic",
+      "acid uric - rezultat din catabolismul aminoacizilor",
+      "creatinina - un produs al metabolismului fosfocreatinei musculare"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 24,
+    "question": "Selectați afirmațiile corecte referitoare la structurile anexe ale sistemului urinar:",
+    "options": [
+      "la nivelul ureterelor pot fi înregistrate unde peristaltice care favorizează transportul urinei",
+      "vezica urinară prezintă un perete alcătuit din fibre musculare striate acoperite de o mucoasă",
+      "ureterele au o lungime de aproximativ 25-30 cm și permit un flux urinar de 5 ml/min",
+      "uretra masculină este mai lungă decât uretra feminină",
+      "la nivelul vezicii urinare există trei orificii: unul pentru ureter și două pentru uretre"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 25,
+    "question": "La procesul de excreție pot participa:",
+    "options": [
+      "ficatul - pentru pigmenții biliari",
+      "plămânii - pentru unele substanțe volatile (CO₂)",
+      "intestinul - pentru unele săruri de fier și calciu",
+      "pielea - pentru unele cantități de uree, amoniac și acid uric",
+      "intestinul gros - pentru eliminarea materialelor nedigerate din corp prin defecție"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 26,
+    "question": "Ureterele:",
+    "options": [
+      "sunt tuburi pereche ce conțin fibre musculare striate",
+      "încep de la calice și coboară până la vezica urinară",
+      "prezintă contracții peristaltice",
+      "evacuază continuu urina în vezica urinară",
+      "conțin urină cu densitate mai mare dimineața"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 27,
+    "question": "Rețeaua de capilare peritubulare:",
+    "options": [
+      "este situată în jurul rinichiului",
+      "primește sânge din arteriolele eferente",
+      "se găsește doar în corticala renală",
+      "drenează sângele în vena renală",
+      "permite procesele de reabsorbție și secreție"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 28,
+    "question": "Următoarele structuri nu aparțin rinichiului:",
+    "options": [
+      "capsula glomerulară Bowman și tubii colectori",
+      "pelvisul renal, situat medial față de piramidele renale",
+      "coloanele renale, prelungiri ale corticalei renale",
+      "tubul contort proximal, ansa Henle și tubul contort distal",
+      "ureterele, tuburi formate din mușchi neted visceral"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 29,
+    "question": "Alegeți afirmațiile incorecte despre procesele ce au loc la nivelul tubilor uriniferi:",
+    "options": [
+      "secreția ionului de potasiu la nivelul tubului contort distal se face prin schimb cu ionul de hidrogen",
+      "reabsorbția apei la nivelul tubului contort proximal este stimulată de aldosteron",
+      "secreția ionului de hidrogen în tubul contort distal este un proces activ",
+      "reabsorbția ionului de sodiu în tubii contorți distali este stimulată de mineralocorticoizi",
+      "aldosteronul controlează eliminările urinare de potasiu"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 30,
+    "question": "Următoarele afirmații sunt adevărate:",
+    "options": [
+      "rinichii sunt localizați în regiunea lombo-sacrată, de o parte și de alta a coloanei vertebrale",
+      "secreția de protoni determină creșterea pH-ului urinar",
+      "diametrul arteriolei aferente este mai mic decât cel al arteriolei eferente",
+      "în plan coronal, corticosuprarenală este situată superior față de pelvisul renal",
+      "marginea laterală a rinichiului stâng este situată în cea mai mare parte sub rebordul costal"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 31,
+    "question": "Selectați afirmațiile corecte despre filtrarea glomerulară:",
+    "options": [
+      "are loc la nivelul unei structuri situate în corticala renală",
+      "presupune filtrarea la nivelul glomerulilor renali a aproximativ 7,5 litri de plasmă pe zi",
+      "este un proces care, în cazul ionului de sodiu, se realizează fără consum de energie",
+      "se realizează prin transport activ, la trecerea din capilarele glomerulare în capsula glomerulară",
+      "pentru apă, trecerea ei din tubii contorți proximali în capilarele peritubulare se face prin osmoză"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 32,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "ureea se reabsoarbe în porțiunea distală a tubului colector",
+      "ureea intervine în mecanismul de concentrare a urinei",
+      "mediul hiperosmotic din medulara profundă se opune pierderii de apă din organism prin urină",
+      "ureea este reabsorbită din ansa Henle și secretată în porțiunea finală a tubului colector",
+      "microvilozitățile celulelor tubului contort proximal participă la creșterea suprafeței de reabsorbție tubulară"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 33,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "sistemul nervos simpatic relaxează musculatura netedă a vezicii urinare",
+      "micțiunea este un act reflex medular",
+      "prin celulele epiteliale intestinale se pot pierde săruri de sodiu și potasiu",
+      "sistemul nervos parasimpatic relaxează musculatura netedă a ureterelor",
+      "plămânii excretă cantități mari de apă"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 34,
+    "question": "Despre organele excretoare sunt adevărate următoarele afirmații:",
+    "options": [
+      "plămânii excretă o cantitate mică de apă",
+      "la nivelul intestinului se excretă toate sărurile și apa",
+      "prin defecație se elimină din organism și materiale nedigerate",
+      "ureea este excretată atât de rinichi (prin urină) cât și de piele (prin transpirație)",
+      "ficatul excretă metaboliți ai pigmentului prezent în hematii"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 35,
+    "question": "Rinichiul îndeplinește următoarele funcții:",
+    "options": [
+      "endocrină, prin secreție de vasopresină și aldosteron",
+      "de eliminare a apei din organism, prin secreție tubulară",
+      "de eliminare a unor produși ai metabolismului lipidic și respectiv ai metabolismului acizilor nucleici",
+      "de menținere a pH-ului plasmatic",
+      "de eliminare a unor produși de catabolism proteic: uree și amoniac"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 36,
+    "question": "Despre excreție sunt adevărate afirmațiile:",
+    "options": [
+      "este asigurată doar de rinichi",
+      "asigură eliminarea produșilor de degradare metabolică",
+      "asigură eliminarea unor cantități crescute de săruri, amoniac, uree și acid uric prin piele",
+      "asigură eliminarea de CO₂ prin organele cele mai mari din torace",
+      "este asigurată și prin defecație, care duce la eliminarea materialelor nedigerate"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 37,
+    "question": "Despre urină se pot afirma următoarele:",
+    "options": [
+      "conține uree, care este toxică pentru celule",
+      "se elimină involuntar în incontinență",
+      "se acumulează până la 600 ml în organul localizat anterior de simfiza pubiană",
+      "conține cationi ca Cl⁻, SO₄²⁻, PO₄³⁻",
+      "conține pigmenți din degradarea mioglobinei celulelor roșii"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 38,
+    "question": "Nefronul prezintă:",
+    "options": [
+      "o parte în corticala renală, alta în medulară",
+      "glomerulul înconjurat de capsula Bowman",
+      "ansa Henle ce pătrunde profund în corticala renală",
+      "tub contort proximal la nivelul căruia acționează hormonii",
+      "sistem tubular înconjurat de rețea capilară peritubulară"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 39,
+    "question": "Ureterele:",
+    "options": [
+      "sunt conducte tubulare ce se întind de la pelvisul renal la vezica urinară",
+      "au o lungime de aproximativ 35-40 cm",
+      "asigură un flux urinar de aproximativ 5 ml/min",
+      "se deschid la nivel vezical, prin 2 orificii, pentru fiecare parte",
+      "se deschid în organul cavitar localizat anterior de simfiza pubiană"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 40,
+    "question": "Caracteristicile urinei sunt:",
+    "options": [
+      "claritate în creștere, cu cât este mai stătută",
+      "cantitatea pe 24 ore dependentă doar de cantitatea de fluide ingerate",
+      "pH alcalin în alimentația bogată în vegetale",
+      "culoare galben-pai în funcție de dietă și de volumul urinar",
+      "miros amoniacal la urina proaspătă"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 41,
+    "question": "Despre filtrarea glomerulară sunt corecte afirmațiile:",
+    "options": [
+      "se petrece la nivelul ansei Henle, profund, în medulară",
+      "formează filtratul - o plasmă fără proteine și molecule mari",
+      "se produce cu o rată de 125 ml/min la sexul masculin",
+      "este favorizată de permeabilitatea capilarelor glomerulare, precum și de presiunea din aceste vase",
+      "filtrează aproximativ 9,5 litri de plasmă/oră"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 42,
+    "question": "Vascularizația rinichiului este asigurată prin:",
+    "options": [
+      "artere ce trec prin medulară - provenite din artera renală",
+      "rețea capilară peritubulară provenită din arteriolele aferente",
+      "arteriole aferente, vizibile doar microscopic",
+      "vene care confluiază, formând vena renală",
+      "pelvis renal care se continuă cu ureterul"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 43,
+    "question": "Vezica urinară:",
+    "options": [
+      "este localizată anterior de rect - la sexul masculin",
+      "prezintă un perete format din mucoasă și mușchi neted",
+      "prezintă trei orificii - 2 uretrale și 1 ureteral",
+      "poate conține maxim 400 ml de urină",
+      "este evacuată prin micțiune"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 44,
+    "question": "Despre acțiunea hormonală asupra rinichiului se pot afirma următoarele:",
+    "options": [
+      "vasopresina acționează ca răspuns al stimulării receptorilor chimici din hipotalamus",
+      "aldosteronul asigură eliminarea ionilor de K",
+      "ADH-ul stimulează reabsorbția tubulară a apei",
+      "insuficiența secretorie a aldosteronului poate duce la creșterea reabsorbției de sodiu",
+      "ADH-ul scade permeabilitatea membranelor celulare din tubul contort distal și colector"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 45,
+    "question": "Urina prezintă următoarele caracteristici:",
+    "options": [
+      "culoarea verde - chihlimbar - datorită pigmenților",
+      "densitate de 1015-1020 - mai crescută dimineața",
+      "cantitatea eliminată este de aproximativ 2,5-3 litri/zi",
+      "pH 4,6-8,0 cu o medie de 6 - în funcție de alimentație",
+      "densitate de 1020-1025 - mai crescută seara"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 46,
+    "question": "Despre rinichi se pot afirma următoarele:",
+    "options": [
+      "sunt localizați lateral de coloana vertebrală, susținuți de țesut adipos și epitelial",
+      "eliberează urina în pelvisul renal, care este un organ parenchimatos",
+      "cel din dreapta este localizat mai jos decât cel din stânga",
+      "sunt înveliți de o capsulă fibroasă albicioasă",
+      "la nivelul hilului, localizat lateral, prezintă pelvisul renal care se continuă cu ureterul"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 47,
+    "question": "Prezența urinară a pigmenților rezultați din degradarea hemoglobinei implică:",
+    "options": [
+      "acțiunea bacteriilor intestinale asupra bilirubinei",
+      "formarea urobilinogenului prin degradarea directă a hemoglobinei",
+      "transportul urobilinogenului la ficat prin vena portă",
+      "excreția renală a urobilinogenului ca o consecință a prezenței pigmentului în vena renală",
+      "degradarea hemoglobinei cu formarea bilirubinei"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 48,
+    "question": "Celulele tubilor renali:",
+    "options": [
+      "cele de la nivelul tubilor contorți distali asigură reabsorbția sărurilor minerale",
+      "prezintă microvilozități care scad suprafața de contact cu conținutul lumenului",
+      "asigură transportul activ, cu consum de energie",
+      "cele de la nivelul tubilor contorți proximali asigură reabsorbția glucozei și a aminoacizilor",
+      "asigură reabsorbția osmotică a apei din ramura ascendentă a ansei Henle"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 49,
+    "question": "În structura rinichiului se evidențiază:",
+    "options": [
+      "medulara - porțiunea profundă, unde ajung ansele Henle",
+      "corticala renală - unde sunt prezenți glomerulii renali",
+      "tubii nefronului ce coboară în medulară și se întorc în cortex",
+      "papilele renale, unde se deschid tubii colectori în calicele mici",
+      "calicele mici care se deschid în pelvisul renal"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 50,
+    "question": "Referitor la căile urinare la bărbat se poate afirma că:",
+    "options": [
+      "uretra are o lungime de aproximativ 5 cm",
+      "pelvisul renal se continuă cu ureterul",
+      "ureterele sunt organe tubulare care se întind de la rinichi până la vezica biliară",
+      "uretra are și rol de cale seminală",
+      "penisul este traversat de ureter"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 51,
+    "question": "Excreția este asigurată și de:",
+    "options": [
+      "intestin - prin intermediul căruia se pierd săruri de fier și calciu",
+      "eliminarea de cantități scăzute de săruri, amoniac, uree și acid uric prin transpirație",
+      "plămânii care degajă și cantități crescute de apă",
+      "piele - care este un organ excretor major"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 52,
+    "question": "Urina conține:",
+    "options": [
+      "75 % apă",
+      "uree - rezultată din procesul pancreatic de conversie al aminoacizilor în energie",
+      "cationi: Na, K, Mg, Ca",
+      "corpi cetonici - cu nivel scăzut la bolnavii cu diabet zaharat",
+      "pigmenți, hormoni, medicamente"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 53,
+    "question": "Funcția nefronului implică:",
+    "options": [
+      "reabsorbția - substanțele trec din filtrat în capilarele peritubulare",
+      "secreția tubulară - dinspre capilarele peritubulare înspre lumenul tubular",
+      "filtrarea - fluidul trece din capsula Bowman în sânge",
+      "secreția tubulară - la nivelul tubului contort proximal",
+      "reabsorbția - la nivelul tubului contort distal și colector"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 54,
+    "question": "Reabsorbția apei implică:",
+    "options": [
+      "reabsorbția prin mecanism osmotic, ca o consecință a reabsorbției NaCl",
+      "crearea unui gradient osmotic în ramura ascendentă a ansei Henle",
+      "reabsorbția ei în ramura ascendentă a ansei Henle",
+      "finalizarea reabsorbției în tubul colector, în urma transportului ureei",
+      "reabsorbția sub acțiunea ADH-ului, în funcție de gradul de hidratare al organismului"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 55,
+    "question": "Despre nefron și fiziologia lui sunt adevărate afirmațiile:",
+    "options": [
+      "glomerul și capsula glomerulară - reabsorbția prin transport activ al ionilor de sodiu",
+      "tubii distali - acțiunea vasopresinei și a aldosteronului",
+      "ansa Henle - ramura ascendentă - intrarea ionilor de Na prin difuziune facilitată",
+      "tubii proximali - reabsorbția glucozei și a aminoacizilor - prin transport activ",
+      "tubii distali - reabsorbția apei prin osmoză"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 56,
+    "question": "Rinichii:",
+    "options": [
+      "sunt localizați retroperitoneal",
+      "pe suprafața medială prezintă o depresiune concavă numită hil",
+      "eliberează urina direct la nivelul ureterului",
+      "sunt înveliți de o capsulă formată din țesut fibros de culoare albicioasă",
+      "sunt înveliți de o capsulă formată din țesut adipos"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 57,
+    "question": "Funcțiile rinichiului sunt:",
+    "options": [
+      "reglarea volumului plasmei sanguine",
+      "reglarea concentrației electroliților plasmatici",
+      "reglarea doar a concentrației ionilor de sodiu",
+      "reglarea presiunii sanguine",
+      "contribuie la menținerea echilibrului acido-bazic din plasmă"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 58,
+    "question": "Alegeți afirmațiile corecte despre structura rinichiului:",
+    "options": [
+      "prezintă o regiune externă numită corticală și o regiune profundă numită medulară",
+      "medulara prezintă piramide și coloane renale",
+      "vârful fiecărei piramide renale se deschide la nivelul calicelor mari",
+      "calicele mici converg la nivelul pelvisului renal",
+      "vârful piramidelor renale se deschide în calicele mici"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 59,
+    "question": "Nefronul:",
+    "options": [
+      "este unitatea funcțională a rinichiului",
+      "la nivelul lui se formează urina",
+      "se compune din vase mici care transportă sângele, capsula Bowman și un set de tubi care transportă filtratul",
+      "la nivelul lui, filtratul suferă modificări, obținându-se la final plasma",
+      "datorită structurilor lui are rol în excreția substanțelor necesare"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 60,
+    "question": "Despre nefron sunt adevărate următoarele afirmații:",
+    "options": [
+      "prezintă glomerulul renal înconjurat de capsula conjunctivă renală",
+      "glomerulul renal este format dintr-o rețea microscopică de capilare provenite din arteriola aferentă",
+      "tubii acestuia sunt înconjurați de o rețea de capilare provenite din arteriola aferentă",
+      "este alcătuit din tubul contort proximal și ansa Henle",
+      "este drenat de artere ce vor forma artera renală"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 61,
+    "question": "Tubii proximali din structura nefronului au următoarele roluri:",
+    "options": [
+      "reabsorbția prin transport activ a ionilor de sodiu",
+      "reabsorbția prin transport pasiv a glucozei",
+      "reabsorbția ionilor de clor cu ajutorul energiei furnizate de ATP",
+      "reabsorbția apei prin osmoză",
+      "secreția ionilor de sodiu prin difuziune facilitată"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 62,
+    "question": "Tubii distali din structura nefronului au următoarele roluri:",
+    "options": [
+      "filtrarea plasmei sanguine",
+      "reabsorbția ionilor de sodiu la schimb cu cei de potasiu",
+      "reabsorbția apei sub influența aldosteronului",
+      "secreția amoniacului",
+      "reabsorbția ureei"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 63,
+    "question": "Despre filtrarea glomerulară sunt adevărate următoarele afirmații:",
+    "options": [
+      "în timpul procesului de filtrare, fluidul provenit din plasma sanguină trece din capilarele glomerulare în capsula glomerulară",
+      "este favorizată de permeabilitatea mai mare a capilarelor glomerulare față de a altor capilare din corp",
+      "glomerulii nefronilor renali filtrează aproximativ 7,5 litri de plasmă pe zi",
+      "la bărbați, rata de filtrare glomerulară este mai mare decât la femei",
+      "rata de filtrare glomerulară este aceeași la ambele sexe"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 64,
+    "question": "În timpul procesului de formare a urinei, reabsorbția:",
+    "options": [
+      "are loc și la nivelul tubului contort distal",
+      "nu se produce în tubul contort proximal",
+      "implică transportul apei, sărurilor și altor molecule din lumenul tubului în capilarele peritubulare",
+      "utilizează ATP-ul ca sursă de energie în cazul glucozei și a aminoacizilor",
+      "nu are loc pentru glucoză, aceasta fiind excretată integral în urină"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 65,
+    "question": "Reabsorbția ionilor și a apei în timpul procesului de formare a urinei se realizează prin următoarele mecanisme:",
+    "options": [
+      "transport activ din fluidul tubului proximal în capilarele peritubulare pentru ionii de sodiu",
+      "transport pasiv pentru ionii de clor, datorită gradientului electric creat prin reabsorbția ionilor de sodiu",
+      "transport utilizând energia din ATP pentru glucoză și aminoacizi",
+      "exocitoză pentru unii anioni, atrași de concentrațiile scăzute ale ionilor de sodiu",
+      "osmoză pentru apă, dirijată de scăderea concentrației clorurii de sodiu în capilarele peritubulare"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 66,
+    "question": "Alegeți afirmațiile corecte despre secreția tubulară:",
+    "options": [
+      "are loc la nivelul tubilor contorți distali",
+      "se realizează numai prin mecanisme pasive",
+      "se realizează prin transportul compușilor chimici din capilarele peritubulare în tubul contort distal",
+      "consecutiv acestui proces filtratul glomerular devine urină",
+      "contribuie la menținerea homeostaziei sângelui"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 67,
+    "question": "Despre hormonii ce controlează reabsorbția renală a apei sunt adevărate următoarele afirmații:",
+    "options": [
+      "hormonul antidiuretic controlează permeabilitatea membranei celulare ce formează peretele tubului colector",
+      "vasopresina este eliberată în funcție de concentrația sodiului sau a altor ioni în plasmă",
+      "aldosteronul acționează asupra tubului contort distal favorizând reabsorbția potasiului",
+      "aldosteronul stimulează secreția sodiului din sânge în fluidul tubului contort distal",
+      "insuficiența secretorie a aldosteronului, prin excesul de potasiu pe care îl creează în sânge, duce la insuficiență cardiacă"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 68,
+    "question": "Alegeți afirmațiile corecte despre urină:",
+    "options": [
+      "conține 5 % apă",
+      "ajută la eliminarea unor produși rezultați din metabolismul ficatului",
+      "conține acid uric rezultat din degradarea acizilor nucleici",
+      "are un conținut crescut de corpi cetonici la persoanele cu diabet insipid",
+      "este roșie, datorită prezenței hematiilor, în cazul unei sângerări în sistemul urinar"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 69,
+    "question": "Ureterele:",
+    "options": [
+      "sunt organe tubulare ce se întind de la rinichi la vezica urinară",
+      "continuă pelvisul renal",
+      "transportă urina la vezică prin unde peristaltice",
+      "au o lungime de aproximativ 25-30 mm",
+      "fac parte din structurile anexe ale sistemului urinar"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 70,
+    "question": "Vezica urinară:",
+    "options": [
+      "este poziționată anterior de simfiza pubiană",
+      "are pereți formați din fibre musculare striate",
+      "poate acumula până la 800 ml de urină",
+      "elimină urina prin uretră, care traversează penisul la sexul masculin",
+      "elimină urina printr-un proces care se numește micțiune"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 71,
+    "question": "Rinichii:",
+    "options": [
+      "sunt organe intraperitoneale",
+      "cel stâng vine în raport cu fața concavă a splinei",
+      "cel stâng este drenat de vena renală stângă în care se varsă vena gonadală stângă",
+      "prezintă în corticală piramidele renale",
+      "sunt irigați de ramuri directe ale aortei abdominale"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 72,
+    "question": "Următoarele afirmații despre nefron sunt incorecte:",
+    "options": [
+      "arteriola aferentă dă naștere rețelei capilare peritubulare",
+      "sângele ce părăsește rețeaua capilarelor glomerulare este un sânge de tip venos",
+      "în tubii distali are loc secreția de amoniac",
+      "la bărbați filtrarea glomerulară este de aproximativ 125 ml pe oră",
+      "tubul contort distal continuă ramura descendentă a ansei Henle"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 73,
+    "question": "Următoarele afirmații despre nefron sunt adevărate:",
+    "options": [
+      "filtrarea glomerulară permite trecerea a apei, ionilor, micro și macromoleculelor în capsula Bowman",
+      "arteriola aferentă are un diametru mai mare decât cel al arteriolei eferente",
+      "în ramura ascendentă a ansei Henle, apa se reabsoarbe în cantitate mai mare comparativ cu ramura descendentă",
+      "porțiunile nefronului sunt localizate doar în corticală renală",
+      "presiunea din capilarele peritubulare este mai mică decât cea din capilarele glomerulare"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 74,
+    "question": "Următoarele afirmații despre sistemul urinar sunt adevărate:",
+    "options": [
+      "ramura ascendentă a ansei Henle permite reabsorbția de sodiu și clor",
+      "un compus format în ficat din CO₂ și NH₃ se poate acumula în profunzimea medularei renale",
+      "în tubii distali are loc reabsorbția prin transport activ a glucozei și a aminoacizilor",
+      "în ramura descendentă a ansei Henle are loc ieșirea apei prin mecanism activ",
+      "pelvisul renal continuă ureterul"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 75,
+    "question": "Următoarele afirmații despre sistemul urinar sunt false:",
+    "options": [
+      "urina conține 95 % apă și 5 % substanțe volatile",
+      "din degradarea acizilor nucleici se formează acidul uric ce se elimină pe cale renală",
+      "valoarea medie normală a pH-ului urinar este de 8,0",
+      "la diabetici pot să apară în urină corpi cetonici rezultați din degradarea glucozei",
+      "hormonii medulosuprarenali favorizează secreția de potasiu în tubul contort distal"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 76,
+    "question": "În afară de rinichi, există și alte organe excretoare cu diferite roluri:",
+    "options": [
+      "ficatul, ce excretă sărurile biliare rezultate din degradarea hemoglobinei",
+      "intestinul, ce poate elimina săruri de fier și calciu",
+      "plămânii, care elimină molecule din care ficatul poate forma uree",
+      "pielea, care poate elimina cantități mici dintr-o substanță formată din degradarea acizilor nucleici",
+      "ficatul, ce elimină prin bilă substanțe ce se pot transforma în urobilinogen"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 77,
+    "question": "Despre sistemul urinar este adevărat că:",
+    "options": [
+      "uretra feminină este situată ventral față de uter",
+      "dieta ce conține o cantitate mare de vegetale alcalinizează urina",
+      "prin urină se pot elimina unele medicamente",
+      "în boala Addison se elimină o cantitate mare de potasiu pe cale renală",
+      "atunci când există un exces de apă în organism este stimulată secreția de ADH"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 78,
+    "question": "Următoarele afirmații despre sistemul urinar sunt adevărate:",
+    "options": [
+      "cei doi hormoni produși de hipotalamusul anterior controlează reabsorbția apei în nefron",
+      "densitatea urinei este mai scăzută dimineața",
+      "în urină se găsește un produs rezultat din utilizarea fosfocreatinei în celulele musculare",
+      "cationii prezenți în urină sunt: sodiu, potasiu, sulfații și fosfații",
+      "rinichiul poate să intervină în echilibrul hidric și ionic al organismului și prin sistemul renină-angiotensină"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 79,
+    "question": "Despre sistemul urinar sunt false următoarele afirmații:",
+    "options": [
+      "urobilinogenul provine din pigmenți rezultați din degradarea lanțurilor de globină ale hemoglobinei",
+      "ureea filtrată se formează prin ciclul ornitinei",
+      "concentrația clorurii de sodiu crește către profunzimea corticalei renale",
+      "pentru reabsorbția glucozei este utilizat ATP-ul",
+      "în ramura ascendentă a ansei Henle ionii de sodiu și clor ies din tub"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 80,
+    "question": "Asupra sistemului urinar pot acționa:",
+    "options": [
+      "un hormon sintetizat de neurohipofiză",
+      "un hormon cu structură inelară complexă sintetizat din colesterol la nivelul corticosuprarenalei",
+      "un hormon secretat de nucleii supraoptic și paraventricular",
+      "nervul vag ce determină contracția vezicii urinare",
+      "sistemul nervos vegetativ simpatic care prin acetilcolină produce relaxarea vezicii urinare"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 81,
+    "question": "Alegeți afirmația corectă referitoare la filtrarea glomerulară:",
+    "options": [
+      "rata de filtrare glomerulară nu prezintă diferențe între bărbați și femei",
+      "pereții capilarelor glomerulare au permeabilitate mare, ceea ce permite trecerea proteinelor",
+      "în capsula Bowman, după filtrare, se acumulează apă și celule sanguine",
+      "filtrarea ionilor de sodiu se realizează prin transport activ",
+      "este posibilă datorită diferențelor de presiune existente între glomerul și interiorul capsulei glomerulare"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 82,
+    "question": "La nivelul nefronului se desfășoară:",
+    "options": [
+      "mecanismul în contracurent implicat în concentrarea urinei",
+      "filtrarea, dinspre capilarele glomerulare spre capsula Bowman",
+      "secreția, la nivelul tubilor colectori",
+      "reabsorbția sărurilor și a apei din tubii contorți proximali",
+      "secreția masivă de apă în tubii contorți distali"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 83,
+    "question": "Alegeți afirmațiile corecte referitoare la filtrarea glomerulară:",
+    "options": [
+      "rata de filtrare glomerulară este mai scăzută la femei",
+      "glucoza, substanță cu moleculă mare, nu este filtrată",
+      "în capsula Bowman, după filtrare se acumulează apă și proteine",
+      "filtrarea glomerulară se realizează prin transport activ",
+      "filtrarea glomerulară depinde și de presiunea sângelui din glomerul"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 84,
+    "question": "Selectați afirmațiile corecte referitoare la procesele suferite de substanțele anorganice la nivelul sistemului tubular al nefronului:",
+    "options": [
+      "Na⁺ este secretat activ în tubul contort proximal",
+      "apa este reabsorbită pasiv, prin osmoză, la nivelul tubului contort proximal",
+      "H⁺ este secretat activ la nivelul tubului distal",
+      "glucoza este reabsorbită activ la nivelul tubului contort proximal",
+      "NH₃ este reabsorbit la nivelul tubului distal"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 85,
+    "question": "Urina:",
+    "options": [
+      "conține, în mod normal, glucoză și proteine",
+      "are, în medie, un pH în jur de 6,0",
+      "conține acid uric rezultat din degradarea acizilor nucleici",
+      "poate conține hematii, în cazul sângerărilor în sistemul urinar",
+      "are densitate cuprinsă între 1015-1020, mai crescută dimineața"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 86,
+    "question": "Nefronul asigură:",
+    "options": [
+      "secreția tubulară pasivă în tubul contort distal",
+      "reabsorbția ionilor Na⁺ sub acțiunea aldosteronului",
+      "reabsorbția ionului de potasiu sub acțiunea aldosteronului",
+      "reabsorbția osmotică a apei din tubul contort proximal",
+      "secreția amoniacului la nivelul tubului contort proximal"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 87,
+    "question": "Reabsorbția apei la nivelul tubilor uriniferi:",
+    "options": [
+      "are loc prin mecanism pasiv în toate regiunile ansei Henle",
+      "la nivelul tubului colector este controlată de hormonul antidiuretic",
+      "la nivelul tubului contort distal are loc pasiv prin gradient osmotic",
+      "aldosteronul stimulează reabsorbția pasivă a apei, ca urmare a creșterii reabsorbției de K⁺",
+      "se produce prin difuziune facilitată în tubul contort proximal"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 88,
+    "question": "Filtrarea glomerulară este favorizată de:",
+    "options": [
+      "permeabilitatea crescută a capilarelor peritubulare, mai mare decât a altor capilare din corp",
+      "presiunea mai mare a sângelui care circulă prin capilarele glomerulare, în comparație cu alte capilare",
+      "permeabilitatea redusă a capilarelor glomerulare în comparație cu cele peritubulare",
+      "existența unui diametru mai mic pentru arteriola aferentă față de cel al arteriolei eferente",
+      "prezența fanteilor submicroscopice la nivelul capsulei renale"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 89,
+    "question": "Alegeți afirmațiile corecte referitoare la urină:",
+    "options": [
+      "are o culoare roșie, în prezența globulelor roșii",
+      "culoarea urinei este mai deschisă în urma ingestiei scăzute de lichide",
+      "pH-ul este mai acid în urma consumului crescut de proteine",
+      "corpii cetonici, proveniți din degradarea glucidelor, sunt prezenți în cantitate crescută la diabetici",
+      "mirosul normal al urinei este amoniacal"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 90,
+    "question": "La nivelul nefronului au loc:",
+    "options": [
+      "secreția activă a amoniacului în tubul contort distal",
+      "reabsorbția glucozei și a aminoacizilor, cu ajutorul energiei provenite din ATP, în tubul contort proximal",
+      "deplasarea apei, din capilarele peritubulare în tubul contort proximal",
+      "reabsorbția ionilor de sodiu și clor, prin mecanism contracurent, în ramura descendentă a ansei Henle",
+      "reabsorbția potasiului sub acțiunea aldosteronului secretat de cortexul glandelor suprarenale"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 91,
+    "question": "Selectați afirmațiile corecte despre rinichi:",
+    "options": [
+      "sunt situați retroperitoneal",
+      "contribuie la menținerea pH-ului plasmatic",
+      "contribuie la reglarea presiunii sângelui",
+      "prezintă în corticala renală formațiuni triunghiulare denumite piramide renale",
+      "sunt susținuți de țesut adipos și conjunctiv"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 92,
+    "question": "Din structura nefronului fac parte:",
+    "options": [
+      "ansa Henle",
+      "tubul contort distal",
+      "tubul colector",
+      "tubul contort proximal",
+      "capsula Bowman"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 93,
+    "question": "La nivelul tubului contort proximal se reabsorb prin transport activ:",
+    "options": [
+      "apa",
+      "sodiul",
+      "clorul",
+      "glucoza",
+      "aminoacizii"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 94,
+    "question": "În corticala renală se găsesc următoarele componente ale nefronului:",
+    "options": [
+      "capsula glomerulară",
+      "tubul contort proximal",
+      "ansa Henle propriu-zisă",
+      "tubul contort distal",
+      "tubul colector"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 95,
+    "question": "Filtratul glomerular conține:",
+    "options": [
+      "apă",
+      "hematii",
+      "proteine",
+      "glucoza",
+      "sodiu"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 96,
+    "question": "Reabsorbția apei are loc în următoarele structuri:",
+    "options": [
+      "capsula Bowman",
+      "tubul contort proximal",
+      "ramura descendentă a ansei Henle",
+      "ramura ascendentă a ansei Henle",
+      "tubul colector"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 97,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "ionii de clor se reabsorb în tubul contort proximal prin difuziune facilitată",
+      "în ramura ascendentă a ansei Henle apa trece din filtrat în interstițiu, fiind atrasă de clorura de sodiu",
+      "secreția tubulară este un proces pasiv, care are loc în tubii contorți distali",
+      "acumularea ionilor de sodiu și clor în medulara rinichiului determină ieșirea apei din ramura descendentă, din ansa Henle propriu-zisă și din tubul colector",
+      "reabsorbția apei din tubul colector este controlată de hormonul ADH"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 98,
+    "question": "Selectați afirmațiile corecte despre secreția tubulară la nivelul nefronului:",
+    "options": [
+      "este un proces activ",
+      "are loc în tubul contort proximal",
+      "are loc în tubul colector",
+      "transportă substanțe din tubii nefronului în capilarele peritubulare",
+      "asigură menținerea homeostaziei sângelui, deoarece schimbă concentrația ionilor"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 99,
+    "question": "Prin secreție tubulară se elimină:",
+    "options": [
+      "ionii de clor",
+      "ionii de potasiu",
+      "ionii de hidrogen",
+      "amoniacul",
+      "unele antibiotice"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 100,
+    "question": "Urina:",
+    "options": [
+      "conține 95 % apă",
+      "are o culoare care variază în funcție de dietă și de volumul acesteia",
+      "are pH acid, dacă dieta conține cantități mari de vegetale",
+      "conține uree, produsă prin acțiunea bacteriilor asupra bilirubinei din intestin",
+      "poate conține corpi cetonici, rezultați din degradarea grăsimilor"
+    ],
+    "answers": [0, 1, 4]
+  }
+]

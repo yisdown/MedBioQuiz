@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1,
+    "question": "Despre schelet se pot afirma următoarele:",
+    "options": [
+      "constituie suport pentru organism și ancorază mușchii",
+      "include craniul format din oase scurte",
+      "este format din oase care prezintă diafiză și epifize, la nivelul trunchiului",
+      "include oase la nivelul cărora se produc celule sanguine",
+      "este format din oase care conțin fibre de colagen și o substanță fundamentală densă, mineralizată"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 2,
+    "question": "Vertebrele:",
+    "options": [
+      "participă la formarea scheletului axial",
+      "sunt oase scurte",
+      "au formă complexă",
+      "sunt oase neregulate",
+      "participă la formarea unor articulații imobile"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 3,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "oasele wormiene sunt prezente la nivelul unor suturi craniene",
+      "oasele sesamoide au formă aproximativ cuboidală",
+      "osul lung crește în lungime pe seama cartilajului activ din metafiză",
+      "oasele se articulează între ele formând întotdeauna articulații mobile ce asigură mișcarea",
+      "endostul tapetează cavitatea medulară de la nivelul epifizelor oaselor lungi"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 4,
+    "question": "Selectați afirmațiile corecte referitoare la schelet:",
+    "options": [
+      "este format dintr-un țesut de bază",
+      "formează depozite de minerale",
+      "la nivelul oaselor lungi, cavitatea medulară conține măduvă galbenă",
+      "la nivelul membrelor prezintă oase lungi și oase neregulate",
+      "asigură protecție pentru toate viscerele organismului"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 5,
+    "question": "Care dintre următoarele afirmații cu privire la oase sunt adevărate?",
+    "options": [
+      "la nivelul sinartrozelor se găsește întotdeauna o cantitate importantă de țesut fibros",
+      "prin activitatea osteoclastelor se furnizează substanțe utilizate în contracția musculară",
+      "oasele care prezintă articulații de tip sinartroză se pot forma prin osificare intramembranoasă",
+      "hidroxiapatita este răspunzătoare de flexibilitatea osului",
+      "ajută indirect la menținerea unor activități metabolice ale organismului"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 6,
+    "question": "Hematopoieza are loc la nivelul:",
+    "options": [
+      "unor oase de formă rectangulară ce au prelungiri cu aspect de contraforturi sau aripi",
+      "unui os ce delimitează anterior mediastinul",
+      "epifizelor unui os care participă la formarea unei articulații la nivelul căreia se află și patela",
+      "cavității medulare indiferent de vârstă",
+      "plăcii epifizare"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 7,
+    "question": "Oasele craniului:",
+    "options": [
+      "pot prezenta locuri de atașare a mușchilor",
+      "se formează prin extinderea zonelor osificate care se unesc și dau naștere trabeculelor",
+      "participă la formarea unei subdiviziuni a cavității posterioare",
+      "prezintă între oasele parietale și cel occipital o articulație de tip amfiantroză",
+      "se formează prin acțiunea osteocitelor transformate în osteoblaste ce produc colagen și hidroxiapatită"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 8,
+    "question": "Care dintre următoarele afirmații cu privire la articulații sunt incorecte?",
+    "options": [
+      "gomfoza este o articulație semimobilă",
+      "capetele osoase adiacente ale amfintrozelor sunt separate de o cantitate mare de cartilaj",
+      "suprafața articulară a oaselor ce formează diartroze este acoperită de membrana sinovială",
+      "sindesmoza nu permite o mișcare amplă între cele 2 oase",
+      "articulația sacrum-iliacă este o sinartroză"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 9,
+    "question": "Oasele craniului:",
+    "options": [
+      "se formează prin centre de osificare ce se extind formând lamele osoase concentric",
+      "prezintă între oasele parietale și cel frontal articulație de tip sinartroză",
+      "la nivelul suturilor pot prezenta oase wormiene",
+      "prezintă la interior raport cu dura mater",
+      "prezintă la interior osteoane"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 10,
+    "question": "Care dintre următoarele afirmații cu privire la mișcările articulare sunt adevărate?",
+    "options": [
+      "prin pronație palma ajunge în poziție anatomică",
+      "prin inversie se face rotirea feței dorsale a piciorului spre exterior",
+      "protracția poate duce bărbia spre înainte",
+      "prin supinație policele ajunge anterior",
+      "abducția brațului se face prin mișcare într-o articulație sinovială"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 11,
+    "question": "Care dintre următoarele reprezintă funcții ale oaselor?",
+    "options": [
+      "sunt locul în care se produc diferite tipuri de celule ale țesutului nervos",
+      "asigură suport organismului și ancrează mușchii",
+      "servesc drept depozit de minerale",
+      "ancrează toți mușchii cu structură striată",
+      "protejează organele"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 12,
+    "question": "Care dintre următoarele oase sunt oase plate?",
+    "options": [
+      "omoplații - ce servesc drept pârghii",
+      "coastele - între care sunt situați mușchi respiratori intercostali",
+      "oasele carpiene - ce conțin fosfat de calciu",
+      "sternul - care prezintă două plăci subțiri de os compact cu o regiune centrală de os spongios",
+      "vertebrele - ce aparțin scheletului axial al corpului"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 13,
+    "question": "Următoarele afirmații despre oasele lungi sunt adevărate:",
+    "options": [
+      "cresc în lungime pe seama creșterii la capete a tijei cartilaginoase",
+      "joncțiunea dintre diafiză și epifiză se numește metafiză",
+      "periostul acoperă epifizele",
+      "epifizele conțin în interior os spongios",
+      "conțin măduvă roșie în cavitatea medulară"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 14,
+    "question": "Selectați afirmațiile corecte despre schelet:",
+    "options": [
+      "este format dintr-un tip de țesut epitelial",
+      "servește ca depozit de minerale",
+      "la nivelul membrelor este format și din oase cu formă aproximativ cuboidală",
+      "include oase lungi care prezintă la nivelul diafizei canalul epifizar",
+      "asigură protecția pentru toate viscerele organismului"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 15,
+    "question": "Osificarea intramembranoasă presupune:",
+    "options": [
+      "migrarea osteoblastelor la nivelul membranei conjunctive",
+      "formarea centrelor de osificare, cu apariția matricei osoase",
+      "depunerea de os compact la nivelul periostului de către osteoblaste",
+      "delimitarea prin trabecule a spațiilor ce vor conține măduvă roșie hematogenă",
+      "creșterea osului la nivelul plăcii epifizare"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 16,
+    "question": "Despre articulația genunchiului se pot afirma următoarele:",
+    "options": [
+      "suprafețele articulare sunt acoperite cu cartilaj hialin",
+      "se formează între oase dezvoltate prin osificare endocondrală",
+      "prezintă o capsulă fibroasă ce tapetează cavitatea sinovială",
+      "are o cavitate divizată de discuri cartilaginease",
+      "permite mișcări de flexie-extensie"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 17,
+    "question": "Selectați asocierile corecte:",
+    "options": [
+      "oase neregulate - vertebre",
+      "oase wormiene - sindesmoze",
+      "oase lungi ale antebrațului - membrană interosoasă",
+      "oase plate ale craniului - amfiantroze",
+      "oase sesamoide - gomfoză"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 18,
+    "question": "În structura osului lung intră:",
+    "options": [
+      "periost - țesut conjunctiv ce învelește diafiza",
+      "endomisium - tapetează canalul medular",
+      "travee - prezente la nivelul epifizelor",
+      "os compact - la nivel metafizar, înainte de pubertate",
+      "epifize - acoperite de cartilaj hialin"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 19,
+    "question": "Celulele prezente la nivel osos sunt:",
+    "options": [
+      "osteocitele, care produc colagen și hidroxiapatită",
+      "osteoclastele, care tapetează fața profundă a periostului",
+      "osteoblastele, care construiesc osul",
+      "osteoclastele, care secretă matricea osoasă",
+      "osteocitele, care provin din osteoblaste foarte active"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 20,
+    "question": "La nivelul osului lung se întâlnesc:",
+    "options": [
+      "osteoane formate din lamele osoase interstițiale",
+      "osteocite captive în țesutul osos pe care îl întrețin",
+      "periost din care iau naștere osteocitele",
+      "osteoclaste active care produc colagen",
+      "canale perforante care conectează canalele centrale și celulele osoase"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 21,
+    "question": "Selectați afirmațiile corecte privind osificarea endocondrală:",
+    "options": [
+      "oasele plate se osifică începând cu diafiza",
+      "oasele lungi se dezvoltă în cartilaje hialine",
+      "primul centru de osificare apare la nivelul epifizei",
+      "în interiorul tijelor cartilaginease apar vase de sânge",
+      "cavitatea centrală, rămasă la final, va conține măduvă osoasă"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 22,
+    "question": "Despre compoziția osului se pot afirma următoarele:",
+    "options": [
+      "fosfatul de calciu este componenta principală a hidroxidului de calciu",
+      "matricea de colagen asigură flexibilitatea osoasă",
+      "calciul este eliberat în urma acțiunii osteoblastelor",
+      "hidroxiapatita asigură duritatea osoasă",
+      "carbonatul de calciu este prezent în cavitatea medulară"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 23,
+    "question": "Despre articulația dintre corpii vertebrali se pot afirma următoarele:",
+    "options": [
+      "se formează între oase neregulate",
+      "prezintă un disc fibrocartilaginos ce absoarbe șocurile",
+      "permite mișcări ample anterior și lateral",
+      "este o articulație similară celei dintre oasele antebrațului",
+      "este o articulație de tip sinartroză"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 24,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "oasele plate craniene se dezvoltă pe modele cartilaginease",
+      "osteoclastele asigură dezvoltarea trabeculară",
+      "insulele de cartilaj hialin inițiază formarea osului în membranele de țesut conjunctiv fibros",
+      "oasele spongioase se organizează sub formă de osteoane",
+      "unii hormoni influențează activitatea osteoclastelor și osteoblastelor"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 25,
+    "question": "Alegeți afirmațiile corecte:",
+    "options": [
+      "sinartrozile prezintă cavități sinoviale",
+      "articulația șoldului este o diartroză",
+      "gomfoza este o articulație mobilă",
+      "articulația dintre procesele articulare ale vertebrelor are mobilitate redusă",
+      "membrana sinovială secretă lichid sinovial"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 26,
+    "question": "Selectați asocierile corecte referitoare la articulații:",
+    "options": [
+      "diartroze - articulații imobile",
+      "sinartroze - între oasele coloanei vertebrale",
+      "articulații sinoviale - mobile",
+      "articulații imobile - între oasele pubiene",
+      "articulații fără cavitate - între oasele craniului"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 27,
+    "question": "Diartrozele sunt prezente la nivelul:",
+    "options": [
+      "umărului",
+      "gleznei",
+      "corpilor vertebrali",
+      "genunchilor",
+      "articulației os-dinte"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 28,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "cavitatea sinovială conține lichid sinovial",
+      "meniscurile genunchiului sunt discuri semilunare",
+      "bursele diartrozelor sunt saci cu lichid ce facilitează alunecarea tendoanelor",
+      "există articulații a căror cavitate articulară este divizată de discuri cartilaginoase",
+      "oasele articulațiilor sinoviale vin în contact direct, fiind înconjurate de capsula articulară"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 29,
+    "question": "Despre mișcările articulare se pot afirma următoarele:",
+    "options": [
+      "retracția - mișcarea înapoi a bărbiei",
+      "elevația - coborârea unui segment",
+      "supinația - palma privește posterior",
+      "rotația - întoarcerea capului",
+      "adducția - îndepărtarea membrelor față de linia mediană"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 30,
+    "question": "Despre articulația șoldului se pot afirma următoarele:",
+    "options": [
+      "este o articulație de tip diartroză",
+      "este o articulație semimobilă",
+      "este similară articulației sacroiliace",
+      "suprafețele articulare sunt acoperite cu cartilaj fibros",
+      "prezintă burse căptușite de membrana sinovială"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 31,
+    "question": "Selectați relațiile dintre principalele tipuri de oase din organism și rolul lor:",
+    "options": [
+      "oase lungi - pârghie pentru mișcări",
+      "oase plate - protecția unor organe vitale",
+      "oase neregulate - pot participa la realizarea unor articulații",
+      "oase scurte - protejează viscerele toracice",
+      "oase lungi - intervin în stocarea de săruri de calciu"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 32,
+    "question": "Selectați relațiile corecte dintre elementele constitutive ale oaselor lungi și tipul de țesut osos:",
+    "options": [
+      "diafiză - țesut osos compact",
+      "epifize - țesut osos compact la interior",
+      "metafiză - țesut cartilaginos",
+      "epifize - ambele tipuri de țesut osos",
+      "epifize - țesut osos spongios la exterior"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 33,
+    "question": "Scheletul axial include:",
+    "options": [
+      "oasele capului",
+      "coloana vertebrală",
+      "oasele brațului și coapsei",
+      "cușca toracică",
+      "și oase plate"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 34,
+    "question": "Oasele pot avea următoarele funcții:",
+    "options": [
+      "protecția inimii și a plămânilor",
+      "punct de ancorare pentru mușchi",
+      "sursă de săruri de calciu și fosfați",
+      "sediul formării unor celule sanguine",
+      "sursă de ioni de sodiu și potasiu"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 35,
+    "question": "Scheletul membrelor este alcătuit din:",
+    "options": [
+      "oase lungi, cu rol de pârghie",
+      "oasele centurilor, care leagă membrele de scheletul axial",
+      "oase scurte, la nivelul mâinii",
+      "oase plate, la nivelul piciorului",
+      "oase neregulate, la nivelul genunchiului"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 36,
+    "question": "Următoarele afirmații referitoare la țesutul osos sunt adevărate:",
+    "options": [
+      "duritatea osului este conferită de fibrele de colagen",
+      "sărurile de calciu sunt responsabile de flexibilitatea osului",
+      "țesutul osos este sintetizat de osteoblaste",
+      "hidroxiapatita este componenta care asigură duritatea osului",
+      "hidroxiapatita este o substanță minerală din compoziția organică a osului"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 37,
+    "question": "Referitor la hematopoeză se poate afirma că:",
+    "options": [
+      "se desfășoară la nivelul măduvei osoase galbene din cavitatea medulară a oaselor lungi",
+      "poate avea loc la nivelul unor oase plate",
+      "se poate întâlni și la nivelul epifizelor unor oase lungi",
+      "se desfășoară și în măduva osoasă roșie prezentă la nivelul unor oase aparținând scheletului axial",
+      "participă la formarea hematiilor, leucocitelor și plachetelor sanguine"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 38,
+    "question": "Lamelele osoase:",
+    "options": [
+      "conțin lacune la nivelul cărora există osteoblaste",
+      "sunt dispuse concentric în jurul canalului central în osul compact",
+      "pot fi străbătute de canale perforante",
+      "delimitează mici lacune în care sunt captive osteocite",
+      "participă și la formarea unor osteoane incomplete sub formă de lamele interstițiale"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 39,
+    "question": "Selectați afirmațiile corecte referitoare la osificarea endocondrală:",
+    "options": [
+      "participă și la formarea unor oase aparținând membrelor superioare și inferioare",
+      "permite transformarea unor tije rectilinii de cartilaj hialin în țesut osos",
+      "participă la formarea oaselor lungi",
+      "presupune transformarea țesutului conjunctiv fibros în țesut osos",
+      "intervine în formarea oaselor plate ale craniului"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 40,
+    "question": "Remodelarea osoasă:",
+    "options": [
+      "se încheie odată cu finalizarea creșterii",
+      "presupune interacțiunea controlată dintre osteocite și osteoclaste",
+      "include dizolvarea osului sub acțiunea osteoclastelor",
+      "necesită intervenția osteoblastelor, care formează țesut osos",
+      "este reglată de parathormon și calcitonină"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 41,
+    "question": "La nivelul articulației genunchiului pot fi identificate următoarele elemente constitutive:",
+    "options": [
+      "cavitatea articulară",
+      "lichidul sinovial",
+      "meniscurile",
+      "capsula fibroasă",
+      "membrana plasmatică"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 42,
+    "question": "Selectați asocierile corecte:",
+    "options": [
+      "diartroză - articulația gleznei",
+      "amfiantroză - articulația sacroiliacă",
+      "sinartroză - sutura dintre oasele parietale",
+      "diartroză - articulația șoldului",
+      "amfiantroză - gomfoza"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 43,
+    "question": "Alegeți asocierile corecte:",
+    "options": [
+      "abducția - îndepărtarea unui membru față de linia mediană a corpului",
+      "elevația - ridicarea umerilor",
+      "protracția - mișcarea înapoi a bărbiei",
+      "eversia - rotirea tălpii piciorului spre interior",
+      "flexia plantară - îndoirea labei piciorului spre tibie"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 44,
+    "question": "Selectați afirmațiile corecte privind funcțiile articulațiilor:",
+    "options": [
+      "simfiza pubiană are un grad ridicat de mobilitate",
+      "capsula fibroasă a unor diartroze se poate organiza sub formă de ligamente",
+      "prezintă un grad variabil de mobilitate",
+      "suturile pot prezenta la nivelul lor oase wormiene",
+      "diartrozele permit mișcări libere"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 45,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "hematopoeza se poate realiza în oasele plate",
+      "oasele lungi sunt alcătuite din diafize și epifiză",
+      "hormonii sexuali influențează activitatea osteoblastelor și osteoclastelor",
+      "canalele perforante străbat lamele osoase ale osteonului",
+      "osteocitele sunt celule fagocitare care intervin în remodelarea osului"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 46,
+    "question": "Oasele lungi:",
+    "options": [
+      "prezintă o diafiză alcătuită din țesut osos compact",
+      "conțin, la nivelul diafizei, cavitatea medulară tapetată de endost",
+      "prezintă extremități numite epifize",
+      "conțin, la nivelul epifizelor, exclusiv țesut osos spongios",
+      "cresc pe seama măduvei galbene de la nivelul cavității medulare"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 47,
+    "question": "Epifizele oaselor lungi:",
+    "options": [
+      "prezintă, la exterior, os spongios",
+      "pot conține, la interior, măduvă roșie cu rol în hematopoeză",
+      "prezintă la nivelul suprafețelor articulare un strat subțire de cartilaj articular hialin",
+      "sunt acoperite integral de periost",
+      "au la interior țesut osos cu densitate mai mică decât cel situat la exteriorul lor"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 48,
+    "question": "Selectați afirmațiile incorecte:",
+    "options": [
+      "în cavitatea medulară a oaselor lungi ale adultului se găsește țesut osos spongios",
+      "oasele carpiene, oase de tip scurt, se găsesc la nivelul mâinii",
+      "lama cioruită a osului etmoid permite pătrunderea nervului olfactiv din cavitățile nazale în cutia craniană",
+      "măduva spinării se întinde între foramen magnum a osului occipital și discul intervertebral dintre primele două vertebre toracice",
+      "coastele, prin coborâre și rotație spre exterior, participă la inspirație"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 49,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "sternul se articulează lateral cu coastele",
+      "oasele coxale se articulează medial între ele printr-o amfiantroză",
+      "discurile intervertebrale sunt alcătuite dintr-un miez fibros înconjurat de un cartilaj hialin",
+      "bursele articulare ale diartrozelor pot fi situate între tegument și proeminențele osoase subiacente",
+      "la articularea oaselor care formează scheletul bazinului participă trei amfiantroze"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 50,
+    "question": "Următoarele afirmații privind osul lamelar sunt corecte:",
+    "options": [
+      "se întâlnește la nivelul diafizei oaselor lungi",
+      "este organizat sub formă de travee care delimitează spații ce conțin măduvă roșie",
+      "există și la nivelul oaselor plate",
+      "nu este prezent la nivelul epifizelor oaselor lungi",
+      "este organizat sub formă de osteoane în centrul cărora se găsesc canale perforante care conțin nervi și capilare sanguine"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 51,
+    "question": "Referitor la funcțiile oaselor se poate afirma:",
+    "options": [
+      "protejează encefalul, plămânii și alte organe",
+      "au rol în mișcare, împreună cu mușchii scheletici, prin menținerea sau schimbarea poziției organismului",
+      "reprezintă cel mai dur țesut conjunctiv din organismul uman",
+      "servesc drept depozit de substanțe organice",
+      "ajută în mod direct la menținerea echilibrului hidric al organismului"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 52,
+    "question": "Selectați afirmațiile corecte legate de hematopoeză:",
+    "options": [
+      "reprezintă procesul de formare al globulelor roșii",
+      "are loc în epifizele oaselor late",
+      "are loc la nivelul vertebrilor și sternului",
+      "se desfășoară printre trabeculele osului spongios",
+      "reprezintă procesul de formare a elementelor figurate ale sângelui, desfășurat în trabeculele din epifize"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 53,
+    "question": "Următoarele afirmații privind celulele osoase sunt corecte:",
+    "options": [
+      "osteocitele produc colagenul și hidroxiapatita",
+      "osteocitele îndepărtează produșii reziduali",
+      "osteoclastele intervin în remodelarea osoasă",
+      "osteoclastele furnizează organismului calciu și fosfat, ce pot fi utilizate în contracția musculară",
+      "hidroxiapatita contribuie la duritatea osoasă"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 54,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "sternul este alcătuit din două plăci subțiri de os compact, între care se află o regiune centrală compusă din os spongios",
+      "oasele scurte apar în spații închise",
+      "oasele wormiene sunt oase plate care se află la nivelul anumitor suturi craniene",
+      "patelele sunt oase sesamoide",
+      "oasele lungi oferă suprafețe întinse pe care se pot atașa tendoanele"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 55,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "fibrele de colagen sunt răspunzătoare de flexibilitatea osului",
+      "osul conține fibre de colagen înglobate într-o matrice alcătuită din cristale de hidroxiapatită",
+      "osul depozitează calciu și fosfați",
+      "osul crește în lungime pe seama depunerii de cartilaj la nivelul plăcii epifizare",
+      "cartilajul articular furnizează o suprafață ce facilitează deplasarea fără frecare a oaselor adiacente"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 56,
+    "question": "Selectați afirmațiile corecte privind țesutul osos:",
+    "options": [
+      "pentru a-și putea îndeplini funcțiile, oasele trebuie să fie dure, rigide și inflexibile",
+      "duritatea unui os este realizată de componenta minerală",
+      "componenta principală a osului este reprezentată de hidroxidul de calciu, combinat cu mici cantități de fosfat de calciu și carbonat de calciu",
+      "carbonatul de calciu este principalul component al hidroxiapatitei",
+      "hidroxiapatita conferă duritate osului"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 57,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "fibrele de colagen sunt răspunzătoare de flexibilitatea osului",
+      "osul conține fibre de colagen înglobate într-o matrice alcătuită din cristale de hidroxiapatită",
+      "osul depozitează calciu și fosfați",
+      "osul crește în lungime pe seama depunerii de cartilaj la nivelul plăcii epifizare",
+      "cartilajul metafizar furnizează o suprafață ce facilitează deplasarea fără frecare a oaselor adiacente"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 58,
+    "question": "Următoarele afirmații privind structura histologică a osului sunt corecte:",
+    "options": [
+      "legătura vasculară între osteoane se realizează prin canale perforante ce se deschid în canalele centrale din osteoanele vecine",
+      "osul spongios prezintă o serie de inele concentrice, intricate, de țesut osos",
+      "în canalele perforante se găsesc osteocite",
+      "canalul central al osteonului conține nervi și capilare sanguine",
+      "legătura vasculară între osteoane se realizează prin canaliculele derivate din lacune, ce confluiază între ele"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 59,
+    "question": "Selectați afirmația corectă referitoare la osteon:",
+    "options": [
+      "lacunele sunt spații care adăpostesc osteoblaste",
+      "lacunele conțin osteoclaste, celule cu prelungiri ce nu se ating între ele (nu se anastomozează)",
+      "lacunele prezintă extensii numite canalicule care se intersectează (se anastomozează) și în care pătrund prelungirile osteocitelor",
+      "osteoblastele formează osul, osteoclastele îl întrețin, iar osteocitele îl resorb",
+      "legătura vasculară între osteoane se realizează prin lamele interstițiale, reprezentate de osteoane incomplete"
+    ],
+    "answers": [2]
+  },
+  {
+    "id": 60,
+    "question": "Selectați afirmațiile corecte privind osificarea endocondrală:",
+    "options": [
+      "asigură formarea humerusului",
+      "osteoblastele depun os compact de jur împrejurul tijelor cartilaginease",
+      "după pubertate, zona de cartilaj se îngustează, formând placa epifizară",
+      "osificarea continuă în profunzime",
+      "asigură creșterea în lungime a tibiei"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 61,
+    "question": "Despre celulele din structura oaselor se pot afirma următoarele:",
+    "options": [
+      "osteoclastele sunt celulele care resorb osul",
+      "activitatea osteoclastelor este stimulată de parathormon",
+      "osteoblastele sunt celule înconjurate complet de țesut osos",
+      "osteocitele sunt celulele care formează osul",
+      "fibrele de colagen din structura osului îi conferă acestuia flexibilitate"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 62,
+    "question": "Despre oasele lungi sunt adevărate următoarele afirmații:",
+    "options": [
+      "hidroxiapatita conferă duritate osului",
+      "în epifizele femurului are loc eritropoieza",
+      "la nivelul sternului se formează și plachete sanguine",
+      "epifizele sunt acoperite de un strat gros de cartilaj hialin numit cartilaj articular",
+      "endostul este o membrană ce căptușește cavitatea medulară"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 63,
+    "question": "Despre mișcările articulare de la nivelul membrelor se pot afirma următoarele:",
+    "options": [
+      "pronația este rotația antebrațului astfel încât palma să privească spre anterior",
+      "flexia antebrațului pe braț presupune reducerea unghiului dintre ele",
+      "extensia gambei față de coapsă presupune creșterea unghiului dintre ele",
+      "retracția înseamnă mișcarea spre înapoi a unei părți a corpului, spre exemplu bărbia",
+      "întoarcerea capului dintr-o parte în alta este un exemplu de rotație"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 64,
+    "question": "Despre oasele plate sunt adevărate următoarele afirmații:",
+    "options": [
+      "participă la protejarea organelor toracice",
+      "intră în alcătuirea centurii pelviene",
+      "magneziul are rol în formarea lor",
+      "la nivelul sternului se formează și plachetele sanguine din aceeași celulă stem ca eritrocitele",
+      "se osifică prin osificare endocondrală"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 65,
+    "question": "Oasele scurte au următoarele particularități funcționale:",
+    "options": [
+      "oasele tarsului suportă greutatea corpului",
+      "servesc drept depozit de calciu și fosfați",
+      "au formă aproximativ cuboidală",
+      "fac parte dintre oasele scheletului periferic",
+      "oasele carpiene apar în spații închise"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 66,
+    "question": "Oasele lungi au următoarele caracteristici funcționale:",
+    "options": [
+      "servesc drept pârghii la nivelul cărora se execută diferite mișcări",
+      "cresc în lungime la nivelul plăcii epifizare",
+      "în epifizele unora dintre ele se formează eritrocite din hemocitoblaste",
+      "unele intervin în hematopoeză, spre exemplu humerusul",
+      "diafiza femurului conține măduvă galbenă"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 67,
+    "question": "Selectați afirmațiile corecte referitoare la componentele osului:",
+    "options": [
+      "canalele perforante conectează canalele centrale între ele",
+      "la nivelul lacunelor, osteocitele se transformă în osteoclaste",
+      "osteocitele hrănesc osul din jurul lor și îndepărtează produșii reziduali",
+      "osteoblastele produc colagen și hidroxiapatită",
+      "cavitatea medulară asigură legătura dintre osteoane"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 68,
+    "question": "Despre osteoane sunt adevărate următoarele afirmații:",
+    "options": [
+      "fac parte din osul compact, care este un os dens",
+      "osteoanele incomplete sunt formate din lamele interstițiale",
+      "osteocitele din structura lui se găsesc în lacune",
+      "osul este învelit la exterior de periost și din el iau naștere osteocitele",
+      "au atât vascularizație, cât și înervație"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 69,
+    "question": "Următorii hormoni sunt implicați în remodelarea osoasă:",
+    "options": [
+      "calcitonina, care stimulează depunerea calciului în oase",
+      "hormonii sexuali, ce mențin un echilibru între activitatea celulelor distrugătoare și respectiv producătoare de os",
+      "hormonul de creștere, care determină creșterea oaselor scurte în lungime",
+      "hormonul produs de paratiroide, care stimulează activitatea osteoclastelor",
+      "timozinele, care la persoanele în vârstă fac ca resorbția să fie mai pronunțată decât formarea osoasă"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 70,
+    "question": "Despre osificare sunt adevărate următoarele afirmații:",
+    "options": [
+      "cea endocondrală se face spre suprafața diafizei osului lung",
+      "în interiorul oaselor plate în formare se găsesc insule de cartilaj hialin",
+      "scapulele se dezvoltă din membrane ce conțin țesut conjunctiv fibros",
+      "placa epifizară realizează creșterea în lungime a oaselor lungi toată viața",
+      "tijele de cartilaj hialin ale oaselor lungi apar în a doua lună de viață intrauterină"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 71,
+    "question": "Următoarele asocieri sunt adevărate:",
+    "options": [
+      "oase plate - protejează encefalul și organele toracice",
+      "oase lungi - servesc drept pârghie",
+      "oase scurte - oase carpiene",
+      "oase lungi - oasele tarsului",
+      "oase neregulate - vertebrele"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 72,
+    "question": "Oasele coloanei vertebrale servesc drept puncte de ancorare sau locuri de atașare pentru următoarele structuri anatomice:",
+    "options": [
+      "tendoane",
+      "mușchi",
+      "ligamente",
+      "nervi",
+      "artere"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 73,
+    "question": "Următoarele oase sunt neregulate:",
+    "options": [
+      "oasele coloanei vertebrale",
+      "oasele wormiene",
+      "oasele sesamoide",
+      "oasele carpiene",
+      "oasele tarsului"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 74,
+    "question": "Oasele sesamoide prezintă următoarele caracteristici:",
+    "options": [
+      "sunt oase neregulate",
+      "se află la nivelul articulațiilor",
+      "sunt situate la nivelul suturilor craniene",
+      "includ patelele sau rotulele",
+      "includ omoplații"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 75,
+    "question": "Oasele lungi prezintă următoarele caracteristici:",
+    "options": [
+      "au un ax numit diafiză",
+      "au două capete numite epifize",
+      "prezintă două capete numite diafize",
+      "se întâlnesc în componența membrelor superioare și inferioare",
+      "se întâlnesc numai la nivelul degetelor"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 76,
+    "question": "Oasele plate prezintă următoarele caracteristici:",
+    "options": [
+      "protejează encefalul",
+      "protejează organele toracice",
+      "constau din două plăci subțiri de os spongios separate de o regiune centrală compusă din os compact",
+      "includ oasele craniului",
+      "includ scapulele"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 77,
+    "question": "Duritatea și flexibilitatea oaselor se datorează unor compuși chimici sintetizați de celulele formatoare de os, numite:",
+    "options": [
+      "osteoblaste",
+      "hematii",
+      "leucocite",
+      "plachete sangvine",
+      "limfocite"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 78,
+    "question": "Oasele au următoarele caracteristici:",
+    "options": [
+      "prezintă duritate, conferită de cristalele de hidroxiapatită",
+      "prezintă flexibilitate, conferită de către fibrele de colagen",
+      "cele spongioase conțin măduvă osoasă roșie, cu rol în hematopoeză",
+      "prezintă, în centrul tuturor oaselor, măduvă osoasă roșie, cu rol în hematopoeză",
+      "depozitează calciu și fosfați"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 79,
+    "question": "Din structura femurului fac parte următoarele elemente anatomice:",
+    "options": [
+      "diafiza, porțiunea dreaptă, lungă a osului",
+      "epifizele, care formează capetele osului",
+      "cartilajul articular hialin, prezent la extremitatea fiecărei epifize",
+      "periostul, care acoperă diafiza",
+      "periostul, care acoperă cartilajul articular"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 80,
+    "question": "Humerusul crește în lungime pe seama:",
+    "options": [
+      "periostului",
+      "cartilajului hialin care acoperă suprafețele articulare",
+      "plăcii epifizare, situată la nivelul metafizei",
+      "plăcii epifizare, situată la nivelul epifizei",
+      "plăcii epifizare, o zonă activă de cartilaj, care este înlocuită ulterior cu țesut osos"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 81,
+    "question": "Care dintre următoarele tipuri de articulații sunt sinartroze?",
+    "options": [
+      "articulațiile sinoviale",
+      "gomfozele, care apar la locul de implantare a dintelui în alveolă",
+      "sindesmozele, care unesc diafizele radiusului și ulnei",
+      "sindesmozele, în care o membrană fibroasă interosoasă unește diafizele a două oase lungi adiacente",
+      "sindesmozele, care unesc epifizele tibiei și peroneului"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 82,
+    "question": "Următoarele tipuri de articulații sunt amfiantroze:",
+    "options": [
+      "articulațiile dintre vertebre la nivelul cărora sunt prezente discurile intervertebrale",
+      "simfiza pubiană",
+      "articulația sacroiliacă",
+      "suturile",
+      "articulațiile sinoviale"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 83,
+    "question": "Următoarele asocieri între tipul de articulație și gradul lor de mobilitate sunt adevărate:",
+    "options": [
+      "sinartrozele - aproape sau total imobile",
+      "amfiantrozele - au mobilitate limitată",
+      "diartrozele - permit mișcări libere",
+      "articulațiile sinoviale - sunt cele mai mobile articulații",
+      "sinartrozele - sunt cele mai mobile articulații"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 84,
+    "question": "Diartrozele prezintă următoarele componente:",
+    "options": [
+      "două capete osoase, acoperite de cartilaj articular",
+      "cavitate articulară",
+      "capsulă fibroasă",
+      "membrană sinovială",
+      "lichid sinovial, secretat de către cartilajul hialin"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 85,
+    "question": "Următoarele afirmații referitoare la diartroze sunt adevărate:",
+    "options": [
+      "în unele cazuri, cavitatea lor articulară este divizată de discuri cartilaginoase",
+      "articulația genunchiului, un tip de diartroză, prezintă trei discuri cartilaginoase, cu formă semilunară",
+      "includ articulația genunchiului, care prezintă două discuri cartilaginoase, numite meniscuri",
+      "în anumite cazuri, capsula fibroasă se organizează sub formă de fascicule groase, care formează ligamentele",
+      "la nivelul umărului, capătul proximal al humerusului este menținut în articulație de către mușchii inserați pe el"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 86,
+    "question": "Selectați mișcările antagoniste:",
+    "options": [
+      "flexie - extensie",
+      "abducție - adducție",
+      "supinație - pronație",
+      "depresie - eversie",
+      "elevație - inversie"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 87,
+    "question": "Caracterizați următoarele tipuri de mișcări:",
+    "options": [
+      "supinația - aducerea palmei în poziție anatomică (înspre posterior)",
+      "pronația - aducerea palmei în poziția opusă celei anatomice (înspre posterior)",
+      "inversie - rotirea labei piciorului cu talpa spre interior",
+      "flexie dorsală - îndoirea labei piciorului către tibie",
+      "flexie - mărirea unghiului între două oase"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 88,
+    "question": "Despre articulații se poate afirma că:",
+    "options": [
+      "articulația umărului este stabilizată de mușchii de la acest nivel",
+      "toate articulațiile prezintă saci închiși plini cu lichid, numiți burse",
+      "într-o diartroză, membrana sinovială acoperă și suprafețele articulare ale oaselor",
+      "conțin lichid sinovial, un lichid clar, cu densitate mică și cu rol lubrifiant",
+      "prezintă discuri intervertebrale ce absorb șocurile și permit mișcări ample ale articulațiilor"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 89,
+    "question": "Referitor la mișcările articulare sunt corecte următoarele afirmații:",
+    "options": [
+      "flexia dorsală presupune îndoirea labei piciorului spre fața anterioară a gambei",
+      "supinația constă în rotirea brațului până când palma ajunge în poziție anatomică, privind spre anterior",
+      "adducția reprezintă apropierea unui membru de linia medială a corpului",
+      "apropierea brațului de trunchi este o mișcare de adducție",
+      "prin mișcarea umărului se pot realiza atât mișcări de abducție, cât și de depresie"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 90,
+    "question": "Alegeți afirmațiile corecte privind structura histologică a oaselor:",
+    "options": [
+      "oasele spongioase au în structura lor osteoane",
+      "examinate la microscopul optic, prezintă doar osteoane complete",
+      "au înglobate osteocite în osul format",
+      "prezintă canale perforante ce conțin nervi dar nu și capilare sanguine",
+      "prezintă canale centrale care sunt conectate cu celulele osoase prin canale perforante"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 91,
+    "question": "Referitor la funcțiile oaselor sunt corecte următoarele afirmații:",
+    "options": [
+      "împreună cu mușchii scheletici pot schimba poziția organismului",
+      "ajută direct la menținerea echilibrului hidric al organismului",
+      "au o cavitate centrală căptușită de o membrană subțire, numită endost",
+      "ancrează mușchi",
+      "conțin cristale de hidroxiapatită înglobate într-o matrice formată din fibre de colagen"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 92,
+    "question": "Selectați afirmațiile corecte despre țesutul osos:",
+    "options": [
+      "are o componentă principală reprezentată de fibrele de colagen",
+      "este alcătuit din celule, fibre de colagen și o substanță fundamentală densă, mineralizată",
+      "mineralele din structura sa contribuie la duritatea osului",
+      "depozitează calciu și fosfați",
+      "este un tip de țesut conjunctiv"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 93,
+    "question": "Referitor la structura oaselor lungi se poate afirma că:",
+    "options": [
+      "au două capete, numite epifize, acoperite de cartilaj articular",
+      "prezintă o porțiune dreaptă, lungă, numită diafiză",
+      "de-a lungul întregii vieți, la nivelul joncțiunilor dintre diafiză și epifize există placa epifizară",
+      "prezintă la nivelul joncțiunii dintre diafiză și epifize, câte un cartilaj articular",
+      "conțin în centrul diafizei cavitatea medulară, în care se găsește măduva galbenă"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 94,
+    "question": "Selectați afirmațiile corecte referitoare la formarea oaselor:",
+    "options": [
+      "începe, aproximativ, în a doua lună a vieții intrauterine",
+      "se dezvoltă, în cazul oaselor lungi, sub formă de membrane",
+      "pornește de la tije cartilaginoase în cazul osificării endocondrale",
+      "este un proces controlat hormonal",
+      "încetează după pubertate"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 95,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "hormonii sexuali influențează remodelarea osoasă",
+      "în osteoporoză oasele sunt rezistente și nu se rup ușor",
+      "calciul rezultat din acțiunea osteoclastelor este utilizat în contracția musculară",
+      "osul compact este numit și os lamelar",
+      "osteoblastele au rol în hrănirea osului și în îndepărtarea produșilor reziduali"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 96,
+    "question": "Sinartrozele:",
+    "options": [
+      "au capetele osoase adiacente separate de un strat gros de țesut fibros",
+      "apar între osul frontal și cele două oase parietale",
+      "includ gomfoza, o articulație aproape imobilă",
+      "din această categorie face parte articulația sacroiliacă, realizată între oasele pubiene",
+      "pot prezenta o capsulă fibroasă"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 97,
+    "question": "Selectați afirmațiile corecte despre diartroze:",
+    "options": [
+      "pot prezenta meniscuri în formă de semilună",
+      "includ simfiza pubiană, articulație cu mobilitate foarte limitată",
+      "pot prezenta capsulă fibroasă articulară organizată sub formă de ligamente",
+      "se găsesc doar între oasele de la nivelul membrului superior",
+      "la nivelul lor, suprafețele articulare sunt conectate una cu cealaltă"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 98,
+    "question": "Oasele plate au următoarele roluri:",
+    "options": [
+      "oferă suprafețe întinse pe care se pot atașa tendoanele",
+      "suportă greutăți",
+      "protejează encefalul",
+      "protejează organele toracice",
+      "rol în hematopoeză"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 99,
+    "question": "Care dintre următoarele oase sunt plate?",
+    "options": [
+      "patelele",
+      "scapulele",
+      "oasele pelvisului",
+      "humerusul",
+      "sternul, coastele și vertebrele"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 100,
+    "question": "Hematopoeza poate avea loc în:",
+    "options": [
+      "vertebre",
+      "diafiza humerusului",
+      "stern",
+      "oasele craniului",
+      "oasele pelvisului"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 101,
+    "question": "Care dintre următoarele oase sunt implicate în hematopoeză?",
+    "options": [
+      "diafiza oaselor lungi",
+      "coastele",
+      "epifiza femurului",
+      "oasele plate",
+      "oasele sesamoide"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 102,
+    "question": "Sediul hematopoeizei este reprezentat de:",
+    "options": [
+      "măduva roșie",
+      "oasele plate",
+      "diafiză",
+      "epifizele tuturor oaselor",
+      "măduva galbenă"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 103,
+    "question": "Formațiunile osoase cu rol în hematopoeză sunt:",
+    "options": [
+      "cavitatea medulară",
+      "trabeculele",
+      "endostul",
+      "măduva roșie",
+      "epifizele humerusului și femurului"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 104,
+    "question": "Referitor la creșterea oaselor lungi se pot afirma următoarele:",
+    "options": [
+      "are loc la nivelul plăcii epifizare",
+      "se desfășoară la nivelul unei zone active de țesut osos",
+      "este asigurată de metafiză",
+      "are loc pe seama periostului la nivelul epifizei acestor oase",
+      "se realizează prin depunerea de cartilaj la nivelul plăcii epifizare"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 105,
+    "question": "Formarea osului implică:",
+    "options": [
+      "participarea țesutului conjunctiv fibros",
+      "apariția de centre de osificare în cazul osificării intramembranoase",
+      "participarea unor tije rectilinii de cartilaj hialin în cazul osificării endocondrale",
+      "participarea endostului din cavitatea medulară, structură ce formează os pe toată durata vieții",
+      "producerea colagenului și a hidroxiapatitei de către osteoblaste"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 106,
+    "question": "Periostul:",
+    "options": [
+      "dă naștere osteoclastelor",
+      "acoperă oasele lungi la nivelul diafizei",
+      "este un tip de țesut conjunctiv",
+      "dă naștere osteocitelor",
+      "este prezent și la nivelul zonelor acoperite de cartilaj articular"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 107,
+    "question": "În structura unui os compact întâlnim:",
+    "options": [
+      "canale perforante, care conțin nervi și vase capilare",
+      "lamele osoase, care conțin lacune și canale perforante",
+      "lacune, ce reprezintă spații dispuse în interiorul lamelelor osoase și conțin osteocite",
+      "lamele interstițiale, care reprezintă osteoane complete",
+      "canaliculele care unesc lacunele între ele, precum și cu canalul central"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 108,
+    "question": "Oasele au următoarele funcții:",
+    "options": [
+      "asigură protecția encefalului",
+      "mențin sau schimbă poziția organismului în corelație cu mușchii netezi",
+      "ajută, în mod direct, la menținerea echilibrului hidric al organismului",
+      "intervin în hematopoeză, datorită măduvei roșii hematogene",
+      "stochează minerale"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 109,
+    "question": "Alegeți corelațiile corecte privind funcțiile oaselor:",
+    "options": [
+      "protecție - protejează organele abdominale și encefalul",
+      "stocare de minerale - depozit de calciu și fosfați",
+      "hematopoeză - măduva galbenă",
+      "suport - permit ancorarea mușchilor",
+      "mișcare - mențin sau schimbă poziția organismului împreună cu mușchii scheletici"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 110,
+    "question": "Oasele scurte:",
+    "options": [
+      "apar în spații închise",
+      "prezintă epifize și diafiză",
+      "suportă greutăți",
+      "au formă complexă",
+      "includ oasele tarsiene"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 111,
+    "question": "Oasele neregulate:",
+    "options": [
+      "au rol în articulații",
+      "au formă complexă",
+      "includ sternul și oasele pelvisului",
+      "pot servi drept loc de atașare pentru mușchi și ligamente",
+      "intră în componența coloanei vertebrale"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 112,
+    "question": "Oasele plate:",
+    "options": [
+      "servesc drept punct de ancorare pentru tendoane, ligamente și mușchi",
+      "sunt formate prin osificare intramembranoasă",
+      "contribuie la hematopoeză",
+      "sunt formate prin osificare endocondrală",
+      "pot fi parte componentă a unor sinartroze"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 113,
+    "question": "Discurile intervertebrale:",
+    "options": [
+      "pot face parte dintr-o diartroză",
+      "sunt compuse dintr-un fibrocartilaj ce înconjoară un miez gelatinos",
+      "absorb șocurile",
+      "permit mișcarea liberă de aplecare spre înainte sau în lateral",
+      "sunt parte componentă a unor amfiantroze"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 114,
+    "question": "Despre articulația sacroiliacă putem afirma că:",
+    "options": [
+      "prezintă lichid sinovial",
+      "este o sutură",
+      "este un tip de amfiantroză",
+      "face parte din centura pelviană",
+      "prezintă capsulă fibroasă și ligament"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 115,
+    "question": "Care dintre următoarele articulații sunt sinartroze?",
+    "options": [
+      "gomfoza",
+      "simfiza pubiană",
+      "sindesmoza",
+      "meniscurile",
+      "suturile"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 116,
+    "question": "Diartrozele:",
+    "options": [
+      "pot conține meniscuri",
+      "sunt articulații foarte mobile",
+      "lichidul sinovial din structura lor se secretă doar în condiții patologice",
+      "membrana sinovială din structura lor acoperă toată suprafața capetelor osoase",
+      "includ articulația sacroiliacă de la nivelul șoldului"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 117,
+    "question": "Alegeți asocierile corecte:",
+    "options": [
+      "extensia - creșterea unghiului dintre două oase în articulație",
+      "abducția - îndepărtarea unui membru față de linia mediană a corpului",
+      "eversia - rotirea labei piciorului către tibie",
+      "pronația - rotația antebrațului astfel încât palma să privească spre posterior",
+      "protracția - mișcarea spre înapoi a unei părți a corpului (bărbia)"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 118,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "oasele scurte au formă cuboidală și suportă greutăți",
+      "vertebrele au prelungiri ce servesc ca puncte de ancorare pentru tendoane și ligamente",
+      "cristalele de hidroxiapatită sunt înglobate într-o matrice cu rol în flexibilitatea osului",
+      "periostul acoperă epifizele oaselor lungi",
+      "osul spongios este alcătuit din trabecule ce conțin măduvă galbenă"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 119,
+    "question": "Despre structura osului se pot afirma următoarele:",
+    "options": [
+      "conține inele de țesut osos organizate în osteoane vizibile la microscopul optic",
+      "prezintă în canalul central al osteonului capilare sanguine și nervi",
+      "conține în lamelele osoase spații cu osteoblaste",
+      "osteocitele din structură au rol în producerea colagenului și hidroxiapatitei",
+      "osteoblastele din structură au rol în îndepărtarea produșilor reziduali"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 120,
+    "question": "Selectați afirmațiile corecte privind oasele plate:",
+    "options": [
+      "au în structură două plăci subțiri de os spongios separate de os compact",
+      "protejează encefalul și organele toracice",
+      "prezintă un ax numit diafiză",
+      "includ oasele sesamoide din structura articulațiilor",
+      "oferă suprafețe pentru atașarea tendoanelor"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 121,
+    "question": "Despre oasele lungi se pot afirma următoarele:",
+    "options": [
+      "conțin diafiza și două epifize",
+      "prin placa epifizară are loc creșterea lor în lungime",
+      "conțin măduvă roșie la capetele femurului și humerusului",
+      "au, în interiorul epifizei, os compact alcătuit din trabecule",
+      "prezintă, la exteriorul diafizei, os compact, dur și dens"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 122,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "osificarea endocondrală asigură formarea oaselor plate ale craniului",
+      "osificarea intramembranoasă începe prin migrarea osteoblastelor în membrane și formarea de centre de osificare",
+      "în osificarea endocondrală, osteoblastele depun os compact în jurul tijelor cartilaginoase",
+      "creșterea în lungime a osului începe la pubertate, când placa epifizară este complet osificată",
+      "creșterea în lungime a osului continuă și după osificarea plăcii epifizare"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 123,
+    "question": "Despre osteoblaste se pot afirma următoarele:",
+    "options": [
+      "sunt celule active ce produc colagen",
+      "se găsesc în lacune unite între ele și cu canalul central prin canalicule",
+      "se găsesc în endost",
+      "au rol în formarea de os",
+      "se transformă în osteocite pe măsură ce sunt înglobate în osul format"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 124,
+    "question": "Osteoclastele:",
+    "options": [
+      "provin din osteocitele situate în lacunele osoase",
+      "produc colagen și hidroxiapatită",
+      "au rol în remodelarea osoasă",
+      "au rol în îndepărtarea produșilor reziduali din os",
+      "au rol în hrănirea osului format"
+    ],
+    "answers": [2]
+  },
+  {
+    "id": 125,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "oasele neregulate pot avea prelungiri pentru ancorarea tendoanelor și ligamentelor",
+      "scheletul axial include oasele capului, coloana vertebrală și oasele centurilor",
+      "în compoziția osului se găsesc fosfat de calciu, hidroxid de calciu și carbonat de calciu",
+      "hidroxiapatita din structura osului este înglobată într-o matrice formată din fibre de colagen",
+      "cartilajul articular permite deplasarea fără frecare a oaselor adiacente"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 126,
+    "question": "Selectați afirmațiile corecte despre formarea osului:",
+    "options": [
+      "se realizează printr-un proces numit osificare",
+      "în oasele lungi începe în centre de osificare unde osteoblastele secretă matricea osoasă",
+      "începe în săptămâna a șasea a dezvoltării embrionare prin formare de cartilaj hialin",
+      "în cazul oaselor lungi, include apariția de vase sanguine în interiorul tijelor cartilaginoase",
+      "este un proces ce durează toată viața pentru oasele lungi"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 127,
+    "question": "Selectați afirmațiile corecte privind rolurile oaselor:",
+    "options": [
+      "depozitează calciu și fosfați",
+      "au rol în formarea elementelor figurate ale sângelui în măduva osoasă roșie din oasele spongioase",
+      "prin fibrele de colagen din structura lor asigură duritatea oaselor",
+      "prin hidroxiapatită asigură flexibilitatea oaselor",
+      "prin măduva galbenă au rol în hematopoeză"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 128,
+    "question": "Despre articulații se pot afirma următoarele:",
+    "options": [
+      "cavitatea sinovială conține lichid sinovial",
+      "amfiantrozele prezintă mobilitate limitată",
+      "sindesmoza constă dintr-o membrană fibroasă interosoasă la nivelul diafizelor a două oase lungi",
+      "gomfoza este o articulație mobilă",
+      "articulațiile sinoviale se formează la nivelul diafizelor oaselor lungi"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 129,
+    "question": "Următoarele afirmații sunt corecte:",
+    "options": [
+      "diafiza oaselor lungi este plină la interior",
+      "matricea de colagen asigură flexibilitatea osoasă",
+      "cavitatea medulară este tapetată de endost",
+      "hidroxiapatita asigură duritatea osoasă",
+      "osul spongios este mai dens decât cel compact"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 130,
+    "question": "Selectați afirmațiile corecte referitoare la articulații:",
+    "options": [
+      "diartrozele sunt articulații imobile",
+      "există sinartroze și între oasele coloanei vertebrale",
+      "articulațiile sinoviale sunt mobile",
+      "simfiza pubiană este o articulație cu mobilitate crescută",
+      "suturile sunt articulații ce conțin o cantitate redusă de țesut fibros"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 131,
+    "question": "Osteonul:",
+    "options": [
+      "este alcătuit din trabecule și lamele interstițiale",
+      "prezintă, în centru, un canal care conține capilare sanguine și nervi",
+      "apare atât în structura osului compact cât și a celui spongios",
+      "comunică cu osteoanele învecinate prin canale perforante",
+      "intervine și în formarea de plachete sanguine"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 132,
+    "question": "Alegeți afirmațiile corecte referitoare la oasele plate:",
+    "options": [
+      "protejează encefalul și organele toracice",
+      "includ oasele craniului, omoplații, coastele, vertebrele și oasele pelvisului",
+      "prezintă locuri de atașare a mușchilor",
+      "conțin, la interior, os spongios cu rol în hematopoeză",
+      "au rol de pârghii pentru mișcare"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 133,
+    "question": "La nivelul diartrozelor pot fi întâlnite următoarele componente:",
+    "options": [
+      "lichidul sinovial, cu rol lubrifiant",
+      "capsula cartilaginoasă, care învelește capetele articulare",
+      "membrana sinovială, care acoperă suprafețele articulare",
+      "ligamente, formate din fascicule groase derivate din membrana sinovială",
+      "burse, care sunt saci închiși, plini cu lichid, căptușiți de membrane sinoviale"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 134,
+    "question": "Selectați afirmațiile corecte privind remodelarea osoasă:",
+    "options": [
+      "se realizează prin interacțiunea dintre osteoblaste și osteocite",
+      "furnizează calciu și fosfați necesari metabolismului celular",
+      "este influențată și de hormonii sexuali",
+      "presupune participarea osteoclastelor, care formează țesut osos",
+      "implică și celulele osoase localizate în lacune"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 135,
+    "question": "Care dintre afirmațiile următoare privind formarea oaselor sunt false?",
+    "options": [
+      "osificarea endocondrală presupune transformarea unor membrane conjunctive în țesut osos",
+      "centrele de osificare se formează prin migrarea osteoblastelor în membrane de țesut conjunctiv fibros",
+      "oasele plate ale craniului se formează prin osificare endocondrală",
+      "osificarea endocondrală pornește de la tije de cartilaj hialin care apar aproximativ în a șasea săptămână a dezvoltării embrionare",
+      "oasele lungi se formează prin osificare intramembranoasă"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 136,
+    "question": "La nivelul articulațiilor se pot desfășura următoarele tipuri de mișcări:",
+    "options": [
+      "circumducție - o formă specială de flexie",
+      "inversie - rotirea tălpii piciorului spre interior",
+      "supinație - aducerea palmei în poziție anatomică",
+      "extensie - micșorarea unghiului dintre două oase",
+      "adducție - apropierea unei părți a corpului de linia mediană"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 137,
+    "question": "Referitor la oasele neregulate se poate afirma că:",
+    "options": [
+      "protejează măduva spinării - oasele wormiene",
+      "suportă greutăți - oasele carpiene",
+      "au rol de pârghie - scapulele",
+      "pot avea formă rectangulară - vertebrele",
+      "se întâlnesc și la nivelul articulațiilor - oasele sesamoide"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 138,
+    "question": "Selectați afirmațiile corecte referitoare la oasele scurte:",
+    "options": [
+      "protejează organele de sub ele",
+      "apar în spații închise",
+      "au formă aproximativ cuboidală",
+      "suportă greutăți",
+      "se află la nivelul unor suturi craniene"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 139,
+    "question": "Care dintre următoarele afirmații privind țesutul osos sunt corecte?",
+    "options": [
+      "poate fi de tip compact sau spongios",
+      "conține hidroxiapatită, care conferă duritate osului",
+      "este o sursă de calciu și fosfați pentru organism",
+      "conține fibre de colagen care reduc flexibilitatea osului",
+      "poate fi de două tipuri, ambele întâlnite în structura oaselor plate"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 140,
+    "question": "Funcția hematopoietică a oaselor:",
+    "options": [
+      "constă exclusiv în formarea de eritrocite și leucocite",
+      "nu se poate realiza la nivelul epifizelor humerusului și femurului",
+      "reprezintă formarea celulelor sanguine",
+      "se poate desfășura și în unele oase plate sau neregulate",
+      "presupune eliberarea de calciu și fosfați, în funcție de nevoile organismului"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 141,
+    "question": "Mișcările articulare includ:",
+    "options": [
+      "abducția - apropierea unui membru de linia mediană a corpului",
+      "supinația - mișcarea antebrațului până când palma privește spre anterior",
+      "abducția - îndepărtarea unui membru de linia mediană a corpului",
+      "supinația - mișcarea antebrațului până când palma privește spre posterior",
+      "elevația - mișcarea de coborâre a umerilor"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 142,
+    "question": "Principalele funcții ale oaselor sunt:",
+    "options": [
+      "protecția encefalului",
+      "integrarea stimulilor din mediul extern",
+      "producerea celulelor nervoase",
+      "ajută, indirect, la menținerea echilibrului hidric și mineral",
+      "producerea diferitelor tipuri de celule sanguine"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 143,
+    "question": "Oasele wormiene:",
+    "options": [
+      "se găsesc la nivelul unor suturi craniene",
+      "au prelungiri cu aspect de contraforturi sau aripi",
+      "sunt oase sesamoide",
+      "fac parte din scheletul membrelor",
+      "sunt oase neregulate"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 144,
+    "question": "Alegeți afirmațiile corecte:",
+    "options": [
+      "oasele sunt dure și flexibile datorită substanțelor produse de osteoblaste",
+      "flexibilitatea osului se datorează hidroxiapatitei",
+      "calciul și fosfații depozitați în os nu sunt mobilizabili",
+      "hidroxiapatita conține, în principal, fosfat de calciu",
+      "colagenul conferă flexibilitate osului"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 145,
+    "question": "Hematopoeza:",
+    "options": [
+      "presupune exclusiv formarea hematiilor în măduva roșie",
+      "poate avea loc și în cartilajul epifizar",
+      "se desfășoară la nivelul cavității medulare",
+      "poate avea loc la nivelul vertebrilor și a sternului",
+      "are loc în măduva osoasă roșie din oasele spongioase"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 146,
+    "question": "Osul:",
+    "options": [
+      "îndeplinește doar rol de mișcare, protecție, suport și stocare de minerale",
+      "depozitează hidroxiapatită și eliberează calciu și fosfați",
+      "prezintă o zonă numită metafiză la nivelul joncțiunii dintre diafiză și epifiză",
+      "îndeplinește și rol în hematopoeză",
+      "prezintă o zonă numită placa epifizară la nivelul metafizei"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 147,
+    "question": "Din punct de vedere histologic:",
+    "options": [
+      "în lacune se găsesc celule numite osteoblaste",
+      "osul compact este organizat în osteoane",
+      "în lacune se găsesc celule numite osteocite",
+      "la exterior osul este acoperit de periost",
+      "lacunele sunt unite între ele prin canale perforante electronmicroscopice"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 148,
+    "question": "Care din următoarele afirmații privind structura oaselor lungi sunt adevărate?",
+    "options": [
+      "periostul acoperă întregul os cu excepția suprafețelor articulare",
+      "măduva galbenă se găsește în epifizele oaselor lungi",
+      "placa epifizară este o zonă activă de țesut osos cu rol în creșterea în lungime a osului",
+      "travele sunt structuri osoase caracteristice osului spongios",
+      "endostul căptușește cavitatea medulară"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 149,
+    "question": "Care din următoarele afirmații privind osul sunt adevărate?",
+    "options": [
+      "canaliculele conectează între ele canalele centrale și celulele osoase",
+      "osteocitele se găsesc în lacune",
+      "canaliculele electronmicroscopice conțin vase sanguine și nervi",
+      "osteoblastele se transformă în osteocite",
+      "osul lamelar prezintă osteoane la examinarea microscopică"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 150,
+    "question": "Referitor la osificarea endocondrală se poate afirma că:",
+    "options": [
+      "este un proces controlat hormonal",
+      "se produce la suprafață și în profunzime",
+      "are loc exclusiv în oasele plate",
+      "presupune încorporarea osteoclastelor în tije cartilaginoase",
+      "realizează creșterea oaselor în lungime"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 151,
+    "question": "Oasele au următoarele funcții:",
+    "options": [
+      "protejează organele interne",
+      "produce energie pentru mușchi",
+      "asigură suport organismului",
+      "stochează minerale",
+      "controlează echilibrul hormonal"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 152,
+    "question": "Alegeți informația corectă:",
+    "options": [
+      "sindesmoza este o articulație cu lichid sinovial",
+      "oasele au și funcție de suport",
+      "protejează encefalul și alte organe",
+      "încheietura mâinii este o articulație realizată între oase lungi și plate",
+      "oasele tarsiene sunt scurte"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 153,
+    "question": "După formă, există oase:",
+    "options": [
+      "plate",
+      "ascuțite",
+      "lungi",
+      "bipolare",
+      "neregulate"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 154,
+    "question": "Următoarele afirmații cu privire la oase sunt adevărate:",
+    "options": [
+      "scheletul membrelor include unele oase care servesc ca pârghie",
+      "osul este cel mai puțin dur țesut conjunctiv din organismul uman",
+      "centura pelviană face parte din scheletul membrelor superioare",
+      "oasele plate sunt mărginite de două plăci subțiri de os spongios",
+      "scapulele sunt incluse în aceeași categorie cu coastele"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 155,
+    "question": "Care dintre următoarele oase sunt considerate oase plate?",
+    "options": [
+      "sternul",
+      "scapulele",
+      "vertebrele",
+      "coastele",
+      "oasele carpiene"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 156,
+    "question": "Următoarele sunt afirmații adevărate:",
+    "options": [
+      "principala substanță anorganică din structura osului este reprezentată de carbonatul de calciu",
+      "fosfatul de calciu este principalul component al hidroxiapatitei și este o sare minerală",
+      "hematopoeza este procesul prin care, la nivelul măduvei osoase roșii, se produc exclusiv eritrocite",
+      "fibrele de cartilaj hialin conferă flexibilitate scheletului",
+      "osteoblastele sunt responsabile de sinteza componentelor care conferă duritate și flexibilitate oaselor"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 157,
+    "question": "Ce rol joacă oasele în funcționarea organismului uman?",
+    "options": [
+      "ajută indirect la menținerea echilibrului hidric",
+      "oferă suport și ancorare pentru mușchi",
+      "participă activ la respirație",
+      "sunt sediul formării de elemente figurate sanguine",
+      "produc hormoni"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 158,
+    "question": "Referitor la diartroze se poate afirma că:",
+    "options": [
+      "membrana sinovială secretă un lichid cu rol lubrifiant",
+      "gomfoza este o articulație imobilă",
+      "placa epifizară este situată în cavitățile articulare",
+      "amfiantrozele sunt cele mai mobile articulații",
+      "retracția reprezintă mișcarea spre înainte a unei părți a corpului"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 159,
+    "question": "Oasele lungi se caracterizează prin următoarele trăsături:",
+    "options": [
+      "au o formă neregulată",
+      "prezintă un ax numit diafiză",
+      "sunt formate din două plăci subțiri de os compact",
+      "se găsesc în membrele superioare și inferioare",
+      "conțin o regiune centrală, diafiza, formată exclusiv din os trabecular"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 160,
+    "question": "Următoarele afirmații sunt incorecte:",
+    "options": [
+      "abducția reprezintă îndepărtarea unui membru față de linia medială a corpului",
+      "inversia constă în întoarcerea labei piciorului cu talpa spre interior",
+      "eversia reprezintă întoarcerea labei piciorului cu talpa spre exterior",
+      "mișcarea articulară se realizează prin contracția mușchiului care exercită tracțiune asupra părții imobile",
+      "toate bursele articulare sunt saci închiși, plini cu lichid"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 161,
+    "question": "Care componente ale țesutului osos contribuie la duritatea sau la flexibilitatea osului?",
+    "options": [
+      "fosfatul de calciu",
+      "fibrele de colagen",
+      "hidroxidul de magneziu",
+      "hidroxiapatita",
+      "fibrele elastice"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 162,
+    "question": "Sunt adevărate următoarele enunțuri:",
+    "options": [
+      "discurile cartilaginoase de la nivelul articulațiilor pot forma ligamente",
+      "amfiantrozele se găsesc la nivelul simfizei pubiene și la nivelul articulației sacro-pubiene",
+      "discurile intervertebrale sunt compuse dintr-un fibrocartilaj și un miez gelatinos",
+      "osificarea intramembranoasă participă la formarea tuturor oaselor toracelui",
+      "formarea oaselor plate ale craniului se face pornind de la membrane care conțin țesut conjunctiv fibros"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 163,
+    "question": "Cartilajul articular are următoarele funcții:",
+    "options": [
+      "permite mișcarea fără frecare între oase",
+      "produce celule sanguine",
+      "protejează epifiza",
+      "asigură duritatea osului",
+      "este locul de depozitare a fosfaților"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 164,
+    "question": "Care dintre următoarele articulații sunt imobile?",
+    "options": [
+      "suturile existente între oasele craniului",
+      "amfiantroza dintre oasele pubiene",
+      "sindesmoza dintre osul sacru și osul iliac",
+      "gomfoza, care apare la locul de implantare a dintelui în alveolă",
+      "diartroza de la nivelul cotului"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 165,
+    "question": "În cavitatea medulară a oaselor lungi există:",
+    "options": [
+      "măduva galbenă",
+      "travee",
+      "periost",
+      "hidroxiapatită",
+      "cartilaj hialin"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 166,
+    "question": "Care dintre următoarele afirmații sunt adevărate despre structura histologică a osului compact?",
+    "options": [
+      "osteoanele conțin un canal central cu nervi și capilare sanguine",
+      "canaliculele conectează osteoanele între ele",
+      "osteocitele se află în lacune",
+      "periostul formează osul lamelar",
+      "canalele perforante sunt spații în care se află măduvă osoasă"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 167,
+    "question": "Selectați enunțurile corecte privind oasele:",
+    "options": [
+      "scheletul are drept componente majore oasele, cartilajele și ligamentele",
+      "țesutul osos este un tip principal de țesut",
+      "oasele lungi pot conține două tipuri de țesut osos",
+      "oasele craniului nu conțin os lamelar",
+      "oasele lungi, scurte, plate și neregulate pot ajuta la susținerea activităților metabolice"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 168,
+    "question": "Selectați caracteristicile osificării intramembranoase:",
+    "options": [
+      "participă la formarea oaselor plate ale craniului",
+      "implică dezvoltarea tijelor de cartilaj hialin",
+      "osteoblastele formează centre de osificare în membrane",
+      "este responsabilă de formarea oaselor lungi",
+      "intervin în creșterea oaselor lungi pe seama metafizei"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 169,
+    "question": "Epifizele:",
+    "options": [
+      "sunt sudate la diafiză încă din perioada de creștere",
+      "există în structura tuturor tipurilor de oase",
+      "sunt acoperite parțial de periost",
+      "există și în structura scheletului membrelor",
+      "pot fi învelite de o capsulă fibroasă, care se găsește în interiorul cavității sinoviale"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 170,
+    "question": "Canalele perforante din alcătuirea osului compact conectează între ele:",
+    "options": [
+      "canalele centrale",
+      "osteoclastele din lacune",
+      "cavitatea medulară",
+      "periostul și endostul",
+      "metafizele"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 171,
+    "question": "Despre sinartroze se poate afirma că:",
+    "options": [
+      "prezintă capsulă articulară și membrană sinovială",
+      "prezintă mobilitate accentuată",
+      "sunt prezente la nivelul articulațiilor dintre oasele care formează pelvisul",
+      "cuprind suturile dintre osul frontal și osul occipital",
+      "sunt articulații fără cavitate"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 172,
+    "question": "Care sunt caracteristicile procesului de osificare endocondrală?",
+    "options": [
+      "formează oasele lungi",
+      "este responsabilă de formarea trabeculelor osului compact",
+      "osteocitele depun os compact în jurul tijelor cartilaginease",
+      "implică apariția unor centre de osificare",
+      "osificarea continuă în profunzime, dar nu și la suprafață"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 173,
+    "question": "Care dintre următoarele afirmații referitoare la funcțiile oaselor sunt corecte?",
+    "options": [
+      "ajută în mod direct la menținerea echilibrului hidric al organismului",
+      "reprezintă cel mai dur țesut conjunctiv din organismul uman",
+      "protejează encefalul, plămânii și alte organe",
+      "mențin sau schimbă poziția organismului împreună cu mușchii scheletici",
+      "reprezintă puncte de ancorare pentru mușchii striați scheletici"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 174,
+    "question": "Care dintre următoarele funcții sunt îndeplinite de osteoblaste?",
+    "options": [
+      "întrețin cartilajul articular",
+      "formează colagen și hidroxiapatită",
+      "resorb osul vechi",
+      "se găsesc doar în periost",
+      "produc țesut osos"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 175,
+    "question": "Oasele lungi:",
+    "options": [
+      "conțin fibre de colagen, care le conferă duritate",
+      "cresc în grosime prin depunere de cartilaj la nivelul unei zone active aflate la joncțiunea dintre diafiză și epifiză",
+      "sunt acoperite, la nivelul diafizei, de un țesut epitelial, periostul",
+      "conțin, în epifize, travee care delimitează spații în care poate exista măduvă roșie",
+      "se formează din tije rectilinii de cartilaj hialin, începând cu săptămâna a 6-a a dezvoltării embrionare"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 176,
+    "question": "Osul compact:",
+    "options": [
+      "este mai puțin dens decât osul spongios",
+      "la examinarea microscopică prezintă osteoane",
+      "este denumit și os lamelar",
+      "conține măduva osoasă roșie între travee",
+      "conține osteoane, lamele interstițiale și travee"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 177,
+    "question": "Osul compact prezintă:",
+    "options": [
+      "inele concentrice de țesut osos organizate în osteoane",
+      "lamele interstițiale localizate în spațiile dintre osteoane",
+      "câte un canal central pentru fiecare osteon, care conține nervi și capilare sanguine",
+      "canale perforante, care conectează între ele canalele centrale și celulele osoase",
+      "lacune, spații delimitate de travele osoase, în care se află osteoblaste"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 178,
+    "question": "Oasele:",
+    "options": [
+      "plate se dezvoltă din tije rectilinii de cartilaj hialin",
+      "plate conțin măduvă roșie la interior",
+      "lungi se formează prin osificare endocondrală",
+      "sunt formate din țesut spongios la nivelul diafizei oaselor plate",
+      "conțin cristale de hidroxiapatită și fibre de colagen"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 179,
+    "question": "Referitor la formarea osului, următoarele afirmații sunt adevărate:",
+    "options": [
+      "începe în a opta săptămână a dezvoltării intrauterine",
+      "oasele plate ale craniului au la origine țesut conjunctiv fibros care se osifică",
+      "cartilajul articular stă la baza proceselor de osificare endocondrală și intramembranoasă",
+      "procesul de osificare încetează la naștere",
+      "creșterea în lungime a oaselor lungi are loc pe seama plăcii epifizare"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 180,
+    "question": "Despre oase se pot afirma următoarele:",
+    "options": [
+      "sunt acoperite de periost, la nivelul căruia osteocitele se transformă în osteoblaste",
+      "cele scurte se dezvoltă prin osificare intramembranoasă",
+      "asigură hematopoeza la nivelul măduvei roșii din oasele spongioase",
+      "cele lungi, în perioada de creștere, prezintă o zonă activă de cartilaj între diafiză și epifiză",
+      "prin participarea la amfiantroze, asigură mobilitatea crescută la nivelul umărului și genunchiului"
+    ],
+    "answers": [2, 3]
+  }
+]

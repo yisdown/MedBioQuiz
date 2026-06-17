@@ -1,0 +1,2829 @@
+[
+  {
+    "id": 1,
+    "question": "Următoarele afirmații sunt corecte:",
+    "options": [
+      "țesutul muscular este un țesut de bază care prezintă excitabilitate și contractilitate",
+      "țesutul muscular neted este prezent în viscere și pereții vaselor de sânge",
+      "mioglobina leagă moleculele de oxigen și le depozitează permanent în fibra musculară",
+      "pentru a asigura locomotoria, este necesară activitatea grupurilor musculare sinergice",
+      "fibra musculară scheletică utilizează energie eliberată de ATP în urma acțiunii ATP-azei"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 2,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "miofibrila reprezintă unitatea structurală și funcțională a țesutului muscular",
+      "fibra musculară striată scheletică prezintă nuclei numeroși dispuși periferic",
+      "toate tipurile de celule musculare prezintă viteză mare de contracție",
+      "mușchiul neted prezintă proteine contractile cu organizare complexă",
+      "fibrele miocardice sunt conectate între ele prin desmozomi și joncțiuni de tip gap"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 3,
+    "question": "Țesutul conjunctiv de la nivelul mușchiului se comportă astfel:",
+    "options": [
+      "perimisiumul învelește fiecare fibră musculară",
+      "endomisiumul învelește un pachet de fibre musculare",
+      "epimisiumul și fascia învelesc întreg mușchiul",
+      "toate structurile conjunctive de la nivelul corpului muscular se continuă la nivelul tendonului",
+      "endomisiumul învelește fiecare miofibrilă"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 4,
+    "question": "Fibra musculară:",
+    "options": [
+      "conține țesut adipos în cantitate mare la persoanele obeze",
+      "se contractă când este stimulată de un impuls nervos",
+      "prezintă 2-40 filamente filiforme contractile",
+      "utilizează energie furnizată sub formă de ATP de către mitocondrii",
+      "conține miofibrile a căror lungime este de aproximativ 100 μm"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 5,
+    "question": "Selectați afirmațiile corecte privind structura microscopică a sarcomerului:",
+    "options": [
+      "prezintă filamente subțiri de actină",
+      "conține filamente subțiri de miozină",
+      "include filamente groase de actină",
+      "conține exclusiv filamente subțiri de actină",
+      "prezintă atât filamente groase de miozină, cât și filamente subțiri de actină"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 6,
+    "question": "Despre linia Z este adevărat că:",
+    "options": [
+      "împarte în două jumătăți egale o bandă largă, clară, numită banda I",
+      "reprezintă zona în care filamentele de actină din două sarcomere adiacente se întrepătrund",
+      "împarte în două jumătăți egale o bandă largă, densă, numită banda H",
+      "reprezintă banda largă și densă din mijlocul sarcomerului",
+      "împarte în două jumătăți egale o bandă largă, clară, numită banda A"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 7,
+    "question": "Selectați afirmațiile false privind banda A:",
+    "options": [
+      "este împărțită în două jumătăți egale de banda I",
+      "este formată exclusiv prin suprapunerea filamentelor de miozină",
+      "se formează prin suprapunerea filamentelor de actină",
+      "este împărțită în două jumătăți egale de linia Z",
+      "este împărțită în două jumătăți egale de zona H"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 8,
+    "question": "Selectați afirmațiile adevărate privind mușchii:",
+    "options": [
+      "se clasifică în mușchi scheletici, netezi și de tip cardiac",
+      "se pot contracta doar în mod voluntar",
+      "mușchii netezi se găsesc în structura anumitor ducte",
+      "fibra musculară striată scheletică este alungită, cilindrică, cu capetele rotunjite",
+      "miocardul are nevoie de mai puțină energie deoarece activitatea lui metabolică este mai intensă"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 9,
+    "question": "Selectați afirmațiile adevărate privind ATP-ul:",
+    "options": [
+      "rezultă din reacțiile chimice care au loc în numeroasele mitocondrii aflate în sarcoplasmă",
+      "se găsește în cantități limitate în fibra musculară",
+      "este format cu ajutorul unei enzime prezente în capetele filamentelor de miozină",
+      "utilizează ca sursă de regenerare și fosfocreatina",
+      "este desfăcut în ADP și grupări fosfat sub acțiunea ATP-azei filamentelor de actină"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 10,
+    "question": "Selectați afirmațiile false privind joncțiunile de tip gap:",
+    "options": [
+      "permit citoplasmei unei fibre musculare cardiace să comunice cu cea a fibrei învecinate",
+      "se găsesc la nivelul mușchiului cardiac",
+      "sunt conexiuni speciale prezente între celulele musculare cardiace",
+      "se găsesc la nivelul mușchilor scheletici",
+      "permit citoplasmei unei fibre musculare striate scheletice să comunice cu cea a fibrei învecinate"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 11,
+    "question": "Mușchiul neted este localizat la nivelul:",
+    "options": [
+      "vaselor de sânge de la membrele superioare și inferioare",
+      "ureterelor și pereților vezicii urinare",
+      "nodului sinusal",
+      "peretelui tubului digestiv",
+      "tractului respirator"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 12,
+    "question": "Fosfocreatina este utilizată în celula musculară ca:",
+    "options": [
+      "sursă de proteine",
+      "rezervă de aminoacizi",
+      "rezervă de enzime",
+      "furnizor direct de energie pentru contracția musculară",
+      "sursă de energie în vederea regenerării moleculelor de ATP"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 13,
+    "question": "Fibrele musculare cardiace sunt conectate prin:",
+    "options": [
+      "desmozomi",
+      "discuri intervertebrale",
+      "fibre nervoase",
+      "ionii de calciu",
+      "joncțiuni de tip gap"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 14,
+    "question": "Selectați afirmațiile false privind mușchii striați scheletici:",
+    "options": [
+      "celulele, numite și fibre musculare, au joncțiune de tip gap între ele",
+      "au ca unități funcționale sarcomerele",
+      "au cea mai mare viteză de contracție",
+      "au capacitatea cea mai mare de a rămâne contractați",
+      "sunt asociați scheletului"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 15,
+    "question": "Acidul lactic:",
+    "options": [
+      "provine din glicoliza aerobă",
+      "se obține prin conversia acidului piruvic",
+      "nu poate părăsi fibrele musculare",
+      "determină modificări ale acidității în cazul acumulării în fibrele musculare",
+      "este metabolizat la nivel hepatic în prezența oxigenului"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 16,
+    "question": "Selectați afirmațiile corecte privind miofibrilele:",
+    "options": [
+      "sunt alcătuite din filamente subțiri de miozină și filamente groase de actină",
+      "sunt organizate în sarcomere",
+      "linia Z este situată în centrul benzii A",
+      "zona H este situată în regiunea centrală a benzii I",
+      "banda A are un aspect dens"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 17,
+    "question": "Referitor la banda A se pot afirma următoarele:",
+    "options": [
+      "este alcătuită atât din actină cât și din miozină",
+      "este situată în centrul sarcomerului",
+      "prezintă o zonă centrală în care lipsește miozina",
+      "este străbătută, în regiunea sa centrală, de linia Z",
+      "este alcătuită exclusiv din miozină"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 18,
+    "question": "Banda I:",
+    "options": [
+      "conține filamente groase de actină",
+      "reprezintă zona în care se întrepătrund filamentele de actină din două sarcomere succesive",
+      "conține filamente subțiri de miozină",
+      "este străbătută de linia Z",
+      "este împărțită în două jumătăți de zona H"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 19,
+    "question": "La nivelul corpului muscular se întâlnesc următoarele tunici conjunctive:",
+    "options": [
+      "epimisium",
+      "perimisium",
+      "aponevroză",
+      "tendon",
+      "endomisium"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 20,
+    "question": "Filamentul gros de miozină:",
+    "options": [
+      "poate fi observat la nivelul zonei H",
+      "este ancorat la nivelul liniei Z",
+      "este prezent atât în banda A cât și în banda I",
+      "este prezent în toate regiunile sarcomerului",
+      "există exclusiv la nivelul benzii A"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 21,
+    "question": "Oxigenul necesar respirației celulare:",
+    "options": [
+      "provine din sângele care vascularizează mușchii",
+      "poate fi stocat în fibra musculară sub formă de hemoglobină",
+      "este transportat la nivel sanguin legat de mioglobina din eritrocite",
+      "se leagă de un pigment muscular care permite stocarea sa temporară",
+      "dacă devine insuficient în mușchi, apare datoria de oxigen"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 22,
+    "question": "Următoarele trăsături funcționale ale mușchiului striat scheletic îl diferențiază de mușchiul cardiac:",
+    "options": [
+      "viteza de contracție lentă",
+      "numărul mare de nuclei",
+      "controlul voluntar",
+      "prezența striațiilor la nivelul miofibrilelor",
+      "capacitatea redusă de a rămâne contractat"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 23,
+    "question": "Următoarele trăsături anatomice ale mușchiului striat scheletic îl diferențiază de mușchiul neted:",
+    "options": [
+      "viteza de contracție rapidă",
+      "localizarea periferică a nucleilor",
+      "controlul voluntar",
+      "prezența striațiilor la nivelul miofibrilelor",
+      "capacitatea redusă de a rămâne contractat"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 24,
+    "question": "Energia necesară contracției musculare provine din:",
+    "options": [
+      "scindarea ATP-ului sub acțiunea ATP-azei situate la nivelul capetelor miozinei",
+      "fosfocreatina care reacționează cu ATP-ul în vederea refacerii rezervelor de ADP",
+      "glicoliza anaerobă, care conduce la formarea a două molecule de ATP",
+      "respirația celulară care se realizează în prezența oxigenului",
+      "respirația celulară care conduce la refacerea rezervelor de creatină"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 25,
+    "question": "Filamentele groase din structura miofibrilei:",
+    "options": [
+      "conțin actină",
+      "sunt alcătuite din miozină",
+      "pot fi observate și în banda I",
+      "se găsesc în banda A",
+      "sunt prezente în zona H"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 26,
+    "question": "Actina intră în structura unor filamente care:",
+    "options": [
+      "sunt subțiri",
+      "există exclusiv în structura benzii I",
+      "se găsesc dispuse și printre filamentele de miozină din zona H",
+      "intră și în alcătuirea benzii A",
+      "lipsesc în zona H"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 27,
+    "question": "Banda A este:",
+    "options": [
+      "formată doar din filamente de actină",
+      "delimitată între două linii Z succesive",
+      "alcătuită din filamente de actină și miozină",
+      "compusă și din filamente subțiri",
+      "situată la periferia sarcomerului"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 28,
+    "question": "Fibra musculară striată scheletică prezintă:",
+    "options": [
+      "numeroși nuclei dispuși periferic",
+      "mitocondrii cu rol în producerea de energie",
+      "sarcomere la nivelul reticulului endoplasmatic",
+      "miofibrile cu sarcomere delimitate de două zone H succesive",
+      "în sarcoplasmă un pigment capabil să stocheze temporar oxigenul"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 29,
+    "question": "Precizați formulările corecte:",
+    "options": [
+      "epimisiumul este un strat de țesut conjunctiv care învelește corpul mușchiului",
+      "sub fascia musculară se găsește perimisium",
+      "mușchiul este format din următoarele structuri conjunctive dispuse succesiv de la exterior la interior, care învelesc corpul, fasciculele de fibre musculare și fibra musculară: perimisium, epimisium și endomisium",
+      "structurile conjunctive de la nivelul corpului muscular se continuă cu tendonul, prin intermediul căruia mușchiul se atașează de os",
+      "endomisiumul este format din țesut conjunctiv și învelește fiecare miofibrilă"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 30,
+    "question": "Precizați formulările corecte referitoare la mușchii striați scheletici:",
+    "options": [
+      "diafragma și mușchii intercostali externi participă la inspirație",
+      "peretele bronhiolelor este alcătuit din mușchi netezi susținuți de țesut conjunctiv",
+      "mușchii netezi ai gâtului, buzelor, limbii și obrajilor participă la fonație",
+      "mușchii antebrațului sunt vascularizați de arterele ulnară și radială",
+      "inervația mușchilor brațului este asigurată de nervi cranieni micști"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 31,
+    "question": "Mușchii striați scheletici situați la nivelul capului:",
+    "options": [
+      "asigură masticația, expresia feței și orientarea ochilor după stimuli luminoși",
+      "sunt alcătuiți din fibre musculare striate uninucleate și structuri de țesut conjunctiv",
+      "sunt controlați de comenzi trimise prin rădăcina ventrală a nervilor spinali",
+      "pot fi inervați de fibre aparținând nervilor cranieni V și VII",
+      "includ mușchii mimicii"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 32,
+    "question": "Următoarele formulări nu sunt corecte:",
+    "options": [
+      "miofibrila reprezintă unitatea funcțională a mușchiului striat scheletic",
+      "fibrele musculare striate scheletice conțin mioglobină",
+      "fascia musculară acoperă corpul muscular și tendoanele",
+      "sarcomerul are în centrul său o linie Z",
+      "la nivelul gambei există mușchi striați scheletici"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 33,
+    "question": "Selectați afirmațiile corecte referitoare la sursele de energie ale contracției musculare:",
+    "options": [
+      "fosfocreatina se descompune și eliberează fosfat, creatinină și energie",
+      "prin scindarea ATP-ului se eliberează energie, ADP și fosfat",
+      "glucoza, prin glicoliză anaerobă, conduce la formarea de acid piruvic și de două molecule de ATP",
+      "scindarea legăturilor cu nivel energetic scăzut din structura ATP eliberează energia necesară contracției musculare",
+      "datoria de oxigen se instalează odată cu transformarea acidului lactic în acid piruvic"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 34,
+    "question": "Mușchii striați scheletici au următoarele particularități funcționale:",
+    "options": [
+      "stabilizează articulațiile realizate între oasele pe care se inseră",
+      "conțin celule care prezintă mulți nuclei situați periferic",
+      "participă la procese fiziologice, cum ar fi masticația",
+      "la nivelul capului și gâtului sunt inervați de nervii spinali",
+      "sunt alcătuiți din celule cilindrice cu capete rotunjite"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 35,
+    "question": "Despre mușchii striați sunt adevărate următoarele afirmații:",
+    "options": [
+      "unitatea lor morfologică și funcțională este celula musculară",
+      "mușchii cardiaci se contractă mai puternic sub acțiunea impulsurilor provenite de la nervii simpatici",
+      "efectuează lucru mecanic când se contractă",
+      "celulele musculare cardiace prezintă conexiuni speciale prin discurile intercalare, la nivelul cărora se găsesc desmozomi",
+      "în mușchii cardiaci există celule excito-conductoare prevăzute cu autoritmicitate"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 36,
+    "question": "Mușchii prezintă următoarele particularități funcționale:",
+    "options": [
+      "excitabilitate, care este capacitatea de a răspunde la un stimul intern sau extern",
+      "contractilitatea, mușchii netezi rămânând contractați cel mai mult timp",
+      "epimisiumul și fascia, care învelesc întregul mușchi",
+      "contractilitatea voluntară, în cazul mușchilor netezi",
+      "conductibilitate, care presupune propagarea potențialului de acțiune"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 37,
+    "question": "Următoarele caracteristici sunt comune mușchiului neted și mușchiului cardiac:",
+    "options": [
+      "au celule cu nucleul situat central",
+      "au celule fusiforme",
+      "se contractă involuntar",
+      "pot fi influențate de sistemul nervos vegetativ",
+      "activitatea lor poate fi influențată de hormoni"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 38,
+    "question": "Selectați caracteristicile comune mușchiului striat scheletic și miocardului:",
+    "options": [
+      "celulele sunt grupate în fascicule",
+      "pot fi influențați de acetilcolină",
+      "se contractă voluntar",
+      "prezintă miofibrile cu aspect striat",
+      "prezintă aceeași viteză de contracție"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 39,
+    "question": "Între mușchii netezi și mușchii striați scheletici există următoarele diferențe morfofuncționale:",
+    "options": [
+      "doar mușchii striat scheletic prezintă fibre musculare cu nuclei multipli",
+      "numai fibra musculară striată este alungită",
+      "prostaglandinele determină doar contracția țesutului muscular neted",
+      "numai fibra musculară netedă poate fi controlată de sistemul nervos simpatic și parasimpatic",
+      "doar fibra musculară netedă poate fi controlată hormonal"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 40,
+    "question": "Despre mușchii netezi sunt corecte următoarele:",
+    "options": [
+      "miometrul este un mușchi neted și se contractă sub acțiunea oxitocinei",
+      "la nivelul căilor respiratorii, prin stimulare simpatică produce bronhodilatație",
+      "se contractă cel mai rapid",
+      "este bine reprezentat în tunica medie a peretelui arterelor",
+      "se găsește pe toată lungimea tractului gastrointestinal"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 41,
+    "question": "Mușchiul striat scheletic are următoarele particularități structurale:",
+    "options": [
+      "endomisiumul învelește fiecare fibră musculară",
+      "epimisiumul învelește fasciculele de fibre musculare",
+      "gasterul este acoperit la exterior de fascie",
+      "se contractă voluntar, cu o viteză mare de contracție, dar capacitatea de a rămâne contractat este mică",
+      "mitocondriile și miofibrilele fibrei musculare se găsesc în sarcolemă"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 42,
+    "question": "Următoarele structuri nervoase influențează activitatea mușchilor striați scheletici:",
+    "options": [
+      "scoarța cerebrală, prin stimuli care pornesc de la aria motorie din lobul frontal",
+      "cerebelul, care are rol și în menținerea posturii",
+      "toți nervii cranieni",
+      "nervii spinali, care inervează mușchii scheletici de la nivelul capului",
+      "nucleii bazali, care au rol și în menținerea tonusului muscular"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 43,
+    "question": "Care dintre afirmațiile referitoare la mușchii striați scheletici sunt corecte?",
+    "options": [
+      "sunt implicați în procesul de masticație",
+      "ritmul cardiac este încetinit prin eliberarea de acetilcolină",
+      "masa musculară crește sub acțiunea testosteronului",
+      "se întâlnesc la nivelul tunicii mijlocii a peretelui vaselor de sânge",
+      "sunt implicați în procesul de ventilație pulmonară"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 44,
+    "question": "Fibrele musculare:",
+    "options": [
+      "din peretele intestinal se contractă sub acțiunea stimulilor somatici",
+      "alungite, fusiforme, cu capete ascuțite, formează mușchi atașați de schelet",
+      "alungite, cilindrice, ramificate, prezintă un nucleu central",
+      "roșii prezintă depozite de oxigen la nivelul pigmentului din citoplasma lor",
+      "netede sunt învelite de endomisium"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 45,
+    "question": "Despre fibra musculară cardiacă se pot afirma următoarele:",
+    "options": [
+      "este de formă alungită, fusiformă",
+      "prezintă mai mulți nuclei, dispuși periferic",
+      "se contractă sub acțiunea sistemului nervos somatic",
+      "intră în alcătuirea peretelui inimii",
+      "prezintă, la nivelul discurilor intercalare, conexiuni speciale de tip gap"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 46,
+    "question": "Mușchii striat scheletic se caracterizează prin:",
+    "options": [
+      "viteză rapidă de contracție",
+      "fibre musculare care conțin mulți nuclei cu poziție centrală",
+      "cea mai mare capacitate de a rămâne contractat",
+      "fibre musculare alungite, cilindrice, cu capete ascuțite",
+      "prezența la nivelul fasciei superficiale a unei mari cantități de țesut adipos la persoanele obeze"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 47,
+    "question": "Care dintre următoarele afirmații despre mușchii striat scheletic sunt adevărate?",
+    "options": [
+      "fascia musculară învelește întreg mușchiul",
+      "miofibrilele din structura fibrelor musculare au o lățime de 2-4 μm",
+      "endomisiumul învelește un pachet de fibre musculare",
+      "epimisiumul se continuă dincolo de corpul muscular, participând la formarea tendonului",
+      "în fibrele musculare, se depozitează temporar molecule de oxigen legate de hemoglobină"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 48,
+    "question": "Mușchiul neted se caracterizează prin:",
+    "options": [
+      "cea mai mică capacitate de a rămâne contractat",
+      "prezența la nivelul fibrei musculare a 4-20 miofibrile organizate în sarcomere",
+      "viteză lentă de contracție",
+      "prezența, în alcătuirea sa, a unor fibre musculare alungite, cilindrice cu capete rotunjite",
+      "nucleu situat central la nivelul fibrelor musculare"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 49,
+    "question": "Fibra musculară striată scheletică:",
+    "options": [
+      "este alungită, cilindrică și ramificată",
+      "este învelită de perimisium, care se continuă dincolo de corpul mușchiului pentru a forma tendonul",
+      "prezintă sarcomere de aproximativ 2 mm lungime",
+      "poate produce, prin glicoliză anaerobă, câte 2 molecule de ATP pentru fiecare moleculă de glucoză scindată",
+      "prezintă în banda I a sarcomerelor filamente de miozină"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 50,
+    "question": "Care dintre următoarele afirmații cu privire la sarcomer sunt false?",
+    "options": [
+      "este prezent și la nivelul miofibrilelor care intră în alcătuirea fibrelor musculare din pereții vaselor de sânge",
+      "are o distribuție repetitivă de-a lungul axului transversal al miofibrilei",
+      "prezintă în zona H a benzii I doar filamente de miozină",
+      "linia Z împarte în 2 jumătăți egale banda largă și densă din mijlocul sarcomerului",
+      "banda A conține filamente de actină și miozină, cu excepția zonei H, care conține doar miozină"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 51,
+    "question": "Care dintre următoarele afirmații cu privire la țesutul muscular sunt adevărate?",
+    "options": [
+      "sistemul cardio-vascular conține în structura lui atât fibre musculare striate cât și netede",
+      "este unul din cele cinci țesuturi de bază",
+      "miofibrilele de la nivelul sarcolemei au o lungime de până la 100 μm",
+      "filamentele de miozină sunt ancorate la nivelul liniei Z",
+      "în timpul contracției filamentele opuse de miozină sunt atrase de-a lungul celor de actină"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 52,
+    "question": "Care dintre următoarele afirmații cu privire la țesutul muscular sunt false?",
+    "options": [
+      "repetiția benzilor A și I determină aspectul caracteristic al fibrelor musculare din peretele stomacului",
+      "acidul lactic produs prin glicoliză aerobă în mușchi poate fi convertit de ficat în molecule cu randament energetic ridicat",
+      "miocardul este alcătuit din fibre musculare cu un nucleu situat central și are cea mai mare capacitate de a rămâne contractat",
+      "fascia musculară se găsește peste epimisium",
+      "gamba este flectată posterior de mușchi striați, mișcarea realizându-se la nivelul"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 53,
+    "question": "Celula musculară:",
+    "options": [
+      "conține 20-40 de miofibrile",
+      "prezintă mitocondrii la nivelul cărora are loc ciclul Krebs",
+      "include miofibrile de 1-2 μ lățime și 10 μ lungime",
+      "se contractă în urma stimulării nervoase",
+      "conține sarcomere libere în sarcoplasmă"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 54,
+    "question": "În structura sarcomerului se întâlnesc:",
+    "options": [
+      "filamente groase de miozină",
+      "linia Z, care împarte banda A în două jumătăți",
+      "banda A formată din miozină și actină",
+      "zona H, care conține doar actină",
+      "banda A, care este împărțită de zona H în două jumătăți"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 55,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "energia necesară pentru contracție este furnizată de ATP",
+      "fosfocreatina reprezintă un rezervor de oxigen",
+      "ATP cedează o grupare fosfat și se transformă în ADP și energie",
+      "ATP-aza se află pe capetele filamentelor de actină",
+      "mitocondriile sunt situate lângă fibrele musculare"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 56,
+    "question": "Selectați procesele în urma cărora se obține energia utilizată pentru contracția musculară:",
+    "options": [
+      "glicoliza",
+      "sistemul transportor de protoni",
+      "chemiosmoza",
+      "ciclul Krebs",
+      "reacții care necesită oxigen"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 57,
+    "question": "Despre oxigenul ajuns la nivel muscular se pot afirma următoarele:",
+    "options": [
+      "este utilizat pentru resinteza de ATP",
+      "poate fi asigurat prin aportul sanguin, fiind fixat la hemoglobina eritrocitară",
+      "în cazul epuizării rezervei sale, se instalează datoria de oxigen, caracterizată prin dificultatea de a respira după un efort mediu"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 58,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "țesutul muscular este un țesut principal al organismului, care prezintă capacitate de contracție",
+      "miocardul poate fi controlat voluntar",
+      "mușchiul neted intră în alcătuirea uterului",
+      "unitatea structurală a țesutului muscular este celula musculară",
+      "tubul digestiv conține numai țesut muscular ce poate fi controlat voluntar"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 59,
+    "question": "Selectați asocierile corecte:",
+    "options": [
+      "mușchi neted - masă de celule cu proteine contractile organizate mai complex decât în miocard",
+      "celule cu joncțiune de tip gap - miocard",
+      "celule fusiforme, cu un nucleu periferic - uter",
+      "țesut muscular striat scheletic - control involuntar",
+      "mușchi cardiac - striații prezente"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 60,
+    "question": "Despre mușchiul striat scheletic se pot afirma următoarele:",
+    "options": [
+      "celulele prezintă mai mulți nuclei dispuși periferic",
+      "fibrele musculare sunt scurte",
+      "exercită forță asupra oaselor",
+      "se relaxează pasiv",
+      "pentru locomoție necesită doar grupuri musculare sinergice"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 61,
+    "question": "În structura mușchiului striat scheletic intră:",
+    "options": [
+      "perimisium - învelește un pachet de fibre",
+      "endomisium - învelește întreg mușchiul",
+      "fascia superficială - cu cantități mari de țesut adipos la obezi",
+      "fibre musculare - formează corpul mușchiului",
+      "fascicule musculare - învelite de epimisium"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 62,
+    "question": "Alegeți afirmațiile corecte:",
+    "options": [
+      "porțiunea mușchiului care conține fibre musculare constituie gasterul",
+      "unitățile funcționale ale mușchiului striat au distribuție repetitivă",
+      "modificarea pH-ului, prin acumulare de acid lactic, duce la răspunsul exacerbat al fibrei musculare",
+      "oxigenul necesar contracției este transportat în eritrocite fixat de mioglobină",
+      "culoarea fibrelor musculare roșii se datorează hemoglobinei"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 63,
+    "question": "Fibra musculară netedă:",
+    "options": [
+      "se contractă sub acțiunea stimulilor vegetativi",
+      "este de formă cilindrică",
+      "participă la formarea țesutului din tunica mijlocie a peretelui vaselor de sânge",
+      "prezintă o viteză scăzută de contracție",
+      "prezintă striații repetitive"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 64,
+    "question": "Referitor la structura mușchiului striat scheletic se poate afirma că:",
+    "options": [
+      "endomisiumul învelește fiecare fibră musculară cardiacă",
+      "la obez, stratul intern al fasciei superficiale conține țesut adipos în cantitate mare",
+      "gasterul se atașează direct de os, asigurând inserția mușchiului scheletic",
+      "ATP-aza este prezentă la nivelul filamentelor de miozină",
+      "miofibrilele sunt filamente filiforme localizate în citoplasmă"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 65,
+    "question": "Următoarele afirmații sunt corecte:",
+    "options": [
+      "oxigenul necesar contracției este transportat sanguin de mioglobină",
+      "fibrele musculare roșii au această culoare datorită pigmentului care poate lega oxigenul",
+      "o parte din acidul lactic format în fibrele musculare difuzează în sânge și este transportat la ficat",
+      "fosfocreatina poate ceda energie direct reacțiilor de respirație celulară",
+      "acidul lactic se formează în prezența oxigenului"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 66,
+    "question": "Reacțiile energetice musculare includ:",
+    "options": [
+      "combinarea creatinei cu ADP cu formare de ATP și fosfocreatină",
+      "transformarea ATP-ului în ADP, fosfat și energie",
+      "transferarea fosfatului din fosfocreatină către ADP, cu formare de ATP și creatină",
+      "formarea de depozite energetice, prin sinteza de fosfocreatină",
+      "transformarea ADP în ATP, fosfat și energie"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 67,
+    "question": "Fibra musculară striată scheletică:",
+    "options": [
+      "conține mitocondrii care furnizează miofibrilelor energia necesară contracției",
+      "prezintă o ATP-ază la nivelul capetelor filamentelor de miozină",
+      "își creează depozite temporare de oxigen la nivelul hemoglobinei eritrocitare",
+      "se contractă datorită activității sarcomerelor",
+      "conține la nivelul capetelor filamentelor de actină o enzimă care scindează ATP-ul"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 68,
+    "question": "Mușchii coapsei:",
+    "options": [
+      "participă la locomoție",
+      "sunt inervați de fibre nervoase din structura nervilor spinali, cu originea în coarnele anterioare ale măduvei spinării",
+      "sunt vascularizați de artera femorală",
+      "conțin fibre musculare care se contractă utilizând energie cedată de creatină",
+      "au ca principală sursă de energie glicoliza anaerobă"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 69,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "mușchiul striat scheletic formează, împreună cu oasele, unități musculo-scheletice",
+      "fibra musculară cardiacă se contractă cu viteza mai mare decât fibra musculară striată",
+      "mioglobina fixează oxigen",
+      "fibra musculară striată se relaxează activ",
+      "mușchiul striat asociat scheletului stimulează activitatea osteocitelor"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 70,
+    "question": "Următoarele afirmații privind pompa de sodiu-potasiu sunt corecte:",
+    "options": [
+      "transportă câte trei ioni de sodiu în celulă concomitent cu eliminarea a doi ioni de potasiu din celulă",
+      "este un mecanism de transport activ",
+      "funcționează în direcția gradientului de concentrație al ionilor",
+      "este implicată în mecanismul activ ce determină polarizarea celulei",
+      "este responsabilă de apariția sarcinii electrice negative pe suprafața internă a membranei celulare"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 71,
+    "question": "Următoarele afirmații privind canalele membranare neuronale sunt corecte:",
+    "options": [
+      "permit transportul pasiv al ionilor",
+      "asigură deplasarea ionilor de sodiu spre exteriorul celulei",
+      "canalele de potasiu sunt un exemplu de canale cu poartă",
+      "determină difuziunea ionilor din zonele cu concentrație mai mică înspre zonele cu concentrație mai mare",
+      "unele dintre aceste canale sunt alcătuite din proteine membranare care suferă modificări structurale, pentru a se putea deschide atunci când membrana este stimulată"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 72,
+    "question": "Alegeți afirmațiile corecte privind potențialul de repaus în neuron:",
+    "options": [
+      "este rezultatul unui exces de ioni pozitivi în exteriorul membranei celulare, comparativ cu interiorul acesteia",
+      "dezechilibrul ionic este determinat numai de difuziunea ionilor",
+      "concentrația ionilor de sodiu din exteriorul celulei este de peste 10 ori mai mare decât cea din interior",
+      "există un ușor exces de ioni de fosfat anorganic în citoplasmă",
+      "proteinele citoplasmatice, nedifuzibile, au o sarcină electrică negativă"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 73,
+    "question": "Următoarele afirmații privind repolarizarea membranei neuronale sunt incorecte:",
+    "options": [
+      "se deschid canalele de potasiu",
+      "se deschid canalele de sodiu",
+      "ionii de potasiu ies din celulă",
+      "ionii de sodiu intră în celulă",
+      "pompa de sodiu-potasiu elimină excesul de ioni din celulă"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 74,
+    "question": "În timpul desfășurării potențialului de acțiune în neuron:",
+    "options": [
+      "influxul de sodiu se produce prin mecanisme active",
+      "se consumă energie din ATP pentru deschiderea canalelor de sodiu voltaj-dependente",
+      "unda de depolarizare călătorește de-a lungul neuronului",
+      "unda de depolarizare se numește impuls nervos",
+      "influxul de potasiu durează o miime de secundă"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 75,
+    "question": "Selectați asociațiile corecte referitoare la localizarea tipurilor de neuroni:",
+    "options": [
+      "bipolari - ganglionii spinali",
+      "bipolari - mucoasa olfactivă",
+      "multipolari - scoarța cerebrală",
+      "pseudounipolari - urechea internă",
+      "bipolari - retină"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 76,
+    "question": "Selectați organitele existente la nivelul axoplasmei:",
+    "options": [
+      "aparatul Golgi - asigură transmiterea impulsului nervos",
+      "mitocondriile - sintetizează ATP",
+      "nucleolii - prezenți în nucleu",
+      "corpi Nissl - sintetizează proteine",
+      "reticulul endoplasmatic - asigură digestia intracelulară"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 77,
+    "question": "Selectați răspunsurile corecte referitoare la axon:",
+    "options": [
+      "poate fi acoperit de mielină",
+      "este multiplu la nivelul neuronilor multipolari",
+      "poate avea o lungime până la 1,2 m",
+      "la nivelul membranei asigură propagarea impulsului nervos",
+      "se termină prin butoni terminali care conțin corpi Nissl"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 78,
+    "question": "Despre teaca de mielină sunt adevărate următoarele:",
+    "options": [
+      "izolează axonul",
+      "partea ei externă care înconjoară axonii sau dendritele se numește neurilemă",
+      "celulele Schwann își înfășoară membrana celulară în jurul axonilor pentru a o forma",
+      "este prezentă la nivelul nodurilor lui Ranvier",
+      "este sintetizată de oligodendrocite în sistemul nervos periferic"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 79,
+    "question": "Alegeți afirmațiile corecte privind caracterele morfologice ale unei sinapse:",
+    "options": [
+      "spațiul din interiorul sinapsei se numește fantă sinaptică",
+      "neurotransmițătorul acționează ca un stimul asupra membranei postsinaptice",
+      "placa motorie reprezintă joncțiunea dintre un neuron și o celulă seroasă a unei glande salivare",
+      "receptorii aflați pe membrana dendritelor următorului neuron (membrana presinaptică) sunt molecule proteice care formează canale ionice",
+      "în membrana presinaptică sunt prezente canale de calciu voltaj-dependente"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 80,
+    "question": "Celulele gliale au următoarele roluri:",
+    "options": [
+      "oligodendrocitele sintetizează mielină la nivelul SNC",
+      "astrocitele participă la formarea barierei hematoencefalice",
+      "microgliile au rol fagocitar",
+      "celulele Schwann sintetizează mielină la nivelul SNP",
+      "celulele Schwann și astrocitele participă la sinteza mielinei"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 81,
+    "question": "Neuronii:",
+    "options": [
+      "bipolari - prezintă un axon și o dendrită",
+      "pseudounipolari - sunt în general senzoriali",
+      "multipolari - prezintă o dendrită și numeroși axoni",
+      "bipolari - se întâlnesc și în mucoasa olfactivă",
+      "multipolari - sunt întâlniți în substanța cenușie din SNC"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 82,
+    "question": "Selectați organitele celulare care există atât în neuron cât și în alte tipuri de celule:",
+    "options": [
+      "aparat Golgi",
+      "lizozomi",
+      "miofibrile",
+      "corpi Nissl",
+      "mitocondrii"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 83,
+    "question": "Neurilema:",
+    "options": [
+      "intră în alcătuirea perinervului",
+      "reprezintă stratul extern al tecii de mielină",
+      "este alcătuită din țesut conjunctiv",
+      "permite regenerarea neuronilor lezați",
+      "reprezintă membrana axonului neuronilor bipolari"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 84,
+    "question": "La realizarea potențialului de repaus participă:",
+    "options": [
+      "deschiderea unor canale ionice cu poartă",
+      "activitatea pompei de sodiu-potasiu",
+      "diferența de concentrație a ionilor de sodiu între interiorul și exteriorul celulei nervoase",
+      "anionii proteici din interiorul celulei",
+      "fosfații extracelulari, care prezintă un ușor exces"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 85,
+    "question": "Referitor la potențialul de repaus al neuronului se poate afirma că:",
+    "options": [
+      "are o valoare negativă de -70 mV",
+      "reprezintă starea de polarizare a membranei neuronului nestimulat",
+      "presupune un exces de sarcini electrice pozitive la exteriorul celulei comparativ cu interiorul",
+      "poate atinge și valoarea de +35 mV atunci când asupra axolemei nu acționează niciun stimul",
+      "se propagă saltator în fibrele mielinice"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 86,
+    "question": "Potențialul prag:",
+    "options": [
+      "pentru neuron are valoare de aproximativ -55 mV",
+      "cauzează deschiderea canalelor de potasiu voltaj-dependente",
+      "reprezintă valoarea la care începe deschiderea canalelor de sodiu voltaj-dependente",
+      "indică momentul închiderii canalelor de Na⁺",
+      "reprezintă valoarea maximă de +35 mV care poate fi atinsă în urma depolarizării"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 87,
+    "question": "Fibrele nervoase mielinice:",
+    "options": [
+      "permit propagarea saltatorie a potențialului de acțiune",
+      "sunt întâlnite și la nivelul sistemului nervos autonom",
+      "conduc impulsul nervos cu o viteză mai redusă decât fibrele amielinice",
+      "prezintă noduri Ranvier la nivelul cărora poate avea loc depolarizarea",
+      "sunt întâlnite exclusiv la nivelul sistemului nervos periferic"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 88,
+    "question": "Corpii Nissl:",
+    "options": [
+      "sunt prezenți la nivelul citoplasmei tuturor celulelor din țesutul nervos",
+      "sunt alcătuiți din reticul endoplasmatic rugos",
+      "intervin în stocarea de lipide",
+      "participă la sinteza de proteine neuronale",
+      "sunt prezenți la nivelul corpului celular al neuronului"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 89,
+    "question": "Selectați asocierile corecte:",
+    "options": [
+      "receptorul - sesizează stimulii interni sau externi",
+      "neuronul senzorial - conduce impulsuri de la centrul nervos spre receptor",
+      "interneuronul - centru de procesare a informațiilor",
+      "efectorul - răspunde la stimulul transmis de neuronul senzorial în placa motorie",
+      "neuronul motor - transmite comenzi spre encefal sau spre măduva spinării"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 90,
+    "question": "Selectați neurotransmițătorii inhibitori:",
+    "options": [
+      "dopamina",
+      "glicina",
+      "acetilcolina",
+      "acidul γ-amino-butiric",
+      "norepinefrina"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 91,
+    "question": "După stimularea receptorilor de la nivelul membranei postsinaptice, neurotransmițătorii:",
+    "options": [
+      "pot fi inactivați sub acțiunea unor enzime",
+      "pot fi recuperați în zona presinaptică prin exocitoză",
+      "pot fi descompuși de enzime specifice",
+      "rămân legați de receptor",
+      "pătrund prin canalele ionice în interiorul neuronului postsinaptic"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 92,
+    "question": "Sinapsele interneuronale:",
+    "options": [
+      "dintre fibrele pre- și postganglionare parasimpatic sunt colinergice",
+      "se realizează prin contactul direct dintre butonul axonal și membrana postsinaptică",
+      "permit transmiterea impulsului nervos unidirecțional, de la neuronul postsinaptic spre cel presinaptic",
+      "se întâlnesc și la nivelul trunchiului cerebral",
+      "între fibrele postganglionare simpatice și efectori sunt adrenergice"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 93,
+    "question": "Potențialele postsinaptice:",
+    "options": [
+      "excitatorii - determină deschiderea canalelor de sodiu",
+      "excitatorii - apar prin legarea neurotransmițătorilor de molecule proteice cu rol de receptor și de canal ionic pentru Na⁺",
+      "inhibitorii - presupun menținerea canalelor de sodiu deschise",
+      "inhibitorii - pot fi declanșați de un aminoacid cu rol de neurotransmițător",
+      "excitatorii - conduc la repolarizarea membranei postsinaptice"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 94,
+    "question": "Selectați afirmațiile corecte privind dendritele:",
+    "options": [
+      "pot reprezenta componenta postsinaptică a sinapselor neuro-neuronale",
+      "lipsesc la neuronii pseudounipolari",
+      "prezintă numeroase formațiuni spinoase cu rol în formarea de conexiuni cu alți neuroni",
+      "pot prezenta receptori pentru neurotransmițători",
+      "prezintă numeroase canale de calciu voltaj-dependente cu rol în exocitoza veziculelor cu neurotransmițător la nivelul fantei sinaptice"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 95,
+    "question": "Despre celulele gliale sunt adevărate următoarele afirmații:",
+    "options": [
+      "microglia are rol fagocitar",
+      "astrocitele contribuie la izolarea țesutului nervos lezat",
+      "prelungirile oligodendrocitelor se înfășoară în jurul prelungirilor neuronale",
+      "celulele Schwann produc mielina numai pentru prelungirile neuronale localizate în măduva spinării",
+      "neuronul are butonii terminali la capătul axonului"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 96,
+    "question": "După structură, neuronii se clasifică în:",
+    "options": [
+      "neuroni bipolari, cu 2 axoni",
+      "neuroni multipolari, cu un axon",
+      "neuroni motori, care transmit mesajele de la SNC la mușchi sau glande",
+      "neuroni pseudounipolari, care sunt de obicei senzoriali",
+      "neuroni bipolari, care intră și în structura retinei"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 97,
+    "question": "Despre structura neuronului sunt adevărate următoarele afirmații:",
+    "options": [
+      "are atât organite care se regăsesc și în alte celule, cât și organite caracteristice pentru neuron",
+      "corpul celular reprezintă cea mai mare parte a neuronului",
+      "butonii terminali conțin vezicule cu neurotransmițători",
+      "astrocitele au formă stelată",
+      "dendritele sunt specializate în transmiterea impulsurilor nervoase spre receptori"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 98,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "neuronii de asociație sunt situați întotdeauna în SNC",
+      "astrocitele fac legătura dintre capilare și neuroni",
+      "axonul se mai numește și nerv",
+      "sistemul nervos parasimpatic stimulează secreția sucului gastric",
+      "există 12 nervi cranieni"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 99,
+    "question": "Selectați afirmația incorectă:",
+    "options": [
+      "în SNP, teaca de mielină se formează în spațiul dintre celula Schwann și axolemă",
+      "perinervul separă fasciculele nervoase între ele",
+      "epinervul este alcătuit din țesut conjunctiv fibros",
+      "ganglionii conțin corpurile celulare ale neuronilor",
+      "nervii formează substanța cenușie"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 100,
+    "question": "Despre SNP este adevărată afirmația:",
+    "options": [
+      "include 31 de nervi spinali",
+      "în alcătuirea lui intră nervi spinali și cranieni care informează SNC despre modificările din interiorul organismului",
+      "are neuroni de asociație care conectează neuronii senzoriali cu cei motori",
+      "prezintă noduri Ranvier aflate între 2 prelungiri succesive ale oligodendrocitelor",
+      "componenta vegetativă a SNP controlează doar mușchii netezi"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 101,
+    "question": "Despre potențialul de repaus în neuron sunt adevărate următoarele afirmații:",
+    "options": [
+      "este expresia polarizării membranei neuronale",
+      "este menținut cu consum de energie",
+      "are valoarea exprimată ca -70 mV",
+      "este rezultatul unui exces de ioni negativi pe suprafața externă a membranei celulare",
+      "se datorează doar intervenției canalelor de sodiu și a celor de potasiu"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 102,
+    "question": "Despre potențialul de acțiune în neuron sunt adevărate următoarele afirmații:",
+    "options": [
+      "toate etapele sale se realizează cu consum de energie",
+      "apare în urma acțiunii unui stimul",
+      "cuprinde depolarizarea cu durata de o miime de secundă",
+      "în timpul desfășurării sale, membrana neuronală este polarizată",
+      "se datorează doar intervenției pompei de sodiu-potasiu"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 103,
+    "question": "Sinapsele chimice au următoarele particularități structurale:",
+    "options": [
+      "la nivelul lor pot acționa peste 50 de tipuri diferite de neurotransmițători",
+      "butonul terminal al neuronului presinaptic conține mitocondrii și vezicule cu neurotransmițător"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 104,
+    "question": "Despre arcul reflex sunt adevărate următoarele afirmații:",
+    "options": [
+      "are un neuron senzorial care recepționează stimulul",
+      "în cazul reflexului de retragere, corpul neuronului motor se află în afara măduvei spinării",
+      "determină o activitate automată și inconștientă",
+      "poate avea interneuroni, ai căror axoni transmit impulsul nervos la mușchi sau glande",
+      "în reflexul rotulian, efectul obținut la percutarea ligamentului patelar este flexia gambei"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 105,
+    "question": "Alegeți afirmațiile corecte despre sistemul nervos periferic:",
+    "options": [
+      "conține 12 perechi de nervi cranieni și 31 perechi de nervi spinali",
+      "conține nervi motori și nervi senzoriali",
+      "porțiunea motorie a SNP are o componentă autonomă și una vegetativă",
+      "componenta vegetativă a SNP controlează mușchii striați",
+      "componenta vegetativă parasimpatică asigură o stare relaxată organismului"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 106,
+    "question": "Despre celulele gliale sunt adevărate următoarele afirmații:",
+    "options": [
+      "numărul lor este de 10 ori mai mare decât al neuronilor",
+      "oligodendrocitele se înfășoară în jurul prelungirilor neuronilor formând mielină",
+      "astrocitele au prelungiri citoplasmatice alungite, ce le conferă o formă stelată",
+      "microgliile sunt celule gliale mari ce acționează prin fagocitoză",
+      "celulele Schwann sintetizează teaca de mielină ce acoperă prelungirile neuronilor din SNC"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 107,
+    "question": "Care dintre următoarele afirmații sunt adevărate:",
+    "options": [
+      "neuronii pot fi clasificați după structură sau după funcție",
+      "din punct de vedere funcțional, neuronii sunt multipolari, bipolari și pseudounipolari",
+      "neuronii bipolari au un axon și o singură dendrită",
+      "neuronii pseudounipolari au o singură prelungire, care se divide pentru a forma o dendrită și un axon",
+      "majoritatea neuronilor motori sunt pseudounipolari"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 108,
+    "question": "Despre corpul celular al neuronilor sunt adevărate următoarele afirmații:",
+    "options": [
+      "reprezintă doar un mic procent din volumul total al celulei",
+      "la nivelul lui se găsesc corpi Nissl, organite specifice ale neuronului",
+      "corpii Nissl sunt alcătuiți din reticul endoplasmatic neted",
+      "nu conține nucleu",
+      "la acest nivel se găsesc mitocondrii, aparat Golgi, lizozomi"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 109,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "lungimea axonului poate atinge peste trei metri",
+      "axonii mai multor neuroni sunt denumiți uzual fibre nervoase",
+      "fibrele nervoase se reunesc alcătuind nervi",
+      "diametrul axonului este microscopic",
+      "la capătul proximal, axonul prezintă terminații axonale"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 110,
+    "question": "Alegeți afirmațiile corecte referitoare la teaca de mielină:",
+    "options": [
+      "este produsă de oligodendrocite la nivelul SNC",
+      "este produsă de celulele Schwann în SNP",
+      "este formată din mielină, o substanță proteică de culoare albă",
+      "izolează corpul neuronal",
+      "partea sa internă se numește neurilemă"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 111,
+    "question": "Despre nervi și ganglioni se pot afirma următoarele:",
+    "options": [
+      "un nerv poate fi format din axonii mai multor neuroni",
+      "fiecare nerv este înconjurat de o teacă numită epinerv",
+      "epinervul solidarizează fasciculele între ele",
+      "prelungirile neuronale sunt grupate adesea în ganglioni",
+      "ganglionii sunt localizați doar în măduva spinării"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 112,
+    "question": "Alegeți afirmațiile corecte despre activitatea neuronală:",
+    "options": [
+      "impulsurile nervoase sunt produse de neuronii senzoriali, interneuroni și neuronii motori",
+      "la joncțiunea dintre doi neuroni se eliberează substanțe chimice numite neurotransmițători",
+      "un exemplu de activitate nervoasă este actul reflex",
+      "arcul reflex are ca bază anatomică actul reflex",
+      "impulsul nervos este condus întotdeauna de neuronii senzoriali către neuronii motori din SNC, cu care fac sinapsă"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 113,
+    "question": "Despre sinapsă se pot afirma următoarele:",
+    "options": [
+      "reprezintă doar joncțiunea dintre doi neuroni",
+      "placa motorie reprezintă sinapsa dintre un neuron și o celulă musculară striată",
+      "spațiul din interiorul sinapsei se numește fantă sinaptică",
+      "impulsul nervos determină eliberarea de neurotransmițători din butonii terminali ai axonilor",
+      "neurotransmițătorii ajung prin exocitoză în fanta sinaptică"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 114,
+    "question": "Despre neurotransmițători sunt adevărate următoarele afirmații:",
+    "options": [
+      "se cunosc peste 50 de tipuri",
+      "sunt stocați la nivelul dendritelor",
+      "se găsesc în butonii terminali ai axonilor",
+      "ajung prin exocitoză în fanta sinaptică pentru a stimula sau inhiba următoarea celulă",
+      "se leagă de receptorii aflați la nivelul membranei presinaptice"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 115,
+    "question": "Selectați enunțurile adevărate privind celulele gliale:",
+    "options": [
+      "numărul lor este de aproximativ 10 ori mai mare decât cel al neuronilor",
+      "astrocitele prezintă prelungiri citoplasmatice scurte",
+      "microgliile acționează în cazul inflamațiilor sau leziunilor",
+      "celulele Schwann se înfășoară în jurul prelungirilor neuronilor localizați în SNC",
+      "oligodendrocitele încetinesc accesul substanțelor nedorite în țesutul celular"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 116,
+    "question": "Selectați enunțurile adevărate privind neuronii:",
+    "options": [
+      "neuronii bipolari sunt localizați în retină, urechea internă și mucoasa olfactivă",
+      "neuronii multipolari prezintă o prelungire pentru a forma o dendrită și un axon",
+      "majoritatea neuronilor senzoriali sunt multipolari",
+      "neuronii multipolari prezintă o singură prelungire axonală",
+      "neuronii bipolari au o singură dendrită"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 117,
+    "question": "Selectați enunțurile incorecte:",
+    "options": [
+      "corpii Nissl sunt alcătuiți din reticul endoplasmatic neted, în care se sintetizează proteine",
+      "corpul celular neuronal reprezintă un mic procent din volumul total al celulei",
+      "neuronul prezintă în citoplasmă lizozomi",
+      "la capătul său distal, dendrita prezintă butonii terminali",
+      "neurilema are rol în regenerarea neuronilor lezați"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 118,
+    "question": "Despre mielină se pot afirma următoarele:",
+    "options": [
+      "asigură o mai mare viteză de conducere a impulsului nervos",
+      "este o substanță proteică, albă, ce izolează reacțiile electrochimice ale axonului",
+      "degradarea ei în SNC produce scleroză multiplă",
+      "este prezentă și la nivelul nodurilor Ranvier",
+      "este produsă de astrocite în sistemul nervos central"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 119,
+    "question": "Potențialul de repaus al neuronului:",
+    "options": [
+      "are valoarea de -70 mV în absența aplicării unui stimul cu valoare mai mare decât pragul",
+      "se propagă saltator în neuronii mielinici",
+      "este rezultatul deschiderii canalelor de sodiu voltaj-dependente pentru a permite intrarea sodiului în celulă",
+      "prin deschiderea canalelor de potasiu voltaj-dependente atinge valoarea de +35 mV",
+      "este rezultatul unui dezechilibru între sarcinile electrice aflate de o parte și de alta a membranei celulare"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 120,
+    "question": "Despre mediatorul sinapsiei dintre un neuron și fibra musculară striată se pot afirma următoarele:",
+    "options": [
+      "este degradat de către colinesterază după ce se desprinde de receptorul de pe membrana presinaptică",
+      "la nivelul fibrei musculare modifică permeabilitatea sarcolemei",
+      "este eliberat în fanta sinaptică după ce calciul intră în butonii terminali",
+      "se resintetizează la nivelul axonului",
+      "determină apariția unui potențial postsinaptic inhibitor la nivelul membranei postsinaptice"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 121,
+    "question": "Despre țesutul nervos sunt corecte afirmațiile:",
+    "options": [
+      "neuronii aferenți transmit informația către SNC",
+      "în SNC teaca de mielină este sintetizată de celulele Schwann",
+      "SNP are o componentă somatică și una vegetativă",
+      "astrocitele din SNC ajută și la izolarea țesutului nervos lezat",
+      "interneuronii se găsesc și în SNP"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 122,
+    "question": "Sinapsa dintre doi neuroni are următoarele elemente structurale:",
+    "options": [
+      "fanta sinaptică",
+      "veziculele sinaptice de la nivelul formațiunilor spinoase ale dendritelor",
+      "receptorii situați la nivelul membranei presinaptice",
+      "membrana celulară a neuronului postsinaptic",
+      "butonul terminal al neuronului presinaptic"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 123,
+    "question": "Despre arcul reflex sunt corecte următoarele afirmații:",
+    "options": [
+      "este alcătuit din fibre nervoase aferente, interneuron, fibre nervoase eferente și efectori",
+      "este alcătuit din receptor, fibre nervoase aferente senzoriale, interneuron, fibre nervoase eferente motorii și efector",
+      "efectorul poate fi un mușchi sau o glandă",
+      "prin efector se realizează acțiunea reflexă",
+      "prin fibre aferente se trimit impulsuri de la receptor la efector"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 124,
+    "question": "Despre potențialul de acțiune al neuronului putem afirma că:",
+    "options": [
+      "la aplicarea stimulului are loc un influx de Na⁺ cu o durată de o miime de secundă",
+      "la aplicarea stimulului are loc un influx de K⁺ cu o durată de o miime de secundă",
+      "în depolarizare, ionii de Na⁺ ies din celula nervoasă",
+      "în repolarizare, are loc un flux de K⁺",
+      "în repolarizare, ionii de Na⁺ intră în celula nervoasă"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 125,
+    "question": "Prin fibrele nervoase mielinice conducerea este:",
+    "options": [
+      "saltatorie",
+      "continuă",
+      "la nivelul nodurilor Ranvier",
+      "cu o viteză crescută",
+      "însoțită de reacții mai lente la stimuli"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 126,
+    "question": "Neurotransmițătorii pot fi:",
+    "options": [
+      "reglatori ai activității viscerelor - noradrenalina",
+      "încetinitori ai ritmului cardiac - dopamina",
+      "implicați în funcții mentale - serotonina",
+      "inhibitori ai diverșilor neuroni spinali - glicina",
+      "reglatori ai unor funcții motorii - serotonina"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 127,
+    "question": "Reflexul rotulian:",
+    "options": [
+      "este un reflex de retragere",
+      "se obține prin percutarea ligamentului patelar",
+      "ia naștere prin stimularea unui neuron de asociație",
+      "apare prin contracția unui mușchi neted",
+      "determină extensia gambei"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 128,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "neuronii utilizează ca neurotransmițător doar molecule cu efect excitator",
+      "reflexul de retragere apare la stimularea ligamentului patelar",
+      "actul reflex reprezintă cel mai simplu exemplu de activitate nervoasă",
+      "canalele proteice membranare suferă modificări când membrana este stimulată",
+      "canalele de calciu voltaj-dependente se deschid când impulsul nervos ajunge la nivelul corpului neuronal"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 129,
+    "question": "Despre structura sistemului nervos periferic sunt adevărate afirmațiile:",
+    "options": [
+      "ganglionul este format dintr-un grup de corpuri neuronale",
+      "nervul este înconjurat de epinerv",
+      "neuronul motor poate transmite stimuli senzoriali sau vegetativi",
+      "dendritele lipsesc întotdeauna din structura fasciculelor înconjurate de perinerv",
+      "fibrele periferice pot să fie înconjurate de celule Schwann"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 130,
+    "question": "Selectați molecula care nu este neurotransmițător:",
+    "options": [
+      "acetilcolina",
+      "dopamina",
+      "colinesteraza",
+      "glicina",
+      "serotonina"
+    ],
+    "answers": [2]
+  },
+  {
+    "id": 131,
+    "question": "Despre neurotransmițători sunt adevărate următoarele afirmații:",
+    "options": [
+      "glicina este sintetizată mai ales în măduva spinării",
+      "serotonina poate fi implicată în reglarea somnului",
+      "acetilcolina inhibă mușchii și încetinește ritmul cardiac",
+      "glutamatul este sintetizat în măduva spinării",
+      "dopamina este o catecolamină"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 132,
+    "question": "Celulele gliale au următoarele funcții:",
+    "options": [
+      "astrocitele participă la formarea barierei hematoencefalice",
+      "microgliile sintetizează teaca de mielină în SNC",
+      "celulele Schwann sintetizează mielina în SNP",
+      "microgliile au rol fagocitar în SNC",
+      "oligodendrocitele izolează țesutul nervos lezat"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 133,
+    "question": "Despre teaca de mielină se pot afirma următoarele:",
+    "options": [
+      "partea ei externă, care înconjoară axonii sau dendritele, se numește neurilemă",
+      "este sintetizată de celulele Schwann în SNC",
+      "este prezentă la nivelul nodurilor Ranvier",
+      "are rol în regenerarea neuronilor lezați",
+      "prezintă și crește viteza de conducere a impulsurilor nervoase"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 134,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "reflexele ajută la menținerea homeostaziei organismului",
+      "interneuronii transmit impulsul nervos la un mușchi sau glandă din afara sistemului nervos",
+      "neuronii senzoriali transmit impulsuri nervoase de la encefal sau măduva spinării spre mușchi sau glande",
+      "în reflexul de retragere sunt implicați și interneuronii",
+      "reflexul include encefalul și presupune o activitate mentală"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 135,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "interneuronul este prezent și în structura nervului spinal",
+      "structural, neuronii pot să fie multipolari, pseudounipolari și bipolari",
+      "neuronul vegetativ asigură contracția fibrei musculare scheletice",
+      "perinervul înconjoară nervul, solidarizând fasciculele",
+      "ritmul circadian este sub controlul neuronilor care utilizează serotonină ca neurotransmițător"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 136,
+    "question": "Selectați asocierile corecte:",
+    "options": [
+      "neuron multipolar - ganglion senzorial",
+      "acetilcolină - contracția mușchiului striat",
+      "neuron intercalar - centru de procesare pentru reflexe",
+      "reflex rotulian - reflex de retragere",
+      "receptorii și efectorii - componente centrale ale reflexului"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 137,
+    "question": "Potențialul de repaus în neuron:",
+    "options": [
+      "presupune polarizarea membranei neuronale",
+      "implică un echilibru ionic între interiorul și exteriorul celulei nervoase",
+      "este menținut și prin pompa sodiu-potasiu",
+      "are valoarea de -55 mV",
+      "implică un exces de ioni pozitivi în citoplasmă și negativi la exteriorul membranei celulare"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 138,
+    "question": "Următoarele asocieri sunt corecte:",
+    "options": [
+      "glicina - efecte inhibitorii în encefal",
+      "ionii de calciu - pătrund în butonii terminali",
+      "potențialul de acțiune - legea totul sau nimic",
+      "serotonina - reglarea somnului și a stării de veghe",
+      "fibra amielinică - transmitere saltatorie"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 139,
+    "question": "Despre potențialul de acțiune în neuron se pot afirma următoarele:",
+    "options": [
+      "este inițiat prin deschiderea canalelor de sodiu",
+      "după atingerea intensității prag se deschid canale de potasiu voltaj-dependente",
+      "se propagă saltatoriu în fibrele mielinizate",
+      "repolarizarea membranei presupune deschiderea canalelor de potasiu",
+      "se declanșează sub acțiunea unui stimul"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 140,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "nodurile Ranvier sunt situate între două prelungiri succesive ale oligodendrocitelor",
+      "mielina intră în componența neuronilor amielinici periferici",
+      "partea externă a tecii de mielină se numește neurilemă",
+      "în jurul axonului neuronului periferic mielinizat, celula Schwann se înfășoară o singură dată",
+      "mielina este răspunzătoare pentru culoarea substanței cenușii din măduva spinării"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 141,
+    "question": "Selectați enunțurile corecte despre celulele gliale:",
+    "options": [
+      "astrocitele au formă stelată și rol fagocitar",
+      "sunt de 100 de ori mai numeroase decât neuronii",
+      "celulele Schwann sintetizează teaca de mielină în SNP",
+      "microgliile devin mobile în cursul inflamațiilor",
+      "oligodendrocitele se interpun între neuroni și capilarele sanguine"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 142,
+    "question": "Alegeți neurotransmițătorii inhibitori:",
+    "options": [
+      "acetilcolina",
+      "glutamatul",
+      "glicina",
+      "dopamina",
+      "acidul gama-amino-butiric"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 143,
+    "question": "Alegeți afirmațiile corecte despre sinapsă:",
+    "options": [
+      "la neuronii mielinizați, impulsul poate sări peste fanta sinaptică",
+      "eliberarea neurotransmițătorilor în fanta sinaptică se realizează prin exocitoză calciu-dependentă",
+      "glutamatul este un neurotransmițător inhibitor",
+      "noradrenalina și acetilcolina sunt catecolamine",
+      "acidul gama-amino-butiric are un efect inhibitor asupra neuronilor"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 144,
+    "question": "Selectați afirmațiile corecte cu privire la țesutul nervos:",
+    "options": [
+      "componenta presinaptică transmite stimulul componentei postsinaptice prin atingere",
+      "acidul gama-amino-butiric este un neurotransmițător inhibitor",
+      "dendritele transmit informația de la corpul celular al neuronului spre periferie",
+      "în SNC, oligodendrocitele emit prelungiri care se înfășoară în jurul axonilor sau dendritelor",
+      "neurotransmițătorii transmit impulsuri la alți neuroni, receptori, mușchi și glande"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 145,
+    "question": "Selectați afirmațiile corecte cu privire la țesutul nervos:",
+    "options": [
+      "serotonina poate fi implicată în reglarea somnului",
+      "în butonii terminali se găsesc mitocondrii cu neurotransmițători",
+      "curentul de depolarizare este datorat deschiderii canalelor pentru anionii de sodiu",
+      "în corpul celular al neuronului se găsesc și organite derivate din sacii aparatului Golgi",
+      "epinefrina, norepinefrina și acetilcolina fac parte din clasa catecolaminelor"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 146,
+    "question": "Următoarele afirmații sunt corecte:",
+    "options": [
+      "acetilcolina se poate fixa de receptorii miofibrilei musculare",
+      "transmiterea impulsului de la neuronul somatomotor determină contracția fibrei musculare scheletice",
+      "norepinefrina se eliberează în placa motorie",
+      "cuplarea acetilcolinei cu receptorii de la nivelul sarcoplasmei determină scurtarea sarcomerului",
+      "în placa motorie, ATP-aza descompune acetilcolina"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 147,
+    "question": "Următoarele afirmații cu privire la țesutul nervos sunt incorecte:",
+    "options": [
+      "dendritele și axonii transmit impulsul nervos spre corpul neuronal",
+      "serotonina acționează doar la nivelul encefalului și poate fi implicată în funcții mentale",
+      "lezarea neuronilor din ganglionul spinal duce la paralizie",
+      "canalele de poartă de la nivelul membranei neuronale sunt specifice pentru diferite tipuri de ioni",
+      "odată cu intrarea ionilor de potasiu în celulă, membrana neuronului se repolarizează"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 148,
+    "question": "Selectați afirmațiile incorecte cu privire la neurotransmițători:",
+    "options": [
+      "norepinefrina acționează preponderent în sistemul nervos parasimpatic",
+      "serotonina este implicată în controlul unor funcții motorii",
+      "dopamina este o catecolamină",
+      "glicina acționează doar la nivelul encefalului",
+      "colinesteraza degradează catecolaminele la nivelul sinapsei"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 149,
+    "question": "Care dintre următoarele afirmații cu privire la neuron sunt adevărate?",
+    "options": [
+      "dendritele neuronilor multipolari pornesc dintr-o porțiune îngroșată a corpului celular numită con de emergență",
+      "în structura axolemei se găsesc fosfolipide ce conțin acizi grași în porțiunea hidrofobă",
+      "în citoplasma neuronului se găsesc și aparat Golgi, mitocondrii, corpi Nissl și lizozomi cu rol în sinteza de proteine",
+      "neuronii pseudounipolari au o singură prelungire care se divide și formează o dendrită și un axon",
+      "partea internă a tecii de mielină se numește neurilemă"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 150,
+    "question": "Care dintre următoarele afirmații sunt adevărate?",
+    "options": [
+      "reflexul de retragere are la bază un arc reflex format din doi neuroni",
+      "receptorul este întotdeauna reprezentat de o celulă specializată",
+      "un neuron, în repaus, are o sarcină electrică negativă în interior",
+      "astrocitele se interpun între capilarele sanguine și neuroni",
+      "partea externă a corpului neuronal se numește neurilemă"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 151,
+    "question": "Care dintre următoarele afirmații sunt incorecte?",
+    "options": [
+      "reflexul rotulian este un reflex de flexie",
+      "celulele Schwann sintetizează teaca de mielină în SNC",
+      "corpul neuronal are și organite ce conțin enzime pentru digestia intracelulară",
+      "neuronii pseudounipolari nu prezintă dendrite",
+      "neuronul senzorial transmite impulsuri nervoase către receptori"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 152,
+    "question": "Următoarele afirmații cu privire la țesutul nervos sunt adevărate:",
+    "options": [
+      "concentrația ionilor de sodiu din interiorul celulei este de 10 ori mai mică decât cea din exterior",
+      "interneuronul este situat în măduva spinării sau în SNP",
+      "dezechilibrul ionic de la nivelul membranei neuronale este menținut și de difuziunea ionilor din zonele cu concentrație mai mică înspre cele cu concentrație mai mare, prin canale ionice",
+      "potențialul de acțiune se propagă prin intervenția pompelor ionice",
+      "glicina este un neurotransmițător cu acțiune inhibitorie la nivelul măduvei spinării"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 153,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "unii neurotransmițători favorizează apariția impulsurilor nervoase prin menținerea canalelor de sodiu în stare închisă",
+      "dopamina este implicată în controlul unor funcții motorii",
+      "placa motorie este o sinapsă unde pot acționa numai catecolaminele",
+      "percutarea ligamentului patelar determină un reflex de extensie a gambei",
+      "fiecare fascicul nervos este înconjurat de un țesut conjunctiv fibros numit epinerv"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 154,
+    "question": "Mușchiul neted se găsește în componența peretelui:",
+    "options": [
+      "tubului digestiv",
+      "bronhiolelor",
+      "uterului",
+      "vaselor sangvine",
+      "inimii"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 155,
+    "question": "Mușchiul scheletic prezintă următoarele caracteristici:",
+    "options": [
+      "este atașat scheletului",
+      "este controlat voluntar",
+      "este format din fibre alungite, cilindrice, cu capete rotunjite",
+      "nu prezintă striații",
+      "este format din fibre alungite, fusiforme, cu capete ascuțite"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 156,
+    "question": "Mușchiul striat scheletic are următoarele trăsături:",
+    "options": [
+      "are mulți nuclei în fiecare fibră musculară",
+      "nucleii sunt poziționați periferic",
+      "are viteza de contracție cea mai rapidă",
+      "are cea mai mică capacitate de a rămâne contractat",
+      "prezintă un nucleu în fiecare fibră"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 157,
+    "question": "Mușchiul neted prezintă următoarele caracteristici:",
+    "options": [
+      "este prezent în structura peretelui inimii",
+      "este controlat involuntar",
+      "este alcătuit din fibre alungite, fusiforme, cu capete ascuțite",
+      "nu prezintă striații",
+      "prezintă sarcomere"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 158,
+    "question": "Selectați afirmațiile corecte referitoare la mușchiul neted:",
+    "options": [
+      "conține mai mulți nuclei în fiecare fibră",
+      "conține proteine contractile cu o organizare complexă",
+      "are cea mai lentă viteză de contracție",
+      "are capacitatea cea mai mare de a rămâne contractat",
+      "conține fibre musculare cu un singur nucleu"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 159,
+    "question": "Mușchiul cardiac prezintă următoarele caracteristici:",
+    "options": [
+      "este localizat în pereții vaselor sangvine",
+      "este controlat involuntar",
+      "este alcătuit din fibre alungite, cilindrice, ramificate",
+      "este format din celule legate între ele prin desmozomi și joncțiuni gap",
+      "prezintă striații"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 160,
+    "question": "Selectați afirmațiile corecte referitoare la mușchiul cardiac:",
+    "options": [
+      "este alcătuit din fibre musculare cu mai mulți nuclei",
+      "în fiecare fibră, nucleul este poziționat central",
+      "are viteza intermediară de contracție",
+      "are capacitate intermediară de a rămâne contractat",
+      "conține fibre musculare cu un singur nucleu"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 161,
+    "question": "Linia Z prezintă următoarele caracteristici:",
+    "options": [
+      "reprezintă zona unde se întrepătrund filamentele de actină din două sarcomere adiacente",
+      "este situată la mijlocul unei benzi clare",
+      "împarte banda I în două jumătăți egale",
+      "permite ancorarea filamentelor de actină",
+      "împarte banda A în două jumătăți egale"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 162,
+    "question": "Banda I prezintă următoarele caracteristici:",
+    "options": [
+      "este împărțită de linia Z în două jumătăți egale",
+      "este împărțită de zona H în două jumătăți egale",
+      "este formată doar din filamente de miozină",
+      "este formată doar din filamente de actină și miozină",
+      "este formată doar din filamente subțiri"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 163,
+    "question": "Banda A prezintă următoarele caracteristici:",
+    "options": [
+      "este împărțită de linia Z în două jumătăți egale",
+      "este împărțită de zona H în două jumătăți egale",
+      "este formată doar din filamente de miozină",
+      "este formată din filamente de actină și miozină",
+      "este formată doar din filamente subțiri"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 164,
+    "question": "Selectați afirmațiile corecte referitoare la zona H:",
+    "options": [
+      "conține doar filamente de miozină",
+      "conține doar filamente groase",
+      "conține doar filamente de actină",
+      "conține doar filamente subțiri",
+      "conține filamente de actină și miozină"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 165,
+    "question": "Miofibrilele prezintă următoarele caracteristici:",
+    "options": [
+      "sunt prezente în număr de 4-20 în fiecare fibră musculară striată",
+      "au fiecare 1-2 μm lățime",
+      "au până la 100 μm lungime",
+      "sunt organizate în unități mai mici, numite sarcomere",
+      "reprezintă unitatea funcțională a mușchiului striat scheletic"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 166,
+    "question": "Sarcomerele au următoarele caracteristici:",
+    "options": [
+      "sunt formate din filamente subțiri și groase așezate paralel între ele",
+      "fiecare sarcomer are aproximativ 2 μm lungime",
+      "fiecare sarcomer are o lungime de până la 100 μm",
+      "sunt organizate în unități mai mici, numite miofibrile",
+      "reprezintă unitatea funcțională a mușchiului striat scheletic"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 167,
+    "question": "Miofilamentele de miozină:",
+    "options": [
+      "sunt filamente groase",
+      "sunt formate dintr-o proteină numită actină",
+      "sunt formate dintr-o proteină numită miozină",
+      "sunt prezente la nivelul zonei H",
+      "sunt prezente la nivelul liniei Z"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 168,
+    "question": "Celulele țesutului muscular scheletic sunt separate și învelite de următoarele straturi de țesut conjunctiv:",
+    "options": [
+      "endomisium, ce învelește fiecare fibră musculară",
+      "perimisium, ce învelește un pachet de fibre musculare",
+      "epimisium și fascia care învelesc tot mușchiul",
+      "fascia superficială, ce conține o cantitate mare de țesut adipos la toate persoanele",
+      "fascia superficială, care reprezintă stratul extern al fasciei"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 169,
+    "question": "Următoarele afirmații referitoare la tendon sunt corecte:",
+    "options": [
+      "este porțiunea mușchiului care conține fibre musculare",
+      "se mai numește și corp muscular",
+      "este continuarea endomisiumului, perimisiumului, epimisiumului și a fasciei dincolo de corpul muscular",
+      "atașează mușchiul de os",
+      "este învelit doar de perimisium"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 170,
+    "question": "Selectați afirmațiile corecte privind structura fibrei musculare striate scheletice:",
+    "options": [
+      "conține în citoplasmă filamente filiforme numite miofibrile",
+      "conține în sarcoplasmă numeroase mitocondrii",
+      "miofibrilele din structura lor sunt învelite de endomisium",
+      "conține numeroși nuclei dispuși la periferia celulei",
+      "au un singur nucleu dispus central"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 171,
+    "question": "Selectați afirmațiile corecte referitoare la sarcomer:",
+    "options": [
+      "reprezintă unitatea funcțională a mușchiului striat",
+      "conferă mușchiului aspectul striat caracteristic",
+      "este alcătuit din filamente subțiri compuse din miozină",
+      "are în structură filamente subțiri și groase dispuse paralel",
+      "are în porțiunea mijlocie o bandă clară numită banda I"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 172,
+    "question": "Despre miofibrile se pot afirma următoarele:",
+    "options": [
+      "conțin filamente subțiri formate din miozină",
+      "reprezintă unitatea funcțională a mușchiului striat scheletic",
+      "se găsesc în sarcoplasma fibrelor musculare striate",
+      "au în structura lor filamente groase ancorate la nivelul liniei Z",
+      "sunt filamente filiforme și se găsesc în citoplasmă printre mitocondrii"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 173,
+    "question": "Despre mușchiul neted se pot afirma următoarele:",
+    "options": [
+      "se găsește în peretele tubului digestiv și în vasele de sânge",
+      "conține celule fuziforme contractile, cu numeroase striații",
+      "conține un nucleu dispus central",
+      "are capacitatea de a rămâne contractat timp îndelungat",
+      "are viteză de contracție intermediară între mușchiul striat scheletic și mușchiul cardiac"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 174,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "mușchiul striat are viteza de contracție cea mai mare comparativ cu mușchiul neted și cardiac",
+      "mușchiul cardiac are în structură fibre musculare alungite, cilindrice, ramificate",
+      "mușchiul striat scheletic are cea mai mică capacitate de a rămâne contractat",
+      "mușchiul neted are o viteză de contracție intermediară, între cea a mușchiului striat și a mușchiului cardiac",
+      "celulele musculare striate prezintă între ele joncțiuni speciale de tip gap"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 175,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "contracția mușchiului neted se desfășoară cel mai lent",
+      "mușchiul striat scheletic este controlat voluntar",
+      "mușchiul cardiac este sub control voluntar și involuntar",
+      "perimisiumul învelește un pachet de fibre musculare",
+      "epimisiumul împreună cu fascia învelesc întreg mușchiul"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 176,
+    "question": "Despre filamentele subțiri din structura sarcomerului se pot afirma următoarele:",
+    "options": [
+      "sunt compuse dintr-o proteină numită actină",
+      "se fixează pe membrana Z",
+      "se găsesc doar în banda I",
+      "există doar în banda H",
+      "se găsesc în benzile I și A"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 177,
+    "question": "Alegeți afirmațiile corecte referitoare la miofibrile:",
+    "options": [
+      "sunt organizate în sarcomere",
+      "conferă, prin distribuția lor, aspectul striat caracteristic al mușchiului striat scheletic",
+      "intră în componența fibrelor musculare",
+      "se găsesc în sarcolemă",
+      "sunt alcătuite dintr-o succesiune de benzi A și I"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 178,
+    "question": "Următoarele afirmații despre banda I sunt corecte:",
+    "options": [
+      "este împărțită de linia Z în două jumătăți egale",
+      "conține filamente de actină și miozină",
+      "este formată dintr-o proteină numită miozină",
+      "este împărțită în două jumătăți egale de linia Z, la nivelul căreia se întrepătrund filamentele de actină din două sarcomere succesive",
+      "prin dispunerea ei repetitivă apare aspectul striat al miofibrilei mușchilor striați"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 179,
+    "question": "Banda I:",
+    "options": [
+      "nu se scurtează în timpul contracției musculare",
+      "conține filamente de actină din sarcomere adiacente",
+      "este o bandă largă și clară",
+      "conține doar filamente de actină",
+      "se scurtează în timpul contracției musculare"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 180,
+    "question": "Linia Z:",
+    "options": [
+      "delimitează sarcomerele între ele",
+      "reprezintă zona în care se ancorează filamentele de actină",
+      "permite ancorarea numai a filamentelor de actină dintr-un singur sarcomer",
+      "împarte banda I în două jumătăți egale",
+      "împarte banda A în două jumătăți egale"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 181,
+    "question": "Banda A:",
+    "options": [
+      "prezintă în centru zona H",
+      "este largă și densă și se găsește în centrul sarcomerului",
+      "conține, pe toată lungimea sa, atât filamente de actină cât și filamente de miozină",
+      "este compusă doar din miozină",
+      "în centru conține numai filamente de miozină"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 182,
+    "question": "La microscopul optic, în structura mușchiului scheletic, se evidențiază:",
+    "options": [
+      "endomisium",
+      "perimisium",
+      "fibre musculare",
+      "nucleu",
+      "filamente subțiri de actină"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 183,
+    "question": "La microscopul optic, în structura fibrei musculare netede, se observă:",
+    "options": [
+      "sarcolemă",
+      "nucleu",
+      "sarcomere",
+      "filamente de actină și de miozină",
+      "endomisium"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 184,
+    "question": "Mușchiul cardiac:",
+    "options": [
+      "este un tip de mușchi neted",
+      "este sub control voluntar",
+      "prezintă între celulele musculare cardiace joncțiuni de tip gap",
+      "are viteză intermediară de contracție",
+      "intră în structura pereților inimii"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 185,
+    "question": "Despre mușchiul neted sunt adevărate următoarele afirmații:",
+    "options": [
+      "se contractă voluntar",
+      "se găsește în cantitate mai mare în pereții arterelor decât ai venelor",
+      "se găsește în cantitate foarte mică în structura peretelui capilar",
+      "se contractă cel mai rapid dintre toate categoriile de mușchi",
+      "are cea mai mare capacitate de a rămâne contractat comparativ cu celelalte categorii de mușchi"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 186,
+    "question": "Selectați afirmațiile corecte despre mușchiul striat scheletic:",
+    "options": [
+      "fibrele lui au aspect fusiform",
+      "are viteza de contracție cea mai mare comparativ cu mușchiul neted și cardiac",
+      "este cel mai frecvent întâlnit dintre toate categoriile de mușchi",
+      "are în componență celule musculare de dimensiuni mici",
+      "prezintă joncțiuni de tip gap între celule"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 187,
+    "question": "Despre structura fibrei musculare striate scheletice este corectă următoarea afirmație:",
+    "options": [
+      "se contractă doar când este stimulată de un impuls nervos",
+      "în sarcolemă conține numeroase mitocondrii",
+      "conține miofibrile cu lungimea de până la 100 mm",
+      "se contractă voluntar",
+      "are nuclei situați la periferia sarcoplasmei, în vecinătatea sarcolemei"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 188,
+    "question": "Despre structura sarcomerului sunt adevărate următoarele afirmații:",
+    "options": [
+      "este cuprins între 2 linii Z succesive",
+      "dimensiunea sa se reduce în contracție",
+      "cuprinde două jumătăți de bandă I și o bandă A",
+      "are dimensiuni constante în timpul contracției",
+      "conține două tipuri de filamente"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 189,
+    "question": "Referitor la mușchiul cardiac sunt corecte următoarele afirmații:",
+    "options": [
+      "contracțiile lui nu sunt inițiate de impulsuri venite de la sistemul nervos",
+      "celulele sale au un nucleu unic, situat central",
+      "conține celule cilindrice cu capetele rotunjite",
+      "joncțiunile dintre celule apar la nivelul unor conexiuni numite discuri intercalare",
+      "celulele sale au viteză de contracție mai mare comparativ cu mușchiul neted"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 190,
+    "question": "Care dintre următoarele afirmații sunt corecte?",
+    "options": [
+      "mușchiul prezintă tendoane care îl atașează de os",
+      "epimisiumul învelește un pachet de fibre musculare",
+      "perimisiumul învelește mușchiul la exterior",
+      "locomoția se poate realiza datorită mușchilor antagoniști",
+      "în contracție, filamentele de miozină alunecă printre cele de actină"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 191,
+    "question": "Actina prezintă următoarele caracteristici:",
+    "options": [
+      "este o proteină care aparține sarcomerului",
+      "este localizată exclusiv în banda I",
+      "este prezentă și în banda clară și în banda densă",
+      "în repaus, se găsește și la nivelul zonei H",
+      "este fixată cu un capăt pe linia Z"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 192,
+    "question": "Filamentele groase:",
+    "options": [
+      "sunt alcătuite din actină și miozină",
+      "apar atât în structura benzii A cât și a benzii I",
+      "sunt străbătute la mijloc de linia Z",
+      "se găsesc în structura sarcomerului din fibre musculare netede",
+      "fac parte din banda A și din zona H"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 193,
+    "question": "Selectați posibile localizări ale țesutului muscular neted:",
+    "options": [
+      "vase de sânge",
+      "perete cardiac",
+      "tract digestiv",
+      "uter",
+      "mușchi atașați scheletului"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 194,
+    "question": "Care dintre următoarele afirmații privind structurile alcătuite din țesut conjunctiv prezente la nivelul mușchiului striat scheletic sunt corecte?",
+    "options": [
+      "perimisiumul învelește miofibrilele",
+      "epimisiumul și fascia învelesc întregul mușchi",
+      "mușchiul se atașează de oasele plate prin intermediul endomisiumului",
+      "endomisiumul, perimisiumul, epimisiumul și fascia se continuă cu tendonul",
+      "endomisiumul învelește fiecare fibră musculară"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 195,
+    "question": "Care dintre următoarele tipuri de mușchi se găsește sub control voluntar:",
+    "options": [
+      "miocardul",
+      "mușchiul neted vascular",
+      "mușchiul care prezintă în structura sa joncțiuni de tip gap",
+      "mușchiul striat scheletic",
+      "mușchiul striat de tip cardiac"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 196,
+    "question": "Selectați afirmațiile corecte referitoare la mușchii striați scheletici:",
+    "options": [
+      "exercită forță asupra oaselor",
+      "pot forma grupuri de mușchi antagoniști, care acționează unul împotriva celuilalt",
+      "se contractă activ, fără consum de energie",
+      "se atașează de oase prin intermediul tendoanelor",
+      "prezintă o fascie al cărei strat intern poate conține țesut adipos"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 197,
+    "question": "Sarcomerul:",
+    "options": [
+      "face parte din structura mitocondriilor din sarcoplasmă",
+      "are lungimea de până la 100 μm",
+      "reprezintă unitatea funcțională a mușchiului striat scheletic",
+      "este alcătuit din filamente groase de miozină și filamente subțiri de actină",
+      "conferă aspectul neted caracteristic al mușchiului scheletic"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 198,
+    "question": "Actina:",
+    "options": [
+      "face parte numai din structura benzii I",
+      "intră în structura filamentelor groase ancorate la nivelul liniei Z",
+      "lipsește în zona H",
+      "formează filamentele subțiri",
+      "este o proteină implicată în contracția musculară"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 199,
+    "question": "Mușchiul striat scheletic:",
+    "options": [
+      "se contractă involuntar",
+      "prezintă striații la nivelul miofibrilelor",
+      "este prezent în peretele tubului digestiv și al vaselor sanguine",
+      "este alcătuit din celule alungite, fusiforme, ramificate",
+      "are o viteză de contracție foarte redusă"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 200,
+    "question": "Zona H:",
+    "options": [
+      "este alcătuită exclusiv din filamente groase",
+      "este situată în centrul benzii I",
+      "este delimitată de două linii Z succesive",
+      "nu conține actină",
+      "împarte banda A în două jumătăți inegale"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 201,
+    "question": "Mușchiul neted:",
+    "options": [
+      "este alcătuit din celule care prezintă un singur nucleu situat central",
+      "face parte din peretele inimii",
+      "poate fi atașat scheletului",
+      "are cea mai mare capacitate de a menține contracția",
+      "prezintă celule alungite, cilindrice, cu capete rotunjite"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 202,
+    "question": "Selectați afirmațiile corecte referitoare la mușchi:",
+    "options": [
+      "fibra musculară este unitatea structurală a miofibrilei",
+      "sarcomerul este unitatea funcțională a mușchiului striat scheletic",
+      "fibra musculară este unitatea funcțională a mușchiului",
+      "perimisiumul învelește un pachet de fibre musculare",
+      "endomisiumul învelește fiecare pachet de fascicule musculare"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 203,
+    "question": "La microscopul electronic sarcomerul prezintă:",
+    "options": [
+      "filamente subțiri de miozină",
+      "filamente groase de actină",
+      "linia Z, la nivelul căreia se ancorează filamentele subțiri",
+      "banda A, care conține doar filamente de miozină",
+      "banda A, care conține și zona H"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 204,
+    "question": "Mușchiul cardiac:",
+    "options": [
+      "este alcătuit din fibre striate fusiforme neramificate",
+      "este un mușchi striat involuntar",
+      "prezintă în structură desmozomi și joncțiuni gap",
+      "este inervat de sistemul nervos somatic",
+      "este sub controlul sistemului nervos vegetativ"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 205,
+    "question": "Mușchiul neted:",
+    "options": [
+      "este alcătuit din fibre fusiforme ramificate",
+      "nu are sarcomere",
+      "este un mușchi involuntar",
+      "este alcătuit din fibre fusiforme fără striații",
+      "se contractă fără participarea actinei și miozinei"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 206,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "doar mușchiul striat scheletic este controlat voluntar",
+      "mușchiul cardiac are mai mulți nuclei în fiecare fibră musculară",
+      "mușchiul neted se contractă cel mai lent",
+      "atât mușchiul cardiac cât și cel scheletic prezintă striații",
+      "mușchiul neted are fibre alungite, cilindrice, ramificate"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 207,
+    "question": "Alegeți variantele corecte:",
+    "options": [
+      "fascia superficială se mai numește gaster",
+      "mitocondriile din sarcoplasmă produc energia necesară pentru contracția musculară",
+      "fiecare fibră conține 20-40 miofibrile",
+      "filamentele groase conțin miozină",
+      "zona H împarte banda A în două jumătăți egale"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 208,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "linia Z împarte în două jumătăți egale o bandă clară, largă, denumită bandă I",
+      "banda A este împărțită în două jumătăți egale de linia I",
+      "la nivelul liniei Z se ancrează filamentele subțiri",
+      "filamentele subțiri sunt formate din miozină",
+      "aspectul striat din miofibrilele mușchilor striați este dat de repetarea benzilor A și I"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 209,
+    "question": "Care dintre următoarele afirmații privind structura sarcomerului sunt adevărate?",
+    "options": [
+      "filamentele constituite din actină sunt ancorate la nivelul liniei Z",
+      "banda A conține doar filamentele de miozină",
+      "banda I este împărțită în două jumătăți egale de zona H",
+      "linia Z se găsește la mijlocul benzii clare",
+      "zona H este constituită din filamente groase și subțiri"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 210,
+    "question": "Actina:",
+    "options": [
+      "face parte numai din structura benzii I",
+      "intră în structura filamentelor groase ancorate la nivelul liniei Z",
+      "lipsește în zona H",
+      "formează filamentele subțiri",
+      "este o proteină implicată în contracția musculară"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 211,
+    "question": "Zona H:",
+    "options": [
+      "este alcătuită exclusiv din filamente groase",
+      "este situată în centrul benzii I",
+      "este delimitată de două linii Z succesive",
+      "nu conține actină",
+      "împarte banda A în două jumătăți inegale"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 212,
+    "question": "Mușchiului cardiac și mușchiului scheletic se aseamănă prin faptul că:",
+    "options": [
+      "sunt formați din celule alungite și fusiforme",
+      "prezintă striații",
+      "se contractă involuntar",
+      "au cea mai mare viteză de contracție",
+      "sunt alcătuiți din celule cu un singur nucleu"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 213,
+    "question": "Următoarele afirmații sunt corecte:",
+    "options": [
+      "mușchiul striat este atașat exclusiv de oase",
+      "fibra musculară conține 1-4 celule musculare, alungite",
+      "unitatea structurală și funcțională a țesutului muscular este celula musculară",
+      "doar mușchiul scheletic se găsește sub control voluntar",
+      "în anumite ducte se pot găsi celule musculare netede"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 214,
+    "question": "Care dintre următoarele descrieri se aplică mușchiului striat scheletic?",
+    "options": [
+      "este sub control involuntar",
+      "este format din fibre musculare lungi, cu mai mulți nuclei",
+      "prezintă conexiuni de tip gap între celule",
+      "conține miofibrile organizate în sarcomere",
+      "este întâlnit în peretele vaselor de sânge"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 215,
+    "question": "Referitor la mușchiul striat scheletic se poate afirma că:",
+    "options": [
+      "are capacitate de contracție și scurtare, datorită joncțiunilor de tip gap",
+      "discurile intercalare se găsesc în cadrul joncțiunilor gap",
+      "se găsește la nivelul vaselor sanguine",
+      "conține celule cu mai mulți nuclei",
+      "are cea mai lentă viteză de contracție"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 216,
+    "question": "Unde se găsesc în organism mușchi netezi?",
+    "options": [
+      "atașați oaselor pentru a produce mișcare",
+      "în componența tubului digestiv și a vaselor de sânge",
+      "în peretele inimii",
+      "la nivelul articulațiilor",
+      "în peretele uterin"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 217,
+    "question": "Următoarele afirmații sunt adevărate:",
+    "options": [
+      "celulele musculare produc energie prin relaxare",
+      "mușchii antagoniști sunt de tip extensor",
+      "fascia musculară învelește întregul corp muscular",
+      "epimisiumul învelește corpul muscular, dar nu și tendoanele",
+      "fascia profundă, la persoanele obeze, conține o cantitate mare de țesut adipos"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 218,
+    "question": "Celulele musculare netede se caracterizează prin următoarele:",
+    "options": [
+      "au nuclei periferici",
+      "sunt fusiforme, cu capete ascuțite",
+      "sunt controlate voluntar",
+      "au capacitatea de a rămâne contractate perioade lungi de timp",
+      "intră în structura peretelui cardiac"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 219,
+    "question": "Referitor la miofibrilele din fibrele musculare striate scheletice se poate afirma că:",
+    "options": [
+      "sarcomerul conține 4-20 de filamente numite miofibrile",
+      "miofibrilele sunt conținute în sarcomere",
+      "la cei mai mari mușchi, un sarcomer are aproximativ 2 m lungime",
+      "sarcomerul reprezintă unitatea funcțională a mușchiului striat scheletic",
+      "sarcomerele fac parte din alcătuirea tuturor tipurilor de fibre musculare"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 220,
+    "question": "Care dintre următoarele afirmații despre ATP și fosfocreatină sunt corecte?",
+    "options": [
+      "ATP-ul este regenerat din ADP și grupe fosfat",
+      "fosfocreatina stochează oxigen pentru a sprijini regenerarea ATP-ului",
+      "fosfocreatina eliberează energie, transferând un grup fosfat către ADP",
+      "rezervele de fosfocreatină sunt nelimitate în fibrele musculare",
+      "ATP-ul este produs printr-o serie de reacții care au loc în sarcolemă"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 221,
+    "question": "Următoarele afirmații sunt corecte:",
+    "options": [
+      "banda I este o bandă clară, care prezintă la jumătatea ei linia Z",
+      "în sarcomere se pot găsi numeroase mitocondrii care furnizează ATP",
+      "gasterul este porțiunea de mușchi responsabilă pentru formarea tendonului",
+      "linia Z este zona unde se întrepătrund filamentele de actină din două sarcomere adiacente",
+      "succesiunea benzilor A și I determină aspectul striat al mușchilor cu cea mai mare viteză de contracție"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 222,
+    "question": "În timpul glicolizei anaerobe au loc următoarele fenomene:",
+    "options": [
+      "moleculele de glucoză sunt transformate direct în acid lactic",
+      "sunt produse două molecule de ATP pentru fiecare moleculă de glucoză",
+      "au loc reacții care necesită prezența oxigenului",
+      "acidul lactic acumulat poate conduce la oboseală musculară extremă",
+      "o serie de reacții care se desfășoară în mitocondrii"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 223,
+    "question": "Următoarele afirmații despre țesutul muscular striat scheletic sunt incorecte:",
+    "options": [
+      "capetele filamentelor de miozină conțin o enzimă care produce ATP din ADP și grupări fosfat",
+      "endomisiumul învelește fiecare fibră musculară striată scheletică",
+      "în fibrele musculare poate exista un pigment - hemoglobina - care leagă moleculele de oxigen și le depozitează temporar",
+      "fibrele musculare roșii sunt astfel colorate ca urmare a prezenței unui pigment în sarcolema lor",
+      "acidul lactic se produce ca urmare a comutării metabolismului energetic de la glucoză la folosirea fosfocreatinei și ATP-ului"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 224,
+    "question": "Despre potențialul de repaus al neuronului se poate afirma că:",
+    "options": [
+      "se datorează exclusiv intervenției canalelor cu poartă",
+      "se propagă saltator în axonii mielinici",
+      "este menținut fără consum de energie",
+      "reprezintă starea de polarizare a membranei neuronului nestimulat",
+      "are o valoare negativă, de aproximativ -55 mV"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 225,
+    "question": "Referitor la sursele energetice ale contracției se poate afirma că:",
+    "options": [
+      "fosfocreatina este produsă din creatină și grupări fosfat pe baza energiei provenite din rezervele suficiente de ADP",
+      "scindarea ATP-ului declanșează interacțiunea dintre filamentele groase și cele subțiri ale sarcomerului",
+      "în timpul glicolizei aerobe, acidul piruvic este convertit în acid lactic",
+      "prin glicoliză anaerobă se formează acid lactic, care difuzează în interiorul mitocondriilor pentru a produce energie",
+      "miofibrila musculară conține cantități mari de mitocondrii, necesare producerii ATP-ului"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 226,
+    "question": "Celulele nervoase:",
+    "options": [
+      "sunt structuri prezente doar în sistemul nervos periferic",
+      "prin formațiunile spinoase de la nivelul dendritelor formează joncțiuni cu alți neuroni sau receptori",
+      "transmit impulsuri de la receptori spre sistemul nervos central, în cazul celor localizate în ganglionii senzoriali",
+      "participă la reflexele care controlează mișcările voluntare, atunci când au origine în cortexul cerebral",
+      "se depolarizează la atingerea intensității prag de -55 mV, moment în care se deschid canalele cu poartă pentru K⁺"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 227,
+    "question": "Următoarele afirmații referitoare la celulele musculare cu nuclei în poziție periferică sunt adevărate:",
+    "options": [
+      "asigură pomparea sângelui spre organe",
+      "prezintă cea mai mică abilitate de a rămâne contractate",
+      "fiecare fibră musculară rezultă prin fuzionarea mai multor celule",
+      "sunt de obicei foarte lungi",
+      "au formă alungită, cilindrică, cu capete ramificate"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 228,
+    "question": "Fibra musculară striată scheletică:",
+    "options": [
+      "se contractă prin mecanism pasiv numai în urma unei stimulări",
+      "este acoperită de perimisium",
+      "conține miofibrile în sarcoplasmă",
+      "utilizează direct energia eliberată de fosfocreatină",
+      "pentru respirația celulară necesită oxigen, care a fost adus de mioglobină din eritrocite"
+    ],
+    "answers": [2]
+  },
+  {
+    "id": 229,
+    "question": "Despre celulele sistemului nervos sunt adevărate afirmațiile:",
+    "options": [
+      "microgliile sunt celule mici, care pot fagocita microorganismele pătrunse în țesutul nervos",
+      "neuronii intercalari fac sinapsă cu corpul celular al neuronului senzorial",
+      "neuronii formează circuite în care, la nivelul butonilor terminali, se eliberează vezicule cu enzime",
+      "dendrita neuronului senzorial prezintă formațiuni spinoase prin care nu poate realiza joncțiuni cu efectorii",
+      "neuronul simpatic preganglionar poate face sinapsă în lanțul simpatic ganglionar sau în ganglionii terminali celiaci"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 230,
+    "question": "Următoarele enunțuri sunt corecte:",
+    "options": [
+      "contracția fibrelor striate scheletice poate apărea doar în urma stimulării",
+      "fiecare miofibrilă striată are o lungime de circa 2 μm",
+      "într-o fibră musculară striată scheletică se pot găsi între 4-20 de filamente filiforme",
+      "fiecare fibră musculară este delimitată de perimisium",
+      "fiecare fascicul muscular este învelit individual de epimisium"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 231,
+    "question": "Arcul reflex are următoarele componente:",
+    "options": [
+      "receptorul, sensibil la modificări interne sau externe",
+      "interneuronul, care conduce impulsul nervos de la neuronul senzorial la cel motor",
+      "efectorul, care răspunde la stimularea provenită de la neuronul motor",
+      "neuronul senzorial, care transmite impulsuri nervoase de la encefal spre receptor",
+      "neuronul motor, care transmite impulsul nervos de la encefal sau măduva spinării spre efector"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 232,
+    "question": "Mușchii striați scheletici:",
+    "options": [
+      "exercită tracțiune asupra oaselor",
+      "au cea mai mare capacitate de a rămâne contractați",
+      "din regiunea superioară a esofagului participă la masticație",
+      "sunt inserați pe oase",
+      "sunt formați din celule fusiforme, ramificate"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 233,
+    "question": "Referitor la activitatea sinaptică sunt corecte următoarele afirmații:",
+    "options": [
+      "pătrunderea calciului, prin canale de calciu voltaj-dependente, în butonul terminal declanșează eliberarea neurotransmițătorului din vezicule conținute în regiunea presinaptică",
+      "legarea neurotransmițătorului de receptorii de pe suprafața membranei postsinaptice poate genera un potențial de acțiune",
+      "veziculele cu neurotransmițător traversează fanta sinaptică și se leagă de receptorii postsinaptici",
+      "în cazul sinapsei neuromusculare, după ce se leagă de receptor, neurotransmițătorul este sintetizat de o enzimă",
+      "în neuronul postsinaptic apar potențiale postsinaptice inhibitorii prin acțiunea glicinei produse de encefal"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 234,
+    "question": "Următoarele afirmații legate de mușchiul neted sunt adevărate:",
+    "options": [
+      "celulele sunt fusiforme",
+      "fibrele sale se contractă cu consum de energie",
+      "sarcomerele conțin benzi de miozină și actină",
+      "miofibrilele din structura lor au 1-2 μ lățime",
+      "unitatea sa funcțională este sarcomerul"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 235,
+    "question": "Selectați afirmațiile corecte referitoare la neuroni:",
+    "options": [
+      "participă la formarea sinapselor, în care se pot elibera peste 50 de tipuri diferite de neurotransmițători",
+      "recepționează și transmit informația în sistemul nervos",
+      "utilizează glucoza ca principală sursă de energie",
+      "se depolarizează dacă potențialul de repaus scade până la -70 mV",
+      "transmit impulsul nervos cu viteză mult scăzută dacă axonii lor sunt mielinizați"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 236,
+    "question": "Mușchiul neted:",
+    "options": [
+      "formează tunica musculară a peretelui tractului gastrointestinal, organizată întotdeauna în două straturi",
+      "determină, prin depolarizarea sa, apariția undei P pe electrocardiograma normală",
+      "se contractă ca urmare a unor stimuli proveniți de la neuronii piramidali mari",
+      "poate produce vasoconstricție, sub acțiunea impulsurilor simpatice",
+      "se contractă cel mai lent dintre cele trei tipuri de fibre musculare"
+    ],
+    "answers": [3, 4]
+  }
+]

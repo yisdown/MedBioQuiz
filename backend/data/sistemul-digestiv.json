@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "question": "Despre glandele salivare sunt corecte următoarele asocieri:",
+    "options": [
+      "parotida - duct deschis în dreptul molarului 2 superior",
+      "sublinguala - în planșeul bucal, sub limbă",
+      "submaxilara - enzime proteolitice",
+      "submandibulara - ducte multiple sublinguale",
+      "parotida - în vecinătatea urechilor"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 2,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "în prima etapă a deglutiției, bolul alimentar este împins din cavitatea orală către esofag cu ajutorul limbii",
+      "pH-ul influențează activitatea enzimatică",
+      "hormonii secretați de celulele enteroendocrine reglează activitatea secretorie",
+      "cavitatea bucală asigură digestia mecanică a alimentelor",
+      "aglomerările de țesut limfoid din peretele intestinului subțire facilitează absorbția"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 3,
+    "question": "Care dintre afirmațiile privind duodenul sunt corecte?",
+    "options": [
+      "conține glandele lui Brunner care secretă mucus",
+      "la nivelul lui se deschid ductul cistic al vezicii biliare și ductul pancreatic accesoriu",
+      "la nivelul lui se varsă sucul pancreatic și bila",
+      "este despărțit de stomac prin sfincterul piloric",
+      "cuprinde în concavitatea sa coada pancreasului"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 4,
+    "question": "Care dintre afirmațiile referitoare la componentele sucului gastric sunt adevărate?",
+    "options": [
+      "la sugari, labfermentul facilitează digestia laptelui",
+      "acidul clorhidric, secretat de celulele principale ale glandelor gastrice, activează pepsinogenul",
+      "mucusul protejează peretele stomacului",
+      "factorul intrinsec este necesar pentru absorbția gastrică a vitaminei B₁₂",
+      "pepsina descompune toate tipurile de proteine în peptide"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 5,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "celulele parietale ale glandelor gastrice secretă pepsinogen",
+      "gastrina controlează secreția gastrică de pepsinogen, acid clorhidric și mucus",
+      "la nivelul mucoasei gastrice se pot absorbi: cantități mici de apă, glucoză, peptide, ioni și alcool",
+      "nervul vag crește secreția gastrică",
+      "mișcările peristaltice gastrice realizează evacuarea chimului gastric în duoden"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 6,
+    "question": "Care dintre următoarele afirmații privind acțiunile unor enzime digestive sunt adevărate?",
+    "options": [
+      "sărurile biliare emulsionează picăturile mari de grăsime",
+      "amilaza pancreatică transformă amidonul în maltoză",
+      "lactaza descompune lactoza în glucoză și fructoză",
+      "aminopeptidaza pancreatică degradează proteinele și peptidele în aminoacizi",
+      "tripsina degradează proteinele și peptidele în dipeptide"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 7,
+    "question": "Care dintre afirmațiile referitoare la absorbția intestinală a lipidelor sunt adevărate?",
+    "options": [
+      "este un proces care se realizează în principal fără consum de energie",
+      "acizii grași cu lanț scurt de carbon sunt absorbiți în capilarele sanguine ale vilozităților intestinale",
+      "monogliceridele se combină cu sărurile biliare în celulele epiteliale intestinale, formând micelii",
+      "trigliceridele intră în compoziția chilomicronilor și ajung în chiliferul central",
+      "acizii grași cu lanț lung sunt absorbiți pe cale limfatică"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 8,
+    "question": "Precizați care dintre următoarele afirmații caracterizează bila:",
+    "options": [
+      "este stocată și concentrată în vezica biliară",
+      "este necesară digestiei și absorbției lipidelor",
+      "conține enzime digestive",
+      "conține săruri biliare, colesterol, lecitină și pigmenți biliari",
+      "pigmenții biliari sunt derivați din hemoglobină"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 9,
+    "question": "Selectați afirmațiile corecte privind sucul pancreatic:",
+    "options": [
+      "conține insulină și glucagon",
+      "conține substanțe organice: săruri și ioni de bicarbonat",
+      "conține proteaze: tripsină și chimotripsină",
+      "conține enzime care digeră dizaharidele",
+      "conține lipaza pancreatică care descompune lipidele emulsionate"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 10,
+    "question": "În ficat intră:",
+    "options": [
+      "vena portă, care aduce substanțe nutritive absorbite de la nivelul intestinului",
+      "artera hepatică, ramură din trunchiul celiac",
+      "ductul hepatic comun, care conține bila produsă de hepatocite",
+      "vena hepatică, care se varsă în vena cavă inferioară",
+      "artera hepatică, ramură din trunchiul celiac, care aduce la ficat oxigen și substanțe nutritive"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 11,
+    "question": "Referitor la tunicile tractului gastrointestinal se poate afirma că:",
+    "options": [
+      "tunica mucoasă este formată dintr-un epiteliu ce acoperă un țesut conjunctiv care conține mari cantități de mușchi neted",
+      "tunica musculară este formată la nivelul tuturor segmentelor din mușchi netezi dispuși circular la interior și longitudinal la exterior",
+      "submucoasa conține doar vase de sânge și nervi",
+      "peritoneul visceral prezintă celule care secretă un lichid ce conține mucus și enzime",
+      "musculatura longitudinală, prin contracție, scurtează lungimea tubului digestiv"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 12,
+    "question": "Glandele salivare:",
+    "options": [
+      "parotide sunt situate în țesuturile superficiale din regiunea feței",
+      "secretă și mucus care este un lichid apos care leagă particulele alimentare",
+      "ductele parotide se deschid în dreptul celui de-al doilea molar inferior",
+      "submandibulare sunt situate posterior de cele sublinguale",
+      "ductele submandibulare se deschid anterior de frâul limbii"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 13,
+    "question": "Stomacul:",
+    "options": [
+      "vine în raport cu fața convexă a splinei",
+      "prezintă un strat muscular oblic situat între submucoasă și stratul longitudinal",
+      "secretă factorul intrinsec necesar pentru absorbția în colon a vitaminei B₁₂",
+      "se continuă cu duodenul la nivelul cardiei",
+      "secretă pepsinogen de către celulele principale"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 14,
+    "question": "Referitor la sistemul digestiv este adevărat că:",
+    "options": [
+      "amilaza descompune amidonul în compuși absorbabili",
+      "fructoza se poate obține din descompunerea zaharozei",
+      "ficatul poate sintetiza glucoză din acizi grași și unii aminoacizi",
+      "celulele parietale gastrice produc pepsinogen",
+      "ductul accesoriu pancreatic intră în duoden la aproximativ 2,5 cm distal de ampula hepatopancreatică"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 15,
+    "question": "Următoarele afirmații despre sistemul digestiv sunt adevărate:",
+    "options": [
+      "din dezaminarea în ficat a aminoacizilor se poate forma un compus care la nivelul tubului colector renal poate părăsi lumenul acestuia în porțiunea lui profundă",
+      "ficatul stochează fier și cupru",
+      "feritina se combină cu ionii de fier pentru a forma apoferitina",
+      "ductul hepatic comun se deschide în duoden împreună cu ductul Wirsung",
+      "flexura splenică a colonului se găsește în hipocondrul stâng"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 16,
+    "question": "Următoarele afirmații despre sistemul digestiv nu sunt corecte:",
+    "options": [
+      "acizii grași cu lanț scurt trec în chiliferul central al vilozității intestinale",
+      "celulele enteroendocrine pot produce un hormon care controlează secreția de pepsinogen",
+      "pentru lipide, difuziunea reprezintă principalul mecanism de absorbție",
+      "nervul vag stimulează eliberarea sucului pancreatic",
+      "gastrina se eliberează în sucul gastric și stimulează producția de enzime proteolitice"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 17,
+    "question": "Referitor la sistemul digestiv se poate afirma că:",
+    "options": [
+      "mucoasa duodenului conține și plăci Peyer",
+      "sucul pancreatic are un pH alcalin",
+      "bila conține și bicarbonat, săruri biliare, bilirubină și enzime pentru emulsionarea lipidelor",
+      "sfincterul esofagian inferior sau piloric permite trecerea alimentelor din esofag în stomac",
+      "maltoza se descompune în stomac în două molecule de glucoză"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 18,
+    "question": "Referitor la sistemul digestiv nu se poate afirma că:",
+    "options": [
+      "aminopeptidaza acționează la un pH acid",
+      "ileonul este irigat de artera mezenterică superioară",
+      "limfa duodenală ajunge în ductul toracic",
+      "nervul vag determină contracția musculaturii netede a rectului",
+      "la nivelul intestinului gros se absorb zilnic aproximativ 3000-4000 ml apă"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 19,
+    "question": "Următoarele afirmații despre sistemul digestiv sunt adevărate:",
+    "options": [
+      "ileonul prezintă haustrații",
+      "mucusul secretat de glandele mucoase gastrice este alcalin",
+      "eliberarea sucului pancreatic se face și reflex prin secretină",
+      "pigmenții biliari au rol în emulsionarea lipidelor",
+      "apendicele vermiform este situat caudal față de valva ileocecală"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 20,
+    "question": "Următoarele afirmații despre sistemul digestiv sunt incorecte:",
+    "options": [
+      "colecistochinina stimulează sinteza bilei",
+      "flexura hepatică a colonului se află în regiunea iliacă dreaptă",
+      "bilirubina rezultată din degradarea lanțurilor de globină se poate transforma în urobilinogen",
+      "bila are un pH alcalin",
+      "ligamentul falciform se află pe fața superioară a ficatului"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 21,
+    "question": "Despre structura pancreasului sunt adevărate următoarele afirmații:",
+    "options": [
+      "este o glandă alungită, de aproximativ 13 cm lungime și 2,5 mm grosime",
+      "este inervat prin fibre parasimpatice din nervul vag",
+      "pancreasul prezintă atât secreție endocrină cât și exocrină",
+      "componenta exocrină este o glandă tubulo-acinoasă",
+      "componenta endocrină secretă doi hormoni cu rol în reglarea metabolismului glucidic"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 22,
+    "question": "Despre cea mai lungă porțiune a intestinului subțire sunt adevărate următoarele afirmații:",
+    "options": [
+      "prezintă celule ce produc factor intrinsec",
+      "conține în perete și glande Brunner",
+      "prezintă la capătul distal un mușchi neted cu dispoziție circulară",
+      "prezintă vilozități intestinale ce sunt acoperite de epitelul intestinal",
+      "la nivelul lui au loc doar procese de absorbție intestinală"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 23,
+    "question": "Despre absorbția la nivelul intestinului subțire sunt adevărate următoarele afirmații:",
+    "options": [
+      "acizii grași cu lanț lung de atomi de carbon se absorb fără consum de energie",
+      "acizii grași cu lanț lung de atomi de carbon se absorb în chiliferul central al vilozităților intestinale",
+      "vitaminele sunt absorbite în capilarele sanguine",
+      "glucoza trece din lumenul intestinal în celula intestinală pe un cărăuș comun cu sodiul",
+      "absorbția glucozei necesită consum de energie"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 24,
+    "question": "Despre digestia la nivelul intestinului subțire sunt adevărate următoarele afirmații:",
+    "options": [
+      "lactaza transformă lactoza în glucoză și galactoză",
+      "dipeptidaza acționează asupra tuturor peptidelor și le transformă în aminoacizi",
+      "carboxipeptidaza transformă proteinele în produși finali de metabolism",
+      "pepsina transformă proteinele în peptide",
+      "aminopeptidaza transformă peptidele în produși finali absorbabili"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 25,
+    "question": "Despre enzimele secretate de glande anexe ale tractului digestiv sunt adevărate următoarele afirmații:",
+    "options": [
+      "amilaza salivară și pancreatică pot transforma amidonul în maltoză",
+      "sărurile biliare emulsionează grăsimile",
+      "maltaza transformă maltoza în două molecule de glucoză",
+      "tripsina transformă proteinele și peptidele în dipeptide",
+      "labfermentul are acțiune doar la sugar"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 26,
+    "question": "Despre absorbția intestinală sunt adevărate următoarele afirmații:",
+    "options": [
+      "ionii de sodiu se absorb din intestinul subțire cu consum de ATP",
+      "aminoacizii sunt absorbiți din intestin prin transport activ sau difuziune facilitată",
+      "trigliceridele intră în constituția chilomicronilor, care trec din celula intestinală în chiliferul limfatic central",
+      "lipaza transformă lipidele în acizi grași și glicerol",
+      "fructoza ajunge după absorbția intestinală în capilarele sanguine de la nivelul vilozității intestinale și ajunge la ficat pe calea venei porte"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 27,
+    "question": "Despre enzimele secretate de celulele intestinului subțire sunt adevărate următoarele afirmații:",
+    "options": [
+      "nucleaza transformă acizii nucleici în nucleotide",
+      "chimotripsina transformă proteinele în peptide",
+      "zaharaza transformă zaharoza în glucoză și fructoză",
+      "amilaza salivară digeră chimic atât amidonul cât și glicogenul",
+      "tripsina și carboxipeptidaza pot digera proteine"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 28,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "sodiul și apa se absorb atât în colon cât și în intestinul subțire",
+      "hormonul secretină stimulează secreția pancreatică",
+      "hormonul colecistokinină stimulează contracția vezicii biliare",
+      "pH-ul influențează activitatea enzimatică",
+      "în prima etapă a deglutiției, bolul alimentar este împins din cavitatea orală în faringe cu ajutorul limbii"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 29,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "activitatea secretorie a tractului digestiv este reglată și de sistemul nervos",
+      "în prima etapă a deglutiției, bolul alimentar este împins din cavitatea orală în faringe cu ajutorul limbii",
+      "pH-ul influențează activitatea enzimatică",
+      "gastrina controlează secreția gastrică de pepsinogen, acid clorhidric și mucus",
+      "colecistochinina stimulează sinteza bilei"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 30,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "amilaza salivară este secretată de glandele salivare și acționează la pH neutru",
+      "pepsina este secretată sub formă de pepsinogen și este activată de acidul clorhidric",
+      "tripsina este secretată de pancreas sub formă de tripsinogen și este activată de enterokinază",
+      "lipaza pancreatică acționează asupra trigliceridelor emulsionate de sărurile biliare",
+      "nucleazele acționează asupra acizilor nucleici transformându-i în nucleotide"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 31,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "ficatul este cea mai mare glandă a organismului",
+      "vena portă transportă sânge bogat în nutrienți de la intestin la ficat",
+      "artera hepatică transportă sânge oxigenat la ficat",
+      "ductul hepatic comun transportă bila de la ficat la vezica biliară",
+      "vena hepatică transportă sângele de la ficat la vena cavă inferioară"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 32,
+    "question": "Hidroxiapatita se găsește în structura:",
+    "options": [
+      "canalului radicular",
+      "pulpei dentare",
+      "smalțului dentar",
+      "țesutului osos",
+      "celui mai dur țesut al organismului"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 33,
+    "question": "La nivelul rădăcinii dintelui întâlnim:",
+    "options": [
+      "canalul radicular care conține vase sanguine și fibre nervoase aparținând nervului trigemen",
+      "cement - dispus între dentină și membrana periodontală",
+      "dentină - cu o duritate superioară smalțului dental",
+      "smalț - cea mai dură substanță din organism",
+      "cavitatea pulpară"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 34,
+    "question": "Selectați relațiile corecte dintre dinți și rolul lor:",
+    "options": [
+      "incisivii - taie alimentele",
+      "caninii - mărunțesc alimentele",
+      "premolarii - sfâșie alimentele",
+      "molarrii - mărunțesc alimentele",
+      "premolarii - sunt bicuspizi"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 35,
+    "question": "La nivelul planșeului oral se deschide ductul:",
+    "options": [
+      "glandelor submandibulare",
+      "glandelor parotide",
+      "tuturor glandelor salivare mari",
+      "glandelor sublinguale",
+      "parotidian, submandibular și sublingual"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 36,
+    "question": "Care dintre afirmațiile corecte referitoare la deglutiție sunt corecte?",
+    "options": [
+      "în prima etapă, bolul alimentar este comprimat de palatul dur prin ridicarea limbii",
+      "după împingerea bolului alimentar spre faringe cu ajutorul limbii, devine un proces involuntar",
+      "presupune trecerea bolului alimentar din cavitatea orală, prin faringe și esofag spre stomac",
+      "bolul alimentar nu poate pătrunde în căile respiratorii datorită închiderii epiglotei",
+      "pe parcursul etapei esofagiene, au loc contracții musculare peristaltice declanșate exclusiv de sistemul nervos somatic"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 37,
+    "question": "Selectați afirmațiile corecte referitoare la celulele parietale ale glandelor gastrice:",
+    "options": [
+      "secretă labferment, cu rol în digestia laptelui la sugari",
+      "produc acid clorhidric, implicat în activarea pepsinogenului",
+      "produc o substanță anorganică cu rol în digestia proteică",
+      "secretă acid clorhidric și factor intrinsec, dar nu și precursorul pepsinei",
+      "secretă factorul intrinsec, cu rol în absorbția intestinală a vitaminei B₂"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 38,
+    "question": "Următoarele afirmații privind fibrele musculare netede de la nivelul tubului digestiv sunt corecte:",
+    "options": [
+      "la nivelul tunicii musculare a intestinului subțire există fibre musculare circulare la exterior și longitudinale la interior",
+      "la nivelul stomacului, tunica musculară prezintă trei straturi de fibre musculare dispuse, în ordine, de la interior spre exterior: oblice, circulare, longitudinale",
+      "la nivelul intestinului gros, fibrele musculare netede longitudinale sunt dispuse între submucoasă și stratul muscular",
+      "la nivelul tunicii mucoase se găsește și o cantitate redusă de mușchi neted",
+      "prin contracția fibrelor musculare netede circulare se reduce diametrul tubului digestiv"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 39,
+    "question": "Trecerea bolului alimentar din esofag în stomac presupune relaxarea sfincterului:",
+    "options": [
+      "piloric",
+      "esofagian inferior",
+      "ileocecal",
+      "sfincterul cardiei",
+      "sfincterul esofagian superior"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 40,
+    "question": "La nivel gastric se pot absorbi:",
+    "options": [
+      "apă",
+      "unele monozaharide",
+      "proteine",
+      "ioni",
+      "alcool"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 41,
+    "question": "Funcția de apărare imună a sistemului digestiv este asigurată de:",
+    "options": [
+      "plăcile Peyer ileale",
+      "amigdalele palatine",
+      "secreția glandelor Brunner",
+      "amigdalele linguale",
+      "structuri limfoide nodulare ileale"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 42,
+    "question": "Neutralizarea acidității chimului gastric bogat în HCl este realizată prin intermediul:",
+    "options": [
+      "ionilor HCO₃⁻ ajunși în lumenul gastric din sucul pancreatic",
+      "produsului de secreție a glandelor Brunner",
+      "sistemelor tampon existente în secreția exocrină a pancreasului",
+      "peptidazelor secretate de celulele intestinale",
+      "mucusului secretat de glande de la nivelul duodenului"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 43,
+    "question": "Emulsionarea lipidelor din chim se realizează sub acțiunea:",
+    "options": [
+      "enzimelor lipolitice din sucul pancreatic",
+      "sărurilor biliare produse de ficat",
+      "dizaharidazelor intestinale",
+      "unor componente ale bilei",
+      "vitaminelor liposolubile A, D și K"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 44,
+    "question": "Sub acțiunea enzimelor pancreatice se formează:",
+    "options": [
+      "dipeptide - din digestia proteinelor",
+      "aminoacizi - sub acțiunea tripsinei",
+      "acizi grași - prin intervenția lipazei",
+      "dizaharide - sub acțiunea amilazei salivare",
+      "peptide - sub acțiunea aminopeptidazei"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 45,
+    "question": "În capilarele sanguine ale vilozităților intestinale se absorb:",
+    "options": [
+      "glucoză",
+      "maltoză",
+      "acizi grași cu lanț scurt de atomi de carbon",
+      "aminoacizi",
+      "acizi grași cu lanț lung de atomi de carbon"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 46,
+    "question": "La nivelul membranei luminale a celulelor epiteliale intestinale:",
+    "options": [
+      "glucoza se absoarbe activ, împreună cu ionii de sodiu",
+      "monozaharidele sunt absorbite direct în capilarele sanguine",
+      "absorbția activă a glucozei nu necesită proteină transportor",
+      "glucoza se absoarbe pasiv",
+      "absorbția glucozei este accelerată de suprafața mare de schimb creată de vilozități și microvilozități"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 47,
+    "question": "La nivelul intestinului gros:",
+    "options": [
+      "are loc și absorbția de apă și ioni",
+      "se formează materiile fecale",
+      "este secretat ionul Na⁺",
+      "se poate realiza absorbția vitaminelor",
+      "intrarea alimentelor nedigerate este controlată de valva ileocecală"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 48,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "capul pancreasului este situat în concavitatea duodenului",
+      "ductul biliar se formează prin unirea ductelor hepatice drept și stâng",
+      "vezica biliară este situată la nivelul suprafeței viscerale a ficatului",
+      "ductul Santorini se varsă în duoden proximal față de ampula hepatopancreatică",
+      "la nivelul ampulei hepatopancreatice se varsă atât bila cât și produsul de secreție endocrină a pancreasului"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 49,
+    "question": "Ficatul are următoarele roluri metabolice:",
+    "options": [
+      "intervine în metabolismul glucidic exclusiv prin glicogenogeneză și glicogenoliză",
+      "este sediul dezaminării unor aminoacizi",
+      "stochează vitamine hidrosolubile: A, B₁₂, D, E și K",
+      "sintetizează unele proteine care intervin în coagularea sângelui",
+      "participă la stocarea fierului sub formă de feritină"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 50,
+    "question": "Activitatea secretorie a stomacului este reglată de:",
+    "options": [
+      "fibre nervoase parasimpatice aparținând nervului vag",
+      "un hormon produs de celule enteroendocrine din mucoasa gastrică",
+      "gastrină, care influențează secreția de pepsinogen dar nu și cea de acid clorhidric",
+      "fibre nervoase aparținând sistemului nervos somatic",
+      "fibre nervoase simpatice inhibitoare cu originea în ganglionul celiac"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 51,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "pH-ul nu influențează activitatea enzimatică",
+      "principala modalitate de absorbție la nivel intestinal este fagocitoza și pinocitoza",
+      "nucleaza acționează pe ADN și ARN pe care le transformă în nucleotide",
+      "ionii de bicarbonat neutralizează aciditatea chimului gastric",
+      "hormonul secretat de celulele enteroendocrine din mucoasa gastrică reglează secreția de mucus, acid clorhidric și pepsinogen"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 52,
+    "question": "Despre activitatea stomacului se pot afirma următoarele:",
+    "options": [
+      "asigură descompunerea chimică a unor molecule",
+      "participă la protecția tractului digestiv prin secreția principalelor celule parietale",
+      "stochează alimentele",
+      "mixează și desface bolul alimentar",
+      "formează chimul gastric de consistență solidă"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 53,
+    "question": "Vilozitatea de la nivelul jejunului:",
+    "options": [
+      "conține glande Brunner ce secretă mucus alcalin",
+      "participă la creșterea suprafeței intestinale",
+      "permite absorbția glucozei",
+      "prezintă celule submucoase cu microvilozități",
+      "conține chiliferul central unde se absorb miceliile"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 54,
+    "question": "Celulele principale din glandele gastrice:",
+    "options": [
+      "sunt localizate în submucoasa gastrică",
+      "secretă factor intrinsec necesar absorbției vitaminei B₁₂",
+      "sunt stimulate de gastrină",
+      "se drenează în criptele profunde ale mucoasei",
+      "secretă și o enzimă care digeră glucoza"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 55,
+    "question": "Glanda submandibulară:",
+    "options": [
+      "este drenată prin ducte sublinguale, lateral de frâul lingual",
+      "este localizată aproape de suprafața externă a mandibulei",
+      "este drenată deasupra planșeului oral",
+      "secretă enzime ce inițiază degradarea proteinelor",
+      "prin secreția celulelor seroase participă la formarea maltozei"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 56,
+    "question": "Secrețiile digestive transformă:",
+    "options": [
+      "amidonul în maltoză - amilaza pancreatică",
+      "alimentele în unități mici - doar în prezența acidului clorhidric",
+      "lipidele în grăsimi emulsionate - lipaza",
+      "lactoza în glucoză și fructoză - lactaza",
+      "dipeptidele în aminoacizi - carboxipeptidaza"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 57,
+    "question": "Glucidele sunt digerate prin acțiunea:",
+    "options": [
+      "amilazei pancreatice - a cărei secreție este stimulată și hormonal",
+      "dizaharidazelor ce desfac dizaharidele în monozaharide",
+      "carboxipeptidazei care determină formarea peptidelor",
+      "amilazei salivare ce desface amidonul în maltoză",
+      "lactozei ce desface lactaza în glucoză și galactoză"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 58,
+    "question": "Esofagul:",
+    "options": [
+      "este o structură tubulară cu musculatura dispusă în trei straturi",
+      "în 1/3 inferioară prezintă musculatură netedă",
+      "se întinde între faringe și sfincterul cardial (sfincterul gastric inferior)",
+      "traversează diafragma",
+      "în 1/3 superioară prezintă musculatură striată"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 59,
+    "question": "Apendicele vermiform:",
+    "options": [
+      "este un organ vestigial",
+      "este localizat în hipocondrul drept",
+      "trebuie îndepărtat chirurgical în caz de inflamare",
+      "este fixat de cec, primul segment al intestinului gros",
+      "participă la digestia chimică"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 60,
+    "question": "Despre structura dinților sunt adevărate afirmațiile:",
+    "options": [
+      "dentina - înconjoară smalțul, țesut de consistență mai moale",
+      "pulpa dentară conține vase de sânge, nervi și țesut conjunctiv",
+      "cementul conține vase și nervi",
+      "țesuturile conjunctive sunt localizate la nivelul smalțului",
+      "smalțul conține hidroxiapatită"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 61,
+    "question": "Ileonul:",
+    "options": [
+      "prin acțiunea factorului intrinsec asigură absorbția vitaminei B₁₂",
+      "comunică cu intestinul gros prin valva ileo-cecală",
+      "aparține tractului digestiv, ca și pancreasul",
+      "prezintă o seroasă secretantă de lichid peritoneal",
+      "conține plăci Peyer, aglomerări de țesut limfoid"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 62,
+    "question": "Asupra lipidelor se acționează la nivelul:",
+    "options": [
+      "duodenului - prin acțiunea lipazei pancreatice",
+      "gastric - prin acțiunea mucusului",
+      "intestinului subțire - prin acțiunea sărurilor biliare",
+      "cavității bucale - prin acțiunea lipazei salivare",
+      "intestinului gros - prin acțiunea florei intestinale"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 63,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "cea mai mare glandă din organism este localizată în hipocondrul stâng",
+      "sângele hepatic este drenat de vena hepatică",
+      "lobulii hepatici conțin hepatocite și celule Kupffer (mastocite)",
+      "ficatul primește sânge portal și arterial",
+      "prin fața diafragmatică, ficatul are raport cu vezica biliară"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 64,
+    "question": "Secreția biliară traversează:",
+    "options": [
+      "ductele hepatice drept și stâng care se unesc în ductul hepatic comun",
+      "ductul cistic care asigură legătura cu vezica biliară",
+      "ductul cistic care se formează din unirea ductului hepatic drept și stâng",
+      "ductul biliar și apoi ampula hepatopancreatică, care se deschide prin papilă la nivelul duodenului",
+      "vezica biliară aflată pe fața anterioară a ficatului"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 65,
+    "question": "Despre conformația stomacului se pot afirma următoarele:",
+    "options": [
+      "corpul - partea principală, localizată în continuarea fornixului",
+      "antrul piloric - porțiunea dilatată, distală",
+      "cardia - în apropierea cordului",
+      "curba mică de la care pleacă marele epiplon",
+      "antrul piloric - localizat proximal de sfincterul piloric"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 66,
+    "question": "Despre duoden se pot afirma următoarele:",
+    "options": [
+      "se întinde între sfincterul piloric și valva ileocecală",
+      "conține glande intestinale ce se deschid în criptele Lieberkühn",
+      "prezintă deschiderea ampulei hepatopancreatice, la nivelul căreia se varsă bila și sucul pancreatic",
+      "prezintă aglomerări de țesut limfoid nodular",
+      "prezintă glande Brunner ce secretă enzime intestinale"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 67,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "drogurile și toxinele sunt eliminate hepatic din sânge, prin excreția lor biliară",
+      "ficatul participă la activarea vitaminei D care va fi utilizată în organism",
+      "toate vitaminele din tractul digestiv provin din alimentație",
+      "la nivelul membranei enterocitelor, difuziunea asigură transportul moleculelor lipidice",
+      "celulele epiteliale desprinse din tractul digestiv se desfac sub acțiunea enzimelor digestive"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 68,
+    "question": "Despre structurile digestive abdominale se pot afirma următoarele:",
+    "options": [
+      "ansele jejun-ileale sunt acoperite de micul epiplon",
+      "colonul transvers este cuprins între colonul ascendent - situat la stânga - și colonul descendent - situat la dreapta",
+      "flexura splenică se află între colonul transvers și colonul descendent",
+      "flexura hepatică se află între colonul ascendent și colonul transvers",
+      "colonul sigmoid se află între colonul descendent și rect"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 69,
+    "question": "Pancreasul:",
+    "options": [
+      "fagocitează celulele albe și roșii îmbătrânite",
+      "la nivelul duodenului, prezintă orificiile de deschidere ale ductelor sale, aflate la o distanță de 2,5 cm",
+      "este localizat posterior de curbura mică a stomacului",
+      "prezintă o secreție enzimatică controlată de secretină și colecistokinină",
+      "este organizat sub formă de acini care formează 99 % din structura sa"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 70,
+    "question": "Următoarele afirmații despre dinți și componentele lor sunt adevărate:",
+    "options": [
+      "pulpa dentară, situată între smalț și dentină, conține vase de sânge, nervi și țesut conjunctiv",
+      "pot fi deciduali sau temporari, în număr de 32",
+      "sunt formați din coroană, gât și rădăcină",
+      "dentina formează cea mai mare parte a dintelui",
+      "smalțul este cea mai dură substanță din organism"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 71,
+    "question": "Următoarele afirmații despre glandele salivare sunt adevărate:",
+    "options": [
+      "produc enzime care inițiază procesul de digestie",
+      "sunt organe anexe ale tubului digestiv",
+      "ductul parotidian se deschide lateral de frâul limbii",
+      "glanda sublinguală este denumită și glandă submandibulară",
+      "ductele sublinguale se deschid la nivelul planșeului oral"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 72,
+    "question": "Următoarele afirmații despre enzimele digestive sunt adevărate:",
+    "options": [
+      "amilaza salivară este o enzimă proteolitică ce digeră moleculele de amidon și glicogen",
+      "pepsina se formează din pepsinogen în prezența acidului clorhidric",
+      "labfermentul are rol în digestia laptelui la adulți",
+      "tripsina transformă proteinele în peptide",
+      "nucleaza acționează asupra picăturilor mari de grăsime"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 73,
+    "question": "Celulele parietale din stomac produc:",
+    "options": [
+      "acid clorhidric necesar digestiei lipidelor",
+      "mucus ce asigură protecție împotriva autodigestiei",
+      "pepsină ce descompune proteinele",
+      "acid clorhidric ce activează pepsinogenul în pepsină",
+      "factor intrinsec necesar absorbției intestinale a vitaminei B₁₂"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 74,
+    "question": "Gastrina:",
+    "options": [
+      "controlează secreția de pepsinogen și HCl",
+      "prezintă efecte antagonice stimulării parasimpatice",
+      "este secretată de celulele mucoasei gastrice",
+      "are efecte similare cu nervul vag",
+      "este secretată de celulele enteroendocrine"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 75,
+    "question": "Celulele intestinului subțire produc următoarele enzime digestive:",
+    "options": [
+      "nucleaza care acționează pe acizii nucleici",
+      "secretina care stimulează secreția enzimatică",
+      "zaharaza care scindează zaharoza în dizaharide",
+      "carboxipeptidaza care este o enzimă proteolitică",
+      "aminopeptidaza care acționează asupra peptidelor"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 76,
+    "question": "Următoarele enzime digestive sunt implicate în digestia proteinelor:",
+    "options": [
+      "pepsina secretată sub formă inactivă",
+      "lactaza ce acționează la pH acid",
+      "carboxipeptidaza secretată de acinii pancreatici",
+      "tripsina ce acționează la pH neutru",
+      "maltaza ce scindează dipeptidele în aminoacizi"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 77,
+    "question": "În capilarele sanguine din vilozitățile intestinale sunt absorbite:",
+    "options": [
+      "monozaharidele - glucoză, galactoză și fructoză",
+      "acizii grași cu lanț scurt",
+      "acizii grași cu lanț lung",
+      "aminoacizii proveniți din acțiunea enzimelor pancreatice",
+      "trigliceridele sub formă de chilomicroni"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 78,
+    "question": "La nivelul intestinului gros se absorb:",
+    "options": [
+      "aminoacizii rezultați din acțiunea chimotripsinei",
+      "aproximativ 300-400 ml apă/zi",
+      "unele vitamine produse de bacteriile intestinale",
+      "acizii nucleici ce nu sunt descompuși de nucleaze",
+      "ionul de sodiu"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 79,
+    "question": "Din compoziția bilei fac parte:",
+    "options": [
+      "bilirubina derivată din degradarea hemoglobinei globulelor roșii",
+      "apa și ioni",
+      "lecitina ce este un fosfolipid",
+      "urobilinogenul ce este eliminat prin fecale",
+      "colesterolul resorbit odată cu sărurile biliare"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 80,
+    "question": "Ficatul îndeplinește următoarele funcții metabolice:",
+    "options": [
+      "dezaminare, proces implicat în metabolismul lipidelor",
+      "gluconeogeneză, reprezentând formarea de glucoză din anumiți aminoacizi",
+      "glicogenoliză, reprezentând transformarea glucozei în glicogen",
+      "sinteza unor proteine plasmatice",
+      "fagocitoza hematiilor și leucocitelor îmbătrânite"
+    ],
+    "answers": [1, 3]
+  }
+]

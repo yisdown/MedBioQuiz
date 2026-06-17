@@ -1,0 +1,1922 @@
+[
+  {
+    "id": 1,
+    "question": "Hormonii pot acţiona:",
+    "options": [
+      "la nivelul receptorilor membranelor celulare - insulina",
+      "la nivelul tubilor contorţi proximali şi distali - vasopresina",
+      "pentru a asigura expulzia laptelui - prolactina",
+      "pe musculatura netedă a uterului gravid - oxitocina",
+      "în combinaţie cu proteinele, stimulând genele ce codifică mARN specific - hormonii steroidieni"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 2,
+    "question": "Selectaţi asocierile corecte referitoare la localizarea glandelor endocrine:",
+    "options": [
+      "hipofiza - depresiune a osului etmoid denumită sella turcica",
+      "gonadele - cavitatea pelviană",
+      "capul pancreasului - concavitatea duodenală, posterior de stomac",
+      "tiroida - anterior de trahee",
+      "timusul - presternal, în mediastin"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 3,
+    "question": "Adenozin monofosfatul ciclic se caracterizează prin următoarele:",
+    "options": [
+      "se formează sub acţiunea unor mesageri secundari cum ar fi adenilat ciclaza",
+      "activează anumite enzime",
+      "poate fi activat de aldosteron",
+      "stimulează sinteza proteică",
+      "poate să intervină în activitatea metabolică celulară"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 4,
+    "question": "Secreţia hormonală a nucleilor hipotalamici:",
+    "options": [
+      "este reprezentată de hormoni ce controlează alte glande endocrine",
+      "este controlată în totalitate prin feed-back pozitiv",
+      "este eliberată sanguin de lobul posterior al hipofizei",
+      "acţionează pe musculatura netedă prin ambii hormoni",
+      "este reprezentată de hormoni peptidici ce traversează sistemul port hipotalamo-hipofizar"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 5,
+    "question": "Oxitocina:",
+    "options": [
+      "stimulează producţia laptelui",
+      "are structură aminică",
+      "acţionează pe celule musculare multinucleate din uter şi glandele mamare",
+      "este produsă de nuclei hipotalamici",
+      "este un hormon glandulotrop care acţionează pe glanda mamară"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 6,
+    "question": "Hormonul antidiuretic:",
+    "options": [
+      "creşte presiunea sanguină",
+      "este stocat temporar în adenohipofiză",
+      "în cazul deficitului său, apare poliurie (producere excesivă de urină)",
+      "este sintetizat de nucleii supraoptic şi paraventricular",
+      "are structură peptidică"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 7,
+    "question": "Hormonul de creştere uman (HGH):",
+    "options": [
+      "stimulează sinteza proteică",
+      "produce lipoliză",
+      "are structură peptidică",
+      "poate duce la îngroşarea oaselor, atunci când este în exces la adulţi",
+      "stimulează ieşirea aminoacizilor din celule"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 8,
+    "question": "Hormonul adrenocorticotrop (ACTH):",
+    "options": [
+      "este un hormon sterolic",
+      "stimulează activitatea unor enzime membranare",
+      "creşte rata metabolismului",
+      "stimulează pigmentarea pielii",
+      "stimulează producţia unor hormoni derivaţi din colesterol"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 9,
+    "question": "Somatotropul (STH):",
+    "options": [
+      "stimulează lipogeneza",
+      "se combină cu proteine stimulând activitatea unor gene, după ce trece prin membrana celulelor ţintă",
+      "stimulează catabolismul proteic",
+      "este alcătuit din 191 aminoacizi",
+      "are o sinteză modulată de hipotalamus prin neurohormoni eliberaţi în vasele sistemului port hipotalamo-hipofizar"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 10,
+    "question": "Prolactina:",
+    "options": [
+      "este un hormon glicoproteic",
+      "acţionează prin mesageri secundari",
+      "stimulează ejecţia laptelui de către glanda mamară",
+      "are sinteza controlată de hipotalamus",
+      "are o structură inelară complexă"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 11,
+    "question": "FSH-ul:",
+    "options": [
+      "produce ovulaţia",
+      "stimulează spermatogeneza",
+      "stimulează producţia de testosteron",
+      "are structură glicoproteică",
+      "provine din colesterol"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 12,
+    "question": "LH-ul:",
+    "options": [
+      "stimulează dezvoltarea foliculilor ovarieni",
+      "stimulează producţia de hormoni polipeptidici la nivelul corpului galben",
+      "acţionează asupra celulelor interstiţiale testiculare",
+      "are producţia stimulată de hormoni hipotalamici transportaţi prin tractul nervos hipotalamo-hipofizar",
+      "are structură sterolică"
+    ],
+    "answers": [2]
+  },
+  {
+    "id": 13,
+    "question": "Boala Graves se caracterizează prin:",
+    "options": [
+      "guşă hipofuncţională",
+      "bradicardie",
+      "exoftalmie",
+      "creşterea ratei metabolice",
+      "creştere în greutate"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 14,
+    "question": "Mixedemul se caracterizează prin:",
+    "options": [
+      "tahicardie",
+      "stare de slăbiciune generalizată",
+      "scăderea densităţii osoase",
+      "secreţie scăzută de T₄",
+      "scăderea metabolismului bazal"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 15,
+    "question": "Acţiunile PTH-ului sunt:",
+    "options": [
+      "activarea osteoblastelor",
+      "activarea intestinală a vitaminei D",
+      "reabsorţia tubulară renală a calciului",
+      "creşterea densităţii osoase",
+      "absorbţia intestinală a unui ion ce intră în compoziţia hidroxiapatitei"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 16,
+    "question": "Care dintre următoarele afirmaţii cu privire la pancreas sunt adevărate?",
+    "options": [
+      "corpul şi coada vin în raport superior cu artera splenică",
+      "este situat posterior de vena splenică",
+      "capul vine în raport cu porţiunea terminală a ductului biliar",
+      "este situat anterior de artera mezenterică superioară",
+      "are localizare retroperitoneală"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 17,
+    "question": "Insulina:",
+    "options": [
+      "este formată din 51 de aminoacizi asamblaţi într-un lanţ proteic",
+      "acţionează pe receptorul celular specific",
+      "inhibă glicogenogeneza",
+      "stimulează glicogenoliza",
+      "stimulează producţia de corpi cetonici"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 18,
+    "question": "Glucagonul:",
+    "options": [
+      "este un hormon sterolic",
+      "stimulează gluconeogeneza",
+      "inhibă glicogenoliza",
+      "este eliberat în condiţii de inaniţie",
+      "are nivelul plasmatic crescut postprandial"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 19,
+    "question": "Diabetul zaharat se caracterizează prin:",
+    "options": [
+      "poliurie",
+      "glucoză în urina finală",
+      "posibilitatea apariţiei cetoacidozei",
+      "lipogeneză",
+      "formarea în exces de molecule de acid beta-hidroxi-butiric"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 20,
+    "question": "Asemănările dintre diabetul insipid şi cel zaharat sunt:",
+    "options": [
+      "intensificarea diurezei osmotice",
+      "senzaţia excesivă de sete",
+      "prezenţa dezechilibrelor acido-bazice",
+      "sunt consecinţa hiposecreţiei unor hormoni",
+      "prezenţa hiperglicemiei"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 21,
+    "question": "Boala Addison se caracterizează prin următoarele:",
+    "options": [
+      "hiposecreţie de glucocorticoizi şi mineralocorticoizi, hormoni cu structură aminică",
+      "hiperpigmentarea pielii",
+      "hiperhidratare",
+      "hipertensiune arterială",
+      "dezechilibre ionice ale sodiului şi potasiului"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 22,
+    "question": "Sindromul Cushing se caracterizează prin:",
+    "options": [
+      "hipotensiune arterială",
+      "deshidratare",
+      "tulburări în metabolismul carbohidraţilor, proteinelor şi lipidelor",
+      "slăbiciune musculară generalizată",
+      "senzaţia excesivă de sete"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 23,
+    "question": "Estrogenii:",
+    "options": [
+      "stimulează dezvoltarea caracterelor sexuale feminine",
+      "îngroaşă mucoasa uterului",
+      "influenţează activitatea osteoclastică",
+      "stimulează sinteza de proteine",
+      "sunt secretaţi ca urmare a acţiunii stimulatoare a TSH"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 24,
+    "question": "Care dintre afirmaţiile privind timusul sunt corecte?",
+    "options": [
+      "este un organ localizat în mediastinul inferior",
+      "secretă timozine",
+      "dimensiunile sale scad cu vârsta",
+      "este un organ localizat în faţa sternului",
+      "secretă o serie de hormoni implicaţi în maturarea şi dezvoltarea limfocitelor T"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 25,
+    "question": "Testosteronul are următoarele caracteristici:",
+    "options": [
+      "este un hormon sintetizat din colesterol",
+      "este produs de celulele interstiţiale ale testiculelor",
+      "contribuie, la pubertate, la coborârea testiculelor în scrot",
+      "induce, până la pubertate, maturarea spermatozoizilor",
+      "controlează, la făt, diferenţierea ţesuturilor specifice secţiunii masculine"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 26,
+    "question": "Care dintre afirmaţiile privind hormonul luteinizant sunt adevărate?",
+    "options": [
+      "este un hormon trop adenohipofizar, a cărui eliberare este reglată de un hormon hipotalamic, numit hormonul de eliberare al gonadotropinelor",
+      "stimulează producţia de estrogeni",
+      "stimulează maturarea foliculilor ovarieni",
+      "stimulează formarea corpului galben",
+      "stimulează creşterea tubilor seminiferi testiculari"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 27,
+    "question": "Care dintre afirmaţiile referitoare la hormonul adrenocorticotrop sunt adevărate?",
+    "options": [
+      "stimulează secreţia de glucocorticoizi",
+      "stimulează depunerea glicogenului în ficat",
+      "acţionează numai asupra zonei corticale a glandei suprarenale",
+      "scade rata metabolismului",
+      "stimulează ejecţia laptelui de către glanda mamară"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 28,
+    "question": "Hormonul tireotrop:",
+    "options": [
+      "este transportat prin sistemul port hipotalamo-hipofizar la adenohipofiză",
+      "stimulează captarea iodului de către glanda tiroidă",
+      "inhibă secreţia glandei tiroide, atunci când este secretat în exces",
+      "reglează dezvoltarea glandei tiroide",
+      "influenţează şi secreţia de calcitonină"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 29,
+    "question": "Vasopresina:",
+    "options": [
+      "este secretată de lobul posterior hipofizar",
+      "provoacă vasoconstricţie",
+      "determină scăderea presiunii sanguine",
+      "creşte reabsorţia apei în tubii colectori renali",
+      "hiposecreţia determină senzaţie excesivă de sete"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 30,
+    "question": "Care din afirmaţiile referitoare la glanda corticosuprarenală sunt adevărate?",
+    "options": [
+      "secretă hormoni cu acţiune complementară cu cea a sistemului nervos simpatic",
+      "secretă hormoni ce contribuie la reglarea echilibrului mineral şi energetic",
+      "produce şi hormoni steroizi care influenţează caracterele sexuale",
+      "produce mineralocorticoizi a căror secreţie este reglată de concentraţia sanguină a electroliţilor",
+      "înconjoară complet medulara"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 31,
+    "question": "Glucocorticoizii:",
+    "options": [
+      "stimulează glicogenogeneza hepatică",
+      "favorizează degradarea proteinelor în celule",
+      "au rol antiinflamator",
+      "secretaţi în exces produc boala Addison",
+      "prin feed-back negativ influenţează activitatea adenohipofizei"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 32,
+    "question": "Parathormonul:",
+    "options": [
+      "este secretat de cele patru glande paratiroide",
+      "este secretat în funcţie de nivelul calciului",
+      "influenţează absorbţia calciului la nivelul mucoasei intestinale",
+      "secretat în exces produce deformări şi scăderea densităţii oaselor",
+      "determină hipocalcemie"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 33,
+    "question": "Efectele hormonilor produşi de glanda tiroidă sunt:",
+    "options": [
+      "scăderea cantităţii de căldură produsă",
+      "scăderea ratei metabolismului bazal",
+      "stimularea maturării sistemului nervos la tineri",
+      "creşterea cantităţii de oxigen consumată de celule",
+      "stimularea creşterii osoase"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 34,
+    "question": "Care dintre următoarele glande prezintă atât secreţie exocrină cât şi endocrină?",
+    "options": [
+      "pancreasul",
+      "ovarele",
+      "timusul",
+      "hipofiza",
+      "paratiroidele"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 35,
+    "question": "Care dintre următoarele glande prezintă doar secreţie endocrină?",
+    "options": [
+      "epifiza",
+      "ovarele",
+      "timusul",
+      "testiculul",
+      "paratiroidele"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 36,
+    "question": "Care dintre următoarele trăsături nu caracterizează glanda hipofiză?",
+    "options": [
+      "prezintă în componenţa sa doi lobi",
+      "prezintă în componenţa sa trei lobi",
+      "este localizată într-o depresiune a osului etmoid",
+      "este localizată în partea inferioară a encefalului",
+      "este localizată imediat înaintea chiasmei optice"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 37,
+    "question": "Insulina are următoarele efecte:",
+    "options": [
+      "stimulează pătrunderea glucozei din sânge în celule",
+      "stimulează glicogenogeneza",
+      "este secretată de celulele beta ale insulelor Langerhans",
+      "stimulează lipazele din sucul pancreatic",
+      "stimulează gluconeogeneza hepatică"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 38,
+    "question": "Selectaţi afirmaţiile corecte:",
+    "options": [
+      "hormonii peptidici sunt alcătuiţi din lanţuri scurte de aminoacizi",
+      "hormonii steroidieni provin din colesterol",
+      "epinefrina este un hormon cu structură peptidică",
+      "tiroxina provine din aminoacizi",
+      "hormonul luteinizant este un glicolipid"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 39,
+    "question": "Următoarele afirmaţii referitoare la glanda pineală sunt corecte:",
+    "options": [
+      "este situată pe peretele ventriculului III",
+      "produce hormoni care nu influenţează activitatea gonadelor",
+      "prin secreţia de melatonină intervine în reglarea ritmului nictemeral",
+      "este situată în şaua turcească a osului sfenoid",
+      "este conectată cu unele componente ale diencefalului"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 40,
+    "question": "Selectaţi asocierile corecte dintre hormonii non-steroidieni tropi şi activitatea lor asupra altor glande endocrine:",
+    "options": [
+      "adrenocorticotropul - stimulează secreţia de glucocorticoizi",
+      "hormonul luteinizant - stimulează funcţia endocrină a testiculului",
+      "oxitocina - stimulează contracţia muşchiului uterin",
+      "insulina - determină scăderea glicemiei",
+      "prolactina - stimulează secreţia lactată la nivelul glandei mamare"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 41,
+    "question": "Următoarele repere anatomice privind glandele endocrine sunt corecte:",
+    "options": [
+      "glandele suprarenale sunt localizate la polul inferior al rinichiului",
+      "tiroida este situată anterior faţă de laringe",
+      "epifiza este situată în peretele superior al ventriculului IV",
+      "paratiroidele sunt localizate pe faţa anterioară a tiroidei",
+      "pancreasul este situat inferior faţă de trunchiul celiac"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 42,
+    "question": "Un hormon paracrin acţionează asupra:",
+    "options": [
+      "celulei care l-a secretat",
+      "la distanţă, asupra unor celule ţintă din alte glande endocrine",
+      "asupra unor celule ţintă situate în vecinătatea celulei care l-a produs",
+      "asupra adenohipofizei, după ce a străbătut sistemul port hipofizar",
+      "asupra glandelor mamare, determinând eliberarea laptelui"
+    ],
+    "answers": [2]
+  },
+  {
+    "id": 43,
+    "question": "Hipotalamusul este conectat cu hipofiza prin:",
+    "options": [
+      "infundibul",
+      "sistemul port hipotalamo-hipofizar",
+      "fibre nervoase ale unor neuroni hipotalamici",
+      "axoni ai neuronilor din nucleul supraoptic",
+      "vase sanguine care pornesc din nucleul paraventricular"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 44,
+    "question": "Selectaţi hormonii tropi:",
+    "options": [
+      "STH",
+      "ACTH",
+      "prolactina",
+      "calcitonina",
+      "FSH"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 45,
+    "question": "Care dintre următorii hormoni acţionează asupra glandelor mamare?",
+    "options": [
+      "prolactina - stimulează producerea laptelui în perioada sarcinii",
+      "oxitocina - stimulează ejecţia laptelui",
+      "estrogenii - determină eliberarea laptelui",
+      "GnRH - prin stimularea secreţiei de FSH şi LH",
+      "un hormon proteic - responsabil de secreţia de lapte după naştere"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 46,
+    "question": "AMP-ul ciclic:",
+    "options": [
+      "provine din transformarea ADP-ului",
+      "este un mesager primar utilizat de hormonii proteici",
+      "este sintetizat în celulele ţintă sub acţiunea unei enzime de la nivelul membranei celulare",
+      "este produs din ATP prin acţiunea adenilat kinazei",
+      "este un mesager secundar produs din adenozin trifosfat prin intervenţia adenilat ciclazei"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 47,
+    "question": "Tiroxina:",
+    "options": [
+      "creşte rata metabolismului bazal",
+      "creşte consumul de oxigen de către celule",
+      "stimulează sinteza proteică",
+      "favorizează creşterea",
+      "scade secreţia de TSH prin feed-back pozitiv"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 48,
+    "question": "Selectaţi afirmaţiile corecte privind insulele Langerhans:",
+    "options": [
+      "conţin celule alfa şi beta care sintetizează enzime digestive",
+      "sunt mai numeroase decât structurile exocrine ale pancreasului",
+      "secretă insulină la nivelul celulelor beta",
+      "produc, la nivelul celulelor alfa, glucagon",
+      "secretă exclusiv hormoni hipoglicemianţi"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 49,
+    "question": "Insulina are următoarele efecte:",
+    "options": [
+      "sinteza hepatică de glicogen",
+      "hipoglicemie",
+      "ieşirea glucozei din celule",
+      "glicogenoliza hepatică",
+      "gluconeogeneza din aminoacizi şi molecule lipidice"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 50,
+    "question": "Glanda corticosuprarenală secretă:",
+    "options": [
+      "aldosteron",
+      "cortizol",
+      "mineralocorticoizi",
+      "hormon adrenocorticotrop",
+      "catecolamine"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 51,
+    "question": "Aldosteronul:",
+    "options": [
+      "este un hormon corticosuprarenalian",
+      "intervine în homeostazia electroliţilor corpului",
+      "este un hormon steroidian",
+      "are efect vasoconstrictor şi antiinflamator",
+      "reglează concentraţia sanguină a ionilor de Na⁺ şi K⁺"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 52,
+    "question": "Selectaţi afirmaţiile corecte despre hormonii steroizi:",
+    "options": [
+      "cortizonul are o structură inelară, complexă, alcătuită din carbon şi hidrogen",
+      "acţionează prin intermediul mesagerilor secundari",
+      "acţionează după fixarea pe receptorii membranari din membrana celulei ţintă",
+      "determină modificări ale metabolismului celulelor ţintă",
+      "acţionează prin intermediul unor receptori intracitoplasmatici din citoplasma celulei ţintă"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 53,
+    "question": "Selectaţi afirmaţiile corecte referitoare la hormonii non-steroidieni:",
+    "options": [
+      "pot acţiona prin intermediul adenilat ciclazei situate la nivelul membranei celulelor ţintă",
+      "aldosteronul reglează concentraţia de sodiu şi potasiu din sânge şi fluidele corporale",
+      "glucocorticoizii au rol antiinflamator",
+      "tiroxina este un hormon aminic derivat din aminoacizi",
+      "hormonii gonadotropi sunt glicoproteine care acţionează ca mesageri primari pe celulele ţintă"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 54,
+    "question": "Alegeţi afirmaţiile corecte cu privire la efectele hormonilor asupra metabolismului proteic:",
+    "options": [
+      "glucagonul promovează formarea glucozei din aminoacizi",
+      "hormonul somatotrop stimulează transportul activ al aminoacizilor în celule",
+      "tiroxina influenţează sinteza de proteine",
+      "estrogenii stimulează creşterea depozitelor de proteine din ţesuturi",
+      "adrenalina produce glicogenoliză"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 55,
+    "question": "Alegeţi afirmaţiile corecte cu privire la efectele metabolice ale hormonilor:",
+    "options": [
+      "hormonul adrenocorticotrop stimulează eliberarea acizilor graşi din depozite",
+      "hormonul somatotrop în exces produce şi creşterea exagerată a ţesuturilor moi",
+      "glucagonul produce glicogenoliză şi gluconeogeneză",
+      "hormonul melanocitostimulator controlează pigmentarea pielii",
+      "hormonul adrenocorticotrop stimulează secreţia de glucocorticoizi"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 56,
+    "question": "Alegeţi afirmaţiile corecte cu privire la efectele hormonilor pe aparatul cardiovascular:",
+    "options": [
+      "hormonul antidiuretic şi glucocorticoizii produc vasoconstricţie",
+      "hormonii tiroidieni cresc numărul de receptori din vasele sanguine",
+      "prolactina stimulează producerea laptelui",
+      "prostaglandinele produc contracţia ţesutului muscular neted",
+      "hormonul luteinizant stimulează formarea corpului galben"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 57,
+    "question": "Despre hormonii secretaţi de glandele endocrine situate la nivelul abdomenului se pot afirma următoarele:",
+    "options": [
+      "secretina influenţează diferite procese digestive",
+      "timusul produce timozine cu rol în maturarea limfocitelor T",
+      "melatonina influenţează ritmul nictemeral",
+      "aldosteronul acţionează pe tubul contort distal",
+      "calcitonina scade calcemia"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 58,
+    "question": "Selectaţi efectele hormonilor pe metabolismul lipidic:",
+    "options": [
+      "hormonii tiroidieni cresc rata metabolismului bazal",
+      "tiroxina stimulează eliberarea acizilor graşi din depozite",
+      "hormonul adrenocorticotrop creşte rata metabolismului energetic",
+      "insulina inhibă lipazele",
+      "adrenalina produce eliberarea acizilor graşi din ţesutul adipos"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 59,
+    "question": "Alegeţi afirmaţiile corecte cu privire la efectele hormonilor pe oase:",
+    "options": [
+      "parathormonul stimulează activarea osteoblastelor",
+      "calcitonina depune calciul în oase",
+      "aldosteronul reglează echilibrul sării şi al electroliţilor",
+      "un hormon tiroidian stimulează creşterea osoasă",
+      "proteina cu 191 de aminoacizi produsă de hipofiza anterioară inhibă dezvoltarea scheletului"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 60,
+    "question": "Selectaţi efectele hormonilor pe metabolismul glucidic:",
+    "options": [
+      "glucagonul stimulează gluconeogeneza",
+      "insulina favorizează pătrunderea glucozei în celule numai la nivel hepatic",
+      "STH produce mobilizarea grăsimilor",
+      "hormonii tiroidieni stimulează activitatea enzimelor asociate cu metabolismul glucozei",
+      "glucocorticoizii au efecte şi pe metabolismul glucidic"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 61,
+    "question": "Selectaţi afirmaţiile corecte:",
+    "options": [
+      "anabolismul se desfăşoară cu consum de energie",
+      "catabolismul include glicoliza, ciclul Krebs şi glicogenogeneza",
+      "atât anabolismul cât şi catabolismul presupun reacţii mediate de enzime",
+      "adenozin trifosfatul conţine adenină, riboză şi trei grupări fosfat",
+      "metabolismul include reacţii de oxidare care presupun cedarea de electroni sau eliminarea unui atom de hidrogen"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 62,
+    "question": "În caz de hiperglicemie au loc următoarele procese:",
+    "options": [
+      "glicogenogeneza",
+      "glicogenoliza",
+      "gluconeogeneza",
+      "secreţia de insulină",
+      "secreţia de glucagon"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 63,
+    "question": "Chilomicronii:",
+    "options": [
+      "se formează la nivelul celulelor mucoasei intestinale",
+      "ajung din celulele intestinale în capilarele limfatice",
+      "sunt metabolizaţi şi în ficat",
+      "sunt transportaţi direct în sânge prin vasele porte",
+      "sunt compuşi din proteine şi lipide"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 64,
+    "question": "Creşterea glicemiei se realizează prin:",
+    "options": [
+      "glicogenoliză",
+      "gluconeogeneză",
+      "glicoliză",
+      "glicogenogeneză",
+      "secreţie de insulină"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 65,
+    "question": "Care dintre următoarele lipoproteine conţin cea mai mare cantitate de colesterol?",
+    "options": [
+      "LDL şi VLDL",
+      "HDL",
+      "VLDL",
+      "HDL şi VLDL",
+      "LDL"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 66,
+    "question": "Selectaţi afirmaţiile corecte:",
+    "options": [
+      "prin glicoliză, din glucoză se formează acid piruvic",
+      "prin beta-oxidare, acizii graşi sunt convertiţi în acetil-CoA la nivel mitocondrial",
+      "acizii graşi esenţiali trebuie să fie obţinuţi prin dietă",
+      "prin gluconeogeneză, unii aminoacizi, glicerolul sau acidul lactic pot fi convertiţi în glucoză",
+      "corpii cetonici sunt sintetizaţi pe parcursul anabolismului lipidelor"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 67,
+    "question": "Selectaţi afirmaţiile corecte referitoare la metabolismul proteinelor:",
+    "options": [
+      "prin dezaminare oxidativă se formează amoniac",
+      "prin transaminare pot fi sintetizaţi hepatic aminoacizi ne-esenţiali",
+      "catabolismul proteic este favorizat de glucocorticoizi",
+      "anabolismul proteic este stimulat de testosteron",
+      "estrogenii favorizează degradarea proteinelor şi creşterea depozitelor proteice în ţesuturi"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 68,
+    "question": "Referitor la metabolismul mineralelor se poate afirma că:",
+    "options": [
+      "manganul este un activator enzimatic şi participă la ciclul ureei",
+      "potasiul este principalul cation extracelular, participând la transmiterea impulsurilor nervoase",
+      "sulful intră în structura acizilor graşi şi a melaninei din stratul pigmentar al retinei",
+      "fosforul şi calciul intervin în formarea dinţilor şi a oaselor",
+      "cobaltul participă la hematopoeză"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 69,
+    "question": "În drumul său spre ficat, un chilomicron absorbit la nivelul jejunului străbate următoarele vase, cu excepţia:",
+    "options": [
+      "venei porte",
+      "ductului toracic",
+      "venei cave superioare",
+      "ductului limfatic drept",
+      "trunchiului celiac"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 70,
+    "question": "Selectaţi afirmaţiile corecte referitoare la termoreglare:",
+    "options": [
+      "pierderea de căldură se realizează prin radiaţie, evaporare, conducţie şi convecţie",
+      "este controlată de hipotalamus",
+      "receptorii termici periferici detectează modificări ale temperaturii sângelui",
+      "la pierderea de căldură participă vasodilataţia şi transpiraţia",
+      "prin radiaţie, căldura se pierde sub formă de radiaţii ultraviolete"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 71,
+    "question": "Selectaţi afirmaţiile adevărate:",
+    "options": [
+      "în catabolism, reacţiile chimice diverge de la căile metabolice principale",
+      "enzimele pot cataliza atât procese anabolice, cât şi procese catabolice",
+      "glucoza trece din enterocit în sânge fără consum de energie",
+      "glucoza este transportată prin sânge către celule pentru a fi oxidată",
+      "glicogenul este depozitat în ficat şi muşchi"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 72,
+    "question": "Despre metabolismul glucidic sunt adevărate următoarele afirmaţii:",
+    "options": [
+      "numărul de receptori membranari pentru insulină scade în diabetul zaharat de tip 2",
+      "gluconeogeneza se realizează pornind doar de la aminoacizi care sunt transformaţi în glucoză",
+      "glicemia scade consecutiv stimulării procesului de gluconeogeneză",
+      "pentru a putea fi transportaţi la celule, o mare parte din acizii graşi sunt legaţi de albumină în plasmă",
+      "glicogenul este forma de depozit a glucozei în ficat"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 73,
+    "question": "Despre metabolismul lipidic sunt adevărate următoarele afirmaţii:",
+    "options": [
+      "chilomicronii conţin acizi graşi, colesterol, fosfolipide şi proteine",
+      "glicerolul se poate transforma în glucoză prin procesul de gluconeogeneză",
+      "lipazele se găsesc atât în ficat cât şi în ţesutul adipos",
+      "beta-oxidarea are loc la nivelul mitocondriilor",
+      "în condiţii normale, corpii cetonici sunt convertiţi rapid în acetil-CoA"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 74,
+    "question": "Despre metabolismul proteic sunt adevărate următoarele afirmaţii:",
+    "options": [
+      "ficatul are rol în sinteza de proteine",
+      "aminoacizii pot fi metabolizaţi în ficat prin 2 procese: transaminare şi dezaminare",
+      "glucocorticoizii sunt hormoni catabolici",
+      "adrenalina stimulează eliberarea acizilor graşi din ţesutul adipos",
+      "rata metabolismului bazal este consumul de energie pe unitatea de timp şi pe kilogram corp în condiţii bazale"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 75,
+    "question": "Despre metabolismul lipidic sunt adevărate următoarele afirmaţii:",
+    "options": [
+      "acizii graşi sunt metabolizaţi în mitocondrii",
+      "din procesul de beta-oxidare rezultă acetil-CoA",
+      "moleculele de acetil-CoA rezultate din catabolismul lipidic se pot combina între ele formând acidul acetoacetic",
+      "pH-ul sângelui este crescut în coma diabetică",
+      "glucoza se transformă în glicogen prin 2 etape succesive"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 76,
+    "question": "Despre metabolismul energetic sunt adevărate următoarele afirmaţii:",
+    "options": [
+      "consumul energetic al organismului este direct proporţional cu căldura produsă de organism",
+      "prin măsurarea ratei consumului de oxigen de către organism se apreciază producţia de căldură a organismului",
+      "bărbaţii au o rată a metabolismului bazal mai mică decât femeile",
+      "rata metabolică este mai mică după un prânz bogat în proteine",
+      "pentru măsurarea indirectă a producţiei de căldură a organismului se foloseşte calorimetrul"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 77,
+    "question": "Despre reglarea temperaturii corporale sunt adevărate următoarele afirmaţii:",
+    "options": [
+      "radiaţia este un proces prin care energia este transferată de la un atom la altul",
+      "convecţia este un mecanism de încălzire al corpului",
+      "perspiraţia foloseşte evaporarea ca mecanism de pierdere de căldură din organism",
+      "hipotalamusul primeşte aferenţe atât de la receptorii termici centrali cât şi de la cei periferici",
+      "muşchii, prin contracţie, conservă căldura în organism"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 78,
+    "question": "Următoarele afirmaţii despre lipoproteine sunt adevărate:",
+    "options": [
+      "VLDL conţin predominant trigliceride în structura lor",
+      "LDL conţin predominant proteine în structura lor",
+      "o concentraţie mare de HDL este asociată cu nivele sanguine scăzute de colesterol şi trigliceride",
+      "LDL transportă colesterolul de la ficat la celule",
+      "HDL au un conţinut mai mare de colesterol decât VLDL"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 79,
+    "question": "Selectaţi afirmaţiile corecte:",
+    "options": [
+      "prin dezaminarea aminoacizilor se obţine un produs care, ulterior, fiind utilizat în respiraţia celulară, poate furniza energie",
+      "la vegetarieni pot lipsi din organism unii aminoacizi esenţiali",
+      "dezaminarea este o enzimă esenţială pentru formarea amoniacului",
+      "aminoacizii esenţiali pot fi sintetizaţi în ficat prin procesul de transaminare",
+      "ureea formată în ficat poate fi eliminată atât prin urină cât şi prin transpiraţie"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 80,
+    "question": "Selectaţi afirmaţiile corecte privind catabolismul:",
+    "options": [
+      "necesită energie",
+      "este mediat de enzime",
+      "sintetizează molecule mari",
+      "reacţiile diverge de la căile metabolice principale",
+      "rezultă molecule mici"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 81,
+    "question": "Care dintre afirmaţiile privind anabolismul sunt corecte?",
+    "options": [
+      "sintetizează molecule complexe",
+      "reacţiile converg spre căile metabolice",
+      "rezultă molecule mari",
+      "cuprinde reacţiile prin care se sintetizează trigliceridele",
+      "eliberează energie"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 82,
+    "question": "Selectaţi afirmaţiile corecte privind metabolismul glucidelor:",
+    "options": [
+      "respiraţia celulară se desfăşoară în citoplasmă şi mitocondrii",
+      "se desfăşoară în patru etape succesive: glicoliza, lanţul transportor de electroni, ciclul Krebs şi chemiosmoza",
+      "în procesul respiraţiei celulare se eliberează dioxid de carbon şi apă",
+      "în procesul glicolizei se produce acid piruvic",
+      "chemiosmoza furnizează energie pentru sinteza ATP-ului"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 83,
+    "question": "Glicogenogeneza:",
+    "options": [
+      "reprezintă procesul de formare a glicogenului din aminoacizi",
+      "reprezintă procesul de stocare a glucozei la nivelul ficatului sub acţiunea glucagonului",
+      "reprezintă sinteza de glicogen când nivelul glicemiei este scăzut",
+      "este un proces stimulat de insulină",
+      "este un proces care se realizează în ficat"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 84,
+    "question": "Care dintre afirmaţiile privind glicemia sunt corecte?",
+    "options": [
+      "când valoarea ei creşte, se stimulează glicogenogeneza",
+      "creşte postprandial şi în inaniţie",
+      "creşte prin stimularea gluconeogenezei şi glicogenolizei",
+      "creşte în urma absorbţiei intestinale a glucozei",
+      "scade sub influenţa hormonilor secretaţi în insulele Langerhans"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 85,
+    "question": "Gluconeogeneza reprezintă:",
+    "options": [
+      "sinteza moleculei de glucoză din glicogen, în cazul scăderii aportului de glucoză",
+      "un proces de sinteză a glucozei şi din acid lactic",
+      "un proces stimulat în ficat de către insulină",
+      "o sursă de glucoză în condiţii de post alimentar",
+      "un proces complex stimulat de glucagon"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 86,
+    "question": "Mecanismele de reglare ale metabolismului lipidic presupun:",
+    "options": [
+      "inhibarea lipazelor de către insulină",
+      "stimularea eliberării acizilor graşi din ţesutul adipos de către insulină",
+      "stimularea depunerii lipidelor în depozite de către adrenalină şi noradrenalină",
+      "prevenirea degradării lipidelor de către tiroxină",
+      "stimularea eliberării acizilor graşi din ţesutul adipos de către hormonul de creştere şi glucagon"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 87,
+    "question": "Selectaţi afirmaţiile corecte privind metabolismul lipidelor:",
+    "options": [
+      "glicerolul rezultat din descompunerea lipidelor este convertit în dihidroxi-aceton-fosfat (DHAP)",
+      "beta-oxidarea acizilor graşi are loc în mitocondria celulei",
+      "lipogeneza reprezintă procesul de formare de trigliceride din glucide şi aminoacizi",
+      "excesul de corpi cetonici scade pH-ul corpului",
+      "o dietă săracă în lipide şi bogată în glucide poate să producă cetoacidoză"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 88,
+    "question": "Mecanismele de reglare ale metabolismului proteic constau în:",
+    "options": [
+      "stimularea transportului activ al aminoacizilor în celule: hormonul de creştere",
+      "stimularea degradării proteinelor în celule: glucocorticoizii",
+      "stimularea sintezei proteice: testosteronul",
+      "scăderea depozitelor de proteine din ţesuturi: estrogenii",
+      "creşterea ratei metabolismului celular şi influenţarea sintezei proteice: tiroxina"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 89,
+    "question": "Selectaţi afirmaţiile corecte:",
+    "options": [
+      "conducţia reprezintă procesul prin care energia este transferată de la un atom la altul în urma contactului direct dintre două obiecte",
+      "calorimetria este o metodă prin care se poate determina indirect producţia de căldură a corpului",
+      "hormonii tiroidieni cresc rata metabolismului bazal",
+      "convecţia apare când moleculele de aer ating corpul şi primesc căldura prin conducţie",
+      "rata metabolismului bazal este crescută în cazul temperaturii scăzute"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 90,
+    "question": "Lipoliza, cu eliberarea acizilor graşi din ţesutul adipos, este produsă de:",
+    "options": [
+      "adrenalină",
+      "insulină",
+      "STH",
+      "FSH",
+      "glucagon"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 91,
+    "question": "Degradarea intracelulară a proteinelor este determinată de:",
+    "options": [
+      "insulină",
+      "estrogeni",
+      "cortisol",
+      "testosteron",
+      "aldosteron"
+    ],
+    "answers": [2]
+  },
+  {
+    "id": 92,
+    "question": "Printre efectele glucagonului se numără:",
+    "options": [
+      "glicogenogeneză",
+      "lipogeneză",
+      "anabolism proteic",
+      "lipoliză",
+      "posibilitatea de transformare a tuturor aminoacizilor în glucoză"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 93,
+    "question": "La nivelul ficatului se pot produce următoarele procese metabolice:",
+    "options": [
+      "glicogenogeneză sub acţiunea epinefrinei",
+      "formare de uree din amoniac şi CO₂",
+      "gluconeogeneză sub acţiunea insulinei",
+      "dezaminarea aminoacizilor",
+      "catabolism proteic prin HGH"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 94,
+    "question": "Următoarele afirmaţii despre metabolism sunt adevărate:",
+    "options": [
+      "dihidroxi-aceton-fosfatul rezultat din glicerol se poate transforma în glucoză",
+      "în deficitul de insulină se poate forma o cantitate mare de corpi cetonici",
+      "în inaniţie creşte eliberarea de insulină",
+      "glicerolul se poate forma din compuşi formaţi pe parcursul glicolizei",
+      "dintre lipoproteine, HDL-urile conţin o cantitate predominantă de trigliceride"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 95,
+    "question": "Postprandial (în starea de absorbţie) se produc:",
+    "options": [
+      "creşterea insulinemiei",
+      "creşterea glucagonului",
+      "scăderea insulinemiei",
+      "scăderea glucagonului",
+      "creşterea fracţiei insulină/glucagon"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 96,
+    "question": "Sub acţiunea substanţelor pirogene pot să apară:",
+    "options": [
+      "frisonul",
+      "vasodilataţia",
+      "transpiraţia",
+      "vasoconstricţia",
+      "setarea termostatului hipotalamic la temperaturi mai joase"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 97,
+    "question": "Care dintre următoarele afirmaţii referitoare la minerale sunt adevărate?",
+    "options": [
+      "cuprul face parte din structura unor aminoacizi",
+      "manganul participă la ciclul ureei",
+      "fosforul este component al acizilor nucleici",
+      "cobaltul este component al vitaminei B₁₂",
+      "fierul este component al citocromilor"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 98,
+    "question": "Următoarele afirmaţii cu privire la lipoproteine nu sunt corecte:",
+    "options": [
+      "VLDL conţine predominant trigliceride",
+      "LDL conţine cel mai mare procent de proteine",
+      "concentraţia mică de HDL creşte riscul de boală coronariană",
+      "un nivel ridicat de LDL se asociază cu un risc mai scăzut de boală coronariană",
+      "LDL transportă colesterol de la ficat la celule"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 99,
+    "question": "Următoarele afirmaţii despre metabolism sunt false:",
+    "options": [
+      "acidul lactic se poate transforma în glucoză",
+      "prin beta-oxidarea acizilor graşi se formează fragmente de acetil-CoA",
+      "prin decarboxilarea aminoacizilor se formează un compus care se regăseşte în secvenţa metabolică a glicolizei",
+      "melatonina este un aminoacid esenţial",
+      "în ficat, prin transaminare, se formează aminoacizi ne-esenţiali"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 100,
+    "question": "Molecula de Acetil-CoA poate fi implicată în:",
+    "options": [
+      "degradarea glucozei sau a glicerolului, constituind rezultatul acestor procese",
+      "ciclul Krebs, ca substrat de degradare, în acest proces eliberându-se CO₂",
+      "ciclul Krebs, ca sursă de energie, determinând formarea a 4 molecule de ATP",
+      "procese de sinteză de acizi graşi sub acţiunea enzimelor hepatice",
+      "conversia în corpi cetonici - acetonă şi acid beta-hidroxi-butiric - ce determină cetoacidoză în diabet"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 101,
+    "question": "Starea postprandială este caracterizată prin:",
+    "options": [
+      "nivel crescut de glucoză care, sub influenţa insulinei, va pătrunde în celule",
+      "utilizarea intracelulară a glucozei ca sursă energetică",
+      "transformarea excesului de glucoză în glicogen şi lipide",
+      "procese metabolice care se desfăşoară sub acţiunea insulinei şi a glucagonului",
+      "sinteză de proteine din aminoacizi"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 102,
+    "question": "Metabolismul lipidic implică:",
+    "options": [
+      "metabolizarea chilomicronilor - compuşi rezultaţi din combinarea lipidelor cu proteine în interiorul enterocitului",
+      "transformarea trigliceridelor în acizi graşi liberi şi glicerol",
+      "metabolizarea hepatică a lipidelor, independent de cantitatea de lipide ingerate",
+      "transportul intracelular al diferitelor fracţiuni lipidice, prin combinarea lor cu albumina",
+      "beta-oxidarea, prin care se eliberează 129 molecule de ATP dintr-un acid gras cu 16 atomi de carbon"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 103,
+    "question": "Pierderea căldurii corpului se produce prin:",
+    "options": [
+      "evaporare - sub formă de transfer energetic către moleculele de apă",
+      "radiaţie - sub formă de radiaţii ionice",
+      "convecţie - încălzirea moleculelor de aer aflate în contact cu corpul şi care sunt înlocuite constant cu alte molecule",
+      "evaporare - sub formă de transpiraţie şi respiraţie",
+      "conducţie - transfer energetic între suprafaţa corpului şi obiecte, aer, apă"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 104,
+    "question": "Despre reacţiile metabolice sunt adevărate afirmaţiile:",
+    "options": [
+      "în reacţia de oxidare substratul cedează electroni",
+      "în reacţia de reducere substratul devine oxidat",
+      "oxidarea poate implica şi eliminarea unui atom de hidrogen",
+      "reacţiile anabolice duc la formarea de molecule complexe",
+      "reacţiile catabolice se produc cu consum energetic"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 105,
+    "question": "Selectaţi asocierile corecte dintre minerale şi rolul lor:",
+    "options": [
+      "fierul - component al citocromilor",
+      "magneziul - important pentru funcţia nervilor şi a celulelor musculare",
+      "manganul - activator hormonal",
+      "sulful - în structura unor vitamine şi a melaninei",
+      "zincul - constituent enzimatic şi al citocromilor"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 106,
+    "question": "Transportul lipidelor în plasmă este asigurat de:",
+    "options": [
+      "combinarea cu proteinele, pentru a putea fi eliminate din limfă",
+      "lipoproteine cu densitate foarte mică ce conţin 60% trigliceride",
+      "lipoproteine cu densitate mare ce conţin 50% colesterol şi 50% proteine",
+      "HDL ce conţin 20% colesterol şi 5% trigliceride",
+      "combinarea acizilor graşi cu fibrinogen"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 107,
+    "question": "Metabolismul glucozei implică:",
+    "options": [
+      "utilizarea monozaharidelor absorbite intestinal şi transportate la ficat prin vena portă",
+      "transportul glucozei spre toate celulele corpului pentru a fi utilizată în respiraţia celulară",
+      "intrarea glucozei în celulă sub acţiunea insulinei",
+      "polimerizarea glucozei prin glicogenoliză",
+      "glicoliza, care este prima etapă a respiraţiei celulare"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 108,
+    "question": "Despre rata metabolismului bazal sunt corecte afirmaţiile:",
+    "options": [
+      "variază în funcţie de activitatea hormonală",
+      "este mai accentuată în perioada copilăriei",
+      "este uşor mai crescută la sexul feminin",
+      "reprezintă consumul energetic pentru întreţinerea funcţiilor metabolice",
+      "se măsoară în condiţii postabsorbtive pentru a elimina cât mai multe variabile"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 109,
+    "question": "Caracteristicile proceselor anabolice sunt următoarele:",
+    "options": [
+      "determină formarea de molecule mici",
+      "se produc cu consum de energie degajată de ATP",
+      "reacţiile converg către căile metabolice principale",
+      "sunt mediate de enzime",
+      "duc la formarea de glicogen, trigliceride şi proteine"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 110,
+    "question": "Starea de post prelungit este caracterizată prin:",
+    "options": [
+      "utilizarea lipidelor ca sursă principală de energie pentru organism",
+      "glicemie menţinută homeostatic prin intervenţia hormonului sintetizat de celulele beta ale insulelor Langerhans",
+      "economisirea glucozei pentru a fi utilizată ca sursă energetică de sistemul nervos",
+      "transformarea hepatică a unor aminoacizi în glucoză",
+      "creşterea secreţiei de insulină şi glucagon"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 111,
+    "question": "Catabolismul proteic implică:",
+    "options": [
+      "acţiunea glucocorticoizilor, care stimulează procesul de degradare proteică",
+      "dezaminarea urmată de formarea ureei ce va fi eliminată renal",
+      "reacţii de degradare proteică sub acţiunea hormonilor sexuali",
+      "formarea de compuşi intermediari ai glicolizei sau ai ciclului Krebs, utilizabili energetic",
+      "acţiunea STH, care favorizează degradarea aminoacizilor în celule"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 112,
+    "question": "La reglarea temperaturii corpului participă:",
+    "options": [
+      "centrul termoregulator din hipotalamus",
+      "receptorii periferici din piele şi alte structuri",
+      "receptorii centrali din hipotalamus şi măduva spinării",
+      "substanţele pirogene eliberate în reacţii alergice sau inflamaţii",
+      "procesele de transpiraţie şi vasodilataţie care duc la creşterea temperaturii"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 113,
+    "question": "Acizii graşi pot participa la:",
+    "options": [
+      "transportul plasmatic, prin combinare cu albumina",
+      "descompunere până la stadiul de dihidroxi-aceton-fosfat, compus intermediar al glicolizei",
+      "degradarea intracelulară prin beta-oxidare cu formarea a 38 de molecule de ATP",
+      "transformarea în corpi cetonici prin intermediul acetil-CoA",
+      "transformarea într-un acid gras esenţial, sub acţiunea enzimelor hepatice"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 114,
+    "question": "Procesele catabolice sunt caracterizate prin:",
+    "options": [
+      "eliberarea de energie ce poate fi depozitată sub formă de fosfocreatină",
+      "reacţii ce converg spre căile metabolice principale",
+      "degradarea moleculelor mari până la forme excretabile",
+      "reacţii ce nu necesită intervenţia enzimatică",
+      "reacţii ce se derulează prin glicoliză, ciclul Krebs, transportul de electroni"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 115,
+    "question": "Cetoacidoza:",
+    "options": [
+      "este favorizată de dieta bogată în glucide şi săracă în lipide",
+      "poate să apară în condiţii de înfometare, datorită aportului scăzut de glucoză",
+      "presupune creşterea acidităţii corpului, cu risc de comă diabetică",
+      "este determinată de creşterea corpilor cetonici",
+      "este evitată la persoana sănătoasă, prin convertirea corpilor cetonici în acetil-CoA"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 116,
+    "question": "Următoarele procese metabolice implică glucoză:",
+    "options": [
+      "formarea acidului piruvic dintr-o moleculă de glucoză",
+      "dezaminarea hepatică a aminoacizilor",
+      "sinteza şi depozitarea de glicogen",
+      "sinteza de glucoză din anumiţi aminoacizi, glicerol sau acid lactic",
+      "descompunerea trigliceridelor în acizi graşi şi glicerol"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 117,
+    "question": "Lipidele sunt implicate în:",
+    "options": [
+      "absorbţia hepatică şi musculară a chilomicronilor",
+      "dezvoltarea riscului pentru boli coronariene, mai ales dacă sunt transportate în plasmă în cantităţi mari sub formă de LDL",
+      "depozitarea în ţesutul adipos a trigliceridelor recombinate",
+      "descompunerea trigliceridelor cu formare de ATP",
+      "reducerea fluidităţii membranei celulare"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 118,
+    "question": "Moleculele esenţiale sunt:",
+    "options": [
+      "molecule care nu sunt degradate niciodată, ci se păstrează ca atare",
+      "molecule de aminoacizi sau acizi graşi al căror aport este asigurat alimentar",
+      "molecule care se sintetizează la nivel hepatic, sub acţiunea enzimelor hepatice",
+      "aminoacizi ce se găsesc în proteinele complete de origine animală",
+      "acizi graşi ca acidul linolenic, linoleic şi arahidonic"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 119,
+    "question": "Mineralele din organism participă la:",
+    "options": [
+      "asistarea activităţii unor enzime",
+      "reglarea unor procese din organism",
+      "creşterea normală",
+      "menţinerea presiunii osmotice a fluidelor corpului",
+      "participarea tuturor mineralelor în transportul de electroni"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 120,
+    "question": "Alegeţi afirmaţiile corecte referitoare la hormonii steroidieni:",
+    "options": [
+      "trec cu uşurinţă prin membrana celulară",
+      "sunt liposolubili",
+      "acţionează intracelular prin intermediul mesagerilor secundari",
+      "intensifică activitatea unor enzime membranare",
+      "se combină cu proteine intracitoplasmatice"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 121,
+    "question": "Hormonii steroidieni:",
+    "options": [
+      "reglează concentraţia de sodiu şi potasiu, prin ADH",
+      "au rol în dezvoltarea caracterelor sexuale, prin FSH şi LH",
+      "au efecte asupra metabolismului carbohidraţilor, proteinelor şi lipidelor, prin glucocorticoizi",
+      "reglează concentraţia de electroliţi din sânge, prin mineralocorticoizi",
+      "stimulează dezvoltarea caracterelor sexuale feminine, prin estrogeni"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 122,
+    "question": "În reacţia fight or flight intervin:",
+    "options": [
+      "adrenalina",
+      "corticala glandelor suprarenale",
+      "norepinefrina",
+      "sistemul nervos simpatic",
+      "medulara glandelor suprarenale"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 123,
+    "question": "Selectaţi glandele endocrine cu localizare la nivelul gâtului:",
+    "options": [
+      "hipofiza",
+      "epifiza",
+      "tiroida",
+      "paratiroidele",
+      "timusul"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 124,
+    "question": "Printre acţiunile vasopresinei se numără:",
+    "options": [
+      "reglarea metabolismului mineral",
+      "vasoconstricţia",
+      "stimularea reabsorţiei apei",
+      "creşterea presiunii arteriale prin stimularea reabsorţiei de sodiu",
+      "creşterea volumului sanguin prin creşterea reabsorţiei de sodiu, urmată de reabsorţia de apă"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 125,
+    "question": "Selectaţi afirmaţiile corecte referitoare la STH:",
+    "options": [
+      "este un hormon trop",
+      "secreţia este reglată în funcţie de nivelul său sanguin",
+      "hormonii stimulatori eliberaţi de hipotalamus nu au nicio influenţă asupra secreţiei de STH",
+      "acţionează intracelular prin intermediul mesagerilor secundari",
+      "promovează sinteza proteică şi stocarea grăsimilor"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 126,
+    "question": "În homeostazia calciului în organism:",
+    "options": [
+      "calcitonina creşte depunerea calciului în oase",
+      "parathormonul stimulează direct absorbţia intestinală a calciului",
+      "PTH-ul stimulează activitatea osteoclastelor",
+      "vitamina D reglează absorbţia intestinală a calciului",
+      "calcitonina şi parathormonul au acţiuni antagonice în reglarea concentraţiei calciului în sânge"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 127,
+    "question": "Insulina:",
+    "options": [
+      "stimulează pătrunderea glucozei în celule",
+      "este un hormon peptidic",
+      "scade nivelul sanguin al glucozei",
+      "stimulează gluconeogeneza",
+      "stimulează glicogenogeneza"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 128,
+    "question": "Timusul:",
+    "options": [
+      "este un organ limfoid",
+      "are rol în maturarea limfocitelor T",
+      "este şi o glandă endocrină",
+      "este localizat cervical",
+      "este absent la adolescenţi"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 129,
+    "question": "Selectaţi hormonii peptidici:",
+    "options": [
+      "tiroxina",
+      "prolactina",
+      "hormonul antidiuretic",
+      "insulina",
+      "oxitocina"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 130,
+    "question": "Care dintre următorii hormoni sunt proteici?",
+    "options": [
+      "ADH-ul",
+      "insulina",
+      "oxitocina",
+      "prolactina",
+      "somatotropul"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 131,
+    "question": "Hormonul antidiuretic:",
+    "options": [
+      "este un hormon proteic",
+      "este secretat de neurohipofiză",
+      "determină creşterea presiunii arteriale",
+      "produce diabet zaharat când secreţia sa este scăzută",
+      "acţionează asupra tubilor colectori renali stimulând reabsorţia apei"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 132,
+    "question": "Hormonul somatotrop:",
+    "options": [
+      "este sintetizat de nucleii hipotalamici supraoptic şi paraventricular",
+      "cauzează acromegalia atunci când este în exces în copilărie",
+      "stimulează lipogeneza",
+      "determină apariţia nanismului în caz de deficit în copilărie",
+      "promovează sinteza proteică"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 133,
+    "question": "Hormonul adrenocorticotrop:",
+    "options": [
+      "acţionează pe zona corticală a glandei suprarenale",
+      "scade rata metabolismului",
+      "are rol în pigmentarea pielii",
+      "stimulează creşterea organismului",
+      "stimulează secreţia hormonilor glucocorticoizi"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 134,
+    "question": "FSH-ul:",
+    "options": [
+      "stimulează dezvoltarea foliculilor ovarieni",
+      "induce secreţia de estrogeni şi progesteron de către corpul galben",
+      "stimulează producerea spermatozoizilor",
+      "declanşează ovulaţia",
+      "stimulează producerea de testosteron la nivel testicular"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 135,
+    "question": "În boala Graves apar următoarele simptome:",
+    "options": [
+      "puls accelerat",
+      "creşterea calciului în sânge",
+      "creşterea ratei metabolice",
+      "lipsă de energie",
+      "apetit crescut"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 136,
+    "question": "Mixedemul are următoarele simptome:",
+    "options": [
+      "creşterea în greutate",
+      "accelerarea pulsului",
+      "apetit crescut",
+      "slăbiciune generalizată",
+      "creşterea depunerii calciului în oase"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 137,
+    "question": "Parathormonul:",
+    "options": [
+      "stimulează creşterea osoasă",
+      "reglează activitatea osteoclastelor",
+      "influenţează reabsorbţia calciului în tubii renali",
+      "produce deformări şi scăderea densităţii osoase atunci când este secretat în exces",
+      "stimulează activarea renală a vitaminei D"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 138,
+    "question": "În sindromul Cushing apar următoarele simptome:",
+    "options": [
+      "dezechilibru al sodiului şi potasiului",
+      "hipertensiune arterială",
+      "slăbiciune musculară generalizată",
+      "ten închis la culoare",
+      "umflarea feţei"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 139,
+    "question": "Hormonii hipofizari au următoarele efecte:",
+    "options": [
+      "ACTH stimulează depunerea glicogenului în ficat",
+      "prolactina stimulează producţia şi ejecţia laptelui",
+      "LH stimulează formarea corpului galben, producţia de progesteron în ovare şi de testosteron în testicule",
+      "TSH stimulează direct creşterea organismului",
+      "FSH stimulează creşterea foliculilor şi a tubilor seminiferi"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 140,
+    "question": "Calcitonina:",
+    "options": [
+      "este un hormon secretat de paratiroide",
+      "stimulează creşterea osoasă",
+      "creşte depunerea Ca în oase şi concentraţia sanguină a Ca",
+      "scade densitatea osoasă atunci când este secretată în exces",
+      "are efecte opuse parathormonului"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 141,
+    "question": "Parathormonul:",
+    "options": [
+      "este hormonul secretat de paratiroide",
+      "stimulează reabsorbţia osoasă şi activitatea osteoclastelor ca şi calcitonina",
+      "creşte concentraţia sanguină a Ca, având efect antagonist calcitoninei",
+      "în exces, duce la deformări ale oaselor şi la scăderea densităţii osoase",
+      "la nivel renal inhibă activarea vitaminei D"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 142,
+    "question": "Insulina:",
+    "options": [
+      "este un hormon proteic secretat de celulele beta ale insulelor Langerhans",
+      "stimulează pătrunderea glucozei în celule",
+      "este hormon hiperglicemiant",
+      "este un hormon eliberat postprandial",
+      "lipsa acestui hormon duce la apariţia diabetului insipid"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 143,
+    "question": "Glucagonul:",
+    "options": [
+      "este un hormon hipoglicemiant",
+      "este secretat de celulele alfa şi beta ale insulelor Langerhans",
+      "este eliberat în lipsa aportului alimentar",
+      "creşte nivelul plasmatic al glucozei",
+      "este un hormon care creşte glicemia"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 144,
+    "question": "Hipo- sau hipersecreţiile hormonale produc următoarele afecţiuni:",
+    "options": [
+      "boala Graves - hipersecreţie de parathormon",
+      "boala Cushing - hipersecreţie de glucocorticoizi",
+      "mixedem - hiposecreţie de tiroxină",
+      "boala Addison - hiposecreţie de catecolamine",
+      "guşa exoftalmică - scăderea secreţiei de T₃ şi T₄"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 145,
+    "question": "Despre metabolismul glucidic sunt adevărate afirmaţiile:",
+    "options": [
+      "glucagonul intensifică glicogenoliza",
+      "insulina creşte afinitatea transportorului membranar pentru glucoză",
+      "adrenalina facilitează degradarea glicogenului",
+      "lipsa răspunsului la insulină la nivel celular duce la apariţia diabetului zaharat de tip II",
+      "glucagonul facilitează reacţiile metabolice de degradare a glucozei"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 146,
+    "question": "Dintre hormonii steroidieni fac parte:",
+    "options": [
+      "secretina",
+      "progesteronul",
+      "prostaglandinele",
+      "oxitocina",
+      "cortizonul"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 147,
+    "question": "Glucagonul:",
+    "options": [
+      "este un antagonist al insulinei",
+      "stimulează sinteza de glicogen",
+      "activează gluconeogeneza hepatică",
+      "îndepărtează glucoza din sânge",
+      "creşte nivelul de acizi graşi în sânge"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 148,
+    "question": "Selectaţi afirmaţiile corecte despre hormonii non-steroidieni:",
+    "options": [
+      "sunt alcătuiţi exclusiv din atomi de carbon şi hidrogen",
+      "acţionează ca mesageri primari",
+      "se dizolvă în fosfolipide şi trec cu uşurinţă prin membrana celulară",
+      "cresc activitatea unor enzime membranare",
+      "se leagă de receptori de pe membrana celulelor ţintă"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 149,
+    "question": "Selectaţi afirmaţiile corecte despre hormonii neurohipofizari:",
+    "options": [
+      "sunt sintetizaţi de neurohipofiză ca răspuns la stimuli veniţi de la neuronii hipotalamici",
+      "sunt sintetizaţi de unii nuclei hipotalamici",
+      "ADH-ul creşte permeabilitatea membranei celulelor din peretele tubului contort proximal al nefronului şi este reabsorbită mai multă apă din filtratul glomerular",
+      "oxitocina stimulează contracţiile uterine",
+      "prolactina stimulează sinteza laptelui"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 150,
+    "question": "Următoarele afirmaţii referitoare la temperatura corpului sunt adevărate:",
+    "options": [
+      "este reglată mai eficient la bărbaţi",
+      "poate fi influenţată de conducţie, procesul de pierdere a căldurii",
+      "este menţinută şi prin ingerarea alimentelor cu efect termic",
+      "este reglată şi cu ajutorul calcitoninei",
+      "poate fi influenţată de impulsuri provenite de la receptori termici localizaţi în organele abdominale"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 151,
+    "question": "Selectaţi afirmaţiile corecte despre hormonii adenohipofizari:",
+    "options": [
+      "sinteza lor este controlată de hipotalamus, prin intermediul unor hormoni stimulatori sau inhibitori",
+      "la adult deficitul de STH produce acromegalia",
+      "TSH-ul stimulează producerea tiroxinei",
+      "la femei FSH-ul stimulează activitatea corpului galben preovulator",
+      "la bărbaţi LH-ul stimulează producerea testosteronului în testicule"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 152,
+    "question": "Este adevărat că:",
+    "options": [
+      "vitamina B₁₂ este absorbită în intestinul subţire în prezenţa factorului intrinsec",
+      "vitamina D este activată la nivel renal de către calcitonină",
+      "vitamina A este absorbită mai uşor în prezenţa bilei",
+      "vitamina D este secretată în intestin datorită activităţii sărurilor biliare",
+      "vitamina K este stocată la nivel hepatic"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 153,
+    "question": "Selectaţi afirmaţiile corecte despre hormonul adrenocorticotrop:",
+    "options": [
+      "stimulează depunerea glicogenului în ficat",
+      "este un hormon steroidian",
+      "stimulează producerea cortizolului la nivelul glandei corticosuprarenale",
+      "creşte rata metabolismului",
+      "este un hormon trop cu acţiune paracrină"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 154,
+    "question": "Selectaţi afirmaţiile corecte despre hormonii tiroidieni T₃ şi T₄:",
+    "options": [
+      "stimulează maturarea sistemului nervos",
+      "au rol în menţinerea presiunii sângelui",
+      "cresc activitatea enzimelor asociate cu metabolismul glucozei",
+      "cresc depunerea de calciu în oase",
+      "scad rata metabolismului bazal"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 155,
+    "question": "Estrogenii:",
+    "options": [
+      "reduce grosimea peretelui uterin, sub influenţa hormonului foliculostimulant",
+      "pot fi produşi în hipofiza anterioară",
+      "sunt importanţi pentru dezvoltarea glandelor mamare",
+      "sunt sintetizaţi sub control hipotalamic",
+      "sunt produşi în ovar, sub influenţa FSH"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 156,
+    "question": "Selectaţi afirmaţiile corecte referitoare la parathormon:",
+    "options": [
+      "este secretat de glandele paratiroide când scade nivelul calciului din sânge",
+      "favorizează depunerea de calciu în oase",
+      "creşte concentraţia de calciu în sânge",
+      "stimulează activitatea osteoclastelor",
+      "scade activarea renală a vitaminei D"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 157,
+    "question": "Referitor la insulină se poate afirma că:",
+    "options": [
+      "facilitează pătrunderea glucozei în celule",
+      "creşte degradarea glicogenului în ficat",
+      "este eliberată postprandial",
+      "scade nivelul sanguin al glucozei",
+      "este produsă de celulele beta din insulele Langerhans"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 158,
+    "question": "Selectaţi afirmaţiile corecte despre hormonii glucocorticoizi:",
+    "options": [
+      "sunt hormoni steroidieni",
+      "au rol antiinflamator",
+      "secreţia lor este reglată de ACTH printr-un mecanism de feed-back pozitiv",
+      "produc vasoconstricţie",
+      "pregătesc organismul pentru efort fizic intens şi reacţia fight or flight"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 159,
+    "question": "Selectaţi afirmaţiile corecte:",
+    "options": [
+      "hipersecreţia de ADH produce diabetul insipid, caracterizat prin producerea excesivă de urină",
+      "hiposecreţia de tiroxină la copii produce cretinism",
+      "hipersecreţia de hormoni glucocorticoizi produce boala Addison, manifestată prin hipotensiune şi stare generală de slăbiciune",
+      "inactivitatea celulelor beta din insulele Langerhans produce diabet zaharat de tip 1",
+      "deficitul de iod produce creşterea în dimensiuni a glandei tiroide, denumită guşă"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 160,
+    "question": "Despre insulină se pot afirma următoarele:",
+    "options": [
+      "este un hormon steroid",
+      "este sintetizată doar în celulele beta din pancreas",
+      "este eliberată din pancreas în formă activă",
+      "permite stocarea glucozei la nivel hepatic",
+      "stimulează lipoliza"
+    ],
+    "answers": [1, 2, 3]
+  }
+]

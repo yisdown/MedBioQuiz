@@ -1,0 +1,1681 @@
+[
+  {
+    "id": 1,
+    "question": "Care dintre afirmațiile privind funcțiile gonadei masculine sunt adevărate?",
+    "options": [
+      "produce celule reproducătoare masculine",
+      "asigură spermatogeneza",
+      "secretă hormoni sexuali masculini la nivelul tubilor seminiferi",
+      "produce gameți masculini la nivelul celulelor interstițiale testiculare",
+      "sunt controlate prin intermediul hormonilor gonadotropi adenohipofizari: FSH și LH"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 2,
+    "question": "Următoarele efecte aparțin FSH-ului:",
+    "options": [
+      "stimulează spermatogeneza",
+      "stimulează maturarea celulelor interstițiale testiculare",
+      "stimulează producerea spermei",
+      "stimulează ovulația",
+      "stimulează maturarea tubilor seminiferi"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 3,
+    "question": "Următoarele efecte aparțin LH-ului:",
+    "options": [
+      "stimulează producerea testosteronului la nivel testicular",
+      "stimulează maturarea celulelor interstițiale testiculare",
+      "stimulează producția de progesteron în ovare",
+      "stimulează creșterea tubilor seminiferi testiculari",
+      "stimulează producerea spermei"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 4,
+    "question": "Selectați afirmațiile corecte privind tubii seminiferi:",
+    "options": [
+      "au rol în producerea gameților masculini",
+      "sunt continuați de tubii drepți",
+      "se deschid direct în canalul epididimar",
+      "conțin celule cu rol în secreția de testosteron",
+      "conțin celule sustentaculare care funcționează ca o barieră între vasele de sânge și tubii seminiferi"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 5,
+    "question": "Selectați afirmațiile adevărate privind celulele interstițiale testiculare:",
+    "options": [
+      "sunt localizate între tubii seminiferi",
+      "secreția lor este controlată de adenohipofiză prin intermediul GnRH-ului",
+      "secretă testosteron care inhibă sinteza proteică",
+      "au rol în producerea spermatozoizilor",
+      "secretă hormoni lipidici cu structură sterolică"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 6,
+    "question": "Testosteronul:",
+    "options": [
+      "este un hormon sintetizat din colesterol",
+      "secreția lui este controlată de adenohipofiză prin intermediul FSH-ului",
+      "produce creșterea depozitelor de proteine din țesuturi",
+      "produce și menține caracterele sexuale secundare masculine",
+      "inhibă producerea de FSH"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 7,
+    "question": "Secreția de testosteron este reglată de:",
+    "options": [
+      "concentrația testosteronului plasmatic",
+      "TSH",
+      "LH",
+      "hipofiza anterioară",
+      "hormonul de eliberare a gonadotropinelor printr-un mecanism de feed-back negativ"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 8,
+    "question": "Spermatogeneza are loc la nivelul:",
+    "options": [
+      "celulelor interstițiale testiculare",
+      "veziculelor seminale",
+      "epididimului",
+      "prostatei",
+      "tubilor seminiferi"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 9,
+    "question": "Testiculele prezintă următoarele caractere anatomice:",
+    "options": [
+      "au rol în procesele de reproducere masculină",
+      "au formă ovalară",
+      "sunt localizate în scrot",
+      "fiecare testicul are aproximativ 5 cm lungime",
+      "sunt situate în cavitatea pelviană"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 10,
+    "question": "Selectați afirmațiile corecte privind funcțiile organelor sistemului reproducător masculin:",
+    "options": [
+      "epididimul transportă spermatozoizii spre canalele eferente",
+      "ductul deferent transportă spermatozoizii spre ductul ejaculator",
+      "vezicula seminală secretă prostaglandine",
+      "scrotul protejează testiculele",
+      "prostata secretă un lichid alcalin ce conține nutrienți"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 11,
+    "question": "Gameții masculini se formează:",
+    "options": [
+      "la nivelul testiculului",
+      "în ductul ejaculator",
+      "la nivelul gonadei masculine",
+      "prin spermatogeneză",
+      "independent de factorii umorali"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 12,
+    "question": "În timpul primei diviziuni meiotice, dintr-un spermatocit primar se formează:",
+    "options": [
+      "două spermatide",
+      "două spermatocite secundare",
+      "un spermatozoid",
+      "un spermatid secundar",
+      "două spermatogonii"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 13,
+    "question": "Selectați afirmațiile corecte referitoare la testicule:",
+    "options": [
+      "sunt localizate în scrot",
+      "asigură spermatogeneza",
+      "produc hormoni sexuali masculini",
+      "sunt organizate în lobuli",
+      "au polul anterior și inferior acoperit de epididim"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 14,
+    "question": "Spermatozoizii prezintă:",
+    "options": [
+      "acrozom - care conține enzime cu rol în fertilizare",
+      "piesă intermediară - lipsită de mitocondrii",
+      "cap - cu un nucleu care conține 46 de cromozomi",
+      "coadă - care acționează ca un flagel",
+      "gât - care prezintă microtubuli, filamente groase și mitocondrii"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 15,
+    "question": "La nivelul testiculului întâlnim următoarele tipuri de celule:",
+    "options": [
+      "spermatozoizii - gameții masculini",
+      "celule de susținere - facilitează contactul dintre spermatozoizi și sistemul imun",
+      "celule interstițiale - secretă testosteron sub acțiunea hormonului luteinizant",
+      "celule primordiale - formează prin diviziuni meiotice succesive spermatogonii",
+      "celule sustentaculare - formează o barieră între vasele sanguine și tubii seminiferi"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 16,
+    "question": "Selectați afirmațiile corecte referitoare la uretra masculină:",
+    "options": [
+      "are trei regiuni succesive: prostatică, peniană, membranoasă",
+      "străbate corpul spongios al penisului/penisul până la vârf",
+      "comunică cu vezica urinară la nivelul orificiului uretral extern",
+      "constituie cale dublă, urinară și seminală",
+      "are o lungime de aproximativ 5 cm"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 17,
+    "question": "Care dintre afirmațiile următoare privind rolul ductelor și al glandelor anexe ale sistemului reproducător masculin sunt corecte?",
+    "options": [
+      "epididimul - sediul dobândirii mobilității spermatozoizilor",
+      "vezicula seminală - secretă fluide nutritive, bogate în glucoză, necesare spermatozoizilor",
+      "prostata - produce aproximativ 30 % din volumul lichidului seminal",
+      "glandele bulbouretrale - secretă mucus lubrifiant și substanțe acide care neutralizează alcalinitatea vaginală",
+      "vezicula seminală - secretă un lichid alcalin, similar epididimului"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 18,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "penisul conține trei organe erectile - corpul cavernos și corpii spongioși",
+      "veziculele seminale secretă prostaglandine",
+      "sistemul nervos parasimpatic produce vasodilatație arteriolară la nivelul țesutului erectil",
+      "sperma conține secrețiile glandelor bulbouretrale, prostatei, veziculelor seminale, ovarelor și spermatozoizi",
+      "lichidul spermatic conține și proteaze care previn fertilizarea"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 19,
+    "question": "Hormonul foliculostimulant:",
+    "options": [
+      "este produs de hipotalamus sub acțiunea GnRH",
+      "induce spermatogeneza la nivelul celulelor interstițiale testiculare",
+      "inhibă maturarea tubilor seminiferi",
+      "la nivelul tubilor seminiferi stimulează transformarea spermatogonilor în gameți masculini",
+      "produce și menține caracterele sexuale masculine"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 20,
+    "question": "Care dintre afirmațiile referitoare la testosteron sunt false?",
+    "options": [
+      "sinteza sa este reglată prin feedback pozitiv",
+      "crește masa musculară dar nu influențează comportamentul sexual",
+      "este secretat de celulele interstițiale sub acțiunea FSH-ului",
+      "are efecte anabolizante asupra metabolismului proteic",
+      "este un hormon androgen produs de testicule"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 21,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "în straturile profunde ale pielii scrotului se află mușchii striat dartos",
+      "scrotul este situat inferior de perineu",
+      "rafeul este un mușchi subțire care compartimentează scrotul",
+      "prostata este situată inferior de vezica urinară",
+      "prostata se găsește în hipogastru"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 22,
+    "question": "Care dintre următoarele afirmații sunt false?",
+    "options": [
+      "vezicula seminală este situată posterior de vezica urinară",
+      "epididimul este situat posterior de testicul",
+      "epididimul se găsește în scrot",
+      "vezicula seminală se află anterior de rect",
+      "prostata nu este străbătută de uretră"
+    ],
+    "answers": [4]
+  },
+  {
+    "id": 23,
+    "question": "Despre sistemul reproducător masculin sunt adevărate următoarele afirmații:",
+    "options": [
+      "secreția prostatică îmbunătățește mobilitatea gameților masculini",
+      "lichidul secretat de vezicula seminală conține doar nutrienți",
+      "ductul deferent este locul unde spermatozoizii devin mobili",
+      "atât prostata cât și glandele bulbouretrale secretă un lichid alcalin",
+      "epididimul transportă spermatozoizii spre ductul ejaculator"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 24,
+    "question": "Selectați afirmațiile corecte despre structura testiculului:",
+    "options": [
+      "conține țesut conjunctiv și celule endocrine",
+      "ductul deferent transportă spermatozoizii spre ductul ejaculator",
+      "testiculul produce atât gameți cât și hormoni",
+      "stratul cel mai extern al tubilor seminiferi este alcătuit din spermatogonii",
+      "celulele interstițiale dintre tubii seminiferi secretă testosteron"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 25,
+    "question": "Selectați afirmațiile corecte despre spermatogeneză:",
+    "options": [
+      "spermatidele se divid și formează spermatozoizi",
+      "spermatocitele primare se găsesc la periferia tubilor seminiferi",
+      "spermatocitele primare rezultă în urma unei diviziuni reducționale",
+      "spermatidele rezultă în urma unei diviziuni meiotice",
+      "spermatozoizii sunt haploizi"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 26,
+    "question": "Care dintre următoarele afirmații despre testosteron sunt false?",
+    "options": [
+      "este un hormon ce acționează pe celulele țintă după ce a străbătut membrana celulară a celulei țintă",
+      "contribuie la coborârea testiculelor în scrot",
+      "stimulează sinteza de proteine în celulele țintă",
+      "acționează doar după pubertate",
+      "lipsa lui împiedică spermatogeneza"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 27,
+    "question": "Despre gonadotropine sunt adevărate următoarele afirmații:",
+    "options": [
+      "sunt glicoproteine ce au receptori membranari la nivelul celulei țintă",
+      "acționează prin intermediul unui mesager de ordinul 2",
+      "GnRH este secretat de hipotalamus și ajunge la adenohipofiză prin sistemul port hipotalamo-hipofizar",
+      "LH controlează funcția endocrină a testiculului",
+      "FSH stimulează funcția exocrină a testiculului"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 28,
+    "question": "Despre spermatozoizi sunt adevărate următoarele afirmații:",
+    "options": [
+      "coada conține filamente subțiri, înconjurate de membrana celulară",
+      "la nivelul gâtului se produce ATP-ul necesar mișcărilor cozii spermatozoidului",
+      "în timpul dezvoltării, sunt protejați de reacțiile sistemului imunitar de către celulele sustentaculare",
+      "la nivelul capului este prezent acrozomul care conține materialul genetic, cei 23 de cromozomi",
+      "celulele interstițiale se găsesc între tubii seminiferi"
+    ],
+    "answers": [2]
+  },
+  {
+    "id": 29,
+    "question": "Despre căile sistemului reproducător masculin sunt adevărate următoarele afirmații:",
+    "options": [
+      "vas deferens ajunge în cavitatea abdominală",
+      "testiculul este învelit la exterior de tunică albuginee",
+      "ductele ejaculatoare sunt lungi și traversează prostata",
+      "vezicula seminală secretă prostaglandine",
+      "glandele bulbouretrale secretă substanțe alcaline ca și prostata și vezicula seminală"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 30,
+    "question": "Despre organele anexe ale sistemului reproducător masculin sunt adevărate următoarele afirmații:",
+    "options": [
+      "veziculele seminale produc mai mult de jumătate din volumul total al lichidului seminal",
+      "penisul este traversat de uretra masculină care este mai lungă decât cea feminină",
+      "pH-ul lichidului din epididim este acid",
+      "testiculul este alcătuit din mai mulți lobuli separați de septuri conjunctive",
+      "epididimul se află în scrot care are pereți multistratificați"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 31,
+    "question": "Testiculele:",
+    "options": [
+      "au formă ovalară și aplatizată, localizate sub perineu și anterior de anus",
+      "sunt localizate în scrot",
+      "sunt separate de rafeul ce divide scrotul în două compartimente",
+      "prezintă mușchiul dartos, mușchi de tip striat",
+      "secretă testosteron și mici cantități de progesteron"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 32,
+    "question": "Alegeți afirmațiile corecte despre spermatogeneză:",
+    "options": [
+      "prin diviziuni mitotice, spermatogoniile produc spermatocite primare",
+      "spermatidele formează spermatogoniile",
+      "spermatocitele primare sunt celule cu 46 de cromozomi",
+      "din prima fază a diviziunii meiotice rezultă spermatide, cu 23 de cromozomi",
+      "spermatozoizii sunt prezenți în lumenul tubului seminifer"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 33,
+    "question": "Alegeți afirmațiile corecte despre structura spermatozoizilor:",
+    "options": [
+      "sunt formați doar din cap și coadă",
+      "capul conține un nucleu cu 46 de cromozomi",
+      "acrozomul conține enzime cu rol în fertilizare",
+      "la nivelul piesei intermediare se găsesc mitocondrii",
+      "coada conține multiple filamente subțiri"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 34,
+    "question": "Epididimul:",
+    "options": [
+      "reprezintă subdiviziunea sistemului de ducte la nivelul căreia ajung spermatozoizii maturi și imobili din canalele eferente",
+      "este un tub alungit situat de-a lungul marginii anterioare a testiculelor",
+      "reprezintă locul de resorbție a spermatozoizilor deteriorați",
+      "este locul în care spermatozoizii devin imobili",
+      "continuă canalele eferente care provin din rețeaua testiculară"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 35,
+    "question": "Ductul deferent:",
+    "options": [
+      "traversează canalul inghinal înspre cavitatea abdominală",
+      "are un traseu medial de vezica urinară",
+      "prezintă o porțiune lărgită numită ampulă",
+      "împreună cu ductele care vin de la veziculele seminale formează ductele ejaculatoare",
+      "traversează prostata"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 36,
+    "question": "Despre uretra masculină sunt corecte afirmațiile:",
+    "options": [
+      "traversează prostata, planșeul muscular al cavității pelviene și penisul",
+      "uretra prostatică primește secrețiile glandelor bulbouretrale",
+      "uretra membranoasă este cea mai lungă",
+      "uretra peniană se extinde prin penis la orificiul uretral extern",
+      "uretra peniană primește secrețiile glandelor bulbouretrale"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 37,
+    "question": "Selectați afirmațiile corecte referitoare la vezicula seminală:",
+    "options": [
+      "ductele ei fuzionează cu ductul deferent",
+      "secretă prostaglandine",
+      "produce un lichid acid",
+      "lichidul produs reprezintă aproximativ 60 % din volumul total al lichidului seminal",
+      "este parte componentă a uretrei masculine"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 38,
+    "question": "Prostata:",
+    "options": [
+      "secretă un lichid ce contribuie la mobilitatea spermatozoizilor",
+      "înconjoară uretra",
+      "secretă un lichid ușor alcalin",
+      "prin creșterea în dimensiuni poate îngreuna urinarea",
+      "are rol principal în spermatogeneză"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 39,
+    "question": "Testosteronul:",
+    "options": [
+      "este produs de celulele dintre tubii seminiferi",
+      "secreția lui se află sub influența FSH-ului",
+      "contribuie la coborârea testiculelor în scrot",
+      "inhibă producerea de LH",
+      "produce și menține caracterele sexuale secundare"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 40,
+    "question": "Alegeți afirmațiile corecte:",
+    "options": [
+      "FSH-ul stimulează maturarea tubilor seminiferi și producerea spermei",
+      "LH-ul stimulează maturarea celulelor interstițiale",
+      "LH-ul determină coborârea testiculelor în scrot",
+      "testosteronul se află sub controlul FSH-ului",
+      "hipotalamusul controlează direct secreția de testosteron"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 41,
+    "question": "Testiculul:",
+    "options": [
+      "este un organ aplatizat cu lungime de aproximativ 2,5 cm",
+      "se găsește în scrot, o structură ce are în straturile profunde ale pielii un mușchi",
+      "are în interior lobuli care conțin tubi seminiferi",
+      "conține celule interstițiale care sunt influențate de FSH",
+      "conține epididimul pe fața posterioară"
+    ],
+    "answers": [2]
+  },
+  {
+    "id": 42,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "testiculul conține lobuli, în interiorul cărora se află tubi seminiferi contorți",
+      "epididimul este un tub lung și foarte subțire, anexat la marginea posterioară a testiculului",
+      "ductul deferent împreună cu ductul veziculei seminale formează un duct comun",
+      "prostata este o glandă situată posterior de vezica urinară",
+      "glandele bulbouretrale secretă un lichid ce face parte din spermă"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 43,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "celulele interstițiale testiculare secretă testosteron sub acțiunea unui hormon hipofizar",
+      "tubii seminiferi sunt locul unde se desfășoară spermatogeneza",
+      "spermatocitele primare sunt celule haploide",
+      "spermatidele sunt celule diploide",
+      "spermatozoizii ajung în epididim unde devin mobili"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 44,
+    "question": "Care dintre următoarele afirmații cu privire la sistemul reproducător masculin sunt adevărate?",
+    "options": [
+      "ductul deferent străbate prostata",
+      "vezicula seminală secretă prostaglandine",
+      "celulele interstițiale funcționează ca o barieră între vasele de sânge și tubii seminiferi",
+      "spermatocitele primare conțin 46 cromozomi",
+      "prostata conține fibre musculare netede"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 45,
+    "question": "Care dintre următoarele afirmații cu privire la sistemul reproducător masculin sunt adevărate?",
+    "options": [
+      "spermatogoniile se află la nivelul stratului intern de celule germinale din tubii seminiferi",
+      "spermatogoniile sunt celule diploide",
+      "spermatocitele primare sunt celule haploide",
+      "spermatocitele secundare conțin 23 cromozomi",
+      "în faza a II-a a meiozei, la început are loc replicarea ADN-ului întrucât dintr-o celulă cu 23 cromozomi rezultă două spermatide cu 23 cromozomi fiecare"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 46,
+    "question": "Care dintre următoarele afirmații cu privire la sistemul reproducător masculin sunt false?",
+    "options": [
+      "în cavitatea abdominală ductul deferent trece pe marginea postero-inferioară a prostatei",
+      "lichidul produs de veziculele seminale reprezintă aproximativ 30 % din volumul total al lichidului seminal",
+      "la nivelul testiculului există septuri ce delimitează lobuli",
+      "în porțiunea inițială, ductul deferent prezintă o dilatație, ampula",
+      "GnRH-ul hipofizar este implicat într-un mecanism de feedback negativ"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 47,
+    "question": "Prostata:",
+    "options": [
+      "este o glandă pereche",
+      "este străbătută de ductele ejaculatoare",
+      "secretă un lichid puternic alcalin",
+      "înconjoară porțiunea proximală a ureterului",
+      "vine în raport posterior cu rectul"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 48,
+    "question": "Următoarele afirmații cu privire la sistemul reproducător masculin sunt adevărate:",
+    "options": [
+      "FSH-ul stimulează producția celulelor interstițiale testiculare",
+      "la nivelul penisului există 2 corpi spongioși",
+      "testosteronul este un hormon anabolizant proteic",
+      "epididimul este o extensie tubulară a ductului deferent",
+      "veziculele seminale vin în raport cu fața posterioară a vezicii urinare"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 49,
+    "question": "Următoarele afirmații cu privire la sistemul reproducător masculin sunt false:",
+    "options": [
+      "componenta parasimpatică vagală determină dilatarea arteriolelor din țesutul erectil penian",
+      "volumul cel mai mare din lichidul seminal este produs de veziculele seminale",
+      "capul epididimului se continuă cu ductul deferent",
+      "uretra membranoasă străbate planșeul muscular al cavității pelviene",
+      "testosteronul acționează asupra celulelor țintă prin fixarea de receptori membranari specifici"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 50,
+    "question": "Care dintre următoarele afirmații cu privire la sistemul reproducător masculin sunt adevărate?",
+    "options": [
+      "asupra testiculului acționează hormoni cu structură glicoproteică",
+      "coada spermatozoidului conține filamente groase",
+      "spermatidele sunt celule haploide",
+      "artera testiculară provine din iliacea internă",
+      "vena gonadală stângă este afluent al venei renale stângi"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 51,
+    "question": "A doua diviziune meiotică este asigurată prin:",
+    "options": [
+      "metafaza II - când centromerii se aliniază la placa metafazică",
+      "interfaza - faza de replicare masivă a ADN-ului",
+      "profaza II - în care cromozomii se condensează și se deplasează spre periferia celulei",
+      "anafaza II - ce asigură clivarea centromerilor, cromozomii deplasându-se spre polii opuși",
+      "telofaza II și citokineza - care duc la formarea a două celule fiice haploide"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 52,
+    "question": "Următoarele enunțuri sunt corecte:",
+    "options": [
+      "mușchiul dartos se află în straturile superficiale ale pielii scrotului",
+      "rafeul scrotal delimitează compartimentele testiculare",
+      "prostata se află posterior față de vezica urinară",
+      "ductul ejaculator se deschide la nivelul uretrei prostatei",
+      "epididimul este localizat de-a lungul marginii posterioare a testiculului"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 53,
+    "question": "Despre spermatozoid se pot afirma următoarele:",
+    "options": [
+      "capul conține nucleul cu 46 de cromozomi",
+      "la nivelul acrozomului conține enzime cu rol în fertilizare",
+      "gâtul, foarte scurt, conține microtubuli înconjurați de mitocondrii",
+      "coada conține filamente groase înconjurate de un înveliș membranos",
+      "este mobil datorită acțiunii cozii ca un flagel"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 54,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "uretra prostatică străbate planșeul muscular al cavității pelviene",
+      "uretra peniană primește secrețiile veziculelor seminale",
+      "ductul veziculei seminale se unește cu ductul deferent",
+      "prostata secretă hormoni cunoscuți sub numele de prostaglandine",
+      "ductul deferent trece medial de vezicula seminală"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 55,
+    "question": "Prima diviziune meiotică include următoarele procese:",
+    "options": [
+      "anafaza I - cromozomii pereche se separă și se deplasează spre polii opuși ai celulei",
+      "profaza I - cromatidele cromozomilor omologi formează chiasme",
+      "telofaza I și citokineza - cromozomii pereche sunt distribuiți integral între cele două celule fiice",
+      "metafaza I - cromozomii pereche se aliniază în placa ecuatorială",
+      "profaza I - segmentele de cromatide sunt fixe, păstrându-și locul pe cromatide, împiedicând apariția anomaliilor"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 56,
+    "question": "Despre organele anexe sistemului reproducător masculin se pot afirma următoarele:",
+    "options": [
+      "servesc drept organe de transport pentru spermă în timpul copulației",
+      "asigură formarea tuturor componentelor spermei",
+      "prin secreția prostatică anihilează aciditatea naturală din vagin",
+      "glandele bulbouretrale sunt localizate în apropierea vârfului penisului și secretă un mucus lubrifiant",
+      "asigură formarea lichidului seminal - 30% veziculă seminală, 60% - prostată"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 57,
+    "question": "Epididimul:",
+    "options": [
+      "este un duct în care spermatozoizii capătă mobilitate",
+      "prezintă celule secretante ce ajustează compoziția lichidului spermatic",
+      "asigură resorbția spermatozoizilor deteriorați și a reziduurilor",
+      "se continuă cu ductul ejaculator",
+      "este format dintr-un tub scurt, gros de pe marginea posterioară a testiculelor"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 58,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "celulele sustentatoare testiculare favorizează acțiunea protectoră a sistemului imunitar asupra spermatozoizilor în curs de dezvoltare",
+      "creșterea fertilizării spermatozoidului este asigurată de enzimele prezente la nivelul gâtului",
+      "coada epididimului se continuă cu ductul deferent",
+      "celulele germinale asigură o concentrație mare de testosteron necesară producției spermatozoizilor",
+      "energia necesară mișcării spermatozoizilor este asigurată de ATP-ul produs de mitocondriile piesei intermediare"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 59,
+    "question": "Hormonii implicați în procesul de reproducere masculin sunt:",
+    "options": [
+      "FSH și LH secretați de hipofiza anterioară sub acțiunea GnRH",
+      "FSH care induce spermatogeneza în celulele interstițiale",
+      "LH care asistă spermatogeneza și asigură producția de testosteron de către celulele germinale",
+      "testosteronul ce contribuie la coborârea testiculelor în scrot",
+      "LH ce stimulează maturarea celulelor interstițiale"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 60,
+    "question": "La formarea spermei participă secrețiile următoarelor glande:",
+    "options": [
+      "prostată - localizată sub vezica urinară",
+      "glandele vestibulare - ce secretă un lichid vâscos",
+      "glandele bulbouretrale - drenate în uretra prostatică",
+      "glandele parauretrale",
+      "veziculele seminale - care secretă un lichid alcalin ce neutralizează aciditatea dezvoltată în epididim"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 61,
+    "question": "Structura testiculului include:",
+    "options": [
+      "lobuli, formați din tubi seminiferi, separați prin țesut conjunctiv",
+      "epiteliu tubular cu celule germinale pentru producția hormonală",
+      "celule interstițiale ce asigură spermatogeneza",
+      "rețea testiculară formată prin unirea canalelor eferente",
+      "canale eferente cu originea în porțiunea inferioară a testiculului"
+    ],
+    "answers": [0]
+  },
+  {
+    "id": 62,
+    "question": "Ductul deferent:",
+    "options": [
+      "traversează canalul inghinal și ajunge lateral de vezica urinară",
+      "prezintă o dilatare - ampula - înainte de a ajunge la glanda prostatică",
+      "intersectează traseul ureterului înainte de intrarea acestuia în vezica urinară",
+      "asigură propulsarea lichidului seminal de la epididimul fiecărui testicul",
+      "se continuă cu epididimul de pe marginea posterioară a testiculului"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 63,
+    "question": "Spermatogeneza:",
+    "options": [
+      "implică diviziunea spermatogoniilor și împingerea acestora spre baza externă a epiteliului",
+      "este favorizată de temperatura mai scăzută din scrot",
+      "începe în stratul cel mai extern al celulelor germinale",
+      "asigură reducerea numărului de cromozomi prin diviziunea meiotică a spermatocitelor primare",
+      "duce la formarea de spermatide din spermatozoizi"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 64,
+    "question": "Vezicula seminală:",
+    "options": [
+      "este un organ impar, format din structuri asciiforme",
+      "este drenată de ducte ce fuzionează cu ductul deferent, formând ductul ejaculator",
+      "adaugă fluide nutritive necesare spermatozoizilor în procesul de ejaculare",
+      "secretă un lichid acid ce anihilează alcalinitatea lichidului produs în epididim",
+      "este localizată inferior de prostată"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 65,
+    "question": "Testosteronul:",
+    "options": [
+      "este un hormon androgen sintetizat din colesterol",
+      "la făt - asigură diferențierea țesuturilor specifice sexului masculin",
+      "induce maturarea spermatozoizilor în copilărie",
+      "influențează dezvoltarea caracterelor sexuale secundare masculine",
+      "stimulează sinteza proteică și creșterea masei musculare"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 66,
+    "question": "Despre penis, următoarele enunțuri sunt adevărate:",
+    "options": [
+      "intervenția chirurgicală prin care se îndepărtează prepuțul se numește circumcizie",
+      "corpul penisului este format din două mase de țesut erectil",
+      "componenta simpatică a sistemului nervos determină dilatarea arteriolelor din țesutul erectil",
+      "glandul penian înconjoară orificiul uretral extern",
+      "țesutul erectil conține un labirint de canale vasculare separate de țesut conjunctiv și fibre musculare netede"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 67,
+    "question": "Selectați afirmațiile corecte referitoare la prostată:",
+    "options": [
+      "este o glandă pereche localizată inferior de vezica urinară, anterior de rect",
+      "conține fibre musculare netede cu rol de suport",
+      "este divizată în lobuli, separați de septe conjunctive, aflați sub controlul FSH",
+      "la suprafață este înconjurată de albuginee",
+      "este străbătută de ductul deferent și ductul veziculei seminale"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 68,
+    "question": "Următoarele afirmații sunt corecte:",
+    "options": [
+      "sperma străbate sfincterele externe ale uretrei",
+      "congestionarea vasculară a corpurilor cavernoși este consecința stimulării simpatice",
+      "ductul deferent face parte din căile spermatice situate în afara testiculului",
+      "pH-ul acid al epididimului este datorat produșilor de degradare ai spermei stocate",
+      "ejaculatul conține spermatozoizi, lichid seminal și hormoni"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 69,
+    "question": "Care dintre afirmațiile privind funcțiile gonadei feminine sunt adevărate?",
+    "options": [
+      "produce oocite",
+      "secretă progesteron",
+      "secretă GnRH, hormon sterolic sintetizat din colesterol",
+      "conține numeroase grupuri de celule ce formează foliculi",
+      "se află sub controlul hormonilor tropici: foliculostimulant, luteinizant și melatonină"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 70,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "ovarul este susținut în cavitatea pelviană de ligamentul ovarian și de ligamentul suspensor",
+      "ovarul se leagă de uter prin ligamentul suspensor",
+      "dimensiunile ovarului sunt de aproximativ 2,5 cm lungime și 5 cm lățime",
+      "vaginul este localizat posterior de uretră",
+      "uterul este localizat deasupra vaginului și a vezicii urinare"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 71,
+    "question": "Care dintre afirmațiile privind funcțiile sistemului reproducător feminin sunt corecte?",
+    "options": [
+      "uterul are dimensiuni mărite considerabil în timpul sarcinii",
+      "trompa uterină transportă zigotul spre uter",
+      "vaginul elimină mucoasa endometrială în timpul menstruației",
+      "uterul asigură protecția mecanică a fătului",
+      "fimbriile sunt prelungiri spre ovar, cu originea în infundibul"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 72,
+    "question": "Ovarele au următoarele caracteristici funcționale:",
+    "options": [
+      "sunt situate în cavitatea pelviană",
+      "sunt glande pereche",
+      "sunt controlate de hormoni tropi ai hipofizei anterioare",
+      "produc gameți feminini",
+      "secretă hormoni sexuali feminini"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 73,
+    "question": "Următoarele efecte aparțin FSH-ului:",
+    "options": [
+      "stimulează creșterea și maturarea câte unui folicul pe lună",
+      "stimulează ovulația",
+      "stimulează producția de estrogeni",
+      "stimulează secreția de estrogeni și progesteron de către corpul luteal",
+      "îngroașă mucoasa uterului"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 74,
+    "question": "LH-ul stimulează:",
+    "options": [
+      "producția de progesteron",
+      "ovulația, care se petrece în ziua a 16-a a ciclului menstrual",
+      "foliculul în curs de dezvoltare să producă hormoni",
+      "creșterea foliculilor ovarieni",
+      "formarea corpului galben din foliculul ovarian"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 75,
+    "question": "Alegeți afirmațiile false privitoare la uter:",
+    "options": [
+      "este un organ cavitar",
+      "permite inserarea vaginului la nivelul corpului uterin",
+      "este localizat în porțiunea anterioară a cavității pelviene",
+      "este interpus între trompele uterine și vagin",
+      "secretă estrogeni și progesteron"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 76,
+    "question": "Alegeți afirmațiile corecte privitoare la corpul galben:",
+    "options": [
+      "involuează dacă fecundația nu are loc",
+      "secretă progesteron",
+      "formarea lui este stimulată de LH",
+      "secretă estrogen",
+      "degenează dacă fecundația se produce"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 77,
+    "question": "Trompele uterine:",
+    "options": [
+      "spre ovare au formă de pâlnie, numită ampulă",
+      "măsoară fiecare, aproximativ 12,5 cm lungime",
+      "se deschid în cavitatea uterină",
+      "se împart în trei regiuni, dinspre uter: istm, ampulă și infundibul",
+      "hrănesc fătul în timpul dezvoltării sale"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 78,
+    "question": "Afirmațiile adevărate referitoare la structura uterului sunt:",
+    "options": [
+      "endometrul este stratul intern al peretelui uterin",
+      "stratul funcțional al uterului este perimetrul",
+      "miometrul este compus dintr-un strat gros de mușchi striat",
+      "perimetrul se continuă cu mezotelul ligamentului larg",
+      "stratul bazal al endometrului asigură regenerarea stratului funcțional după menstruație"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 79,
+    "question": "Selectați afirmațiile corecte despre trompele uterine:",
+    "options": [
+      "sunt situate la nivelul marginii superioare a ligamentului larg al uterului",
+      "ampula se găsește distal de infundibul",
+      "istmul se unește cu peretele uterin",
+      "prezintă musculatură striată la nivelul căreia există contracții peristaltice",
+      "în segmentul situat proximal de ovar, asigură degenerarea ovulelor nefecundate"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 80,
+    "question": "Următoarele raporturi directe sunt adevărate:",
+    "options": [
+      "ligamentul ovarian se găsește medial de ovar",
+      "ligamentul suspensor este situat lateral de ovar",
+      "ureterul este situat lateral de rect",
+      "uterul este situat posterior de simfiza pubiană",
+      "istmul uterin este situat superior de vagin"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 81,
+    "question": "Despre vagin sunt adevărate următoarele afirmații:",
+    "options": [
+      "în structura lui conține doar mușchi netezi",
+      "fornișul are raport direct cu colul uterin",
+      "prin el se elimină endometrul necrozat la menstruație",
+      "în structura lui există și țesut fibros",
+      "musculatura netedă este dispusă într-un singur strat"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 82,
+    "question": "Despre funcția ovarelor sunt adevărate următoarele afirmații:",
+    "options": [
+      "în prima jumătate a ciclului menstrual, secretă predominant estrogeni",
+      "prezintă corticala la exterior și medulara la interior",
+      "prin producția de estrogeni inhibă producția de LH",
+      "în a doua jumătate a ciclului menstrual, secretă predominant progesteron",
+      "corpul galben, format în medulară, secretă estrogeni și progesteron"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 83,
+    "question": "Despre oogeneză sunt adevărate următoarele afirmații:",
+    "options": [
+      "transformarea oocitului primar în cel secundar are loc la pubertate",
+      "oocitul primar este prezent la naștere în ovar",
+      "al doilea globul polar se formează doar în prezența spermatozoizilor",
+      "oocitul primar se găsește într-o cavitate plină cu lichid numită antru",
+      "corpul galben rămâne activ aproximativ 12 zile"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 84,
+    "question": "Următoarele procese au loc la nivelul ovarelor:",
+    "options": [
+      "LH determină ruperea foliculului matur",
+      "foliculul rezidual se transformă în corp galben",
+      "corpul alb degenerează în corpul galben",
+      "în faza secretorie se secretă nutrienți pentru hrănirea embrionului",
+      "corpul galben este stimulat de gonadotropina corionică"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 85,
+    "question": "Despre glanda mamară sunt adevărate următoarele afirmații:",
+    "options": [
+      "se găsește pe fața anterioară a toracelui",
+      "secretă lapte sub controlul oxitocinei",
+      "posterior de ea se găsește fascia superficială a mușchiului pectoral mare",
+      "este o glandă ce conține glande alveolare și ducte",
+      "este formată din lobi ce se reunesc la nivelul mamelonului"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 86,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "ovarul prezintă 3 ligamente și uterul 2 ligamente",
+      "scăderea nivelului sanguin al estrogenilor și al progesteronului induce menstruația",
+      "glandele Bartholin și Skene sunt glande exocrine situate la nivelul organelor genitale externe feminine",
+      "canalele alveolare se găsesc în partea anterioară a glandei mamare",
+      "secreția glandei mamare este stimulată prin actul suptului"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 87,
+    "question": "Despre fecundație sunt adevărate următoarele afirmații:",
+    "options": [
+      "are loc în treimea internă a trompei uterine",
+      "determină persistența corpului galben care continuă să secrete estrogen și progesteron încă 3 luni",
+      "este urmată, după 5 zile de la producere, de implantarea blastocistului în endometru",
+      "blastocistul ajunge în uter la 4-5 zile după ovulație",
+      "morula rezultă printr-un proces de segmentare a zigotului"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 88,
+    "question": "Selectați afirmațiile corecte referitoare la funcțiile gonadelor feminine:",
+    "options": [
+      "produc gameții feminini",
+      "sunt situate retroperitoneal, la nivelul cavității pelviene",
+      "secretă hormoni sexuali feminini",
+      "sunt organe nepereche care produc ovule",
+      "sunt susținute de ligamentul ovarian și de ligamentul suspensor"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 89,
+    "question": "Peretele uterin este format din:",
+    "options": [
+      "endometru - al cărui strat bazal se elimină în timpul menstruației",
+      "perimetru - tunica musculară a uterului",
+      "miometru - alcătuit din fibre musculare netede",
+      "endometru - alcătuit din două straturi: funcțional și bazal",
+      "endometru - tunica seroasă a uterului"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 90,
+    "question": "Selectați afirmațiile corecte referitoare la glandele mamare:",
+    "options": [
+      "sunt glande de tip alveolar",
+      "secretă lapte sub acțiunea oxitocinei",
+      "ejecția laptelui are loc sub acțiunea prolactinei",
+      "secreția lactată este determinată de un hormon adenohipofizar",
+      "conțin mai mulți lobi alcătuiți din glande apocrine"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 91,
+    "question": "Uterul:",
+    "options": [
+      "comunică lateral cu trompele uterine este un organ cavitar median, situat în regiunea posterioară a cavității pelviene",
+      "comunică cu vaginul prin orificiul extern al colului uterin",
+      "protejează și hrănește fătul în timpul dezvoltării sale",
+      "protejează deschiderea vaginului și a uretrei"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 92,
+    "question": "Selectați afirmațiile corecte referitoare la ciclul menstrual:",
+    "options": [
+      "în faza proliferativă are loc îngroșarea endometrului",
+      "în ziua a 14-a are loc ovulația sub acțiunea exclusivă a FSH-ului",
+      "în faza secretorie, corpul galben secretă progesteron și cantități mici de estrogeni",
+      "în faza menstruală este eliminat stratul funcțional al miometrului",
+      "are, de obicei, o durată de 28 de zile"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 93,
+    "question": "În timpul oogenezei:",
+    "options": [
+      "prin prima diviziune meiotică se formează oocitul secundar și un globul polar",
+      "oocitul secundar, prin a doua diviziune meiotică, conduce la formarea unui ovul",
+      "după pubertate, din oogonie se formează prin mitoză oocitul primar",
+      "ambele diviziuni meiotice conduc și la formarea de globuli polari haploizi",
+      "oocitul secundar părăsește ovarul prin ovulație"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 94,
+    "question": "Hormonii estrogeni:",
+    "options": [
+      "sunt sintetizați de foliculii ovarieni",
+      "inhibă secreția hipotalamică de FSH",
+      "stimulează dezvoltarea caracterelor sexuale feminine",
+      "intervin în faza proliferativă a ciclului menstrual",
+      "stimulează creșterea foliculilor ovarieni"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 95,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "în timpul capacitației, membrana spermatozoidului este fragilizată, permițând eliberarea enzimelor acrozomale",
+      "placenta se formează prin unirea vilozităților coriale cu țesuturile uterine",
+      "prin fecundarea ovulului se formează zigotul haploid",
+      "formarea zigotului are loc la nivelul trompelor uterine",
+      "oocitul secundar își finalizează meioza și eliberează globulul polar înainte de fecundație"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 96,
+    "question": "Corpul galben ovarian:",
+    "options": [
+      "involuează în prezența hCG",
+      "se formează din celulele foliculare reziduale sub acțiunea LH",
+      "dacă nu are loc fecundația, timp de aproximativ 12 zile produce progesteron și estrogen",
+      "involuează și se transformă în corp alb dacă fecundația a avut loc",
+      "prin hormonii secretați, determină eliminarea mucoasei endometriale la aproximativ 5 zile după fecundație"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 97,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "volumul uterin nu se modifică în timpul sarcinii",
+      "infundibulul trompelor uterine prezintă fimbrii dispuse în vecinătatea ovarului",
+      "clitorisul este un organ erectil feminin",
+      "în timpul ciclului menstrual, foliculul vezicular matur se dezvoltă, devenind folicul primar",
+      "la 12 zile după ovulație, blastocistul ajunge în cavitatea uterină și, ulterior, se implantează"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 98,
+    "question": "Despre sistemul reproducător feminin sunt adevărate următoarele afirmații:",
+    "options": [
+      "produce, înmagazinează, hrănește și transportă ovulele",
+      "unele organe ale tractului genital feminin sunt cuprinse într-un pliu al peritoneului numit ligament larg al uterului",
+      "trompele uterine se deschid în cavitatea pelviană, medial de ovare",
+      "ligamentul larg al uterului se fixează pe pereții mediali ai planșeului pelvian",
+      "ovarele sunt responsabile pentru producerea gameților și a hormonilor"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 99,
+    "question": "Despre ovare se pot afirma următoarele:",
+    "options": [
+      "sunt dispuse intraperitoneal",
+      "prezintă ca elemente de susținere ligamentul ovarian și ligamentul suspensor",
+      "conțin grupuri de celule numite foliculi",
+      "eliberează oocitul secundar prin ovulație",
+      "după menstruație, foliculul devine corpus albicans"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 100,
+    "question": "Selectați afirmațiile corecte referitoare la trompele uterine:",
+    "options": [
+      "sunt situate de-a lungul marginii superioare a ligamentului larg",
+      "capetele din apropierea ovarului poartă numele de infundibul",
+      "se deschid în cavitatea uterină printr-un segment scurt numit istm",
+      "epiteliul regiunii lor ampulare prezintă cili",
+      "contracțiile peristaltice ale musculaturii striate ampulare favorizează transportul ovulului"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 101,
+    "question": "Uterul:",
+    "options": [
+      "este situat în porțiunea posterioară a cavității pelviene, deasupra vezicii urinare",
+      "este susținut prin ligamentele largi",
+      "prezintă regiunea fundului uterin, locul de unire cu trompele uterine",
+      "prezintă istmul în porțiunea inferioară",
+      "își păstrează forma specifică de pară pe parcursul sarcinii"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 102,
+    "question": "Alegeți funcțiile îndeplinite de organele sistemului reproducător feminin:",
+    "options": [
+      "ovarul este locul fecundației",
+      "trompa lui Falloppio transportă zigotul în diferite faze de dezvoltare",
+      "uterul hrănește fătul în timpul dezvoltării",
+      "vaginul conduce fătul în timpul nașterii",
+      "labiile mari protejează deschiderea vaginului și a uretrei"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 103,
+    "question": "Alegeți afirmațiile corecte despre organele genitale externe feminine:",
+    "options": [
+      "sunt cunoscute sub denumirea generică de vulvă",
+      "glandele Bartholin și Skene lubrifiază vaginul",
+      "vestibulul vaginal este delimitat de labiile mari",
+      "clitorisul este situat anterior față de orificiul uretral",
+      "mons pubis este situat în spatele simfizei pubiene"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 104,
+    "question": "Glandele mamare:",
+    "options": [
+      "au o structură lobulară formată din glande endocrine",
+      "sunt glande de tip alveolar",
+      "au rol în secreția laptelui, proces numit lactație",
+      "secreția lor este controlată de prolactină",
+      "oxitocina controlează expulzia laptelui de la nivelul acestora"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 105,
+    "question": "Selectați afirmațiile corecte referitoare la ciclul menstrual:",
+    "options": [
+      "dacă acesta durează 28 de zile, ovulația are loc aproximativ în ziua 14",
+      "nivelul crescut al estrogenilor și progesteronului din timpul fazei menstruale determină regenerarea endometriului",
+      "în timpul fazei proliferative, corpul galben secretă progesteron și cantități mici de estrogen",
+      "corpul galben involuează în absența fecundației",
+      "menstruația marchează prima zi a unui nou ciclu menstrual"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 106,
+    "question": "Oogeneza:",
+    "options": [
+      "reprezintă procesul prin care se formează ovulele",
+      "începe imediat după naștere",
+      "celulele germinale primitive poartă numele de oogonii",
+      "oocitele primare formează împreună cu straturile celulare înconjurătoare foliculii primari",
+      "la pubertate, ovarele conțin aproximativ 75.000 de foliculi"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 107,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "procesul de oogeneză începe în timpul vieții intrauterine",
+      "foliculii primari sunt prezenți în ovare încă de la naștere",
+      "imediat după naștere, hipotalamusul începe secreția de GnRH",
+      "LH-ul stimulează creșterea și maturarea unui folicul pe lună",
+      "FSH-ul stimulează producerea de estrogen la nivelul foliculului în curs de dezvoltare"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 108,
+    "question": "Alegeți afirmațiile corecte despre hormonii cu acțiune asupra sistemului reproducător feminin:",
+    "options": [
+      "GnRH stimulează producerea de FSH și LH la nivelul ovarului",
+      "FSH-ul stimulează creșterea foliculului ovarian și producția de estrogen",
+      "LH-ul stimulează ovulația",
+      "prolactina inhibă secreția lactată",
+      "oxitocina este sintetizată de neurohipofiză"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 109,
+    "question": "Despre fecundație sunt adevărate următoarele afirmații:",
+    "options": [
+      "rezultă ovulul fecundat, cu 46 de cromozomi",
+      "se produce în urma eliberării de enzime acrozomale ale unui număr mare de spermatozoizi",
+      "eliberarea enzimelor din acrozom are loc în urma procesului de capacitație",
+      "fecundația are loc la nivelul uterului",
+      "ovulul fecundat poartă numele de zigot"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 110,
+    "question": "Selectați fenomenele care au loc după fecundație:",
+    "options": [
+      "în urma procesului de segmentare se formează morula",
+      "morula devine o structură celulară plină cu lichid, numită blastocist",
+      "blastocistul ajunge în cavitatea uterină imediat după fecundație",
+      "fixarea blastocistului în endometru poartă numele de implantare",
+      "corpul galben din ovar continuă să producă hormoni"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 111,
+    "question": "Ovarele:",
+    "options": [
+      "sunt organe retroperitoneale",
+      "secretă hormoni cu structură glicoproteică",
+      "sunt legate de uter prin ligamentul ovarian",
+      "prin progesteronul secretat participă la faza secretorie a ciclului menstrual",
+      "sunt legate de uter prin ligamentul suspensor"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 112,
+    "question": "Trompele uterine:",
+    "options": [
+      "se întind de-a lungul limitei inferioare a ligamentului larg",
+      "sunt susținute de ligamentul larg care prin mesovarium se leagă de ovar",
+      "prezintă în apropierea ovarului o structură numită infundibul",
+      "prin ampulă se deschid în cavitatea uterină",
+      "au în structură fibre musculare netede care sunt alungite, cilindrice cu capetele ramificate"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 113,
+    "question": "De uter se fixează următoarele structuri:",
+    "options": [
+      "ligamentul ovarian",
+      "ligamentul suspensor",
+      "trompele uterine",
+      "vaginul",
+      "ligamentul rotund"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 114,
+    "question": "Care dintre afirmațiile următoare cu privire la ciclul menstrual sunt false?",
+    "options": [
+      "dacă fecundația nu are loc, nivelul sanguin al progesteronului crește",
+      "faza secretorie are loc postovulator",
+      "nivelul maxim de estrogen este atins preovulator",
+      "dacă fecundația se produce, gonadotropina hipofizară va stimula corpul galben",
+      "faza proliferativă se derulează după ovulație"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 115,
+    "question": "Care dintre afirmațiile următoare sunt adevărate?",
+    "options": [
+      "oocitul se găsește într-un spațiu plin cu celule numit antru",
+      "creșterea bruscă a nivelului de LH stimulează ovulația",
+      "dacă fecundația are loc, se va forma corpul alb",
+      "în folicul, oocitul este înconjurat de coroana radiată",
+      "foliculii primari sunt prezenți în ovare doar la pubertate"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 116,
+    "question": "Care dintre următoarele afirmații cu privire la fecundație sunt adevărate?",
+    "options": [
+      "implantarea blastocistului se produce în aproximativ 15 zile după fecundație",
+      "după aproximativ 3 săptămâni de la fecundație, funcția endocrină a corpului galben este preluată de placentă",
+      "de obicei, fecundația are loc la nivel uterin",
+      "zigotul este o celulă diploidă ce se află în trompele uterine",
+      "după fecundație apare procesul de segmentare al zigotului în care celulele nou formate cresc în dimensiune și formează morula"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 117,
+    "question": "Care dintre următoarele afirmații cu privire la sistemul reproducător feminin sunt adevărate?",
+    "options": [
+      "dintr-un oocit secundar, prin cea de a doua diviziune meiotică, se formează două ovule cu n cromozomi (haploide)",
+      "LH-ul hipotalamic stimulează funcția endocrină a ovarului",
+      "glandele mamare sunt de tip alveolar",
+      "glandele Bartholin sunt glande parauretrale",
+      "în partea inferioară a vaginului se găsește fornișul"
+    ],
+    "answers": [2]
+  },
+  {
+    "id": 118,
+    "question": "Care dintre următoarele afirmații cu privire la sistemul reproducător feminin sunt false?",
+    "options": [
+      "perimetrul uterin se continuă cu mezoteliul ligamentului ovarian",
+      "areola mamară conține glande sudoripare și sebacee",
+      "menstruația marchează prima zi a unui nou ciclu menstrual",
+      "FSH-ul are structură sterolică",
+      "estrogenii inhibă producția FSH-ului"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 119,
+    "question": "Despre sistemul reproducător feminin se poate afirma că:",
+    "options": [
+      "la pubertate, oocitul primar încheie prima fază a meiozei",
+      "morula este formată din 8 celule rezultate din segmentarea zigotului",
+      "LH-ul are structură glicolipidică",
+      "GnRH-ul hipotalamic stimulează și producția de LH",
+      "coroana radiată este alcătuită din celule de susținere"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 120,
+    "question": "Următoarele afirmații cu privire la sistemul reproducător feminin sunt false:",
+    "options": [
+      "prolactina este un hormon hipotalamic ce stimulează secreția laptelui",
+      "oxitocina stimulează contracțiile musculaturii striate a uterului",
+      "labiile mari conțin glande ce secretă un fluid care le lubrifiază pe suprafața externă",
+      "partea inferioară, bombată a corpului uterin se numește fund uterin",
+      "vaginul este situat anterior față de rect"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 121,
+    "question": "Următoarele enunțuri privind ovarul sunt corecte, cu excepția:",
+    "options": [
+      "este situat în apropierea peretelui lateral al cavității pelviene",
+      "are aproximativ 5 cm lungime și 2,5 cm lățime",
+      "este menținut în poziție prin ligamentele ovarian și suspensor",
+      "periferic conține corpul alb ce secretă hormoni - estrogen și progesteron",
+      "ovarul are raport direct cu fimbriile trompei uterine"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 122,
+    "question": "Selectați asocierile corecte dintre organele sistemului reproducător feminin și funcțiile acestora:",
+    "options": [
+      "labiile mici - formează marginile vestibulului și protejează deschiderea vaginului și a anusului",
+      "uterul - asigură implantarea blastocistului la nivelul endometrului",
+      "trompa uterină - produce ovule și hormoni sexuali",
+      "ovarul - asigură producerea de hormoni sexuali feminini sub acțiunea LH",
+      "vaginul - prezintă o secreție acidă ce împiedică eliminarea mucoasei endometriale"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 123,
+    "question": "Următoarele raporturi anatomice sunt corecte:",
+    "options": [
+      "vezica urinară este situată posterior de simfiza pubiană",
+      "uterul este situat posterior de rect",
+      "anusul este situat anterior de labii",
+      "vaginul este situat posterior de uretră",
+      "rectul este situat anterior de osul sacru"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 124,
+    "question": "Următoarele enunțuri privind raporturile uterului și ovarului sunt adevărate:",
+    "options": [
+      "ligamentul larg este situat lateral față de uter",
+      "mesovarium este situat medial față de uter",
+      "ligamentul suspensor este situat lateral față de ovar",
+      "ligamentul ovarian este situat medial față de ovar",
+      "fimbriile trompei uterine sunt situate pe fața medială a ovarului"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 125,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "ovarele sunt organe pereche",
+      "uterul este un organ cavitar medial",
+      "trompele uterine au formă de pâlnie spre ovare",
+      "vaginul este un organ pereche",
+      "labiile mari sunt situate la nivelul organelor genitale externe"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 126,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "gonadele feminin produc ovule de la naștere până la menopauză",
+      "ovarele sunt situate în pelvis",
+      "celulele din jurul ovulului secretă estrogeni",
+      "ovulația are loc la fiecare 28 de zile",
+      "corpul galben secretă doar progesteron"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 127,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "hormonii sexuali feminini sunt produși de ovare",
+      "estrogenii sunt produși de corpul galben",
+      "progesteronul este un hormon ce pregătește uterul pentru sarcină",
+      "FSH-ul stimulează creșterea foliculilor",
+      "LH-ul stimulează creșterea foliculilor"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 128,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "ciclicitatea ovariană este controlată de FSH și LH",
+      "estrogenii stimulează dezvoltarea caracterelor sexuale secundare feminine",
+      "progesteronul este secretat de corpul galben",
+      "ovulația este stimulată de FSH",
+      "menstruația este cauzată de scăderea nivelului de estrogen și progesteron"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 129,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "foliculii ovarieni conțin oocite primare",
+      "ovulația reprezintă eliberarea oocitului secundar",
+      "corpul galben secretă estrogen și progesteron",
+      "fecundația are loc în uter",
+      "implantarea are loc în endometru"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 130,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "ciclicitatea ovariană este controlată de FSH și LH",
+      "estrogenii stimulează dezvoltarea caracterelor sexuale secundare feminine",
+      "progesteronul este secretat de corpul galben",
+      "ovulația este stimulată de FSH",
+      "menstruația este cauzată de scăderea nivelului de estrogen și progesteron"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 131,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "ovarele sunt situate în cavitatea pelviană",
+      "foliculii ovarieni conțin ovule",
+      "corpul galben secretă progesteron",
+      "prezintă procesul de ovulație prin care oocitele sunt eliberate la fiecare 14 zile",
+      "conține foliculi ce se transformă în corp galben, după ovulație"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 132,
+    "question": "Ciclul menstrual implică:",
+    "options": [
+      "faza proliferativă - când se formează glande tubulare și aportul sanguin scade",
+      "eliberarea oocitului și transformarea foliculului în corp alb",
+      "faza secretorie - când corpul galben secretă progesteron și cantități mici de estrogen",
+      "faza menstruală - când se elimină stratul funcțional endometrial, secrețiile glandulare, mucus și sânge",
+      "ovulația - determinată de creșterea bruscă a LH și a nivelului de estrogen și progesteron"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 133,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "oocitul primar este eliberat în cavitatea peritoneală de unde este preluat de fimbriile trompei uterine",
+      "LH controlează modificările structurale și biochimice ale foliculului, transformându-l în structură glandulară",
+      "în cazul producerii fecundației, corpul alb secretă hormoni",
+      "formarea foliculului vezicular necesită aproximativ 14 zile",
+      "oogeneza este procesul de formare a ovulelor diploide"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 134,
+    "question": "Selectați enunțurile corecte privind glanda mamară:",
+    "options": [
+      "este situată anterior de fascia superficială a mușchiului pectoral mare",
+      "este o glandă de tip alveolar",
+      "produce lapte, după naștere, sub controlul unui hormon secretat de lobul posterior al glandei hipofize",
+      "este formată din lobi care se reunesc la nivelul mamelonului",
+      "prezintă glande sebacee și sudoripare la nivelul mamelonului"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 135,
+    "question": "Despre gonade se pot afirma următoarele:",
+    "options": [
+      "sunt localizate în pelvis",
+      "sunt vascularizate de artere cu origine în artera aorta",
+      "sub acțiunea LH secretă hormoni",
+      "sunt organe intraperitoneale",
+      "secretă hormoni sintetizați din colesterol"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 136,
+    "question": "La ambele sexe, aparatul reproducător:",
+    "options": [
+      "asigură producerea, nutriția și transportul celulelor reproducătoare",
+      "produce gameții la nivelul gonadelor",
+      "prezintă glande cu secreție lichidiană",
+      "este localizat în totalitate la nivelul pelvisului",
+      "prezintă celule care se divid prin meioză"
+    ],
+    "answers": [0, 1, 2, 4]
+  },
+  {
+    "id": 137,
+    "question": "Ovarul:",
+    "options": [
+      "este un organ intraperitoneal",
+      "prezintă mesovarium ce îl leagă de ligamentul larg al uterului",
+      "prezintă foliculi a căror transformare în corp galben induce ovulația sub acțiunea FSH",
+      "este susținut de ligamentul suspensor și cel ovarian",
+      "secretă estrogen și progesteron ce se cuplează cu receptorii de pe suprafața celulelor țintă"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 138,
+    "question": "Asemănările dintre gonada masculină și cea feminină sunt:",
+    "options": [
+      "localizare în pelvis",
+      "dimensiuni aproximativ egale - 2,5/5 cm",
+      "producția de hormoni sintetizați din colesterol",
+      "se află sub controlul unui hormon secretat de adenohipofiză",
+      "venos, se drenează în vena azygos"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 139,
+    "question": "Selectați asocierile corecte referitoare la glandele active la nivelul aparatului reproducător:",
+    "options": [
+      "glandele bulbouretrale - secreție alcalină",
+      "glandele vestibulare - lubrifierea uterului",
+      "glanda prostatică - 50 % din volumul lichidului seminal",
+      "glande apocrine - secreție lactată sub acțiunea oxitocinei",
+      "glande tubulare - faza proliferativă a ciclului menstrual"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 140,
+    "question": "La nivelul testiculului sunt prezente următoarele structuri:",
+    "options": [
+      "celule sustentaculare cu rol în spermatogeneză, sub controlul LH",
+      "ductul deferent care ajunge pe fața posterioară a vezicii urinare",
+      "celule interstițiale a căror secreție se află sub control prin feed-back negativ",
+      "tubi seminiferi în care spermatogoniile inițiază spermatogeneza sub control FSH",
+      "mușchiul dartos care prin contracție este responsabil de încrețirea pielii"
+    ],
+    "answers": [2, 3]
+  }
+]

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🧬 Biology Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="top">
+            <h1>🧬 Biology Quiz</h1>
+            <div class="score">
+                Score: <span id="score">0</span> / <span id="total">0</span>
+            </div>
+        </header>
+
+        <div class="progress">
+            <div id="progressFill"></div>
+        </div>
+
+        <section id="homeScreen" class="screen active">
+            <h2>Select Biology Category</h2>
+            <div id="categoryList" class="category-grid"></div>
+            <button id="startBtn" disabled>Start Quiz</button>
+        </section>
+
+        <section id="quizScreen" class="screen">
+            <div class="question-header">
+                <div id="questionNumber"></div>
+            </div>
+            <h2 id="questionText"></h2>
+            <div id="answers"></div>
+            <button id="nextBtn">Submit Answer</button>
+        </section>
+
+        <section id="resultScreen" class="screen">
+            <h2>🎉 Quiz Complete!</h2>
+            <div class="result-card">
+                <div id="finalScore"></div>
+                <div id="percentage"></div>
+            </div>
+            <button id="restartBtn"> Try Again</button>
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

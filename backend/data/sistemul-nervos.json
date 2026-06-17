@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "question": "Selectați afirmațiile corecte privind sistemul nervos central:",
+    "options": [
+      "hipotalamusul controlează sistemul nervos vegetativ",
+      "prin relația cu sistemul endocrin, controlează metabolismul celular",
+      "este conectat cu receptorii și efectorii prin intermediul nervilor cranieni și spinali",
+      "conține structurile senzitive și motorii ale arcului reflex",
+      "funcționează pe baza sinapselor ce utilizează strict neurotransmițătorii excitatori"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 2,
+    "question": "Selectați variantele corecte:",
+    "options": [
+      "decusația piramidală se produce la nivelul bulbului rahidian",
+      "cerebelul participă la delimitarea ventriculului III",
+      "lobul frontal este responsabil de judecata perceptuală și gândirea logică",
+      "nucleii bazali ajută la controlul tonusului muscular",
+      "sistemul limbic este responsabil de generarea sentimentelor și emoțiilor"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 3,
+    "question": "Următoarele afirmații despre sistemul nervos central sunt corecte:",
+    "options": [
+      "hipotalamusul este implicat în controlul echilibrului și al motilității involuntare",
+      "serotonina este utilizată în sinapsele nucleilor implicați în starea de veghe și somn",
+      "cortexul cerebral este implicat în emoțiile legate de supraviețuire",
+      "trunchiul cerebral este asociat cu sentimente precum teama, furia, plăcerea și supărarea",
+      "talamusul procesează senzații brute"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 4,
+    "question": "Despre diencefal și structurile lui se pot afirma următoarele:",
+    "options": [
+      "prezintă talamusul și hipotalamusul",
+      "prin talamus integrează impulsurile senzoriale, cu excepția celor acustice",
+      "hipotalamusul secretă hormoni depozitați în adenohipofiză",
+      "cerebelul este conectat cu alte părți ale sistemului nervos central prin pedunculii cerebeloși",
+      "reprezintă originea aparentă a nervului optic"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 5,
+    "question": "Selectați afirmațiile incorecte:",
+    "options": [
+      "decusația piramidală este situată pe traseul fibrelor senzitive ce străbat bulbul rahidian",
+      "puntea conține în principal fibre nervoase care transmit mesaje dinspre bulbul rahidian înspre emisferele cerebrale și înapoi",
+      "nucleii bazali ajută la controlarea tonusului muscular",
+      "cerebelul primește semnale senzoriale de la ochi",
+      "puntea controlează mișcările reflexe ale capului și ale globilor oculari ca răspuns la stimuli vizuali"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 6,
+    "question": "Selectați afirmațiile adevărate legate de funcțiile formațiunii reticulate:",
+    "options": [
+      "este o rețea de fibre nervoase ce se întinde de la bulb la mezencefal",
+      "este răspunzătoare pentru activarea cortexului cerebral la primirea impulsurilor senzoriale",
+      "coordonează echilibrul și receptorii din mușchi",
+      "conține arii de asociație",
+      "conține nuclei implicați în starea de veghe și somn"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 7,
+    "question": "Precizați care dintre afirmațiile următoare legate de sistemul nervos periferic sunt adevărate:",
+    "options": [
+      "fibrele nervoase aferente conduc impulsurile nervoase înspre sistemul nervos central",
+      "fibrele nervoase autonome inervează mușchii scheletici",
+      "fibrele nervoase motorii sunt eferente și iau naștere în structurile senzoriale",
+      "aproape toți nervii periferici sunt nervi micști",
+      "fibrele nervoase aferente conduc impulsurile nervoase dinspre sistemul nervos central"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 8,
+    "question": "Selectați afirmațiile corecte privind Aria lui Broca:",
+    "options": [
+      "este responsabilă pentru simțul mirosului",
+      "este o regiune a lobului frontal",
+      "este localizată în lobul parietal",
+      "este o regiune a lobului occipital",
+      "este răspunzătoare de activitatea motorie legată de vorbire și de planificarea vorbirii"
+    ],
+    "answers": [1, 4]
+  },
+  {
+    "id": 9,
+    "question": "Care dintre următoarele afirmații privind funcțiile talamusului sunt corecte?",
+    "options": [
+      "este un centru integrativ al impulsurilor motorii",
+      "este un centru integrativ al impulsurilor senzoriale",
+      "se află în strânsă corelație cu sistemul limbic",
+      "procesează senzații brute",
+      "direcționează către cortexul cerebral semnale care mențin starea de veghe"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 10,
+    "question": "Selectați afirmațiile corecte privind mezencefalul:",
+    "options": [
+      "controlează mișcările reflexe ale capului și ale globilor oculari ca răspuns la stimul vizual",
+      "direcționează toate semnalele senzoriale spre talamus",
+      "are rol în generarea sentimentelor și emoțiilor",
+      "controlează mișcările reflexe ale capului și trunchiului ca răspuns la stimul auditiv",
+      "are funcție de releu pentru semnalele motorii între cortexul cerebral, punte și măduva spinării"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 11,
+    "question": "Care dintre următoarele afirmații referitoare la funcțiile nucleilor bazali sunt adevărate?",
+    "options": [
+      "ajută la controlarea tonusului muscular",
+      "conțin centrii plăcerii și pedepsei",
+      "primesc semnale senzoriale de la ochi",
+      "au funcție de releu între măduva spinării și talamus",
+      "ajută la coordonarea mișcărilor voluntare"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 12,
+    "question": "Selectați afirmațiile corecte privind aria motorie principală:",
+    "options": [
+      "este localizată în lobul parietal",
+      "conține neuroni piramidali de talie mare",
+      "trimite comenzi prin tracturile corticospinale",
+      "include și aria destinată auzului",
+      "stimulează ariile motorii ale organismului situate în partea opusă"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 13,
+    "question": "Următorii nervi cranieni au originea aparentă la nivelul bulbului rahidian:",
+    "options": [
+      "glosofaringian",
+      "vag",
+      "trohlear",
+      "hipoglos",
+      "facial"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 14,
+    "question": "Selectați afirmațiile corecte privind localizarea ventriculului III:",
+    "options": [
+      "la nivelul emisferelor cerebrale",
+      "în trunchiul cerebral",
+      "în apropierea corpului calos",
+      "în diencefal",
+      "anterior de trunchiul cerebral"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 15,
+    "question": "Apeductul cerebral este localizat:",
+    "options": [
+      "între ventriculi laterali",
+      "între ventriculul III și ventriculul IV",
+      "între ventriculul I și II",
+      "între trunchiul cerebral și măduvă",
+      "anterior de trunchiul cerebral"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 16,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "cerebelul ajută la menținerea posturii și la secvențialitatea mersului",
+      "în interiorul punții se găsesc nuclei ce servesc drept centri de control ai tusei și vomei",
+      "ventriculul IV este localizat între trunchiul cerebral și cerebel",
+      "lobul temporal intervine în memoria vizuală și auditivă",
+      "senzațiile vizuale sunt interpretate în lobii temporali"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 17,
+    "question": "Care dintre următorii nervi cu origine aparentă la nivelul bulbului rahidian au și componentă parasimpatică?",
+    "options": [
+      "oculomotor",
+      "vag",
+      "glosofaringian",
+      "hipoglos",
+      "facial"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 18,
+    "question": "Selectați afirmațiile corecte referitoare la nervii cranieni:",
+    "options": [
+      "toate cele douăsprezece perechi au originea la nivelul trunchiului cerebral",
+      "nervii oculomotor, facial, glosofaringian și vag au componentă parasimpatică",
+      "nervii III, IV și VI intervin, prin fibrele lor senzoriale, în motilitatea globilor oculari",
+      "nervii facial și glosofaringian stimulează secreția glandelor salivare",
+      "nervii VII și IX preiau informații gustative de la nivelul limbii"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 19,
+    "question": "Următorii nervi cranieni au exclusiv componentă motorie:",
+    "options": [
+      "oculomotor",
+      "trigemen",
+      "abducens",
+      "accesor",
+      "glosofaringian"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 20,
+    "question": "Selectați afirmațiile corecte referitoare la nervii spinali:",
+    "options": [
+      "aparțin, similar nervilor cranieni, sistemului nervos periferic",
+      "prezintă două rădăcini - dorsală și ventrală - aflate în relație directă cu coarnele posterioare și anterioare ale măduvei spinării",
+      "nervii spinali toracici formează plexuri",
+      "participă la inervația unor mușchi scheletici",
+      "sunt întotdeauna micști"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 21,
+    "question": "Selectați afirmațiile corecte referitoare la eferența vegetativă:",
+    "options": [
+      "prezintă doi neuroni vegetativi motori",
+      "corpul neuronului preganglionar este localizat întotdeauna la nivelul sistemului nervos periferic",
+      "neuronul postganglionar poate fi localizat la nivelul ganglionilor terminali",
+      "sinapsa interneuronală dintre neuronul pre- și postganglionar utilizează ca neurotransmițător acetilcolina",
+      "sinapsa dintre fibra postganglionară parasimpatică și efector este adrenergică"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 22,
+    "question": "Componenta parasimpatică a nervului vag are următoarele efecte asupra viscerelor aflate în torace:",
+    "options": [
+      "stimulează activitatea rinichiului și a stomacului",
+      "produce bronhoconstricție",
+      "relaxează bronhiile",
+      "încetinește ritmul cardiac",
+      "stimulează puternic salivația"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 23,
+    "question": "Selectați relațiile corecte dintre componenta vegetativă și originea sa la nivelul SNC:",
+    "options": [
+      "parasimpatic sacral - măduva spinării",
+      "simpatic - trunchi cerebral și măduva spinării",
+      "parasimpatic - măduva spinării cervicală",
+      "simpatic - nivelul cervico-toracolombar al măduvei spinării",
+      "parasimpatic cranian - trunchiul cerebral"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 24,
+    "question": "Sistemul nervos simpatic are următoarele efecte:",
+    "options": [
+      "relaxează vezica urinară",
+      "stimulează erecția organelor sexuale",
+      "inhibă activitatea stomacului",
+      "accelerează ritmul cardiac și diminuă contracțiile miocardului",
+      "dilată pupila"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 25,
+    "question": "La nivelul antebrațului sunt prezenți următorii nervi periferici:",
+    "options": [
+      "ulnar - din plexul brahial",
+      "median - din plexul cervical",
+      "femoral - din plexul brahial",
+      "radial - din plexul brahial",
+      "sciatic - din plexul sacrat"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 26,
+    "question": "Selectați asocierile corecte:",
+    "options": [
+      "nervi cervicali - 7 perechi",
+      "nervi toracici - 12 perechi",
+      "nervi lombari - 5 perechi",
+      "nervi sacrali - 1 pereche",
+      "nervi coccigieni - 5 perechi"
+    ],
+    "answers": [1, 2]
+  },
+  {
+    "id": 27,
+    "question": "Următoarele enunțuri referitoare la rădăcina dorsală a nervilor spinali sunt corecte:",
+    "options": [
+      "prezintă un ganglion care conține corpi celulari ai neuronilor senzoriali",
+      "este alcătuită din prelungirile unor neuroni motori",
+      "conține neuronii senzoriali ai căror axoni se îndreaptă spre măduva spinării",
+      "este alcătuită din axonii neuronilor senzoriali din cornul anterior al măduvei spinării",
+      "are originea aparentă la nivelul coarnelor anterioare ale măduvei spinării"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 28,
+    "question": "Meningele:",
+    "options": [
+      "învelesc atât măduva spinării cât și encefalul",
+      "sunt alcătuite din trei membrane succesive: dura mater, pia mater și arahnoida",
+      "includ un spațiu situat între arahnoidă și pia mater care conține lichid sinovial",
+      "prezintă, la nivelul arahnoidei, o serie de structuri care reabsorb lichidul situat în spațiul subarahnoidian",
+      "formează un înveliș atât la nivelul măduvei spinării cât și la nivelul nervilor spinali"
+    ],
+    "answers": [0, 3]
+  },
+  {
+    "id": 29,
+    "question": "Concavitățile măduvei spinării sunt orientate astfel:",
+    "options": [
+      "cervical - concavitate posterioară",
+      "toracică - concavitate anterioară",
+      "lombară - concavitate anterioară",
+      "sacrală - concavitate anterioară",
+      "lombară - concavitate posterioară"
+    ],
+    "answers": [0, 1, 3, 4]
+  },
+  {
+    "id": 30,
+    "question": "Selectați afirmațiile corecte referitoare la măduva spinării:",
+    "options": [
+      "substanța albă este alcătuită din fibre nervoase mielinice",
+      "canalul ependimar străbate substanța cenușie și conține lichid cefalorahidian",
+      "cornul anterior este mai voluminos decât cornul posterior",
+      "substanța cenușie conține corpi neuronali și interneuroni mielinici",
+      "cordoanele posterioare sunt separate prin fisura mediană posterioară"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 31,
+    "question": "Care dintre afirmațiile referitoare la ventriculi cerebrali sunt corecte?",
+    "options": [
+      "apeductul cerebral se interpune între ventriculul IV și ventriculul diencefalic",
+      "conțin lichid cefalorahidian",
+      "ventriculii laterali sunt înconjurați de substanța albă a emisferelor cerebrale",
+      "apertura mediană asigură comunicarea dintre ventriculul III și ventriculii laterali",
+      "ventriculul IV este situat posterior de cerebel și anterior de trunchiul cerebral"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 32,
+    "question": "Cerebelul:",
+    "options": [
+      "face parte din sistemul nervos periferic",
+      "este conectat cu alte regiuni ale SNC prin intermediul pedunculilor cerebelari",
+      "coordonează activitatea mușchilor scheletici și intervine în menținerea posturii",
+      "joacă rol în menținerea echilibrului corpului",
+      "este alcătuit din două emisfere cerebrale separate de un sept al durei mater"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 33,
+    "question": "La nivelul canalului osos vertebral se întâlnesc:",
+    "options": [
+      "măduva spinării",
+      "meningele spinale",
+      "lichid cefalorahidian în spațiul subarahnoidian",
+      "rădăcinile nervilor spinali",
+      "toți nervii periferici"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 34,
+    "question": "Selectați asocierile corecte privind unele funcții ale emisferelor cerebrale:",
+    "options": [
+      "motorie - lobul frontal",
+      "senzorială - lobul parietal",
+      "auditivă - lobul temporal",
+      "vizuală - lobul insular",
+      "gustativă - lobul temporal"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 35,
+    "question": "Diencefalul:",
+    "options": [
+      "include talamusul, care are rol în controlul glandei hipofize",
+      "prezintă, la nivelul talamusului, nuclei de substanță cenușie cu rol de centru integrativ senzorial pentru toate sensibilitățile",
+      "intervine, prin intermediul hipotalamusului, în reglarea activității glandei pituitare",
+      "intervine în procesarea senzațiilor brute prin intermediul talamusului",
+      "intervine în reglarea sistemului nervos vegetativ prin intermediul hipotalamusului"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 36,
+    "question": "Despre sistemul nervos central se pot afirma următoarele:",
+    "options": [
+      "este compus din encefal și trunchiul cerebral",
+      "este alcătuit doar din segmentul axonal al neuronilor",
+      "este protejat de craniu și coloana vertebrală",
+      "prezintă în apropierea encefalului, cea mai mare parte a organelor de simț",
+      "este conectat cu periferia prin nervii cranieni și spinali"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 37,
+    "question": "Selectați afirmațiile corecte despre sistemul nervos periferic:",
+    "options": [
+      "este alcătuit, în principal, din axonii și dendritele neuronilor senzoriali și motori",
+      "cuprinde prelungiri neuronale ce se extind de la sistemul nervos central sub formă de nervi",
+      "majoritatea nervilor care intră în alcătuirea sa sunt motori",
+      "informează sistemul nervos central despre stimulii primiți doar din mediul intern al organismului",
+      "transmite răspunsurile sistemului nervos central către efectori"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 38,
+    "question": "Despre organizarea sistemului nervos uman sunt adevărate următoarele informații:",
+    "options": [
+      "este alcătuit din sistem nervos periferic și sistem nervos central",
+      "cuprinde encefalul, măduva spinării și nervii periferici",
+      "este alcătuit din nervii cranieni ce aparțin măduvei spinării",
+      "cuprinde nervii spinali, cu origine în encefal",
+      "prezintă fibre vegetative ce relaționează cu mușchiul neted și cardiac"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 39,
+    "question": "Despre măduva spinării se pot afirma următoarele:",
+    "options": [
+      "la adult, prezintă o lungime de aproximativ 45 cm",
+      "se extinde prin canalul osos format de vertebre",
+      "începe la nivelul foramen magnum a osului occipital",
+      "se termină la nivelul discului intervertebral dintre a treia și a patra vertebră lombară",
+      "este formată din substanță cenușie dispusă periferic și substanță albă situată central"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 40,
+    "question": "Alegeți afirmațiile corecte despre meninge:",
+    "options": [
+      "este format din dura mater, arahnoidă și pia mater",
+      "pia mater este un strat avascular ce acoperă structura nervoasă",
+      "dura mater este stratul exterior care conține multe vase de sânge și nervi",
+      "arahnoida reabsorb lichidul cefalorahidian",
+      "pia mater este un strat gros, bogat vascularizat"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 41,
+    "question": "Despre rădăcinile nervilor spinali sunt adevărate următoarele afirmații:",
+    "options": [
+      "la nivelul rădăcinilor dorsale se găsesc corpurile celulare și axonii neuronilor senzoriali",
+      "rădăcinile ventrale conțin axonii neuronilor motori ce pleacă dinspre măduva spinării",
+      "lezarea rădăcinilor dorsale duce la paralizie",
+      "rădăcinile dorsale și cele ventrale iau naștere din coarnele posterioare, respectiv anterioare, ale măduvei spinării",
+      "lezarea rădăcinilor anterioare determină anestezia teritoriului afectat"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 42,
+    "question": "Encefalul:",
+    "options": [
+      "reprezintă centrul de organizare și procesare al sistemului nervos",
+      "recepționează impulsuri nervoase de la măduva spinării și de la cele 12 perechi de nervi cranieni",
+      "conține ventriculi cerebrali prin care circulă lichidul cefalorahidian",
+      "este împărțit în emisfere cerebrale, cerebel, diencefal și trunchi cerebral",
+      "consumă 80% din cantitatea totală de oxigen utilizată în organism"
+    ],
+    "answers": [0, 1, 2, 3]
+  },
+  {
+    "id": 43,
+    "question": "Selectați afirmațiile corecte despre emisferele cerebrale:",
+    "options": [
+      "conțin centri nervoși senzoriali și motori",
+      "aria lui Broca din lobul parietal este răspunzătoare de activitatea motorie legată de vorbire",
+      "aria motorie principală este localizată la nivelul lobului frontal",
+      "senzațiile vizuale sunt interpretate în lobii parietali",
+      "aria motorie principală este formată din neuroni piramidali de talie mare"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 44,
+    "question": "Cerebelul:",
+    "options": [
+      "este situat înaintea trunchiului cerebral",
+      "coordonează activitățile motorii",
+      "determină care mușchi trebuie utilizați, precum și secvența și intensitatea contracțiilor",
+      "comunică cu alte părți ale sistemului nervos central prin intermediul pedunculilor cerebelari",
+      "ajută la menținerea posturii și la secvențialitatea mersului"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 45,
+    "question": "Trunchiul cerebral prezintă:",
+    "options": [
+      "la nivelul mezencefalului, structuri cu funcție de centri reflexi",
+      "bulbul rahidian care separă puntea de mezencefal",
+      "la nivelul bulbului, fibre descendente care se încrucișează formând decusația piramidală",
+      "în interiorul bulbului, nuclei ce servesc drept centri de control ai activității involuntare",
+      "formațiunea reticulată care este prezentă doar la nivelul mezencefalului"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 46,
+    "question": "Nervii cranieni prezintă următoarele caracteristici:",
+    "options": [
+      "sunt formați doar din axoni ai neuronilor motori sau senzoriali",
+      "sunt grupați în 12 perechi ce trec pe dedesubtul emisferelor cerebrale",
+      "conțin corpurile neuronilor motori grupați sub formă de ganglioni",
+      "toți prezintă origine la nivelul trunchiului cerebral",
+      "conțin corpurile neuronilor senzoriali situați în substanța cenușie"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 47,
+    "question": "Alegeți afirmațiile corecte despre nervii cranieni:",
+    "options": [
+      "nervul optic este mielinizat de oligodendrocite",
+      "nervul trohlear, ce controlează mișcări oculare, prezintă origine pontină",
+      "nervul vestibulo-cohlear prezintă funcție motorie și senzorială",
+      "glosofaringianul prezintă originea aparentă la nivelul bulbului rahidian",
+      "hipoglosul se distribuie la mușchii limbii"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 48,
+    "question": "Despre sistemul nervos vegetativ se pot afirma următoarele:",
+    "options": [
+      "cuprinde două tipuri de neuroni senzoriali și ganglionii corespunzători",
+      "neuronii preganglionari sunt localizați la nivelul sistemului nervos central",
+      "tipul doi de neuron motor se găsește la nivelul ganglionilor vegetativi",
+      "axonii neuronilor postganglionari se extind până la nivelul organelor",
+      "operează cu control conștient, coordonând funcțiile homeostatice ale viscerelor"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 49,
+    "question": "Alegeți afirmațiile corecte despre sistemul nervos simpatic:",
+    "options": [
+      "fibrele preganglionare secretă acetilcolină",
+      "are origine la nivelul cervico-toracolombar al măduvei spinării",
+      "efectul este extins în tot organismul",
+      "mediază aspectul normal al organismului",
+      "este controlat în totalitate de encefal"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 50,
+    "question": "Selectați afirmațiile corecte despre structurile encefalice:",
+    "options": [
+      "corpul calos este vizibil pe fața laterală a emisferelor cerebrale",
+      "ventriculii creierului sunt cavități pline cu LCR și se continuă la nivel medular cu canalul ependimar",
+      "hipotalamusul este o structură diencefalică cu rol în reacțiile fiziologice ale emoțiilor",
+      "hipocampul decide care amintiri sunt stocate",
+      "măduva spinării începe la nivelul foramen magnum"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 51,
+    "question": "Selectați afirmațiile corecte despre sistemul nervos parasimpatic:",
+    "options": [
+      "ganglionii pot fi localizați pe traseul nervilor cranieni III, VII, IX, XI",
+      "neuronii postganglionari secretă noradrenalina",
+      "menține în mod activ aspectul normal al organismului",
+      "prin stimulare duce la efecte localizate în țesuturi",
+      "prezintă numeroase fibre postganglionare"
+    ],
+    "answers": [2, 3]
+  },
+  {
+    "id": 52,
+    "question": "Selectați asocierile corecte referitoare la inervația organelor din interiorul toracelui:",
+    "options": [
+      "inima - fibre simpatice postganglionare ce produc amplificarea contracțiilor cardiace",
+      "inima - fibre postganglionare ce eliberează acetilcolină cu efecte bradicardice",
+      "bronhii - fibre postganglionare ce secretă acetilcolină cu efecte bronhodilatatorii",
+      "stomac - fibre ce transmit impulsuri pe calea nervului vag pentru stimularea activității",
+      "diafragm - fibre ale nervului frenic care stimulează contracția"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 53,
+    "question": "Talamusul:",
+    "options": [
+      "primește semnale de la scoarța cerebrală",
+      "trimite semnale hipotalamusului",
+      "primește semnale de la toți analizatorii",
+      "are rol în menținerea stării de veghe împreună cu formațiunea reticulată",
+      "este situat inferior de corpul calos"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 54,
+    "question": "Despre trunchiul cerebral sunt adevărate următoarele afirmații:",
+    "options": [
+      "bulbul rahidian conține doar tracturi ascendente",
+      "conține centrii ce coordonează reflexele de tuse și strănut",
+      "la nivelul punții, prezintă originea aparentă a unui nerv mixt cu rol în masticație",
+      "la nivel bulbar se află originea aparentă a unui nerv mixt ce controlează activitatea inimii",
+      "formațiunea reticulată se găsește doar la nivelul bulbului"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 55,
+    "question": "Prin stimularea fibrelor parasimpatice se obține:",
+    "options": [
+      "accelerarea frecvenței cardiace",
+      "contracția musculaturii striate a bronhiilor",
+      "stimularea activității suprarenalelor",
+      "micșorarea diametrului pupilei la lumină puternică",
+      "contracția musculaturii organului cavitar situat posterior de simfiza pubiană"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 56,
+    "question": "Care dintre afirmațiile privind nervii cranieni sunt corecte?",
+    "options": [
+      "fibrele senzoriale ale nervului V culeg informații de la pielea feței",
+      "perechea a VII-a conține fibre parasimpatice ce inervează mușchii mimicii",
+      "fibrele senzoriale ale nervului VII culeg informații de la mugurii gustativi",
+      "perechea IX trimite impulsuri somatomotori la faringe",
+      "nervul III are atât o componentă somatomotorie, cât și una visceromotorie"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 57,
+    "question": "În absența unui stimul, potențialul membranar:",
+    "options": [
+      "este menținut doar prin acțiunea canalelor cu poartă",
+      "în neuron, are valoarea de -70 mV",
+      "este un dezechilibru între sarcinile electrice de o parte și de alta a membranei celulare, iar în interiorul membranei sarcinile negative sunt date și de ionii de fosfat organic",
+      "este dat și de un dezechilibru al ionului de Na care este în concentrație mai mare în interiorul celulei",
+      "este constant, iar proteinele citoplasmatice conferă încărcarea negativă internă a membranei"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 58,
+    "question": "Mezencefalul include:",
+    "options": [
+      "ventriculul III în interior",
+      "originea aparentă a unui nerv cu componentă parasimpatică",
+      "originea aparentă a unui nerv motor ce controlează mișcările oculare",
+      "decusația piramidală care reprezintă intersectarea unor fibre descendente ce provin de la emisferele cerebrale",
+      "centrii reflexi pentru mișcările ochilor ca răspuns la stimuli vizuali"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 59,
+    "question": "Selectați efectele determinate de stimularea componentelor parasimpatice:",
+    "options": [
+      "nervii proveniți din regiunea sacrată contractă vezica urinară",
+      "nervul X produce bronhodilatație",
+      "nervii proveniți din regiunea toracală încetinesc ritmul cardiac",
+      "nervii proveniți din regiunea lombară relaxează vezica urinară",
+      "nervul VII produce salivație puternică"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 60,
+    "question": "Sinapsa neuroefectoare vegetativă se realizează de către fibre:",
+    "options": [
+      "care pot elibera acetilcolină",
+      "cu origine în ganglionii terminali parasimpatici",
+      "ale nervilor III, VII, X",
+      "cu origine în lanțul ganglionar simpatic",
+      "cu origine în măduva cervico-toracolombară"
+    ],
+    "answers": [0, 1, 3]
+  },
+  {
+    "id": 61,
+    "question": "Măduva spinării:",
+    "options": [
+      "este un cordon de țesut nervos cu o lungime de aproximativ 54 cm",
+      "la exterior vine în contact direct cu o membrană cu aspect de rețea, cu structuri care reabsorb lichidul cefalorahidian",
+      "conține și fibre descendente cu origine în emisferele cerebrale de partea opusă",
+      "vine în raport superior cu originea aparentă a nervului abducens",
+      "la nivelul cornului anterior pot face sinapsă și interneuroni ce participă la reflexul de retragere"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 62,
+    "question": "Despre măduva spinării se pot afirma următoarele:",
+    "options": [
+      "prezintă funcție de conducere și de centru reflex",
+      "lezarea rădăcinilor ventrale determină anestezie",
+      "se termină în apropierea discului intervertebral ce separă prima și a doua vertebră lombară",
+      "regiunea toracică prezintă o curbură cu concavitatea orientată anterior",
+      "la nivelul coarnelor anterioare, prezintă neuroni a căror axoni fac sinapsă cu celule învelite de endomisium"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 63,
+    "question": "Care dintre următoarele afirmații cu privire la măduva spinării sunt false?",
+    "options": [
+      "regiunea lombară prezintă o curbură cu convexitatea orientată posterior",
+      "axonii neuronilor cu origine în coarnele anterioare realizează sinapse unde acționează un neurotransmițător descompus de colinesterază",
+      "pia mater conține țesut conjunctiv fibros bogat vascularizat",
+      "reprezintă originea fibrelor preganglionare simpatice adrenergice",
+      "componenta parasimpatică medulară determină bronhoconstricție"
+    ],
+    "answers": [0, 2, 3, 4]
+  },
+  {
+    "id": 64,
+    "question": "Măduva spinării:",
+    "options": [
+      "prin intermediul foițelor meningeale vine în raport anterior cu corpul vertebrelor",
+      "prezintă componenta parasimpatică ce determină relaxarea vezicii urinare",
+      "este traversată de canalul central la nivelul substanței cenușii",
+      "prezintă fibre preganglionare care fac sinapse adrenergice sau colinergice cu fibrele postganglionare",
+      "este acoperită de dura mater ce poate prezenta sinusuri durale"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 65,
+    "question": "Care dintre următoarele afirmații cu privire la sistemul nervos sunt adevărate?",
+    "options": [
+      "sinapsa dintre fibrele preganglionare și cele postganglionare somatice este colinergică",
+      "nucleii bazali ajută la coordonarea mișcărilor voluntare",
+      "hipofiza este situată anterior de trunchiul cerebral",
+      "sistemul limbic și talamusul participă la reacția fiziologică față de experiențele emoționale",
+      "lobul temporal este implicat în memoria vizuală și auditivă"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 66,
+    "question": "Care dintre următoarele afirmații cu privire la sistemul nervos sunt false?",
+    "options": [
+      "cerebelul ajută la menținerea posturii și la secvențialitatea mersului",
+      "formațiunea reticulară conține și nuclei implicați în starea de veghe și somn",
+      "nervul cranian X produce bradicardie prin intermediul acetilcolinei",
+      "ventriculii laterali comunică cu ventriculul III prin apeductul cerebral",
+      "activitatea motorie a piciorului este coordonată de o regiune a lobului frontal situată inferior de cea care coordonează activitatea motorie a buzelor"
+    ],
+    "answers": [3, 4]
+  },
+  {
+    "id": 67,
+    "question": "La nivelul sistemului nervos:",
+    "options": [
+      "foramen interventricular face legătura dintre ventriculul III și IV",
+      "nervul facial are originea aparentă la nivelul bulbului rahidian",
+      "nervul cutanat femoral lateral se formează din plexul lombar",
+      "fibrele postganglionare cu originea în ganglionul celiac inhibă activitatea motorie a stomacului",
+      "nucleul supraoptic secretă hormoni stocați temporar în neurohipofiză"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 68,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "nervul ulnar se formează din plexul cervical",
+      "apertura mediană este vizibilă pe o secțiune sagitală prin sistemul nervos central",
+      "hipotalamusul intervine în homeostazia termică a organismului",
+      "unii centri bulbari controlează tusea",
+      "fibrele postganglionare simpatice, prin intermediul noradrenalinei, cresc forța de contracție a unui mușchi format din fibre musculare alungite, cilindrice și ramificate"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 69,
+    "question": "La nivelul sistemului nervos:",
+    "options": [
+      "nucleul paraventricular secretă hormoni cu structură peptidică",
+      "masticația este coordonată de o regiune a lobului frontal situată inferior de cea care coordonează activitatea motorie a mâinii",
+      "apertura mediană se găsește posterior față de trunchiul cerebral",
+      "lobul insular este localizat superficial între lobii frontal, parietal și temporal",
+      "deglutiția este controlată de nuclei pontini"
+    ],
+    "answers": [0, 1, 2]
+  },
+  {
+    "id": 70,
+    "question": "Următoarele afirmații sunt corecte:",
+    "options": [
+      "nervul median se formează din plexul brahial",
+      "bronhodilatația se realizează în urma acțiunii acetilcolinei",
+      "pe traseul nervului cranian V se găsește un ganglion vegetativ",
+      "placa motorie este o sinapsă colinergică",
+      "sistemul limbic poate influența comportamentul unei persoane"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 71,
+    "question": "Despre sistemul nervos se poate afirma că:",
+    "options": [
+      "talamusul procesează senzații brute",
+      "mezencefalul controlează mișcările reflexe ale capului la stimulii auditivi prin sinapse adrenergice",
+      "un sept al durei mater separă complet cele două emisfere cerebeloase",
+      "plexul toracal poate da naștere la unii nervi periferici",
+      "aria lui Broca este situată anterior de șanțul central"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 72,
+    "question": "Mezencefalul:",
+    "options": [
+      "conține centri ce reglează frecvența respiratorie",
+      "controlează mișcările reflexe ale globilor oculari ca răspuns la stimulii vizuali",
+      "este situat superior de apeductul cerebral",
+      "direcționează direct către cortexul cerebral semnale senzoriale",
+      "prezintă originea aparentă a tuturor nervilor cranieni responsabili de mișcările oculare"
+    ],
+    "answers": [1]
+  },
+  {
+    "id": 73,
+    "question": "Lichidul cefalorahidian este prezent în:",
+    "options": [
+      "spațiul dintre dura mater și arahnoidă",
+      "canalul ependimar",
+      "foramen interventricular",
+      "apeductul cerebral",
+      "apertura mediană"
+    ],
+    "answers": [1, 2, 3, 4]
+  },
+  {
+    "id": 74,
+    "question": "Nervul abducens:",
+    "options": [
+      "vine în raport inferior cu bulbul rahidian",
+      "prezintă originea aparentă lateral de originea aparentă a nervului facial",
+      "este un nerv mixt",
+      "are originea aparentă la nivelul bulbului",
+      "este implicat în mișcări ale globilor oculari"
+    ],
+    "answers": [0, 4]
+  },
+  {
+    "id": 75,
+    "question": "Nervul facial:",
+    "options": [
+      "este un nerv mixt",
+      "stimulează secreția glandei salivare situată în apropierea suprafeței externe a mandibulei",
+      "prezintă originea aparentă medial de originea aparentă a nervului VIII",
+      "fibrele postganglionare din structura sa asigură inervația mușchilor mimicii",
+      "stimulează secreția de amilază salivară ce descompune amidonul până la formarea unor compuși absorbabili"
+    ],
+    "answers": [0, 2]
+  },
+  {
+    "id": 76,
+    "question": "Emisferele cerebrale:",
+    "options": [
+      "prezintă o suprafață brăzdată de șanțuri superficiale ce delimitează girusuri",
+      "consumă aproximativ 25% din cantitatea totală de oxigen utilizată de organism",
+      "sunt unite printr-o structură numită corp calos",
+      "controlează funcții mentale complexe",
+      "la suprafață prezintă cinci lobi superficiali"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 77,
+    "question": "Hipotalamusul:",
+    "options": [
+      "este localizat superior față de talamus și hipofiză",
+      "la nivelul nucleilor supraoptic și paraventricular eliberează hormoni în sistemul port hipotalamo-hipofizar",
+      "primește semnale senzoriale pe care le utilizează în menținerea homeostaziei organismului",
+      "este vascularizat de ramuri ale poligonului lui Willis",
+      "participă la reacțiile fiziologice față de experiențele emoționale"
+    ],
+    "answers": [2, 3, 4]
+  },
+  {
+    "id": 78,
+    "question": "Următorii nervi cranieni nu au origine aparentă la nivelul bulbului rahidian:",
+    "options": [
+      "vag",
+      "hipoglos",
+      "abducens",
+      "glosofaringian",
+      "facial"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 79,
+    "question": "Sistemul limbic:",
+    "options": [
+      "controlează tonusul muscular",
+      "conține centrii plăcerii și pedepsei",
+      "la nivelul hipocampului stabilește care amintiri sunt stocate",
+      "are rol în generarea sentimentelor și emoțiilor",
+      "direcționează către cortexul cerebral semnale de menținere a stării de veghe"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 80,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "cele trei straturi meningeale înfășoară encefalul, măduva spinării și nervii",
+      "arahnoida este un strat foarte subțire, bogat vascularizat",
+      "spațiul subarahnoidian se găsește între arahnoidă și pia mater și conține lichid cefalorahidian",
+      "pia mater este formată din țesut conjunctiv fibros, bogat inervat și vascularizat",
+      "lichidul cefalorahidian se găsește și în canalul ependimar și ventriculii cerebrali"
+    ],
+    "answers": [2, 4]
+  },
+  {
+    "id": 81,
+    "question": "Despre măduva spinării se pot afirma următoarele:",
+    "options": [
+      "pe părțile ei laterale se evidențiază 31 de perechi de rădăcini nervoase",
+      "mai apropiate de partea ei posterioară se găsesc rădăcinile dorsale, a căror lezare are ca rezultat paralizia",
+      "din coarnele anterioare ale substanței cenușii iau naștere rădăcinile ventrale",
+      "este un cordon de țesut nervos cu lungimea de aproximativ 35 cm",
+      "transmite comenzi spre mușchii scheletici prin rădăcinile nervoase ventrale"
+    ],
+    "answers": [0, 2, 4]
+  },
+  {
+    "id": 82,
+    "question": "Emisferele cerebrale:",
+    "options": [
+      "determină inteligența și personalitatea unui individ",
+      "consumă 25% din cantitatea totală de oxigen și glucoză utilizate în organism",
+      "sunt unite prin corpul calos",
+      "prezintă, în lobul frontal, aria lui Broca",
+      "interpretează, în lobii temporali, senzațiile vizuale"
+    ],
+    "answers": [0, 2, 3]
+  },
+  {
+    "id": 83,
+    "question": "Alegeți variantele corecte:",
+    "options": [
+      "ventriculii laterali se găsesc în diencefal",
+      "aria lui Broca are rol în vorbire",
+      "ventriculul IV se găsește în interiorul emisferelor cerebrale",
+      "senzațiile vizuale sunt interpretate în lobii occipitali",
+      "impulsurile provenite de la neuronii piramidali stimulează efectori din partea opusă a organismului"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 84,
+    "question": "Selectați afirmațiile corecte:",
+    "options": [
+      "nucleii bazali conțin centrii plăcerii și ai pedepsei",
+      "cerebelul primește semnale senzoriale de la ochi",
+      "talamusul direcționează semnalele olfactive spre cortexul cerebral",
+      "mezencefalul controlează mișcările reflexe ale capului și globilor oculari ca răspuns la stimuli vizuali",
+      "în bulbul rahidian există centri ce reglează activitatea cardiacă și respiratorie"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 85,
+    "question": "Trunchiul cerebral:",
+    "options": [
+      "are rol în controlul frecvenței cardiace, reglarea respirației, deglutiției",
+      "conține decusația piramidală, formată prin intersectarea fibrelor corticospinale la nivel bulbar",
+      "are rol în generarea sentimentelor și emoțiilor",
+      "coordonează echilibrul și receptorii din mușchi, tendoane și articulații",
+      "este implicat în reglarea stării de veghe și somn prin formațiunea reticulară"
+    ],
+    "answers": [0, 1, 4]
+  },
+  {
+    "id": 86,
+    "question": "Următorii nervi cranieni au origine aparentă la nivelul bulbului rahidian:",
+    "options": [
+      "trohlearul care controlează mișcări oculare",
+      "vagul care inervează inima",
+      "trigemenul care este responsabil de masticație",
+      "accesorul ce inervează mușchii gâtului",
+      "hipoglosul care inervează limba"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 87,
+    "question": "Alegeți efectele stimulării simpatice:",
+    "options": [
+      "vasodilatație",
+      "dilatarea pupilelor",
+      "stimularea digestiei",
+      "creșterea ritmului cardiac",
+      "menținerea activă a aspectului normal al funcțiilor organismului"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 88,
+    "question": "Despre sistemul nervos central sunt adevărate următoarele afirmații:",
+    "options": [
+      "include și nervii cranieni",
+      "este format din encefal și măduva spinării",
+      "cuprinde rădăcinile dorsale ale măduvei spinării, ce transmit comenzi spre mușchii scheletici",
+      "la nivelul măduvei spinării prezintă substanță cenușie dispusă în interior",
+      "este învelit de dura mater, arahnoidă și pia mater"
+    ],
+    "answers": [1, 3, 4]
+  },
+  {
+    "id": 89,
+    "question": "Encefalul:",
+    "options": [
+      "este centrul conștienței, senzațiilor, memoriei și coordonării",
+      "conține doar emisferele cerebrale",
+      "consumă 32% din cantitatea totală de oxigen utilizată în organism",
+      "este extrem de sensibil la scăderea nivelului de glucoză",
+      "conține cavități pline cu LCR"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 90,
+    "question": "Despre funcțiile specifice ale encefalului sunt corecte următoarele afirmații:",
+    "options": [
+      "mezencefalul controlează mișcările reflexe ale capului și ochilor la stimuli auditivi",
+      "mezencefalul controlează mișcările reflexe ale capului și trunchiului la stimuli auditivi",
+      "cerebelul coordonează echilibrul",
+      "sistemul limbic are rol în generarea sentimentelor și emoțiilor",
+      "talamusul direcționează semnalele senzoriale legate de miros, văz, auz spre cortexul cerebral"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 91,
+    "question": "Selectați afirmațiile corecte privind nervii cranieni:",
+    "options": [
+      "X se mai numește glosofaringian",
+      "IV este nervul trohlear cu rol în mișcarea globilor oculari",
+      "VIII are origine aparentă între bulb și punte",
+      "XI inervează limba",
+      "XII se mai numește și hipoglos"
+    ],
+    "answers": [1, 2, 4]
+  },
+  {
+    "id": 92,
+    "question": "Nervii spinali:",
+    "options": [
+      "formează plexuri",
+      "au origine în encefal",
+      "sunt implicați în mișcările oculare",
+      "conțin atât fibre senzoriale cât și motorii",
+      "sunt nervi micști"
+    ],
+    "answers": [0, 3, 4]
+  },
+  {
+    "id": 93,
+    "question": "Sistemul nervos vegetativ simpatic:",
+    "options": [
+      "are ca neurotransmițător exclusiv adrenalina",
+      "are origine în măduva spinării cervico-toraco-lombară",
+      "conține un număr mare de fibre postganglionare",
+      "mediază aspectul anormal al funcțiilor corpului",
+      "menține în mod activ aspectul normal al funcțiilor organismului"
+    ],
+    "answers": [1, 2, 3]
+  },
+  {
+    "id": 94,
+    "question": "Efectele stimulării vegetative sunt:",
+    "options": [
+      "parasimpatic - dilatarea pupilei",
+      "simpatic - relaxarea vezicii urinare",
+      "parasimpatic - stimularea slabă a salivației",
+      "parasimpatic - bronhoconstricție",
+      "simpatic - bradicardie"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 95,
+    "question": "Nervul vag:",
+    "options": [
+      "inervează somatic colonul descendent",
+      "produce bronhodilatație",
+      "determină contracția pupilei",
+      "este un nerv mixt",
+      "inhibă activitatea motorie a vezicii biliare"
+    ],
+    "answers": [3]
+  },
+  {
+    "id": 96,
+    "question": "Referitor la ganglioni, următoarele sunt afirmații corecte:",
+    "options": [
+      "de la ganglioni vegetativi pornesc axoni spre efectori",
+      "rădăcina posterioară a măduvei spinării prezintă ganglioni senzoriali",
+      "nervul optic este învelit de meninge și este o extensie a encefalului",
+      "sinapsa dintre un neuron și o celulă cu capacitate de contracție poartă numele de sinapsă neuromusculară",
+      "corpul neuronului motor se poate găsi în măduva spinării"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 97,
+    "question": "Următoarele sunt afirmații adevărate:",
+    "options": [
+      "fiecare neuron este înconjurat de o teacă numită perinerv",
+      "epinervul este un țesut conjunctiv fibros și înconjoară nervul și solidarizează fasciculele între ele",
+      "activitatea de integrare este etapa în care informația este transmisă efectorilor",
+      "principalii efectori din organism sunt mușchii și glandele",
+      "reflexul rotulian este un reflex de retragere, care produce extensia gambei"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 98,
+    "question": "Următoarele afirmații sunt incorecte:",
+    "options": [
+      "componenta receptoare a unui arc reflex poate fi doar o dendrită",
+      "în cadrul arcului reflex, doar neuronul senzorial poate fi sensibil la modificări interne sau externe",
+      "axonul unui neuron eferent transmite impulsul nervos de la encefal sau măduva spinării către efector",
+      "reflexul poate fi automat și inconștient, și ajută organismul în timpul unor activități, precum înghițitul",
+      "la baza impulsului nervos stă un eveniment electrochimic"
+    ],
+    "answers": [0, 1]
+  },
+  {
+    "id": 99,
+    "question": "Următoarele afirmații referitoare la fiziologia impulsului nervos sunt adevărate:",
+    "options": [
+      "în stare de repaus, neuronul este depolarizat, ceea ce înseamnă că suprafața internă și cea externă a neurilemei este asimetrică",
+      "electroconductivitatea din interiorul celulei este realizată și de către moleculele proteice",
+      "un ușor exces de ioni negativi în citoplasmă este produs și de ionii de fosfat anorganic",
+      "dezechilibrul ionic este influențat de funcția pompei de sodiu-potasiu",
+      "corpii Nissl sunt organite specifice neuronului"
+    ],
+    "answers": [1, 3]
+  },
+  {
+    "id": 100,
+    "question": "Se poate afirma că:",
+    "options": [
+      "microgliile sunt celule gliale mari, dispersate în encefal și în măduva spinării",
+      "celulele Schwann se înfășoară în jurul prelungirilor neuronilor aflați în măduva spinării",
+      "astrocitele contribuie la formarea unei structuri care are rolul și de a încetini accesul substanțelor nedorite în țesutul cerebral",
+      "substanța albă poate fi sintetizată de către astrocite și oligodendrocite",
+      "neuronii pseudounipolari au două tipuri de prelungiri (axon și dendrită) la nivelul corpului celular"
+    ],
+    "answers": [2]
+  }
+]
