@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://medbioquiz.onrender.com';
 
 const categoryList = document.getElementById('categoryList');
 const startBtn = document.getElementById('startBtn');
