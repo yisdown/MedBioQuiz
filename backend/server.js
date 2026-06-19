@@ -31,24 +31,71 @@ app.get('/api/categories', (req, res) => {
 
 // 2. Get questions by category
 app.get('/api/questions', (req, res) => {
-  const { category, limit = 10 } = req.query;
-  
+  const { category } = req.query;
+
   if (!category) {
-    return res.status(400).json({ error: 'Category is required' });
+    return res.status(400).json({
+      error: 'Category is required'
+    });
   }
-  
+
   const questions = questionsData[category];
-  
+
   if (!questions) {
-    return res.status(404).json({ error: 'Category not found' });
+    return res.status(404).json({
+      error: 'Category not found'
+    });
   }
-  
+
   const shuffled = shuffleArray([...questions]);
-  const selected = shuffled.slice(0, parseInt(limit));
-  
+
   res.json({
     category,
-    total: questions.length,
+    total: shuffled.length,
+    questions: shuffled
+  });
+});
+
+// 3. Get questions by multiple categories
+
+app.get('/api/multi', (req, res) => {
+  const { categories, limit = 50 } = req.query;
+
+  if (!categories) {
+    return res.status(400).json({ error: 'Categories are required' });
+  }
+
+  // turn "math,science" → ["math", "science"]
+  const categoryList = categories.split(',').map(c => c.trim());
+
+  let allQuestions = [];
+
+  // collect questions from all categories
+  for (const category of categoryList) {
+    const questions = questionsData[category];
+
+    if (!questions) {
+      return res.status(404).json({ error: `Category not found: ${category}` });
+    }
+
+    allQuestions.push(
+      ...questions.map(q => ({
+        category,
+        ...q
+      }))
+    );
+  }
+
+  // shuffle combined pool
+  const shuffled = shuffleArray(allQuestions);
+
+  // pick limit
+  const selected = shuffled.slice(0, parseInt(limit));
+
+  res.json({
+    categories: categoryList,
+    total: allQuestions.length,
+    returned: selected.length,
     questions: selected
   });
 });
