@@ -1,49 +1,53 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>🧬 Med Bio Quiz</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
     <div class="container">
-        <header class="top">
-            <h1>🧬 Emma's Med Bio Quiz</h1>
-            <div class="score">
-                Score: <span id="score">0</span> / <span id="total">0</span>
-            </div>
-        </header>
-
-        <div class="progress">
-            <div id="progressFill"></div>
+      <header class="top">
+        <h1>🧬 Emma's Med Bio Quiz</h1>
+        <div class="score">
+          Score: <span id="score">0</span> / <span id="total">0</span>
         </div>
+      </header>
 
-        <section id="homeScreen" class="screen active">
-            <h2>Select Category</h2>
-            <div id="categoryList" class="category-grid"></div>
-            <button id="startBtn" disabled>Start Quiz</button>
-        </section>
+      <div class="progress">
+        <div id="progressFill"></div>
+      </div>
 
-        <section id="quizScreen" class="screen">
-            <div class="question-header">
-                <div id="questionNumber"></div>
-            </div>
-            <h2 id="questionText"></h2>
-            <div id="answers"></div>
-            <button id="nextBtn">Submit Answer</button>
-        </section>
+      <section id="homeScreen" class="screen active">
+        <div class="image-row">
+          <img src="images/push3.jpeg" class="pusheen-image" />
+          <img src="images/push1.png" class="pusheen-image" />
+        </div>
+        <h2>Select Category</h2>
+        <div id="categoryList" class="category-grid"></div>
+        <button id="startBtn" disabled>Start Quiz</button>
+      </section>
 
-        <section id="resultScreen" class="screen">
-            <h2>🎉 Quiz Complete!</h2>
-            <div class="result-card">
-                <div id="finalScore"></div>
-                <div id="percentage"></div>
-            </div>
-            <button id="restartBtn"> Try Again</button>
-        </section>
+      <section id="quizScreen" class="screen">
+        <div class="question-header">
+          <div id="questionNumber"></div>
+        </div>
+        <h2 id="questionText"></h2>
+        <div id="answers"></div>
+        <button id="nextBtn">Submit Answer</button>
+      </section>
+
+      <section id="resultScreen" class="screen">
+        <h2>🎉 Quiz Complete!</h2>
+        <div class="result-card">
+          <div id="finalScore"></div>
+          <div id="percentage"></div>
+        </div>
+        <button id="restartBtn">Try Again</button>
+      </section>
     </div>
 
     <script src="app.js"></script>
-</body>
+  </body>
 </html>

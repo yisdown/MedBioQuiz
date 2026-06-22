@@ -231,6 +231,21 @@ button {
     }
 }
 
+.image-row {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    flex-wrap: wrap; /* keeps it responsive */
+    margin: 20px 0;
+}
+
+.pusheen-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 16px;
+}
+
 @media (max-width: 600px) {
     .container {
         padding: 20px;
