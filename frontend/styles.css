@@ -63,11 +63,7 @@ h2 {
 #progressFill {
     height: 100%;
     width: 0%;
-    background: linear-gradient(
-        90deg,
-        #8b5cf6,
-        #c084fc
-    );
+    background: linear-gradient(90deg, #8b5cf6, #c084fc);
     transition: width 0.4s ease;
 }
 
@@ -85,7 +81,6 @@ h2 {
         opacity: 0;
         transform: translateY(10px);
     }
-
     to {
         opacity: 1;
         transform: translateY(0);
@@ -110,12 +105,6 @@ h2 {
     transition: all 0.25s ease;
 }
 
-.category:hover {
-    border-color: #8b5cf6;
-    background: #faf6ff;
-    transform: translateY(-2px);
-}
-
 .category.selected {
     border-color: #8b5cf6;
     background: #f4eeff;
@@ -133,21 +122,10 @@ button {
     transition: all 0.25s ease;
 }
 
-/* Main buttons */
 #startBtn,
 #restartBtn {
-    background: linear-gradient(
-        135deg,
-        #8b5cf6,
-        #a855f7
-    );
+    background: linear-gradient(135deg, #8b5cf6, #a855f7);
     color: white;
-}
-
-#startBtn:hover:not(:disabled),
-#restartBtn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 10px 25px rgba(139, 92, 246, 0.3);
 }
 
 #startBtn:disabled {
@@ -156,17 +134,8 @@ button {
 }
 
 #nextBtn {
-    background: linear-gradient(
-        135deg,
-        #b07cff,
-        #c084fc
-    );
+    background: linear-gradient(135deg, #b07cff, #c084fc);
     color: white;
-}
-
-#nextBtn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 10px 25px rgba(176, 124, 255, 0.3);
 }
 
 .answer {
@@ -177,11 +146,6 @@ button {
     color: #463567;
     text-align: left;
     transition: all 0.2s ease;
-}
-
-.answer:hover:not(.disabled) {
-    border-color: #8b5cf6;
-    background: #faf6ff;
 }
 
 .answer.selected {
@@ -200,6 +164,7 @@ button {
     color: black;
     border-color: #ff5b6f;
 }
+
 .answer.missed {
     background: #dbeafe;
     border: 2px solid #3b82f6;
@@ -211,11 +176,7 @@ button {
 }
 
 .result-card {
-    background: linear-gradient(
-        180deg,
-        #ffffff,
-        #f7f0ff
-    );
+    background: linear-gradient(180deg, #ffffff, #f7f0ff);
     padding: 30px;
     margin: 20px 0;
     border-radius: 18px;
@@ -240,13 +201,34 @@ button {
 #percentage {
     font-size: 2.5rem;
     font-weight: 700;
-    background: linear-gradient(
-        90deg,
-        #8b5cf6,
-        #c084fc
-    );
-    -webkit-background-clip: tex;
+    background: linear-gradient(90deg, #8b5cf6, #c084fc);
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+/* Hover effects only on devices with a real mouse */
+@media (hover: hover) {
+    .category:hover {
+        border-color: #8b5cf6;
+        background: #faf6ff;
+        transform: translateY(-2px);
+    }
+
+    #startBtn:hover:not(:disabled),
+    #restartBtn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 10px 25px rgba(139, 92, 246, 0.3);
+    }
+
+    #nextBtn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 10px 25px rgba(176, 124, 255, 0.3);
+    }
+
+    .answer:hover:not(.disabled) {
+        border-color: #8b5cf6;
+        background: #faf6ff;
+    }
 }
 
 @media (max-width: 600px) {
