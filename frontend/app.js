@@ -124,7 +124,7 @@ function buildQuestionsUrl() {
 function render() {
     submitted = false;
     selected = [];
-    answerButtons = []; // reset button refs
+    answerButtons = [];
 
     const q = questions[index];
 
@@ -141,11 +141,18 @@ function render() {
         btn.className = 'answer';
         btn.textContent = opt;
 
-        btn.onclick = () => toggle(btn, i);
+        // Mobile: touchend fires first — call toggle and cancel
+        // the ghost click that would fire ~300ms later.
+        btn.addEventListener('touchend', (e) => {
+            e.preventDefault();
+            toggle(btn, i);
+        }, { passive: false });
+
+        // Desktop: only a real click fires here (no preceding touchend).
+        btn.addEventListener('click', () => toggle(btn, i));
 
         answers.appendChild(btn);
-
-        answerButtons[i] = btn; // store reference
+        answerButtons[i] = btn;
     });
 
     nextBtn.textContent = 'Submit Answer';
