@@ -2,7 +2,7 @@
 
 A free and open-source quiz platform designed to help students prepare for the **Biology admission exam for Medical Faculty**.
 
-The website includes **1500+ practice questions** across **12 different categories**, allowing students to train by topic and improve their exam preparation.
+The website includes **1500+ practice questions** across **12 different categories**, allowing students to train by topic and improve their exam preparation. I made this project for my beautiful majestical skinny girlfriend in order to help her study.
 
 ## 🌐 Live Demo
 

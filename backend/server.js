@@ -21,6 +21,13 @@ function shuffleArray(arr) {
   return arr;
 }
 
+function attachCategory(category, question) {
+  return {
+    ...question,
+    category: question.category || category
+  };
+}
+
 // ===================== API ROUTES =====================
 
 // 1. Get all categories
@@ -39,7 +46,9 @@ app.get('/api/questions', (req, res) => {
     });
   }
 
-  const questions = questionsData[category];
+  const questions = questionsData[category].map(q =>
+  attachCategory(category, q)
+  );
 
   if (!questions) {
     return res.status(404).json({
@@ -79,10 +88,7 @@ app.get('/api/multi', (req, res) => {
     }
 
     allQuestions.push(
-      ...questions.map(q => ({
-        category,
-        ...q
-      }))
+      ...questions.map(q => attachCategory(category, q))
     );
   }
 
@@ -106,13 +112,10 @@ app.get('/api/random', (req, res) => {
   
   const allQuestions = [];
   for (const [category, questions] of Object.entries(questionsData)) {
-    for (const question of questions) {
-      allQuestions.push({
-        ...question,
-        category
-      });
-    }
+  for (const question of questions) {
+    allQuestions.push(attachCategory(category, question));
   }
+}
   
   const shuffled = shuffleArray(allQuestions);
   const selected = shuffled.slice(0, parseInt(limit));

@@ -22,7 +22,8 @@ let index = 0;
 let score = 0;
 let submitted = false;
 let selected = [];
-let answerButtons = []; // 🔥 IMPORTANT: store buttons directly
+let answerButtons = [];
+let currentCategoryLabel = '';
 
 async function loadCategories() {
     try {
@@ -129,7 +130,7 @@ function render() {
     const q = questions[index];
 
     questionNumber.textContent =
-        `Question ${index + 1} / ${questions.length} · ${q.category || ''}`;
+        `Question ${index + 1} / ${questions.length}  ${q.category || ''}`;
 
     questionText.textContent = q.question;
 
@@ -141,8 +142,7 @@ function render() {
         btn.className = 'answer';
         btn.textContent = opt;
 
-        // Mobile: touchend fires first — call toggle and cancel
-        // the ghost click that would fire ~300ms later.
+
         btn.addEventListener('touchend', (e) => {
             e.preventDefault();
             toggle(btn, i);
